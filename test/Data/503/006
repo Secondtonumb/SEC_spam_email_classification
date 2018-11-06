@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO>..Data\503\006</DOCNO>
+<FROM>p9z945@mrn.edu.cn</FROM>
+<TO>2m71@a9hj.edu.cn</TO>
+<SUBJECT></SUBJECT>
+<TEXT>
+这是mail1.jlu.edu.cn服务器上的ecMail邮件服务系统。
+
+很抱歉下面的邮件无法到达目标。
+
+更详细的信息，请联系管理员。
+
+失败原因：
+
+<ts04@jlu.edu.cn>: host 127.0.0.1[127.0.0.1] said: 550 5.1.1 User unknownThe message contains Unicode characters and has been sent as a binary attachment.
+
+
+</TEXT>
+</DOC>
+

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO>..Data\352\064</DOCNO>
+<FROM>69b67o855uv21@localhost.ek0r4rpzmf2</FROM>
+<TO>0wr1s96@a9hj.edu.cn</TO>
+<SUBJECT></SUBJECT>
+<TEXT>
+ScanMail for Microsoft Exchange has detected virus-infected attachment(s).
+
+Sender = 0wr1s96@utsc.edu.cn
+Recipient(s) = linda
+Subject = Status
+Scanning time = 2006-5-23 9:53:33
+Engine/Pattern = 8.000-1001/3.443.00
+
+Action on virus found:
+The attachment 7zj4.395 contains WORM_l5bwr.82 virus. ScanMail has Deleted it. 
+
+Warning to sender. ScanMail has detected a virus in an email you sent.
+</TEXT>
+</DOC>
+

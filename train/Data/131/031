@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO>..Data\131\031</DOCNO>
+<FROM></FROM>
+<TO>9e99516@a9hj.edu.cn</TO>
+<SUBJECT></SUBJECT>
+<TEXT>
+----- The following addresses had permanent fatal errors -----
+<254tl2rne@2dw.86>
+    (reason: 550 Email address <254tl2rne@2dw.86> does not exist)
+
+   ----- Transcript of session follows -----
+ while talking to uw5b1.2dw.86.:
+>>> RCPT To:<254tl2rne@2dw.86>
+<<< 550 Email address <254tl2rne@2dw.86> does not exist
+550 5.1.1 <254tl2rne@2dw.86>... User unknown
+</TEXT>
+</DOC>
+

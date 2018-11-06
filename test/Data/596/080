@@ -1,0 +1,51 @@
+<DOC>
+<DOCNO>..Data\596\080</DOCNO>
+<FROM>9lmz@1h750.cn</FROM>
+<TO>2m71@05e41.edu.cn</TO>
+<SUBJECT></SUBJECT>
+<TEXT>
+C:\Documents and Settings\new>tracert 202.205.186.30
+Tracing route to 202.205.186.30 over a maximum of 25 hops
+
+  25    <1 ms    <1 ms    <1 ms  219.222.95.254
+  25    <1 ms    <1 ms    <1 ms  192.168.2.5
+  25    <1 ms    <1 ms    <1 ms  192.168.2.1
+  25     25 ms     25 ms     25 ms  210.38.0.153
+  25     25 ms     25 ms     25 ms  202.112.19.133
+  25     *        *        *     Request timed out.
+  25     25 ms     25 ms     25 ms  202.112.53.129
+  25    41 ms    36 ms    37 ms  202.127.216.21
+  25   106 ms    36 ms    36 ms  sf8.39d4yp.net [202.112.53.74]
+ 25    38 ms    51 ms    38 ms  202.112.6.130
+ 25    36 ms    37 ms   152 ms  202.112.6.138
+ 25     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+
+Trace complete.
+****************************************************************
+办公电话:020-61362166
+传真:020-61362167
+招生电话:020-61362195
+网址：http://syl.1h750.cn
+地址:广州市白云区沙太麒麟岗
+广东机电职业技术学院是隶属于广东省教育厅的一所公立全日制普通高等学校。
+</TEXT>
+</DOC>
+

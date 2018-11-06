@@ -1,0 +1,1091 @@
+<DOC>
+<DOCNO>..Data\562\046</DOCNO>
+<FROM>0rm3csr8az@163.com</FROM>
+<TO>jvmgkn99e@4207606.com</TO>
+<SUBJECT>ÌØ¼¶½ÌÊ¦¸¨µ¼¿Î³Ì</SUBJECT>
+<TEXT>
+<!--
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+// -->
+
+
+
+
+
+
+        
+            
+		        
+		            
+		        
+		        
+			        
+				        
+                            ?¨çº¿è´?¹°
+				        
+				        
+					        å®¢æ?ä¸??
+				        
+				        
+					        è¯¾ä»¶å¿?½¦
+				        
+				        
+					        ???å­??
+				        
+				        
+					        ?????/a>
+				        
+				        
+					        ???å­?/a>
+				        
+			        
+		        
+		        
+		            
+                            
+
+	
+???[???] ï¼??è¿??å½?????ä¹?????å·²ç????0?¨è?ç¨?
+    
+
+
+                        			
+		        		
+	        
+	        
+
+            
+                
+                    
+                        
+                            
+   
+	  
+	
+	    é¦?¡µ
+	  
+
+   
+  
+     
+       
+	
+       
+	
+       å¤??
+       
+
+     
+  
+     
+       
+	
+       it
+       
+
+     
+  
+     
+       
+	
+       ç®¡ç?
+       
+
+     
+  
+     
+       
+	
+       æ³??
+       
+
+     
+  
+     
+       
+	
+       
+	
+       ???
+       
+
+     
+  
+    
+       
+	
+	    ?´å?
+	  
+
+	
+  
+ 
+ 
+                        
+                    
+                    
+                        
+                            
+                                
+                                    
+                                    è®ºå?
+                                
+                            
+                            
+                                
+                                    ???
+                                
+                            
+                        
+                    
+                
+                
+                    
+                        
+                    
+                    
+                        
+                        è¯¾ç?è¯¾ä»¶
+                        
+                        é«?º§??´¢
+                    
+                    
+                        
+                    
+                
+            
+            
+            
+
+	
+		 å½??ä½?½®ï¼?span id="ctl00_TipBar_SiteMapPath1_SiteMapPath1">studyez  ???ç»??è¾??????°å?
+	
+
+
+            
+    
+
+    
+function Oncheck()
+{
+     var inputs = document.getElementById("ctl00_MainContentPlaceHolder_GridView1").getElementsByTagName("INPUT");
+     var chk = document.getElementById("ctl00_MainContentPlaceHolder_Chk");
+     
+     if(chk.checked == true)
+     {
+        if((inputs != null)&&(inputs !=undefined))
+        {
+            for(var i = 0; i < inputs.length; i++)
+            {
+                if(inputs[i].type == "checkbox")
+                {
+                    inputs[i].checked = true;
+                }    
+            }
+        }
+     }
+     else
+     {
+        if((inputs != null)&&(inputs !=undefined))
+        {
+            for(var i = 0; i < inputs.length; i++)
+            {
+                if(inputs[i].type == "checkbox")
+                {
+                    inputs[i].checked = false;
+                }    
+            }
+        }
+     }
+}
+
+function ClearAll()
+{
+   var inputs = document.getElementById("ctl00_MainContentPlaceHolder_GridView1").getElementsByTagName("INPUT");
+     var chk = document.getElementById("ctl00_MainContentPlaceHolder_Chk");
+    
+     chk.checked = false;
+    for(var i = 0; i < inputs.length; i++)
+    {
+        if(inputs[i].type == "checkbox")
+        {
+            inputs[i].checked = false;
+        }    
+    }
+}
+
+    
+
+    
+        ???ç»??è¾??????°å?
+        ä½??ï¼?a id="ctl00_maincontentplaceholder_linkbutton2" href="http://www.studyez.com/browse/javascript:__dopostback('ctl00$maincontentplaceholder$linkbutton2','')">å¸????/a>
+        
+    
+    
+        
+            
+        
+        
+            
+                ??çº§ï?
+            
+            
+                ???????250
+            
+            
+                é¢??è¯¾ä»¶?»æ?ï¼?/em>35 ä¸?/span>
+            
+            
+                å·²ä?ä¼??ä»¶æ?ï¼?/em>18 ä¸?/span>
+            
+            
+                ?´æ??¥æ?ï¼?/em>2006-7-10 15:21:18
+            
+            
+                
+                    ???ç±»å?ï¼?/span>?°ç?
+            
+            
+                
+                    ????ç¤¾ï?
+            
+            
+                å­??è¿?º¦ï¼?/em>??²¡???ä¹??è¯¾ç?
+            
+            
+        
+        
+            
+                ä½??ä¿¡æ?
+            
+                è¯¥ä??????»ºäº?span id="ctl00_MainContentPlaceHolder_LbCount">1?¨è?ç¨??
+            
+            
+                è¯¥ä?????¶ä?è¯¾ç?ï¼?/li>
+            
+            
+                
+                    ?´å?...
+                
+            
+        
+    
+    
+	
+            
+                
+                    
+                    
+                    è¯¾ç?ç®??
+                
+                
+                    ???ç¨?»¥é«??????¥è?ä¸ºä???å½?º³??0ä¸??é¢?è®?5è¯¾æ?.ä»??ç¬??è½??ä¹?????è§??,è¿??æ­¥å¼º???å¿?æ¢³ç??¥è?,å·©å??ºç?; ç²¾ä?ç²¾è?,?????·¯,????½å?.?¶å?è¿?????ä¼??ä¸???°æ????°æ?æ³?
+                
+            
+            
+            
+                
+		
+                    
+                    
+                    
+                    
+                
+	
+                
+            
+            
+                
+                    
+                        
+                            è¯¾ä»¶??¡¨
+                        
+                        
+                            ???èµ??
+                        
+                        
+                        
+                            è¯?è®?/a>
+                        
+                        
+                            ?¸å?è¯¾ç?
+                        
+                    
+                    
+                        
+		
+                            
+                                
+                                    ?¨é?
+                                    | æ¸?©º???
+                                
+                                
+                                    
+                                    
+                                
+                            
+                            
+                        
+	
+                        
+		
+			
+				è¯¾ä»¶???ä½???/th>????/th>ä¸???¥æ?å°??è¯?/th>ä»·æ?ï¼??å¸??
+			
+				
+                                        
+                                    
+                                        
+                                        
+                                            ç¬??ä¸?? ä¸??å¼?1)
+                                        
+                                    å¸????/td>
+                                        47
+                                        ???
+                                    2006-7-10 15:21:18
+                                        
+                                        ???
+                                    
+                                        0
+                                    
+			
+				
+                                        
+                                    
+                                        
+                                        
+                                            ç¬????? ä¸??å¼?2)
+                                        
+                                    å¸????/td>
+                                        57
+                                        ???
+                                    2006-7-3 18:13:07
+                                        
+                                        ???
+                                    
+                                        0
+                                    
+			
+				
+                                        
+                                    
+                                        
+                                        
+                                            ç¬????? ?°å?ä¸????2)
+                                        
+                                    å¸????/td>
+                                        64
+                                        ???
+                                    2006-7-3 17:56:35
+                                        
+                                        ???
+                                    
+                                        0
+                                    
+			
+				
+                                        
+                                    
+                                        
+                                        
+                                            ç¬??äº?? ?°å?ä¸????1)
+                                        
+                                    å¸????/td>
+                                        60
+                                        ???
+                                    2006-7-1 14:18:23
+                                        
+                                        ???
+                                    
+                                        0
+                                    
+			
+				
+                                        
+                                    
+                                        
+                                        
+                                            ç¬????? ä¸???½æ?(2)
+                                        
+                                    å¸????/td>
+                                        45
+                                        ???
+                                    2006-6-23 11:51:08
+                                        
+                                        ???
+                                    
+                                        0
+                                    
+			
+				
+                                        
+                                    
+                                        
+                                        
+                                            ç¬??è®????ä¸??è¾?1)
+                                        
+                                    å¸????/td>
+                                        45
+                                        ???
+                                    2006-6-23 11:30:17
+                                        
+                                        ???
+                                    
+                                        0
+                                    
+			
+				
+                                        
+                                    
+                                        
+                                        
+                                            ç¬??ä¸?? ä¸???½æ?(1)
+                                        
+                                    å¸????/td>
+                                        45
+                                        ???
+                                    2006-6-22 17:38:38
+                                        
+                                        ???
+                                    
+                                        0
+                                    
+			
+				
+                                        
+                                    
+                                        
+                                        
+                                            ç¬??äº?? ä¸?????(2)
+                                        
+                                    å¸????/td>
+                                        56
+                                        ???
+                                    2006-6-22 16:49:41
+                                        
+                                        ???
+                                    
+                                        0
+                                    
+			
+				
+                                        
+                                    
+                                        
+                                        
+                                            ç¬??è®??²çº¿ä¸??ç¨?2)
+                                        
+                                    å¸????/td>
+                                        46
+                                        ???
+                                    2006-6-21 11:15:06
+                                        
+                                        ???
+                                    
+                                        0
+                                    
+			
+				
+                                        
+                                    
+                                        
+                                        
+                                            ç¬??ä¸?? ä¸?????(1)
+                                        
+                                    å¸????/td>
+                                        49
+                                        ???
+                                    2006-6-10 11:05:52
+                                        
+                                        ???
+                                    
+                                        0
+                                    
+			
+				
+                                        
+                                    
+                                        
+                                        
+                                            ç¬??è®?ç»????
+                                        
+                                    å¸????/td>
+                                        44
+                                        ???
+                                    2006-6-9 15:12:40
+                                        
+                                        ???
+                                    
+                                        0
+                                    
+			
+				
+                                        
+                                    
+                                        
+                                        
+                                            ç¬??è®????ä¸????
+                                        
+                                    å¸????/td>
+                                        43
+                                        ???
+                                    2006-6-6 19:42:51
+                                        
+                                        ???
+                                    
+                                        0
+                                    
+			
+				
+					
+						12
+					
+				
+			
+		
+	
+                        
+                        
+                            
+                                
+                
+                    
+                        
+                            ???èµ??
+                    
+                    
+                        
+
+function openWin(id)
+{
+	window.open("DownloadRef.aspx?IDX="+id);
+}
+function openPre(id)
+{
+	window.open("PreRef.aspx?IDX="+id);
+}
+
+ 
+     
+     
+
+
+                        
+                            
+                                
+                
+                    
+                        
+                            è¯?è®?/div>
+                    
+                    
+                        
+                                
+                                    
+                                        guohua??¡¨äº?span id="ctl00_MainContentPlaceHolder_Repeater1_ctl00_Label4">2006-7-1 22:48:52
+                                    
+                                    
+                                        ????????
+                                    
+                                    
+                                        ?¨å?æ­¤è?è®ºç????ï¼?input type="submit" name="ctl00$MainContentPlaceHolder$Repeater1$ctl00$BtAgree" value="èµ??" id="ctl00_MainContentPlaceHolder_Repeater1_ctl00_BtAgree" class="BrowseBtn" style="background-color:White;border-color:#BBBBBB;border-width:1px;border-style:Solid;font-size:12px;height:24px;" />
+                                        
+                                        3ä¸??ç¥¨ç?äººä¸­??ä¸?ºº???æ­¤è???/span>
+                                    
+                                
+                            
+                                
+                                    
+                                        cghcheng??¡¨äº?span id="ctl00_MainContentPlaceHolder_Repeater1_ctl01_Label4">2006-7-1 22:45:45
+                                    
+                                    
+                                        å¤??äº?
+                                    
+                                    
+                                        ?¨å?æ­¤è?è®ºç????ï¼?input type="submit" name="ctl00$MainContentPlaceHolder$Repeater1$ctl01$BtAgree" value="èµ??" id="ctl00_MainContentPlaceHolder_Repeater1_ctl01_BtAgree" class="BrowseBtn" style="background-color:White;border-color:#BBBBBB;border-width:1px;border-style:Solid;font-size:12px;height:24px;" />
+                                        
+                                        5ä¸??ç¥¨ç?äººä¸­??ä¸?ºº???æ­¤è???/span>
+                                    
+                                
+                            
+                        
+                            
+	
+
+	
+                        
+                        
+                            
+                                ???è¯??
+                            
+                            
+                                å¯¹æ?è¯¾ç????ä»·ï?
+                                å¤??äº?/label>è¿????/label>ä¸??ä¸?¥½å¤?·®äº?/label>
+                            
+                            
+                                
+                            
+                            
+                                
+                            
+                        
+                        
+                            
+                                
+                
+                    
+                        
+                            ?¸å?è¯¾ç?
+                    
+                    
+                        
+                            elearning
+                        
+                        
+                            
+                                
+//æ·»å????èµ??     
+ function closeWin()
+ {
+    var popupMask = document.getElementById("popupMask");
+	popupMask.style.display = "none";
+    
+    var p1 = document.getElementById("popupContainer");
+    p1.style.display = "none";
+   
+	window.onresize=closeWin; 
+    window.onscroll = closeWin;
+ } 
+/*
+* å¾??å½??è§??ä¸?????é«?º¦???åº?
+*/
+function getViewportHeight() {
+	if (window.innerHeight!=window.undefined) return window.innerHeight;
+	if (document.compatMode=='CSS1Compat') return document.documentElement.clientHeight;
+	if (document.body) return document.body.clientHeight; 
+	return window.undefined; 
+}
+function getViewportWidth() {
+	if (window.innerWidth!=window.undefined) return window.innerWidth; 
+	if (document.compatMode=='CSS1Compat') return document.documentElement.clientWidth; 
+	if (document.body) return document.body.clientWidth; 
+	return window.undefined; 
+}
+/*
+*  ä¸ºæ?ä»¶å????ç§»é?äº?»¶
+*/
+
+function addEvent(obj, evType, fn){
+ if (obj.addEventListener){
+    obj.addEventListener(evType, fn, true);
+    return true;
+ } else if (obj.attachEvent){
+    var r = obj.attachEvent("on"+evType, fn);
+    return r;
+ } else {
+    return false;
+ }
+}
+function removeEvent(obj, evType, fn, useCapture){
+  if (obj.removeEventListener){
+    obj.removeEventListener(evType, fn, useCapture);
+    return true;
+  } else if (obj.detachEvent){
+    var r = obj.detachEvent("on"+evType, fn);
+    return r;
+  } else {
+    alert("Handler could not be removed");
+  }
+}
+
+
+
+function centerPopWin(width, height) {
+		if (width == null || isNaN(width)) {
+			width = popupContainer.offsetWidth;
+		}
+		if (height == null) {
+			height = popupContainer.offsetHeight;
+		}
+		
+		var p = document.getElementById("ctl00_MainContentPlaceHolder_addRef_P3");
+        
+        if(p.style.display = "none")
+        {
+            p.style.display = ""; 
+        }
+        
+		var fullHeight = getViewportHeight();
+		var fullWidth = getViewportWidth();
+		
+		var theBody = document.documentElement;
+		
+		var scTop = parseInt(theBody.scrollTop,10);
+		var scLeft = parseInt(theBody.scrollLeft,10);
+		
+		var popupMask = document.getElementById("popupMask");
+		
+		popupMask.style.display = "";
+		popupMask.style.height = fullHeight + "px";
+		popupMask.style.width = fullWidth + "px";
+		popupMask.style.top = scTop + "px";
+		popupMask.style.left = scLeft + "px";
+		
+		var p1 = document.getElementById("popupContainer");
+        p1.style.display = "";
+		
+		var titleBarHeight = parseInt(document.getElementById("popupTitleBar").offsetHeight, 10);
+		
+		popupContainer.style.top = (scTop + ((fullHeight - (height+titleBarHeight)) / 2)) + "px";
+		popupContainer.style.left =  (scLeft + ((fullWidth - width) / 2)) + "px";
+		
+		window.onresize = centerPopWin;
+		window.onscroll = centerPopWin;
+}
+//addEvent(window, "resize", closeWin);
+ 
+function enableControl()
+{
+	var f = document.getElementById("ctl00_MainContentPlaceHolder_addRef_FileUpload1");
+    var r1 = document.getElementById("ctl00_MainContentPlaceHolder_addRef_raUpFile");
+    var r = document.getElementById("ctl00_MainContentPlaceHolder_addRef_raAddUrl");
+    var u = document.getElementById("ctl00_MainContentPlaceHolder_addRef_TxtUrl");
+    
+    if(r1.checked == true)
+    {
+        f.disabled = false;
+        u.disabled = true;
+        r.checked = false;
+    }
+}
+
+function enControl()
+{
+    var f = document.getElementById("ctl00_MainContentPlaceHolder_addRef_FileUpload1");
+    var r1 = document.getElementById("ctl00_MainContentPlaceHolder_addRef_raUpFile");
+    var r = document.getElementById("ctl00_MainContentPlaceHolder_addRef_raAddUrl");
+    var u = document.getElementById("ctl00_MainContentPlaceHolder_addRef_TxtUrl");
+    
+    if(r.checked == true)
+    {
+        f.value = "";
+        f.disabled = true;
+        u.disabled = false;
+        r1.checked = false;
+    }
+}
+ 
+
+
+	
+
+
+
+    
+        
+            
+            
+            æ·»å????èµ??
+            
+                
+        
+                
+            
+                ???èµ??
+                è¯·é??©æ????ä»???°è?ç®??ä¸????»¶è¿??è¦?·»???ä¸???¥å????
+
+                
+                    ä¸????»¶
+                
+                
+                    æ·»å??¾æ??°å?
+                
+            
+        
+        
+            ???
+            
+                
+                
+            
+        
+        
+            ??¿°
+            
+                
+            
+        
+        
+            
+            
+         
+    
+
+
+
+    
+	
+	
+		
+		?»å?å¯¹è?æ¡?/div>
+	
+	
+	
+		
+		
+		
+			
+				
+					
+						
+							?¨é?è¦??å½???½å????ä¸????? 
+						
+					
+					
+						
+							?¨æ????
+						
+							
+						
+							??´¹æ³¨å?
+					
+					
+						
+							å¯??ï¼?/td>
+						
+							
+						
+							 å¿??å¯??
+					
+					
+					    
+						
+                            ä¿???»å?ä¿¡æ?
+						
+					
+					
+						
+							
+							
+						
+					
+				
+			
+		
+		
+	
+	
+
+
+
+
+
+document.getElementById("ctl00_MainContentPlaceHolder_CheckAuth1_panelAuth").style.display = "none";
+var eventSrc = null;
+var bAuthed = new Boolean(true);
+function GetOffset(element)
+{
+	var offSet = new Object();
+	offSet.X = element.offsetLeft;
+	offSet.Y = element.offsetTop;
+	
+	if(element.offsetParent == document.body)
+		return offSet;
+	else
+	{
+		var offsetParent = {X:0, Y:0};
+		if(null==element.offsetParent)
+		    offsetParent = GetOffset(element.parentElement);
+		else
+		    offsetParent = GetOffset(element.offsetParent)
+		offSet.X += offsetParent.X;
+		offSet.Y += offsetParent.Y;
+		return offSet;
+	}
+}
+
+function CheckLoginStatus(e)
+{
+	if(true == bAuthed)
+		return true;
+
+	var panelAuth=document.getElementById("ctl00_MainContentPlaceHolder_CheckAuth1_panelAuth");
+	var elementUserName=document.getElementById("ClientUserName");
+
+    if(e)
+        eventSrc = e.target;
+    else
+	    eventSrc = window.event.srcElement;
+	var s = eventSrc;
+	//s.style.position="absolute";
+	var offsetS = GetOffset(s);
+	
+	var authSize = {Width:0, Height:0};
+	authSize.Width = 266;
+	authSize.Height = 196;
+	//Get event source element center location
+	var srcCenter = {X:0, Y:0};
+	srcCenter.X = offsetS.X + s.offsetWidth/2;
+	srcCenter.Y = offsetS.Y + s.offsetHeight/2;
+	//Get auth pantel left/top location
+	var authLocal = {X:0, Y:0};
+	authLocal.X = srcCenter.X - authSize.Width/2;
+	authLocal.Y = srcCenter.Y - authSize.Height/2;
+	
+	var start = {X:0, Y:0};
+    start.X = (document.documentElement 
+    start.Y = (document.documentElement 
+    var offset = {W:0, H:0};
+    offset.W = (document.documentElement 
+    offset.H = (document.documentElement 
+    //If out of current scroll view left or top, move in
+    var fixAuth = {X:0, Y:0};
+    fixAuth.Left = Math.max(start.X, authLocal.X);
+    fixAuth.Top = Math.max(start.Y, authLocal.Y);
+
+	//if out of current scroll view right or buttom
+	if(fixAuth.Left + authSize.Width > start.X + offset.W && offset.W > authSize.Width)
+		panelAuth.style.left = start.X + offset.W - authSize.Width;
+	else
+		panelAuth.style.left = fixAuth.Left;
+	if(fixAuth.Top + authSize.Height > start.Y + offset.H && offset.H > authSize.Height)
+		panelAuth.style.top = start.Y + offset.H - authSize.Height;
+	else
+		panelAuth.style.top = fixAuth.Top;
+	
+	panelAuth.style.display="";
+	elementUserName.focus();
+	return false;
+}	
+
+function OnCheckAuthLogin()
+{
+	var username=document.getElementById("ClientUserName");
+	var password=document.getElementById("ClientPassWord");
+	if((username.value!="")&&(password.value!=""))
+	{
+		if(true == document.getElementById("RememberMe").checked)
+			Sys.Services.AuthenticationService.login(username.value, password.value, true, OnChecAuthComplete); 
+		else
+			Sys.Services.AuthenticationService.login(username.value, password.value, false, OnChecAuthComplete); 
+    }
+    else
+    {
+	    var temp3=document.getElementById("checkAuthPromptInfo");
+	    temp3.innerHTML="è¾??ä¸????;
+	    temp3.style.color="red";
+    }
+    return false;
+}
+
+function OnChecAuthComplete(result)
+{
+	if(result==true)
+	{
+		bAuthed = true;
+		if(null != eventSrc)
+		{
+			eventSrc.focus();
+			eventSrc.click();
+			OnCheckAuthClose();
+			//Check if the anonymous login view is displayed in page, refresh for switch it to logined view.
+			if(null != document.getElementById("ctl00_LoginView1_AnonymousDisplay_Login1") && true ==true)
+			{
+				window.setTimeout("window.location.reload()", 2000);
+			}
+		}
+		else
+			location.reload();
+	}
+	else
+	{
+	    var temp3=document.getElementById("checkAuthPromptInfo");
+	    temp3.innerHTML="?¨æ???????è¯?;
+	    temp3.style.color="red";
+	}
+}
+
+function OnCheckAuthClose()
+{
+	eventSrc = null;
+	document.getElementById('ctl00_MainContentPlaceHolder_CheckAuth1_panelAuth').style.display="none";
+}
+
+var strClientIDs = "ctl00_MainContentPlaceHolder_BtComment;ctl00_MainContentPlaceHolder_ImageButton1;ctl00_MainContentPlaceHolder_BtCollect;ctl00_MainContentPlaceHolder_BtModify;";
+var fnOldClickHandler = new Array();
+var fnNewClickHandler = new Array();
+if(strClientIDs.length > 0)
+{
+    var clientIDs = strClientIDs.split(";");
+    for(var i=0; i<clientIDs.length; i++)
+    {
+        var obj = document.getElementById(clientIDs[i])
+        if(null != obj)
+        {
+            fnOldClickHandler[i] = obj.onclick;
+            if(null != fnOldClickHandler[i])
+            {
+                //This is a dynamic function, can't get the local variable i
+                fnNewClickHandler[i] = function() 
+                    {
+                        if(false == CheckLoginStatus()) 
+                            return false;
+                        var n = 0;
+                        for(n=0; n<fnNewClickHandler.length; n++)
+                        {
+                            //Can't get local i value in new function, need to find the orginal index first.
+                            var fnObj = fnNewClickHandler[n];
+                            if(fnObj === this.onclick)
+                                break;
+                        }
+                        if(null != fnOldClickHandler[n])
+                            return fnOldClickHandler[n](); 
+                        else
+                            return true;
+                    }
+                obj.onclick = fnNewClickHandler[i];
+            }
+            else
+                obj.onclick = function() {return CheckLoginStatus();}
+        }
+    }
+}
+
+
+
+
+            
+
+    å®¢æ?ä¸??|?³ä???»¬|????¡æ?|ç½???°å?|??³»??»¬|è¯???±æ?|æ¬¢è????
+
+
+	Copyright2006 StudyEZ. å­??ç§?? ??????
+	
+        æµ?cpå¤?6020728??/a>
+     
+
+
+
+        
+    
+
+
+	
+	
+
+
+<page xmlns:script="http://schemas.microsoft.com/xml-script/2005" xmlns:atlascontrolextender="atlascontrolextender">
+  <references>
+</TEXT>
+</DOC>
+

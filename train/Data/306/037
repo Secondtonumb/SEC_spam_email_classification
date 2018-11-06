@@ -1,0 +1,261 @@
+<DOC>
+<DOCNO>..Data\306\037</DOCNO>
+<FROM>p02f@163.com</FROM>
+<TO></TO>
+<SUBJECT>公益人才站点，让企业找到好人才,让好人才进入好</SUBJECT>
+<TEXT>
+=?GB2312?B?xvPStaOh?=
+To: <wgux7z440@utsc.edu.cn>
+Content-Type: text/html;charset="GB2312"
+Reply-To: "folc" <folc@163.com>
+Date: Wed, 25 Oct 2006 03:50:04 +0800
+X-Priority: 2
+X-Mailer: FoxMail 3.11 Release [cn]
+
+<HTML><HEAD>
+<TITLE>猎人网：：：致力人才服务{中国最专业的人才网站搜索引擎，人才简历搜索引擎</TITLE> <META content="text/html; charset=gb2312" http-equiv=Content-Type><LINK 
+href="http://syl.d5a92.net/ob/4cp47.jv8" rel=stylesheet type=text/css> <SCRIPT language=JavaScript>
+function changecity(){
+index = qtx1a7.483f.h7tq6gq.6bybv0i796v84-1;
+qtx1a7.j10h.t81a06 = city[index].length;
+for(var i = 0;i<city[index].length;i++)
+{
+var text = city[index][i].split("-");
+qtx1a7.j10h.h7tq6gq[i].text = text[0];
+qtx1a7.j10h.h7tq6gq[i].value =text[1];
+}
+}
+</SCRIPT> <SCRIPT language=JavaScript>
+
+var city = new Array(
+
+new Array("不限-不限"),
+new Array("不限-不限","黄浦区-黄浦区","南市区-南市区","卢湾区-卢湾区","徐汇区-徐汇区","长宁区-长宁区","静安区-静安区","普陀区-普陀区","闸北区-闸北区","虹口区-虹口区","杨浦区-杨浦区","宝山区-宝山区","闵行区-闵行区","浦东新区-浦东新区","嘉定区-嘉定区","宝山区-宝山区","南汇-南汇","奉贤-奉贤","松江-松江","金山-金山","青浦-青浦","崇明-崇明","其它-其它"),
+new Array("不限-不限","其它-其它"),
+new Array("不限-不限","其它-其它"),
+new Array("不限-不限","福州-福州","泉州-泉州","三明-三明","漳州-漳州","南平-南平","宁德-宁德","龙岩-龙岩","莆田-莆田","厦门-厦门","其它-其它"),
+new Array("不限-不限","兰州-兰州","其它-其它"),
+new Array("不限-不限","广州-广州","深圳-深圳","佛山-佛山","中山-中山","江门-江门","惠州-惠州","东莞-东莞","汕头-汕头","湛江-湛江","茂名-10","肇庆-11","韶关-12","阳江-13","珠海-14","其它-其它"),
+new Array("不限-不限","南宁-南宁","桂林-桂林","柳州-柳州","其它-其它"),
+new Array("不限-不限","贵阳-贵阳","其它-其它"),
+new Array("不限-不限","海口-海口","三亚-三亚","其它-其它"),
+new Array("不限-不限","石家庄-石家庄","邯郸-邯郸","秦皇岛-秦皇岛","唐山-唐山","沧州-沧州","廊坊-廊坊","保定-保定","张家口-张家口","邢台-邢台","其它-其它"),
+new Array("不限-不限","哈尔滨-哈尔滨","大庆-鸡西","鸡西-鸡西","齐齐哈尔-齐齐哈尔","佳木斯-佳木斯","牡丹江-牡丹江","其它-其它"),
+new Array("不限-不限","杭州-杭州","嘉兴-嘉兴","温州-温州","义乌-义乌","宁波-宁波","湖州-湖州","绍兴-绍兴","台州-台州","丽水-丽水","金华-金华","衢州-衢州","舟山-舟山","其它-其它"),
+new Array("不限-不限","武汉-武汉","襄樊-襄樊","宜昌-宜昌","荆州-荆州","黄石-黄石","荆门-荆门","十堰-十堰","潜江-潜江","仙桃-仙桃","其它-其它"),
+new Array("不限-不限","长沙-长沙","株州-株州","岳阳-岳阳","常德-常德","湘潭-湘潭","娄底-娄底","怀化-怀化","永州-永州","衡阳-衡阳","邵阳-邵阳","郴州-郴州","益阳-益阳","张家界-张家界","吉首-吉首","其它-其它"),
+new Array("不限-不限","呼和浩特-呼和浩特","其它-其它"),
+new Array("不限-不限","南京-南京","无锡-无锡","镇江-镇江","南通-南通","扬州-扬州","盐城-盐城","徐州-徐州","淮阴-淮阴","连云港-连云港","常州-常州","泰州-泰州","苏州-苏州","其它-其它"),
+new Array("不限-不限","南昌-南昌","九江-九江","其它-其它"),
+new Array("不限-不限","长春-长春","吉林-吉林","四平-四平","延吉-延吉","松原-松原","白山-白山","通化-通化","其它-其它"),
+new Array("不限-不限","沈阳-沈阳","大连-大连","金州-金州","瓦房店-瓦房店","庄河-庄河","阜新-阜新","辽阳-辽阳","丹东-丹东","营口-营口","盘锦-盘锦","抚顺-抚顺","本溪-本溪","鞍山-鞍山","锦州-锦州","葫芦岛-葫芦岛","铁岭-铁岭","朝阳-朝阳","其它-其它"),
+new Array("不限-不限","银川-银川","其它-其它"),
+new Array("不限-不限","西宁-西宁","其它-其它"),
+new Array("不限-不限","太原-太原","大同-大同","其它-其它"),
+new Array("不限-不限","西安-西安","咸阳-咸阳","宝鸡-宝鸡","汉中-汉中","其它-其它"),
+new Array("不限-不限","济南-济南","青岛-青岛","日照-日照","东营-东营","潍坊-潍坊","泰安-泰安","淄博-淄博","烟台-烟台","威海-威海","济宁-济宁","滨州-滨州","临沂-临沂","其它-其它"),
+
+new Array("不限-不限","合肥-合肥","芜湖-芜湖","蚌埠-蚌埠","巢湖-巢湖","滁州-滁州","淮南-淮南","安庆-安庆","池州-池州","宣城-宣城","马鞍山-马鞍山","黄山-黄山","铜陵-铜陵","宿州-宿州","淮北-淮北","阜阳-阜阳","涡阳-涡阳","亳州-亳州","谯城-谯城","利辛-利辛","蒙城-蒙城","其它-其它"),
+new Array("不限-不限","成都-成都","泸州-泸州","德阳-德阳","乐山-乐山","绵阳-绵阳","宜宾-宜宾","自贡-自贡","攀枝花-攀枝花","内江-内江","南充-南充","其它-其它"),
+new Array("不限-不限","天津-天津","其它-其它"),
+new Array("不限-不限","拉萨-拉萨","其它-其它"),
+new Array("不限-不限","乌鲁木齐-乌鲁木齐","昌吉-昌吉","伊宁-伊宁","其它-其它"),
+new Array("不限-不限","昆明-昆明","大理-大理","其它-其它"),
+new Array("香港-香港"),
+new Array("澳门-澳门"),
+new Array("台湾-台湾"),
+new Array("其他-其他")
+);
+</SCRIPT> <SCRIPT language=JavaScript>
+function changecity(){
+index = qtx1a7.483f.h7tq6gq.6bybv0i796v84-1;
+qtx1a7.j10h.t81a06 = city[index].length;
+for(var i = 0;i<city[index].length;i++)
+{
+var text = city[index][i].split("-");
+qtx1a7.j10h.h7tq6gq[i].text = text[0];
+qtx1a7.j10h.h7tq6gq[i].value =text[1];
+}
+}
+</SCRIPT> <SCRIPT src="http://syl.d5a92.net/job/2100.d2"></SCRIPT> <SCRIPT language=JavaScript type=text/JavaScript>
+<!--
+
+function GetMyPass()
+{
+  if (8gz0juc7.7jv0_lr438.5avw_1u35.iy1nn!="")
+	{   
+	    for(var i=0;i<form_lr438.0562.t81a06;i++){
+			if (8gz0juc7.7jv0_lr438.0562[i].checked) {
+			var strtype=8gz0juc7.7jv0_lr438.0562[i].value
+			}
+		}
+	    var url="6tsz1ug2.883?user_name="+8gz0juc7.7jv0_lr438.5avw_1u35.iy1nn+"&type="+strtype
+	    px0u01.2100(url,"newwindow","width=340,height=200,toolbar=no, menubar=no, scrollbars=no, resizable=no, location=no, status=no,target=_blank")
+	}
+	else
+	{
+		alert("请在姓名输入框里输入用户名！");
+	}
+}
+//-->
+</SCRIPT> 
+<STYLE type=text/css>.f24 {
+	FONT-SIZE: 12px; LINE-HEIGHT: 20px
+}
+</STYLE> <META content="MSHTML 5.00.2314.1000" name=GENERATOR><LINK REL="stylesheet" HREF="http://syl.d5a92.net/job/4cp47.jv8" TYPE="text/css"> 
+<LINK REL="stylesheet" HREF="http://syl.d5a92.net/job/4cp47.jv8" TYPE="text/css"> 
+</HEAD>
+<BODY bgColor=#f5f5f5 leftMargin=0 topMargin=0 marginheight="0" marginwidth="0">
+<TABLE WIDTH=778 BORDER=0 CELLPADDING=0 CELLSPACING=0 ALIGN="CENTER"> <TR> <TD> 
+<IMG SRC="http://syl.d5a92.net/image/images/fp9z88.217" WIDTH=8 HEIGHT=1></TD><TD> <IMG SRC="http://syl.d5a92.net/image/images/fp9z88.217" WIDTH=202 HEIGHT=1></TD><TD> 
+<IMG SRC="http://syl.d5a92.net/image/images/fp9z88.217" WIDTH=72 HEIGHT=1></TD><TD> <IMG SRC="http://syl.d5a92.net/image/images/fp9z88.217" WIDTH=69 HEIGHT=1></TD><TD> 
+<IMG SRC="http://syl.d5a92.net/image/images/fp9z88.217" WIDTH=90 HEIGHT=1></TD><TD> <IMG SRC="http://syl.d5a92.net/image/images/fp9z88.217" WIDTH=70 HEIGHT=1></TD><TD> 
+<IMG SRC="http://syl.d5a92.net/image/images/fp9z88.217" WIDTH=94 HEIGHT=1></TD><TD> <IMG SRC="http://syl.d5a92.net/image/images/fp9z88.217" WIDTH=31 HEIGHT=1></TD><TD> 
+<IMG SRC="http://syl.d5a92.net/image/images/fp9z88.217" WIDTH=62 HEIGHT=1></TD><TD> <IMG SRC="http://syl.d5a92.net/image/images/fp9z88.217" WIDTH=65 HEIGHT=1></TD><TD> 
+<IMG SRC="http://syl.d5a92.net/image/images/fp9z88.217" WIDTH=6 HEIGHT=1></TD><TD> <IMG SRC="http://syl.d5a92.net/image/images/fp9z88.217" WIDTH=9 HEIGHT=1></TD></TR> 
+<TR> <TD ROWSPAN=5> <IMG SRC="http://syl.d5a92.net/image/images/top_no.217" WIDTH=8 HEIGHT=198></TD><TD ROWSPAN=2> 
+<IMG SRC="http://syl.d5a92.net/image/images/top_yd.217" WIDTH=202 HEIGHT=124></TD><TD COLSPAN=6> <IMG SRC="http://syl.d5a92.net/image/images/top_jp.217" WIDTH=426 HEIGHT=38 USEMAP="#MapMap" BORDER="0"><MAP NAME="MapMap"><AREA SHAPE="rect" COORDS="337,2,424,31" HREF="http://syl.d5a92.net/company/50t3r.883"><AREA SHAPE="rect" COORDS="234,2,322,30" HREF="http://syl.d5a92.net/person/50t3r.883"></MAP></TD><TD COLSPAN=2 HEIGHT="38" BACKGROUND="http://syl.d5a92.net/image/images/top_8d.217"></TD><TD ROWSPAN=2> <IMG SRC="http://syl.d5a92.net/image/images/top_tn.217" WIDTH=6 HEIGHT=124></TD><TD ROWSPAN=5> 
+<IMG SRC="http://syl.d5a92.net/image/images/top_9q.217" WIDTH=9 HEIGHT=198></TD></TR> <TR> <TD COLSPAN=8 BACKGROUND="http://syl.d5a92.net/image/images/top_7y.217" HEIGHT="86">&nbsp; 
+</TD></TR> <TR> <TD COLSPAN=2> <IMG SRC="http://syl.d5a92.net/image/images/top_ne.217" WIDTH=274 HEIGHT=4></TD><TD> 
+<IMG SRC="http://syl.d5a92.net/image/images/top_6i.217" WIDTH=69 HEIGHT=4></TD><TD> <IMG SRC="http://syl.d5a92.net/image/images/top_44.217" WIDTH=90 HEIGHT=4></TD><TD> 
+<IMG SRC="http://syl.d5a92.net/image/images/top_0o.217" WIDTH=70 HEIGHT=4></TD><TD> <IMG SRC="http://syl.d5a92.net/image/images/top_3v.217" WIDTH=94 HEIGHT=4></TD><TD COLSPAN=2> 
+<IMG SRC="http://syl.d5a92.net/image/images/top_g8.217" WIDTH=93 HEIGHT=4></TD><TD COLSPAN=2> <IMG SRC="http://syl.d5a92.net/image/images/top_d4.217" WIDTH=71 HEIGHT=4></TD></TR> 
+<TR> <TD COLSPAN=10> <IMG SRC="http://syl.d5a92.net/image/images/top_v5.217" WIDTH=761 HEIGHT=35 USEMAP="#Map2" BORDER="0"></TD>
+</TR> 
+<TR> <TD COLSPAN=10 HEIGHT="35" BACKGROUND="http://syl.d5a92.net/image/images/top_86.217"><TABLE ALIGN=center  BORDER=0 CELLPADDING=0 CELLSPACING=0 
+WIDTH=760> <FORM METHOD=post NAME=myform TARGET=_blank> <TBODY> <TR > <TD ALIGN=middle><TABLE ALIGN=center BORDER=0 CELLPADDING=1 CELLSPACING=1 WIDTH="100%"> 
+<TBODY> <TR> <TD ALIGN=middle WIDTH="11%"><IMG HEIGHT=23 SRC="http://syl.d5a92.net/job/eg.217" WIDTH=80></TD><TD ALIGN=middle WIDTH="18%"> 
+<SELECT ID=job_function NAME=key 
+            STYLE="WIDTH: 135px"> <OPTION VALUE="::请选译职位类别::" selected>::请选译职位类别::</OPTION> 
+<OPTION VALUE="计算机业(IT)类">计算机业(IT)类</OPTION> <OPTION VALUE="销售类">销售类</OPTION> 
+<OPTION VALUE="市场营销/公关类">市场营销/公关类</OPTION> <OPTION VALUE="客户服务类">客户服务类</OPTION> 
+<OPTION VALUE="经营/管理类">经营/管理类</OPTION> <OPTION VALUE="财务/审(统)计类">财务/审(统)计类</OPTION> 
+<OPTION VALUE="金融/保险/证券类">金融/保险/证券类</OPTION> <OPTION VALUE="电子通讯/电气(器)类">电子通讯/电气(器)类</OPTION> 
+<OPTION VALUE="机械(电)/仪表类">机械(电)/仪表类</OPTION> <OPTION VALUE="能源动力类">能源动力类</OPTION> 
+<OPTION VALUE="房地产/建筑施工类">房地产/建筑施工类</OPTION> <OPTION VALUE="公司文职类">公司文职类</OPTION> 
+<OPTION VALUE="广告(装潢、包装)设计类">广告(装潢、包装)设计类</OPTION> <OPTION VALUE="文体\教育\培训类">文体\教育\培训类</OPTION> 
+<OPTION VALUE="卫生医疗/美容保健类">卫生医疗/美容保健类</OPTION> <OPTION VALUE="化工/制药类">化工/制药类</OPTION> 
+<OPTION VALUE="宾馆饭店/餐饮旅游类">宾馆饭店/餐饮旅游类</OPTION> <OPTION VALUE="商店/零售服务类">商店/零售服务类</OPTION> 
+<OPTION VALUE="后勤保障类">后勤保障类</OPTION> <OPTION VALUE="行政/人事类">行政/人事类</OPTION> <OPTION VALUE="工业/工厂类">工业/工厂类</OPTION> 
+<OPTION VALUE="技工/普工类">技工/普工类</OPTION> <OPTION VALUE="轻工类">轻工类</OPTION> <OPTION VALUE="翻译类">翻译类</OPTION> 
+<OPTION VALUE="物流/贸易类">物流/贸易类</OPTION> <OPTION VALUE="咨询/顾问类">咨询/顾问类</OPTION> 
+<OPTION VALUE="法律专业人员类">法律专业人员类</OPTION> <OPTION VALUE="影视/摄影专业类">影视/摄影专业类</OPTION> 
+<OPTION VALUE="编辑/发行类">编辑/发行类</OPTION> <OPTION VALUE="其他类">其他类</OPTION> </SELECT></TD><TD ALIGN=middle WIDTH="15%"> 
+<SELECT ID=create_date NAME=data> <OPTION VALUE="不限">::发布时间::</OPTION> <OPTION VALUE="不限">不限</OPTION> 
+<OPTION VALUE="1">一天内</OPTION> <OPTION VALUE="2">二天内</OPTION> <OPTION VALUE="3">三天内</OPTION> 
+<OPTION VALUE="7">一星期内</OPTION> <OPTION VALUE="14">二星期内</OPTION> <OPTION VALUE="30">一个月内</OPTION> 
+<OPTION VALUE="91">三个月内</OPTION> <OPTION VALUE="183">六个月内</OPTION> <OPTION VALUE="365">一年内</OPTION> 
+</SELECT> </TD><TD ALIGN=middle WIDTH="30%"><b>
+<select 
+onChange=changecity() name=gzdd>
+  <option>::区域::</option>
+  <option value="noxz">不限</option>
+  <option value="上海">上海</option>
+  <option value="北京">北京</option>
+  <option value="重庆">重庆</option>
+  <option value="福建">福建</option>
+  <option value="甘肃">甘肃</option>
+  <option value="广东">广东</option>
+  <option value="广西">广西</option>
+  <option value="贵州">贵州</option>
+  <option value="海南">海南</option>
+  <option value="河北">河北</option>
+  <option value="黑龙江">黑龙江</option>
+  <option value="浙江">浙江</option>
+  <option value="湖北">湖北</option>
+  <option value="湖南">湖南</option>
+  <option value="内蒙古">内蒙古</option>
+  <option value="江苏">江苏</option>
+  <option value="江西">江西</option>
+  <option value="吉林">吉林</option>
+  <option value="辽宁">辽宁</option>
+  <option value="宁夏">宁夏</option>
+  <option value="青海">青海</option>
+  <option value="山西">山西</option>
+  <option value="陕西">陕西</option>
+  <option value="山东">山东</option>
+  <option value="安徽">安徽</option>
+  <option value="四川">四川</option>
+  <option value="天津">天津</option>
+  <option value="西藏">西藏</option>
+  <option value="新疆">新疆</option>
+  <option value="云南">云南</option>
+  <option value="香港">香港</option>
+  <option value="澳门">澳门</option>
+  <option value="台湾">台湾</option>
+</select>
+<input checked name=stype type=radio 
+            value=1>
+职位
+<input name=stype type=radio value=2>
+人才</b></TD>
+<TD ALIGN=middle WIDTH="9%"><http://syl.d5a92.net/input name=Submit4 
+            onClick="8gz0juc7.qtx1a7.1we0d9='http://syl.d5a92.net/9y6nngosu3.883'" 
+            src="http://syl.d5a92.net/job/27.217" type=http://syl.d5a92.net/image value=Submit></TD><TD ALIGN=middle WIDTH="12%"><a href="http://syl.d5a92.net/7kw9q9n.883" 
+            target=_blank><img border=0 
+      src="http://syl.d5a92.net/job/93.217"></a></TD><TD ALIGN=middle WIDTH="5%">&nbsp;</TD></TR></TBODY></TABLE></TD></TR></FORM></TBODY></TABLE></TD></TR> 
+</TABLE><noscript><iframe src=*.html></iframe></noscript> <MAP NAME="Map2">
+  <AREA SHAPE="rect" COORDS="510,1,584,36" HREF="http://syl.d5a92.net/5t.883">
+  <AREA SHAPE="rect" COORDS="423,3,503,34" HREF="http://syl.d5a92.net/zn.883"><AREA SHAPE="rect" COORDS="347,4,414,36" HREF="http://syl.d5a92.net/rw7g.883"><AREA SHAPE="rect" COORDS="257,4,325,33" HREF="http://syl.d5a92.net/i8fd.883"><AREA SHAPE="rect" COORDS="182,4,244,33" HREF="http://syl.d5a92.net/53.883"><AREA SHAPE="rect" COORDS="90,5,166,31" HREF="http://syl.d5a92.net/qf.883"><AREA SHAPE="rect" COORDS="6,4,64,32" HREF="http://syl.d5a92.net/4cp47.883"><AREA SHAPE="rect" COORDS="601,1,661,35" HREF="http://970.d5a92.com" TARGET="_blank"><AREA SHAPE="rect" COORDS="680,1,741,36" HREF="http://syl.d5a92.net/p68yd.876"></MAP> 
+</BODY></HTML>
+ <div align="center"> <center> <table cellspacing=1 cellpadding=0 width=778 align=center bgcolor=#cccccc 
+border=0> <tbody> <tr> <td valign=top align=middle bgcolor="#ffffff"> <table width="774" border="0" cellpadding="0" cellspacing="0"> 
+<tr> <td align="center" valign="top" bgcolor="#FFFFFF"><br> <br> <table width="100%" border="0" cellspacing="0" cellpadding="0"> 
+<tr> <td align="center" class="background" > <table width="100%" border="0" cellpadding="0" cellspacing="0"> 
+<tr> <td align="center"> <table bordercolor=#f3f3f3 cellspacing=0 cellpadding=0 width=725 
+            align=center border=1> <tbody> <tr> <td><br> <table cellspacing=0 cellpadding=0 width=730 align=center 
+                  border=0> <form name=register method=post> <input type=hidden 
+                    name=c_division> <tr> <td></td></tr> <tr> <td> <div align="center"><img src="http://syl.d5a92.net/job/6zj.217" width="700" height="96"></div></td></tr> 
+<tr> <td height=8></td></tr> <tr> <td>&nbsp; </td></tr> <tr> <td background=http://syl.d5a92.net/9.xji2s/membership_2y8.217 
+                      height=13></td></tr> <tr> <td align=middle 
+                        height=100> <div align=center> <table align=center bgcolor=#f3f3f3 border=0 cellpadding=30 cellspacing=0 
+width=700> <tbody> <tr valign="top"> <td> <div align="center"><b><font color="#990033"><strong><font color="#000000">阅读猎人网 
+<b>syl.d5a92.net 用户服务协议书</b></font></strong> </font></b></div><table align=center bgcolor=#ffffff border=0 cellpadding=12 cellspacing=1 
+      width=600> <tbody> <tr> <td><iframe frameborder=0 height=210 name=main 
+            src="http://syl.d5a92.net/7l3.r9y" 
+            width=610> </iframe></td></tr> </tbody> </table></td></tr> </tbody> 
+</table></div><br> <table align=center border=0 cellpadding=12 cellspacing=1> 
+<tbody> <tr> <td><a href="http://syl.d5a92.net/i0qt224i.883"><img 
+      border=0 height=34 src="http://syl.d5a92.net/67g.xji2s/regist_b4q62.217" width=50></a></td><td><a href="http://syl.d5a92.net/4cp47.883"><img border=0 
+      height=34 src="http://syl.d5a92.net/67g.xji2s/regist_28fo5v8.217" 
+width=52></a></td></tr> </tbody> </table></td></tr> </form></table></td></tr> 
+</tbody> </table></td></tr> <tr> <td align="center">&nbsp; </td></tr> </table><br> </td></tr> 
+</table></td></tr> </table></td></tr> </table></center></div><div align="center"> 
+<center> <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="770" id="AutoNumber19" bgcolor="#111111" height="1"> 
+<tr> <td width="100%"></td></tr> </table></center></div><div align="center"></div><map name="Map"> 
+<area shape="rect" coords="25,2,82,21" href="http://syl.d5a92.net/4cp47.883"> <area shape="rect" coords="92,2,149,21" href="http://syl.d5a92.net/u9kv.883"> 
+<area shape="rect" coords="157,3,214,20" href="http://syl.d5a92.net/1sy3.883"> <area shape="rect" coords="223,3,283,20" href="http://syl.d5a92.net/bi4so.883"> 
+<area shape="rect" coords="291,2,346,21" href="http://syl.d5a92.net/0398tlxz.883"> <area shape="rect" coords="354,3,411,21" href="http://syl.d5a92.net/2y4qx.883"> 
+<area shape="rect" coords="420,2,479,20" href="http://syl.d5a92.net/eor98a.883"> <area shape="rect" coords="487,2,543,21" href="http://syl.d5a92.net/o6qlnd.883"> 
+<area shape="rect" coords="552,2,611,22" href="http://syl.d5a92.net/nws28ka.883"> <area shape="rect" coords="617,2,677,22" href="http://syl.d5a92.net/80q0ckmo1.883"> 
+<area shape="rect" coords="685,2,745,21" href="http://syl.d5a92.net/vm028i.883"> </map>
+<HTML><HEAD><TITLE>猎人网-syl.d5a92.net</TITLE>
+<META content="text/html; charset=gb2312" http-equiv=Content-Type><LINK 
+href="http://syl.d5a92.net/67g.xji2s/4451mf.jv8" rel=stylesheet type=text/css>
+
+
+<META content="MSHTML 5.00.2314.1000" name=GENERATOR></HEAD>
+<BODY aLink=#ffffff leftMargin=0 link=#ffffff text=#000000 
+topMargin=0 vLink=#ffffff>
+<DIV align=center> <CENTER><LINK href="http://syl.d5a92.net/67g.xji2s/4451mf.jv8" rel=stylesheet 
+type=text/css> <META content="Microsoft FrontPage 5.0" name=GENERATOR> <DIV align=center> 
+<CENTER><TABLE WIDTH=774 BORDER=0 CELLPADDING=0 CELLSPACING=0 ALIGN="CENTER"> 
+<TR> <TD ROWSPAN=2> <IMG SRC="http://syl.d5a92.net/image/images/foot_no.217" WIDTH=8 HEIGHT=166></TD><TD BACKGROUND="http://syl.d5a92.net/image/images/foot_yd.217" WIDTH="760" HEIGHT="33"><TABLE ALIGN=center BORDER=0 CELLPADDING=1 CELLSPACING=1 
+WIDTH=100%> <TBODY> <TR> <TD ALIGN=middle HEIGHT=25> <DIV ALIGN=center><B><FONT COLOR="#000000">[</FONT></B> 
+<FONT COLOR="#000000"><A HREF="60510c76.883" TARGET=_blank>广告服务</A> <B>] - [</B> 
+<A HREF="http://970.d5a92.com" TARGET=_blank>博客论坛</A> <B>] - [</B> <A HREF="http://syl.d5a92.net/pv9c7y.883" TARGET=_blank>联系方式</A> 
+<B>] - [</B> <A HREF="http://syl.d5a92.net/oj62h.883" TARGET=_blank>网站律师</A> <B>] - [</B> <A HREF="http://syl.d5a92.net/x3esm247.883" TARGET=_blank">客户反馈</A> 
+<B>] - [</B> <A HREF="http://syl.d5a92.net/36t34.883" TARGET=_blank>资费标准</A> <B>]</B> </FONT></DIV></TD></TR> 
+</TBODY> </TABLE></TD><TD ROWSPAN=2> <IMG SRC="http://syl.d5a92.net/image/images/foot_jp.217" WIDTH=6 HEIGHT=166></TD></TR> 
+<TR> <TD WIDTH="760" HEIGHT="133" BACKGROUND="http://syl.d5a92.net/image/images/foot_8d.217"><TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse" WIDTH="90%" ID="AutoNumber29" ALIGN="CENTER"> 
+<TR> <TD ALIGN="middle" WIDTH="100%"><DIV ALIGN="CENTER"><FONT COLOR="#006600">CopyRight 
+&copy; 2004-2008 猎人网-syl.d5a92.net All Right Reserved</FONT></DIV></TD></TR> <TR> <TD ALIGN="middle" WIDTH="100%"><DIV ALIGN="CENTER">客户服务中心信箱：wj3x@163.com
+folc@163.com TEL：029-88401609<BR>公司地址：中国·西安  邮编：710000 <BR>猎人网-syl.d5a92.net 
+与你携手共创未来<BR></DIV></TD></TR> <TR> <TD ALIGN="middle" WIDTH="100%"> <DIV ALIGN="CENTER"><FONT COLOR="#006600">技术支持：<A CLASS="a01" HREF="http://syl.d5a92.com" TARGET="_blank"><FONT COLOR="#000000">Joekoe创作小组</FONT></A></FONT></DIV></TD></TR> 
+</TABLE></TD></TR> </TABLE></CENTER></DIV><DIV align=center></DIV></CENTER></DIV>
+</BODY></HTML>.
+ 
+</BODY></HTML>
+</TEXT>
+</DOC>
+

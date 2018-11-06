@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO>..Data\314\019</DOCNO>
+<FROM>25ko54@yk6.edu.cn</FROM>
+<TO>e4gg@a9hj.edu.cn</TO>
+<SUBJECT></SUBJECT>
+<TEXT>
+您好。我是EQMAIL邮件投递程序。
+很抱歉，我无法完成您发往以下地址的信件的投递。原因如下：
+
+<mwang@scu.edu.cn>:
+--202.115.32.180 does not like recipient.
+Remote host said: 550 5.1.1 unknown or illegal alias: mwang@scu.edu.cn
+Giving up on 202.115.32.180.
+
+
+
+
+Hi. This is the eqmail MTA program.
+I'm afraid I wasn't able to deliver your message to the following addresses.
+This is a permanent error; I've given up. Sorry it didn't work out.
+
+<mwang@scu.edu.cn>:
+--202.115.32.180 does not like recipient.
+Remote host said: 550 5.1.1 unknown or illegal alias: mwang@scu.edu.cn
+Giving up on 202.115.32.180.
+
+
+
+--- 以下为原始信件。Enclosed is a copy of the message.
+</TEXT>
+</DOC>
+

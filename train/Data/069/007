@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO>..Data\069\007</DOCNO>
+<FROM>xlkx8@a9hj.edu.cn</FROM>
+<TO>9a72@a9hj.edu.cn</TO>
+<SUBJECT>Re: 看到很多男生失败的经历，得出一个真理</SUBJECT>
+<TEXT>
+#define AND &&
+
+RESULT love(boy,girl)
+{
+        if(boy.有房() AND boy.有车())
+        {
+                boy.Set(Nothing);
+                return girl.嫁给(boy);
+        }
+        else if( girl.愿意等() )
+        {
+                next_year;
+                for(day =1 ;day<=365;day++)
+                {
+                        if( day == 情人节 )
+                                if( boy.GiveGirl(玫瑰) )
+                                        girl.感情 ++;
+                                else
+</TEXT>
+</DOC>
+

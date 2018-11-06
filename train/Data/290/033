@@ -1,0 +1,353 @@
+<DOC>
+<DOCNO>..Data\290\033</DOCNO>
+<FROM>nuxnir@6q033rql99389.com</FROM>
+<TO>b756@a9hj.edu.cn</TO>
+<SUBJECT></SUBJECT>
+<TEXT>
+<html>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<head>
+<style type="text/css">
+<!--
+body {
+	margin-top: 0px;
+}
+-->
+</style>
+ <LINK REL="stylesheet" TYPE="text/css" HREF="http://www.eetchina.com/STATIC/CSS/EETCHINA.CSS"> 
+<title>采用Stratix II GX优化您的高速串行电路板布板设计</title>
+</head>
+<body> 
+<table width="728" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td colspan="2"><span class="maintext"><img src="http://www.eetchina.com/IMAGES/ProgLogic-masthead-GB.gif" border=0 alt=""></span></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"></td>
+  </tr>
+  <tr>
+    <td colspan="2"><span class="maintext"><center><a href="http://www.eetchina.com/banprog/eet_ban_click.php?QklEPTExMDAwMDgxNDQvfC98R0lEPTEwMTM0MC98L3xJSUQ9NjAwMDAwODMwNC98L3xJUE09Ti98L3xTUkNIPU4vfC98UFVEPUVFQ09ML3wvfFRhcmdldFVybD1odHRwOi8vd3d3LmFsdGVyYS5jb20uY24vYi9zdHIyZ3gtYm9hcmQuaHRtbD9mPWhwJms9dDE/V1QubWNfaWQ9Z2FfZW5fY21fY2lfdGJfMV8yNDMvfC98" target="_blank"><img src="http://www.eetchina.com/BANNERS/IMAGES/ALTERA_PL_SL.GIF"  width="728" height="90" border="0" alt="Altera"><img src="http://www.eetchina.com/IMAGES/eet_ban_preview.gif?BID=1100008144/|/|GID=101340/|/|IID=6000008304/|/|IPM=N/|/|SRCH=N/|/|PUD=EECOL/|/|TargetUrl=http://www.altera.com.cn/b/str2gx-board.html?f=hp&k=t1?WT.mc_id=ga_en_cm_ci_tb_1_243/|/|"  width="1" height="1" border="0"></a></center><br></span></td>
+  </tr>
+  <tr>
+    <td width="597"><table border="0" width="100%" cellspacing="0" cellpadding="6">
+        <tr>
+          <td width="100%" valign="top" class=maintext> <font color="#CC0000" size="2" class="maintext" ><br>
+            电子工程专辑中文网站:</font><font size="2" class="maintext"><b>  </b><a href="http://www.eetchina.com/CAT_617685.HTM?click_from=10620,8661287027,2006-06-14,EECOL,NEWSLETTER" target="_blank" >可编程逻辑</a> | <a href="http://www.eetchina.com/NEWS_TYPE_NP.HTM?click_from=10620,8661287027,2006-06-14,EECOL,NEWSLETTER" target="_blank">产品新知</a> | <a href="http://www.eetchina.com/NEWS_TYPE_NT.HTM?click_from=10620,8661287027,2006-06-14,EECOL,NEWSLETTER" target="_blank">新闻和趋势</a> | <a href="http://www.eetchina.com/NEWS/PEOPLE.HTM?click_from=10620,8661287027,2006-06-14,EECOL,NEWSLETTER" target="_blank">电子工程人物</a><br>
+              <br>
+              <b>2006年06月14日</b></font><br>
+         <br>  <a href="http://www.eetchina.com/STATIC/REDIRECT/Altera_SC_Advertorialfirstarticle_20060614.htm?click_from=10620,8661287027,2006-06-14,EECOL,NEWSLETTER"  target="_blank"><B><font size="2" class="maintext">采用Stratix II GX优化您的高速串行电路板布板设计</font></B></a><br>
+           <table border="0" cellpadding="0" cellspacing="0">
+             <tr>
+			 <td valign="top"></td>
+			 <td><font size="2" class="maintext">            
+Altera Stratix II GX FPGA功能强大的收发器解决方案数据速率虽然高达6.375 Gbps，但并不以牺牲功耗为代价。收发器不但简化了电路板布板设计，而且功耗小于竞争产品的50%。解决方案提供的开发板、工具和附件降低了布板风险，提高了效率。
+</font><br><BR>
+                      </td>
+               
+            </tr></table></td>
+        </tr>
+        <tr>
+          <td width="100%" valign="top" class=maintext > <b><font class=maintext  size="2" color="#CC0000" >新闻和趋势</font></b><br>
+              <br>
+              <b><font size="2" color="#000066" class="maintext"><a href="http://www.eetchina.com/ART_8800420662_617685_57bd8429200606.HTM?click_from=10620,8661287027,2006-06-14,EECOL,NEWSLETTER" target="_blank">解密业界首款面向FPGA的IEEE 1588协议解决方案</a></font></b><br>
+          <font size="2" class="maintext">可编程逻辑供应商Altera与德国设计及IP供应商MorethanIP合作，推出据称是业内首款三速以太网媒体接入控制(MAC)IP内核，支持面向精确时钟同步化的IEEE 1588标准。Altera表示，该IP内核可允许联网工业自动化、测量和控制系统设计人员采用Stratix II或Cyclone II FPGA应用这种新兴的工业标准。通过使用Altera的器件，设计人员能在2007年早期完成第二版IEEE 1588标准时更新他们的设计......
+			  <br>
+			   <br>
+              <b><font size="2" color="#000066" class="maintext"><a href="http://www.eetchina.com/ART_8800420264_617685_d8c513f5200606.HTM?click_from=10620,8661287027,2006-06-14,EECOL,NEWSLETTER"  target="_blank">锁定医疗电子，IBM首推心脏起搏器便携式编程系统</a></font></b><br>
+          <font size="2" class="maintext">经过近几年来痛苦的整合，IBM公司正在锁定未来快速增长的医疗电子市场。近日，IBM宣布与St. Jude Medical(St. Paul, Minn.)公司合作生产St. Jude Medical公司的Merlin病人监护系统(Patient Care System)，那是一种对医疗中心的可移植心律转变去纤颤器(ICD)和心脏起搏器进行编程的便携式系统......
+             <br><br>
+              <b><font size="2" color="#000066" class="maintext"><a href="http://www.eetchina.com/ART_8800419660_617685_7ee00f67200605.HTM?click_from=10620,8661287027,2006-06-14,EECOL,NEWSLETTER" target="_blank" >FPGA/PLD市场蛋糕急速膨胀，两大巨头明争暗斗抢地盘</a></font></b><br>
+              <font class=maintext  size="2">市场调研公司Gartner Dataquest的副总裁Bryan Lewis日前预测，2010年FPGA和其它可编程逻辑器件(PLD)市场将从2005年的32亿美元增长到67亿美元。Lewis还预测，2006年FPGA/PLD市场将增长14%至37亿美元，2007年增长18%至43亿美元......</font><br>
+     
+
+</font> 
+ 
+    	
+</font> 
+</td>
+        </tr>
+        <tr>
+          <td width="100%"> </td>
+        </tr>
+        <tr>
+          <td width="100%" class=maintext><br>
+              <b><font  class=maintext size="2" color="#CC0000" >产品新知</font></b><br>
+              <br>
+			  
+              <b><font size="2" color="#000066" class="maintext"><a href="http://www.eetchina.com/ART_8800420977_617685_6205a3c7200606.HTM?click_from=10620,8661287027,2006-06-14,EECOL,NEWSLETTER" target="_blank">ATEME在赛灵思的Virtex-4上成功实现实时H.264视频编码</a></font></b><br>
+              <font  class=maintext size="2" >赛灵思公司与ATEME公司日前宣布推出一款新的基于FPGA的H.264/AVC实时标准清晰度主规格(Main Profile)视频编码器。该IP解决方案由ATEME公司开发，采用单片Virtex-4 FPGA实现，完全符合MPEG-4第10部(ISO/IEC 14496-10)标准，提供了一种高度集成与成本有效的解决方案，并可用于广泛的专业视频应用......
+
+ </font> <br><br>
+              <b><font size="2" color="#000066" class="maintext"><a href="http://www.eetchina.com/ART_8800421192_617685_0de008ae200606.HTM?click_from=10620,8661287027,2006-06-14,EECOL,NEWSLETTER" target="_blank">XILINX与4i2i联手打造Virtex-4 FPGA上的H.264解码器</a></font></b><br>
+              <font  class=maintext size="2" >赛灵思公司与高级视频和音频编码技术硬件及软件提供商4i2i公司，日前宣布推出业界第一款基于FPGA的H.264/AVC高规格(High Profile)实时视频解码器。这款高规格解码器采用单片赛灵思Virtex-4 FPGA和由4i2i公司交易许可的知识产权(IP)核实现，提供了一种适用于各种广泛的基于视频的广播、会议和监视产品的高度集成、成本有效的解决方案......
+ </font> <br>
+ 
+ </td>
+        </tr>
+        <tr>
+          <td width="100%" class=maintext><br>
+              <b><font  class=maintext size="2" color="#CC0000" >论坛热点</font></b><br>
+              <br>
+              <b><font size="2" color="#000066" class="maintext"><a href="http://forum.eetchina.com/thread.jspa?messageID=1200016725&click_from=10620,8661287027,2006-06-14,EECOL,NEWSLETTER"  target="_blank">FPGA开发用什么软件好？</a></font></b>
+           <br>
+              <font  class=maintext size="2" > 
+			我是新手，刚开始接触FPGA和CPLD。不知道用什么软件设计。我看过基于Protel的FPAG设计，不知道那个软件比较好，专业。先谢了。
+			<br>
+              <br>
+              <b><font size="2" color="#000066" class="maintext"><a href="http://forum.eetchina.com/FORUM_POST_1200007029_0.HTM?click_from=10620,8661287027,2006-06-14,EECOL,NEWSLETTER"  target="_blank">
+FPGA中的DLL怎么用？</a></font></b>
+           <br>
+              <font  class=maintext size="2" >在设计过程中，想让25MHZ的源时钟驱动FPGA运行在50MHZ，已经有了CLKDLL实例化的VHDL代码，但是不知道具体怎么操作。是将实例化CLKDLL的代码加到我得设计中吗？但是CLKDLL有好多输出引脚用不着引出啊，象LOCKED, CLK90等等。还有就是如果我不对FPGA中的CLKDLL作任何操作，是不是我给FPGA接上多快的晶振FPGA就跑多块。
+</font> <br>
+
+			    
+          </td>
+        </tr>
+        <tr>
+          <td width="100%"  class=maintext ><br>
+              <b><font  size="2" color="#CC0000" class=maintext> 技术文库 </font></b><br>
+              <br><b><font  size="2"  class=maintext> <a href="http://www.eetchina.com/ART_8800420493_617685_6b11d959200606.HTM?click_from=10620,8661287027,2006-06-14,EECOL,NEWSLETTER"  target="_blank">车用FPGA应用解决方案</a></font></b><br>
+              <font  size="2"  class=maintext>汽车电子工程师传统上利用微控制器、定制ASIC和体积庞大的电线束来引进和控制电子系统，并随着汽车的更新换代而扩展功能。但是，随着元件数量不断增多（三年前一辆普通汽车大约使用20个微控制器，现在则需要40至60个）、上市时间压力日益增大，加上性能要求不断提升，在在都正促使新型技术的出现......</font><br>
+              <br>
+              <b><font  class=maintext size="2" > <a href="
+http://www.eetchina.com/ART_8800413396_617687_3094d588200606.HTM?click_from=10620,8661287027,2006-06-14,EECOL,NEWSLETTER" target="_blank">Xilinx可编程逻辑在人造卫星调制解调器设计中的应用</a></font></b><br>
+              <font  class=maintext size="2" >本文首先回顾了卫星调制技术和标准，详细介绍了卫星调制解调器的主要功能构件，并介绍了一些完成卫星接口功能的专用集成电路，最后介绍了如何在带有USB接口的卫星调制解调器设计中通过Spartan器件完成系统级胶合......
+</font><br>
+              
+          <br>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table width=100% cellpadding=0 cellspacing=0 border=0> 
+              <tr>
+                <td class="maintext" > <font  size="2"  class=maintext><img src="http://image.eetchina.com/SQUARE.GIF" align="absmiddle"> 欲更新您的订阅信息请访问<a href="http://www.eetchina.com/register/user_summary.php?click_from=10620,8661287027,2006-06-14,EECOL,NEWSLETTER"  target="_blank">本页面</a>。</font></td>
+              </tr>
+              <tr>
+                <td class="maintext" ><font  size="2"  class=maintext><img src="http://image.eetchina.com/BLANK.GIF" height="2"></font></td>
+              </tr>
+              <tr>
+                <td class="maintext"> <font  size="2"  class=maintext><img src="http://image.eetchina.com/SQUARE.GIF" align="absmiddle"> 或取消订阅请<a href="http://www.eetchina.com/register/unsubscription.php?click_from=10620,8661287027,2006-06-14,EECOL,NEWSLETTER"  target="_blank">点击此处</a>，我们将不再向您发送类似信息。</font></td>
+              </tr>
+              <tr>
+                <td class="maintext"><font  size="2"  class=maintext><img src="http://image.eetchina.com/BLANK.GIF" height="2"></font></td>
+              </tr>
+              <tr>
+                <td class="maintext"><font  size="2"  class=maintext> <img src="http://image.eetchina.com/SQUARE.GIF" align="absmiddle"> 如果您看到的论坛速递是由朋友转发的，请<a href="http://www.eetchina.com/register/registration.php?click_from=10620,8661287027,2006-06-14,EECOL,NEWSLETTER"  target="_blank">立即注册</a>成为我们的会员，免费订阅论坛速递。</font></td>
+              </tr>
+              <tr>
+                <td class="maintext"><font  size="2"  class=maintext><img src="http://image.eetchina.com/BLANK.GIF" height="2"></font></td>
+              </tr>
+              <tr>
+                <td class="maintext"><font  size="2"  class=maintext><img src="http://image.eetchina.com/SQUARE.GIF" align="absmiddle"> 如果您有任何问题，请发Email至 <a href="mailto:chnserv@eetchina.com">chnserv@eetchina.com</a>。</font></td>
+              </tr>
+          </table></td>
+        </tr>
+    </table></td>
+    <td width="150" valign="top" bgcolor="#DDDDDD"><table width="100%" border="0" cellpadding="6" cellspacing="0" bgcolor="#dddddd">
+        <tr>
+          <td width="100%" height="15" align=center bgcolor="#FFFFFF">		  </td>
+        </tr>
+        <tr>
+          <td align=center><center><a href="http://www.eetchina.com/banprog/eet_ban_click.php?QklEPTExMDAwMDgxNDUvfC98R0lEPTEwMTM0MC98L3xJSUQ9NjAwMDAwODMwNS98L3xJUE09Ti98L3xTUkNIPU4vfC98UFVEPUVFQ09ML3wvfFRhcmdldFVybD1odHRwOi8vd3d3LmFsdGVyYS5jb20uY24vYi9zdHIyZ3gtYm9hcmQuaHRtbD9mPWhwJms9dDE/V1QubWNfaWQ9Z2FfZW5fY21fY2lfc3lfMl8yNDMvfC98" target="_blank"><img src="http://www.eetchina.com/BANNERS/IMAGES/ALTERA_PL_SVB.GIF"  width="120" height="240" border="0" alt="Altera"><img src="http://www.eetchina.com/IMAGES/eet_ban_preview.gif?BID=1100008145/|/|GID=101340/|/|IID=6000008305/|/|IPM=N/|/|SRCH=N/|/|PUD=EECOL/|/|TargetUrl=http://www.altera.com.cn/b/str2gx-board.html?f=hp&k=t1?WT.mc_id=ga_en_cm_ci_sy_2_243/|/|"  width="1" height="1" border="0"></a></center><br></td>
+        </tr>
+           <tr>
+          <td width="100%" style="font: 12px 宋体;" size="2"> 
+              <font class=maintext size=2>
+              <a target="_blank" href="http://www.eetchina.com/STATIC/REDIRECT/Altera_SC_WP01_20060614.htm?click_from=10620,8661287027,2006-06-14,EECOL,NEWSLETTER" style="font: 12px 宋体;" size="2">采用FPGA和嵌入式收发器确保串行协议的信号完整性</a><br>
+              <br>
+              <font class=maintext size=2>
+              <a target="_blank"  href="http://www.eetchina.com/STATIC/REDIRECT/Altera_SC_WP02_20060614.htm?click_from=10620,8661287027,2006-06-14,EECOL,NEWSLETTER" style="font: 12px 宋体;" size="2">下载Stratix II GX FPGA 应用手册</a><br>
+             
+          </font></font></td>
+        </tr>
+		
+        <tr>
+          <td width="100%">
+            <div align="center">
+              
+          </div></td>
+        </tr>
+      </table>
+  <tr>
+    <td colspan=2><table border="0" width="100%" cellspacing="0" cellpadding="0">
+        <tr>
+          <td><br>
+              <br></td>
+        </tr>
+        <tr>
+          <td bgcolor=CCCCCC><img src="http://image.eetasia.com/BLANK.GIF" width="1" height="" alt="" border="0"></td>
+        </tr>
+        <tr>
+          <td><img src="http://image.eetasia.com/BLANK.GIF" width="1" height="5" alt="" border="0"></td>
+        </tr>
+        <tr>
+          <td class=maintext align="center"  size="2"><center>
+              <img src="http://image.eetasia.com/COPYRIGHT.GIF" width="200" height="61" alt="" border="0">
+            </center>
+              <br><font size=2 class="maintext">
+            Copyright (c) 2006 eMedia Asia Ltd. 本网站所有内容均受版权保护。<br>
+            未经版权所有人明确的书面许可，不得以任何方式或媒体翻印或转载本网站的部分或全部内容。 </font></td>
+        </tr>
+    </table></td>
+  </tr>
+</table>
+</body>
+</html><img src="http://www.eetchina.com/IMAGES/BLANK.GIF?open_from=10620,8661287027,2006-06-14,EECOL,NEWSLETTER&email_type=EECOL_NEWSLETTER" border="0" width="1" height="1">电子工程专辑中文网站:  可编程逻辑 | 产品新知 | 新闻和趋势 | 电子工程人物
+              
+              2006年06月14日
+           采用Stratix II GX优化您的高速串行电路板布板设计
+           
+             
+			 
+			             
+Altera Stratix II GX FPGA功能强大的收发器解决方案数据速率虽然高达6.375 Gbps，但并不以牺牲功耗为代价。收发器不但简化了电路板布板设计，而且功耗小于竞争产品的50%。解决方案提供的开发板、工具和附件降低了布板风险，提高了效率。
+
+                      
+               
+            
+        
+        
+           新闻和趋势
+              
+              解密业界首款面向FPGA的IEEE 1588协议解决方案
+          可编程逻辑供应商Altera与德国设计及IP供应商MorethanIP合作，推出据称是业内首款三速以太网媒体接入控制(MAC)IP内核，支持面向精确时钟同步化的IEEE 1588标准。Altera表示，该IP内核可允许联网工业自动化、测量和控制系统设计人员采用Stratix II或Cyclone II FPGA应用这种新兴的工业标准。通过使用Altera的器件，设计人员能在2007年早期完成第二版IEEE 1588标准时更新他们的设计......
+			  
+			   
+              锁定医疗电子，IBM首推心脏起搏器便携式编程系统
+          经过近几年来痛苦的整合，IBM公司正在锁定未来快速增长的医疗电子市场。近日，IBM宣布与St. Jude Medical(St. Paul, Minn.)公司合作生产St. Jude Medical公司的Merlin病人监护系统(Patient Care System)，那是一种对医疗中心的可移植心律转变去纤颤器(ICD)和心脏起搏器进行编程的便携式系统......
+             
+              FPGA/PLD市场蛋糕急速膨胀，两大巨头明争暗斗抢地盘
+              市场调研公司Gartner Dataquest的副总裁Bryan Lewis日前预测，2010年FPGA和其它可编程逻辑器件(PLD)市场将从2005年的32亿美元增长到67亿美元。Lewis还预测，2006年FPGA/PLD市场将增长14%至37亿美元，2007年增长18%至43亿美元......
+     
+
+ 
+ 
+    	
+ 
+
+        
+        
+           
+        
+        
+          
+              产品新知
+              
+			  
+              ATEME在赛灵思的Virtex-4上成功实现实时H.264视频编码
+              赛灵思公司与ATEME公司日前宣布推出一款新的基于FPGA的H.264/AVC实时标准清晰度主规格(Main Profile)视频编码器。该IP解决方案由ATEME公司开发，采用单片Virtex-4 FPGA实现，完全符合MPEG-4第10部(ISO/IEC 14496-10)标准，提供了一种高度集成与成本有效的解决方案，并可用于广泛的专业视频应用......
+
+  
+              XILINX与4i2i联手打造Virtex-4 FPGA上的H.264解码器
+              赛灵思公司与高级视频和音频编码技术硬件及软件提供商4i2i公司，日前宣布推出业界第一款基于FPGA的H.264/AVC高规格(High Profile)实时视频解码器。这款高规格解码器采用单片赛灵思Virtex-4 FPGA和由4i2i公司交易许可的知识产权(IP)核实现，提供了一种适用于各种广泛的基于视频的广播、会议和监视产品的高度集成、成本有效的解决方案......
+  
+ 
+ 
+        
+        
+          
+              论坛热点
+              
+              FPGA开发用什么软件好？
+           
+               
+			我是新手，刚开始接触FPGA和CPLD。不知道用什么软件设计。我看过基于Protel的FPAG设计，不知道那个软件比较好，专业。先谢了。
+			
+              
+              
+FPGA中的DLL怎么用？
+           
+              在设计过程中，想让25MHZ的源时钟驱动FPGA运行在50MHZ，已经有了CLKDLL实例化的VHDL代码，但是不知道具体怎么操作。是将实例化CLKDLL的代码加到我得设计中吗？但是CLKDLL有好多输出引脚用不着引出啊，象LOCKED, CLK90等等。还有就是如果我不对FPGA中的CLKDLL作任何操作，是不是我给FPGA接上多快的晶振FPGA就跑多块。
+ 
+
+			    
+          
+        
+        
+          
+               技术文库 
+               车用FPGA应用解决方案
+              汽车电子工程师传统上利用微控制器、定制ASIC和体积庞大的电线束来引进和控制电子系统，并随着汽车的更新换代而扩展功能。但是，随着元件数量不断增多（三年前一辆普通汽车大约使用20个微控制器，现在则需要40至60个）、上市时间压力日益增大，加上性能要求不断提升，在在都正促使新型技术的出现......
+              
+               Xilinx可编程逻辑在人造卫星调制解调器设计中的应用
+              本文首先回顾了卫星调制技术和标准，详细介绍了卫星调制解调器的主要功能构件，并介绍了一些完成卫星接口功能的专用集成电路，最后介绍了如何在带有USB接口的卫星调制解调器设计中通过Spartan器件完成系统级胶合......
+
+              
+          
+          
+        
+        
+          
+             
+              
+                  欲更新您的订阅信息请访问本页面。
+              
+              
+                
+              
+              
+                  或取消订阅请点击此处，我们将不再向您发送类似信息。
+              
+              
+                
+              
+              
+                  如果您看到的论坛速递是由朋友转发的，请立即注册成为我们的会员，免费订阅论坛速递。
+              
+              
+                
+              
+              
+                 如果您有任何问题，请发Email至 chnserv@eetchina.com。
+              
+          
+        
+    
+    
+        
+          		  
+        
+        
+          
+        
+           
+           
+              
+              采用FPGA和嵌入式收发器确保串行协议的信号完整性
+              
+              
+              下载Stratix II GX FPGA 应用手册
+             
+          
+        
+		
+        
+          
+            
+              
+          
+        
+      
+  
+    
+        
+          
+              
+        
+        
+          
+        
+        
+          
+        
+        
+          
+              
+            
+              
+            Copyright (c) 2006 eMedia Asia Ltd. 本网站所有内容均受版权保护。
+            未经版权所有人明确的书面许可，不得以任何方式或媒体翻印或转载本网站的部分或全部内容。
+</TEXT>
+</DOC>
+

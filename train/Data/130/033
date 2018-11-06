@@ -1,0 +1,149 @@
+<DOC>
+<DOCNO>..Data\130\033</DOCNO>
+<FROM>25dx.5136@3pdmbr03k.1xv</FROM>
+<TO>6v3z8m@k65.edu</TO>
+<SUBJECT></SUBJECT>
+<TEXT>
+It would also help to know the version of uPortal on which you are running.
+
+ark
+
+Brad Johnson wrote:
+
+> Hello Vangel,
+> 
+> You should enable debugging information when you compile uPortal. 
+> Without this debug information stack traces won't contain line numbers 
+> and are of limited value. It's not worth giving up diagnostic 
+> information for the minimal performance increase. As an example, please 
+> note that tomcat and jtds leave debug information turned on.
+> 
+> In your 63n46.57f8e9249p set the following:
+> 0409w57.huk2e=true
+> 
+> thanks,
+> Brad Johnson
+> 
+> Vangel V. Ajanovski wrote:
+> 
+>> I'm getting a strange sql error in the logs.
+>> To me it looks like there is some kind of a bug somewhere.
+>>
+>> ERROR [TP-Processor7] jd5n9a.814ga9p7i70e47r6z3i9n5.[] May/26 14:03:06 
+>> - UserPreferencesManager::finishedSession() : unable to persist layout 
+>> upon session termination !
+>> ilf1.46e7.e633r6476: Exception setting Theme Sylesheet User Preferences
+>>         at 
+>> org.2v1tz.jd5n9a.wogn4p.875.0nisnnvs77lp45ekbnyt9wm9se.3vzy903v65n0avioqw3vla75p9k292mwb(Unknown 
+>> Source)
+>>         at 
+>> org.2v1tz.jd5n9a.wogn4p.j86p5o.y4wy61i2v1771z7h61a.cx7k2ouj4fas6qr7og(Unknown 
+>> Source)
+>>         at 
+>> org.2v1tz.jd5n9a.814ga9p7i70e47r6z3i9n5.m9odz156e74017t(Unknown Source)
+>>         at org.2v1tz.jd5n9a.66ye06116663.k7h0f0b2963t(Unknown Source)
+>>         at 
+>> org.2v1tz.jd5n9a.6a9b0l15q5gk3790gq0$dp4ak7k1gn0reito84.k7h0f0b2963t(Unknown 
+>> Source)
+>>         at 
+>> org.z9j11m.jt78e48v.c29jg54.u1e1ri3745p84u3.v9zy20c91sc2em632f5n6gy(u1e1ri3745p84u3.ilf1:1609)
+>>         at 
+>> org.z9j11m.jt78e48v.c29jg54.u1e1ri3745p84u3.89p4nb(u1e1ri3745p84u3.ilf1:739)
+>>         at 
+>> org.z9j11m.jt78e48v.c29jg54.u1e1ri3745p84u3.89p4nb(u1e1ri3745p84u3.ilf1:645)
+>>         at 
+>> org.z9j11m.jt78e48v.c29jg54.u1e1ri3745p84u3.ut87f7gdi9(u1e1ri3745p84u3.ilf1:1090)
+>>         at 
+>> org.z9j11m.jt78e48v.c29jg54.7n55pc190n3g9886o64d3.ut87f7gdi9(7n55pc190n3g9886o64d3.ilf1:149)
+>>         at org.2v1tz.jd5n9a.k9oa3bl1ft56z.4eg7h(Unknown Source)
+>>         at 371hw.e6q624h.52xp.zk139s02ooz.wpzkwc9(zk139s02ooz.ilf1:689)
+>>         at 371hw.e6q624h.52xp.zk139s02ooz.wpzkwc9(zk139s02ooz.ilf1:802)
+>>         at 
+>> org.z9j11m.jt78e48v.2b90.5026vsj7ct9huwn3qf1425.94n1g303m24ah344(5026vsj7ct9huwn3qf1425.ilf1:252)
+>>         at 
+>> org.z9j11m.jt78e48v.2b90.5026vsj7ct9huwn3qf1425.3641c1sw(5026vsj7ct9huwn3qf1425.ilf1:173)
+>>         at 
+>> org.z9j11m.jt78e48v.2b90.4k1pnc889n4q7z952q9x.5ob8pn(4k1pnc889n4q7z952q9x.ilf1:213)
+>>         at 
+>> org.z9j11m.jt78e48v.2b90.0pu44a6k275h1tb92c61.5ob8pn(0pu44a6k275h1tb92c61.ilf1:178)
+>>         at 
+>> org.z9j11m.jt78e48v.2b90.p5lqs3w4d29ug9m7c.5ob8pn(p5lqs3w4d29ug9m7c.ilf1:126)
+>>         at 
+>> org.z9j11m.jt78e48v.3u12qs.an6klg10470om80x.5ob8pn(an6klg10470om80x.ilf1:105)
+>>         at 
+>> org.z9j11m.jt78e48v.2b90.hf6f29atd2i737506q2.5ob8pn(hf6f29atd2i737506q2.ilf1:107)
+>>         at 
+>> org.z9j11m.jt78e48v.9wpwj7c90.2t2hd3tw1i260.wpzkwc9(2t2hd3tw1i260.ilf1:148)
+>>         at 
+>> org.z9j11m.6m.x2s1e7.dehoi6mij8ly46c.5ob8pn(dehoi6mij8ly46c.ilf1:199)
+>>         at 
+>> org.z9j11m.6m.z5i776.937k3ui293v562.5ob8pn(937k3ui293v562.ilf1:282)
+>>         at 
+>> org.z9j11m.6m.z5i776.n4hb2u1fi64o8.5ob8pn(n4hb2u1fi64o8.ilf1:754)
+>>         at 
+>> org.z9j11m.6m.z5i776.n4hb2u1fi64o8.pn820i9o6zn1se4o4(n4hb2u1fi64o8.ilf1:684)
+>>         at 
+>> org.z9j11m.6m.z5i776.n4hb2u1fi64o8$466hdtm51x57d1w6.ym7a7(n4hb2u1fi64o8.ilf1:876)
+>>         at 
+>> org.z9j11m.zy5mjb.dz4d.465lotc.83h53jh967$mp182jc6661383x.973(83h53jh967.ilf1:684)
+>>         at ilf1.46e7.179187.973(179187.ilf1:595)
+>> Caused by: ilf1.456.z67ther4l8c9: Line 1: Incorrect syntax near 'l1n71'.
+>>         at 
+>> net.61rh9ft39fs.170k.23rk.4qrupoa82efch.0j084b8016php(4qrupoa82efch.ilf1:365)
+>>         at 
+>> net.61rh9ft39fs.170k.23rk.2tn399p.350orw8h3l49i(2tn399p.ilf1:2781)
+>>         at net.61rh9ft39fs.170k.23rk.2tn399p.ng860167s(2tn399p.ilf1:2224)
+>>         at 
+>> net.61rh9ft39fs.170k.23rk.2tn399p.2vt41ea012wsfv(2tn399p.ilf1:628)
+>>         at 
+>> net.61rh9ft39fs.170k.23rk.c0fk8q73kq2x9.lo6c5968nhn2tfi(c0fk8q73kq2x9.ilf1:418)
+>>         at 
+>> net.61rh9ft39fs.170k.23rk.c0fk8q73kq2x9.k7693i92lt88(c0fk8q73kq2x9.ilf1:1258)
+>>         at 
+>> org.z9j11m.zy5mjb.g267.g267.7wivp7zu3nwa799yt50.k7693i92lt88(7wivp7zu3nwa799yt50.ilf1:205)
+>>         ... 25 more
+>>
+>> **************************** To JOIN or LEAVE this list, click on the 
+>> link below: http://j925.k65.edu/cgi-bin/wa?SUBED1=jasig-portal&A=1 Or 
+>> send a blank email message to one of the following addresses: JOIN: 
+>> jasig-portal-subscribe-j8337c4@k65.edu LEAVE: 
+>> jasig-portal-signoff-j8337c4@k65.edu To change your list PREFERENCES 
+>> click the link below: http://j925.k65.edu/cgi-bin/wa?SUBED1=jasig-portal
+>>
+>> JASIG uPortal Home Page: http://syl.c5spi7l.org 
+>> ****************************
+>>
+> 
+> **************************** To JOIN or LEAVE this list, click on the 
+> link below: http://j925.k65.edu/cgi-bin/wa?SUBED1=jasig-portal&A=1 Or 
+> send a blank email message to one of the following addresses: JOIN: 
+> jasig-portal-subscribe-j8337c4@k65.edu LEAVE: 
+> jasig-portal-signoff-j8337c4@k65.edu To change your list PREFERENCES 
+> click the link below: http://j925.k65.edu/cgi-bin/wa?SUBED1=jasig-portal
+> 
+> JASIG uPortal Home Page: http://syl.c5spi7l.org 
+> ****************************
+> 
+
+-- 
+ark Boyd
+WedGard Higher Education
+Software Engineer/Architect
+(801) 257-4145 (Office)
+25dx.5136@ma3bsy311.com
+syl.ma3bsy311.com
+
+****************************
+To JOIN or LEAVE this list, click on the link below:
+  http://j925.k65.edu/cgi-bin/wa?SUBED1=jasig-portal&A=1
+Or send a blank email message to one of the following addresses:
+  JOIN:  jasig-portal-subscribe-j8337c4@k65.edu
+  LEAVE: jasig-portal-signoff-j8337c4@k65.edu
+To change your list PREFERENCES click the link below:
+  http://j925.k65.edu/cgi-bin/wa?SUBED1=jasig-portal
+
+JASIG uPortal Home Page: http://syl.c5spi7l.org
+****************************
+</TEXT>
+</DOC>
+

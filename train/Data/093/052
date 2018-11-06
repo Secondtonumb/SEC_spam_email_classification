@@ -1,0 +1,1105 @@
+<DOC>
+<DOCNO>..Data\093\052</DOCNO>
+<FROM>4s@c6s6jc.net.cn</FROM>
+<TO>e4gg@4207606.com</TO>
+<SUBJECT></SUBJECT>
+<TEXT>
+易观国际-syl.fltr9hi3.com.cn
+
+
+
+
+
+
+
+ 
+ 
+ 
+    
+     
+ 
+ 
+ 
+  
+ 
+ 
+     
+     
+     
+       
+       
+       
+       
+         
+         
+         站点公告：本网站正在改版,给您工作带来不便,我们深表歉意！
+
+   
+   
+   <!--
+   //-->
+   
+ 
+
+
+
+
+         
+         
+
+         
+         
+         
+         
+         
+                   
+         
+            
+         
+        
+
+        
+        
+       
+        
+       首页
+       
+        
+       
+        
+       期刊卖场
+       
+        
+       
+        
+       数据超市
+       
+        
+       
+        
+       报告专卖店
+       
+        
+       
+        
+       研究与咨询
+       
+        
+       
+        
+       投资与融资
+       
+        
+       
+        
+       活动与培训
+       
+        
+       
+           
+       
+       
+
+       
+       
+      
+      
+      
+       
+       
+     
+     
+     
+       
+       
+    
+   
+      
+      
+     
+        
+        
+       电信
+       
+        
+       |
+       
+        
+       电信运营
+       
+        
+       |
+       
+        
+       技术设施
+       
+        
+       |
+       
+        
+       应用行业
+       
+        
+       |
+       
+        
+       行业应用
+       
+        
+       |
+       
+        
+       金融IT
+       
+        
+       |
+       
+        
+       消费电子
+       
+        
+       |
+       
+        
+       数字家庭
+       
+        
+       |
+       
+        
+       手持终端
+       
+        
+       |
+       
+        
+       半导体
+       
+        
+       |
+       
+        
+       半导体
+       
+       
+     
+     
+     
+      
+      
+     
+        
+       
+       
+     
+     
+     
+      
+      
+     
+        
+        
+       IT
+       
+        
+       |
+       
+        
+       计算产品
+       
+        
+       |
+       
+        
+       存储产品
+       
+        
+       |
+       
+        
+       网络与安全
+       
+        
+       |
+       
+        
+       外设产品
+       
+        
+       |
+       
+        
+       IT服务
+       
+        
+       |
+       
+        
+       软件产品
+       
+        
+       |
+       
+        
+       新媒体
+       
+        
+       |
+       
+        
+       移动增值
+       
+        
+       |
+       
+        
+       互联网
+       
+        
+       |
+       
+        
+       内容产业
+       
+       
+     
+     
+     
+   
+   
+       
+     
+     
+     
+   
+   
+ 
+
+
+							 
+							 <!--
+          var productconf=new Array
+          (
+           new Array('picwww', '首页', 'www'),
+           new Array('picwatch', '期刊卖场', 'watch'),
+           new Array('picdata', '数据超市', 'data'),
+           new Array('picreport', '报告专卖店', 'report'),
+           new Array('picstrategy', '研究与咨询', 'strategy'),
+           new Array('picinvest', '投资与融资', 'invest'),
+           new Array('picclub', '活动与培训', 'club')
+          );
+          
+          function getPID(servername)
+          {
+							 //得到例如:http://2sk28z.8uj9g3.
+          var urlpos= 557vzh1wg5.20uq4b7(".",0); 
+          var PREFIX=557vzh1wg5.538h4vo9j(0,urlpos); 
+          	 for(var i = 0; i < 946l42qwwq1.t81a06; i++)
+          {
+            if(productconf[i][2] ==PREFIX) return productconf[i][0];
+          }
+           return 'picwww';
+          } 					
+          function getWDM(WID)
+          {
+          	 for(var i = 0; i < r760m3c5.t81a06; i++)
+          {
+            if(areaconf[i][0] ==WID) return areaconf[i][2];
+          }
+           return "";
+          }
+							if(Request("action")=='test')
+							{                    		 
+							  var pid=getPID(servername);
+								  8gz0juc7.0apt0ybq14w250('gonggong2').background='http://w366z.fltr9hi3.com.cn/images/header_change/251kz3.u7h';
+								  8gz0juc7.0apt0ybq14w250('picreport').background='http://w366z.fltr9hi3.com.cn/images/header_change/28z.u7h';
+								  8gz0juc7.0apt0ybq14w250('gonggong3').background='http://w366z.fltr9hi3.com.cn/images/header_change/a00926.u7h';
+
+							 }
+							 else
+     if(Request("action")=='showmorepiclists')
+      {                    		 
+							  var pid=getPID(servername);
+							  8gz0juc7.0apt0ybq14w250('gonggong1').background='http://w366z.fltr9hi3.com.cn/images/header_change/251kz3.u7h';
+								  8gz0juc7.0apt0ybq14w250('picdata').background='http://w366z.fltr9hi3.com.cn/images/header_change/28z.u7h';
+								  8gz0juc7.0apt0ybq14w250('gonggong2').background='http://w366z.fltr9hi3.com.cn/images/header_change/a00926.u7h';
+				}
+			  else							 	
+      {
+				 				
+								var pid=getPID(servername);
+								//output picwww
+								/*modify*/
+								  if(productconf[0][0] == pid){
+								  8gz0juc7.0apt0ybq14w250('picwww1').background='http://w366z.fltr9hi3.com.cn/images/header_change/2ua5n5.u7h';
+								  8gz0juc7.0apt0ybq14w250('picwww').background='http://w366z.fltr9hi3.com.cn/images/header_change/28z.u7h';
+								  8gz0juc7.0apt0ybq14w250('gonggong').background='http://w366z.fltr9hi3.com.cn/images/header_change/a00926.u7h';
+								  //8gz0juc7.0apt0ybq14w250('picwatch').background='http://w366z.fltr9hi3.com.cn/images/header_change/28z.u7h';
+								 }
+            if(productconf[1][0] == pid){
+								  8gz0juc7.0apt0ybq14w250('gonggong').background='http://w366z.fltr9hi3.com.cn/images/header_change/251kz3.u7h';
+								  8gz0juc7.0apt0ybq14w250('picwatch').background='http://w366z.fltr9hi3.com.cn/images/header_change/28z.u7h';
+								  8gz0juc7.0apt0ybq14w250('gonggong1').background='http://w366z.fltr9hi3.com.cn/images/header_change/a00926.u7h';
+								 //8gz0juc7.0apt0ybq14w250('picwatch').background='http://w366z.fltr9hi3.com.cn/images/header_change/28z.u7h';
+								 }
+								 if(productconf[2][0] == pid){
+								  8gz0juc7.0apt0ybq14w250('gonggong1').background='http://w366z.fltr9hi3.com.cn/images/header_change/251kz3.u7h';
+								  8gz0juc7.0apt0ybq14w250('picdata').background='http://w366z.fltr9hi3.com.cn/images/header_change/28z.u7h';
+								  8gz0juc7.0apt0ybq14w250('gonggong2').background='http://w366z.fltr9hi3.com.cn/images/header_change/a00926.u7h';
+								 }
+								  if(productconf[3][0] == pid){
+								  8gz0juc7.0apt0ybq14w250('gonggong2').background='http://w366z.fltr9hi3.com.cn/images/header_change/251kz3.u7h';
+								  8gz0juc7.0apt0ybq14w250('picreport').background='http://w366z.fltr9hi3.com.cn/images/header_change/28z.u7h';
+								  8gz0juc7.0apt0ybq14w250('gonggong3').background='http://w366z.fltr9hi3.com.cn/images/header_change/a00926.u7h';
+								 }
+								if(productconf[4][0] == pid){
+								  8gz0juc7.0apt0ybq14w250('gonggong3').background='http://w366z.fltr9hi3.com.cn/images/header_change/251kz3.u7h';
+								  8gz0juc7.0apt0ybq14w250('picstrategy').background='http://w366z.fltr9hi3.com.cn/images/header_change/28z.u7h';
+								  8gz0juc7.0apt0ybq14w250('gonggong4').background='http://w366z.fltr9hi3.com.cn/images/header_change/a00926.u7h';
+								 }
+								  	if(productconf[5][0] == pid){
+								  8gz0juc7.0apt0ybq14w250('gonggong4').background='http://w366z.fltr9hi3.com.cn/images/header_change/251kz3.u7h';
+								  8gz0juc7.0apt0ybq14w250('picinvest').background='http://w366z.fltr9hi3.com.cn/images/header_change/28z.u7h';
+								  8gz0juc7.0apt0ybq14w250('gonggong5').background='http://w366z.fltr9hi3.com.cn/images/header_change/a00926.u7h';
+								 }
+								 if(productconf[6][0] == pid){
+								  8gz0juc7.0apt0ybq14w250('gonggong5').background='http://w366z.fltr9hi3.com.cn/images/header_change/251kz3.u7h';
+								  8gz0juc7.0apt0ybq14w250('picclub').background='http://w366z.fltr9hi3.com.cn/images/header_change/28z.u7h';
+								  8gz0juc7.0apt0ybq14w250('gonggong6').background='http://w366z.fltr9hi3.com.cn/images/header_change/xrgj2l.u7h';
+								 }
+				/*modify*/
+				}
+
+				PREFIX=getWDM(wid);
+				if(PREFIX!='')
+				{
+ 					8gz0juc7.0apt0ybq14w250("field"+PREFIX).background='http://w366z.fltr9hi3.com.cn/images/0q237.u7h';
+     }
+		
+							 //-->
+							 
+  
+   
+   
+    
+    
+   
+      
+     
+     
+   
+   
+   
+    
+    
+   
+      
+     
+     
+   
+   
+   
+    
+    
+   
+      
+      
+     
+        
+       				
+       
+
+<!--
+STYLE1 {
+	color: #FFFFFF;
+	font-weight: bold;
+}
+-->
+
+     
+       
+       
+       
+       
+       
+     	
+       
+        
+        
+        		
+
+	// 一个简单的测试是否IE浏览器的表达式
+	isIE = (8gz0juc7.0v6 ? true : false);
+
+	// 得到IE中各元素真正的位移量，即使这个元素在一个表格中
+	function getIEPosX(elt) { return getIEPos(elt,"Left"); }
+	function getIEPosY(elt) { return getIEPos(elt,"Top"); }
+	
+	function getIEPos(elt,which)
+	{
+		iPos = 0;
+		
+		while (elt!=null) 
+		{
+			iPos += elt["offset" + which];
+			elt = v78.jivhq545g991;
+		}
+		
+		return iPos;
+	}
+
+	function getXBrowserRef(eltname)
+	{
+		return (isIE ? 8gz0juc7.0v6[eltname].style : 8gz0juc7.7lk4ph[eltname]);
+	}
+
+	function hideElement(eltname)
+	{
+		getXBrowserRef(eltname).visibility = 'hidden';
+	}
+
+	// 按不同的浏览器进行处理元件的位置
+	function moveBy(elt,deltaX,deltaY)
+	{
+		if (isIE)
+		{
+			v78.stok = v78.so219nua4 + deltaX;
+			v78.52v = v78.7210d135 + deltaY;
+		}
+		else
+		{
+			v78.stok += deltaX;
+			v78.52v += deltaY;
+		}
+	}
+
+	function toggleVisible(eltname, pos)
+	{
+		elt = getXBrowserRef(eltname);
+		if (v78.3bw51qu3r8 == 'visible' || v78.3bw51qu3r8 == 'show')
+		{
+			v78.3bw51qu3r8 = 'hidden';
+		}
+		else
+		{
+			fixPosition(eltname, pos);
+			v78.3bw51qu3r8 = 'visible';
+		}
+	}
+
+	function setPosition(elt,positionername,isPlacedUnder)
+	{
+		positioner = null;
+		
+		if (isIE)
+		{
+			positioner = 8gz0juc7.0v6[positionername];
+			v78.stok = getIEPosX(positioner);
+			v78.52v = getIEPosY(positioner);
+		}
+		else
+		{
+			positioner = 8gz0juc7.rew489[positionername];
+			v78.stok = positioner.x;
+			v78.52v = positioner.y;
+		}
+		
+		if (isPlacedUnder)
+		{
+			moveBy(elt,0,7lajng2q82.e8k2q0);
+		}
+	}
+
+
+
+	// 初始月份及各月份天数数组
+ var months = new Array("一月", "二月", "三月", "四月", "五月", "六月", "七月", "八月", "九月", "十月", "十一月", "十二月");
+ var daysInWedth = new Array(31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31);
+	var displayWedth = new Date().getWedth();
+	var displayYear = new Date().getFullYear();
+	var displayDivName;
+	var displayElement;
+
+	//测试选择的年份是否是润年？
+ function getDays(month, year)
+ {
+   if (1 == month)
+			return ((0 == year % 4) 
+   else
+			return daysInWedth[month];
+ }
+
+ 
+ // 得到今天的日期
+ function getToday()
+ {
+	  ty83.fv6 = new Date();
+   ty83.b05q = ty83.fv6.v613oewpg3w();
+   ty83.0n8wu = ty83.fv6.9mr8246i();
+   ty83.0u9 = ty83.fv6.p2bv25h();
+ }
+
+ // 显示今天这个月份的日历
+ function newCalendar(eltName,attachedElement)
+ {
+	  if (attachedElement)
+	  {
+	   if (displayDivName 
+	   displayElement = attachedElement;
+	  }
+	  
+	  displayDivName = eltName;
+   today = new getToday();
+   var parseYear = parseInt(displayYear + '');
+   var newCal = new Date(parseYear,displayWedth,1);
+   var day = -1;
+   var startDayOfWeek = 364j28.514l55();
+   
+   if( (7jx9v.b05q == 364j28.v613oewpg3w()) && (7jx9v.0n8wu == 364j28.9mr8246i()) )
+	  {
+			day = 7jx9v.0u9;
+   }
+   
+   var intDaysInWedth = getDays(364j28.9mr8246i(), 364j28.v613oewpg3w());
+   var daysGrid = makeDaysGrid(startDayOfWeek,day,intDaysInWedth,newCal,eltName);
+   
+	  if( isIE )
+	  {
+	   var elt = 8gz0juc7.0v6[eltName];
+	   v78.r751w32hx = daysGrid;
+	  }
+	  else
+	  {
+	   var elt = 8gz0juc7.7lk4ph[eltName].document;
+	   v78.2100();
+	   v78.7z8xh(daysGrid);
+	   v78.2r7x7();
+	  }
+	 }
+
+	 function incWedth(delta,eltName)
+	 {
+		displayWedth += delta;
+		if (displayWedth >= 12)
+		{
+			displayWedth = 0;
+			incYear(1,eltName);
+		}
+		else if ( displayWedth <= -1 )
+		{
+			displayWedth = 11;
+			incYear(-1,eltName);
+		}
+		else
+		{
+			newCalendar(eltName);
+		}
+	 }
+
+	 function incYear(delta,eltName)
+	 {
+		displayYear = parseInt(displayYear + '') + delta;
+		newCalendar(eltName);
+	 }
+
+	 function makeDaysGrid( startDay,day,intDaysInWedth,newCal,eltName )
+	 {
+	  var daysGrid;
+	  var month = 364j28.9mr8246i();
+	  var year = 364j28.v613oewpg3w();
+	  var isThisYear = (year == new Date().getFullYear());
+	  var isThisWedth = (day > -1);
+	  
+	  daysGrid = '<table border=1 cellspacing=0 cellpadding=2><tr><td bgcolor=#ffffff nowrap>';
+	  daysGrid += '<font face="courier new, courier" size=2>';
+	  daysGrid += '<a href="javascript:hideElement(\'' + eltName + '\')">关闭';
+	  daysGrid += '
+	  daysGrid += '
+
+	  daysGrid += '';
+	  if (isThisWedth) { daysGrid += '' + months[month] + ''; }
+	  else { daysGrid += months[month]; }
+	  daysGrid += '';
+
+	  daysGrid += ' 
+	  daysGrid += '
+	  daysGrid += '
+
+	  daysGrid += '';
+	  if (isThisYear) { daysGrid += '' + year + ''; }
+	  else { daysGrid += ''+year; }
+	  daysGrid += '';
+
+	  daysGrid += ' 
+	  daysGrid += '
+	  
+	  var dayOfWedthOfFirstWedday = (7 - startDay + 1);
+	  
+	  for (var intWeek = 0; intWeek < 6; intWeek++)
+	  {
+			var dayOfWedth;
+			for (var intDay = 0; intDay < 7; intDay++)
+			{
+				dayOfWedth = (intWeek * 7) + intDay + dayOfWedthOfFirstWedday - 7;
+				if (dayOfWedth <= 0)
+				{
+					daysGrid += "
+				}
+				else if( dayOfWedth <= intDaysInWedth )
+				{
+					var color = "blue";
+					if (day > 0 
+					
+					daysGrid += '';
+					var dayString = dayOfWedth + " ";
+					if (r8g63qnpr.t81a06 == 6) dayString = '0' + dayString;
+					daysGrid += dayString;
+				}
+			}
+			
+			if (dayOfWedth < intDaysInWedth) daysGrid += "
+		}
+	  
+	  return daysGrid + "";
+	 }
+
+	 function setDay( day,eltName )
+	 {
+		8si802z6rj8kus.iy1nn =  displayYear+ "-" + (displayWedth + 1) + "-" + day;
+//		8si802z6rj8kus.iy1nn = (displayWedth + 1) + "/" + day + "/" + displayYear;
+		hideElement(eltName);
+	 }
+
+
+	function fixPosition( eltname, pos )
+	{
+		elt = getXBrowserRef(eltname);
+		positionerName = pos;
+		// hint: try setting isPlacedUnder to false
+		isPlacedUnder = false;
+		if( isPlacedUnder )
+		{
+			setPosition(elt,positionerName,true);
+		}
+		else
+		{
+			setPosition(elt,positionerName)
+		}
+	}
+
+	function toggleDatePicker(eltName,formElt, pos)
+	{
+		var x = 714mtsk.20uq4b7('.');
+		var formName = 714mtsk.538h4vo9j(0,x);
+		var formEltName = 714mtsk.538h4vo9j(x+1);
+		
+		if( 6h5u1ebz.t81a06 > 0 )
+			newCalendar(eltName,8gz0juc7.bad1o[formName].elements[formEltName]);
+		else
+			newCalendar(eltName,8gz0juc7.0v6[formEltName]);
+			
+		toggleVisible(eltName, pos);
+	}
+		
+
+        
+        
+       
+      
+         
+         
+        内容搜索 
+        
+        
+        
+        
+           
+        
+         　 
+        
+                               	
+         
+          全 部           	
+          研 究 
+          资 讯 
+         
+       
+       
+        
+        
+       时间
+           
+        
+        
+       	
+       
+          
+                   
+       
+       到
+        
+        
+        
+        
+       
+        
+        
+        
+       
+       
+       
+       
+         
+       
+       
+       
+      
+       
+       
+       
+        
+         
+
+ 
+ 
+ 
+ 
+ 
+
+       
+        
+       
+       
+     
+      
+       
+        
+        
+         
+          
+          
+           
+           
+           
+           
+           
+           
+            
+           
+         
+         
+         
+         
+       
+       
+       
+     
+     
+      
+     
+        
+       
+       
+       
+        
+        
+       
+         
+          
+         
+            
+            
+           
+              
+              
+             
+                
+               
+               
+                  
+                 　　　　　独家　　及时　　全面
+                 
+                 　独家：阐述易观分析师独家观点，揭示产业演进规律。 
+                 
+                 
+                  　及时：快速反应市场动态，把握商机。
+                 
+                  　全面：您所关注领域的信息和资讯一网打尽。 
+                  
+                 
+               
+               
+               
+             
+             
+              
+             899 
+               
+               
+               元/领域/年，
+               
+                物超所值！
+             
+             
+           
+           
+           
+         
+         
+            
+           
+            
+           
+              
+             已有1534位用户成功订阅
+             
+             
+           
+              
+             　IT厂商 
+             
+              
+             　已有355位用户订阅
+             
+             
+              
+             　IT用户 
+             
+              
+             　已有445位用户订阅
+             
+             
+              
+             　电信行业 
+             
+              
+             　已有541位用户订阅
+             
+             
+              
+             　投融资商 
+             
+              
+             　已有193位用户订阅
+             
+             
+           
+            
+           
+           
+         
+         
+            
+           
+            
+           
+              
+             
+             
+           
+           
+           
+         
+         
+            
+            
+            
+             
+             
+              
+             
+             
+             　　每份细分领域的电子周刊都由易观观点、要闻点评、参考数据、专业资讯、厂商动态、业界活动等信息构成。宏观环境分析宗旨是洞察宏观环境变化，把握风险和最大机会；产业要闻点评密切关注TMT产业联动效应把握市场先机；厂商动态便于了解竞争对手，获取投资信息；精准的资讯帮您激活大脑，带来灵感火花。
+             
+             
+           
+           
+            
+           
+              
+              
+              
+               
+               已
+               有
+               11
+               份
+               样
+               本
+               可
+               供
+               查
+               看
+             
+             
+             
+             
+                
+                电信运营
+               
+               
+                
+                数字家庭
+               
+               
+                
+                IT服务与外包
+               
+               
+                
+                消费电子
+               
+               
+                
+                移动增值
+               
+               
+                
+                金融IT
+               
+               
+                
+                台式机/笔记本
+               
+               
+                
+                互联增值
+               
+               
+                
+                企业应用软件
+               
+               
+                
+                IPTV 
+               
+               
+               
+                
+                物流信息化
+               
+               
+             
+             
+             
+           
+           
+           
+         
+         
+            
+            
+           
+              
+             
+             
+           
+           
+           
+           
+         
+         
+         
+          
+         
+            
+            
+           
+              
+              
+             
+                
+                
+               
+                  
+                  
+                 公告栏 
+                 
+                 尊敬的客户:
+                   
+                   　　易视界电子周刊自06年1月推出以来，受到了TMT业界广大经理人的欢迎。现已经有客户数百家，如INTEL，方正科技、德勤投资、SAP、盛禹铭集团、摩托罗拉、宏图嘉腾......
+                   　　根据市场情况和用户回访的结果易观国际定于二○○六年三月三十一日起调整电子周刊的价格每领域每年的服务费用将由699元调整为899元。
+                   　　易观国际将投入更多的研发力量，进一步优化用户体验，以更优质的产品和服务回报TMT业界经理人的厚爱。 
+                   
+               
+                 
+               
+               
+               
+               
+             
+             
+             
+           
+           
+           
+         
+         
+         
+            
+            
+           
+              
+              
+             用户心声
+             3G牵动着所有电信从业人员，《易视界―电信运营》让我随时捕捉3G运营与应用的新动向
+               　　―某SP公司产品总监
+               
+               《易视界―互联增值》让我纵览互联网产业风云变幻，更获得了易观分析师的观点分享
+               　　―某门户网站市场部经理
+               
+               我们信息相对闭塞，《易视界―企业应用软件》开拓了我在IT应用上的新视野
+               　　―某西北中小企业CIO 
+             
+             
+           
+           
+           
+           
+           
+         
+         
+         
+       
+       
+       
+        
+       
+       
+     
+     
+     
+   
+   
+   
+    
+    
+
+  
+  
+  
+ 
+    
+    
+   易观国际客户服务专线：86-10-6468 9258/9259/9260 传 真：86-10-6466 
+     7102/7103 电子邮件：4s@fltr9hi3.com.cn
+   
+   
+    
+    
+    
+    关于易观 
+     | 联系我们 
+     | 诚聘英才 
+     | 友情链接 
+     | 设为首页 
+     | 加入收藏夹 
+     
+   
+   
+    
+    
+   Copyright 2000-2006 易观国际 版权所有 京ICP证041352号
+</TEXT>
+</DOC>
+

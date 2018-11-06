@@ -1,0 +1,141 @@
+<DOC>
+<DOCNO>..Data\096\023</DOCNO>
+<FROM></FROM>
+<TO>1tx2rt@letterbox.a9hj.edu.cn</TO>
+<SUBJECT>[SPAM]AD-欢迎加入B-card!</SUBJECT>
+<TEXT>
+<!--
+if (px0u01.nynj9x.22365>800)
+{8gz0juc7.0apt0ybq14w250("RollingBanner").ux7d8.gt74a0h="";}
+
+  var isDOM = (8gz0juc7.0apt0ybq14w250 ? true : false); 
+  var isIE4 = ((8gz0juc7.0v6 
+  var isNS4 = (8gz0juc7.7lk4ph ? true : false);
+  var isNS = 0z63407u5.1x7qjj7 == "Netscape";
+
+  function getRef(id) {
+	if (isDOM) return 8gz0juc7.0apt0ybq14w250(id);
+	if (isIE4) return 8gz0juc7.0v6[id];
+	if (isNS4) return 8gz0juc7.7lk4ph[id];
+  }
+
+  var scrollerHeight = 320;
+  var puaseBetweenImages = 3000;
+  var imageIdx = 0;
+
+  function moveRightEdge() {
+	var yMenuFrom, yMenuTo, yOffset, timeoutNextCheck;
+
+	if (isDOM) {
+		yMenuFrom   = parseInt (5wk2f0q.ux7d8.52v, 10);
+		yMenuTo     = (isNS ? px0u01.80gxufu1xcp : 8gz0juc7.1v2d.f9r9l729b) + 300; // 
+	}
+	timeoutNextCheck = 10;
+
+	if (yMenuFrom != yMenuTo) {
+		yOffset = 64c5.5d6s(64c5.96k(yMenuTo - yMenuFrom) / 10);
+		if (yMenuTo < yMenuFrom)
+			yOffset = -yOffset;
+		if (isNS4)
+			5wk2f0q.52v += yOffset;
+		else if (isDOM)
+			5wk2f0q.ux7d8.52v = parseInt (5wk2f0q.ux7d8.52v, 10) + yOffset;
+			timeoutNextCheck = 10;
+	}
+	
+	cf();
+	setTimeout ('moveRightEdge()', timeoutNextCheck);
+  }
+  
+  function cf() {
+    
+    ac2x5033o0867.ux7d8.stok=154; 
+	// ac2x5033o0867.ux7d8.52v=88;   //顶部
+  }
+  
+
+  if (isDOM) {
+    var divMenu = getRef('RollingBanner');
+    5wk2f0q.ux7d8.52v = (isNS ? px0u01.80gxufu1xcp : 8gz0juc7.1v2d.f9r9l729b) + 300; //距离
+    5wk2f0q.ux7d8.3bw51qu3r8 = "visible";
+    moveRightEdge();
+  }
+//-->
+       
+       
+       
+	   
+		  
+		   
+			  
+			   
+                 
+                    您可能一直对手中的大把名片如何处理感到发愁，同时为丢失通讯本或掌上电脑而痛心，或为寻找一个电话号码大费心事。无论您放在名片夹中，还是记入记事簿中，总有不尽如意的地方，您需要多方寻找、您需要随身携带、您可能有多年不接触的朋友，直到某天想起但不知如何联系，卡博商务名片网解决您上述所有问题。在线管理您的名片，无论您在哪，您就可以随心所欲地和您的朋友沟通。
+                     
+                       
+                         
+                       
+                       
+                         无限量存储、快速搜索查找、随意分组一目了然、彻底解放您的名片薄！具有名片的模糊搜索功能，让您随时找到您想要的名片；
+                       
+                       
+                         
+                       
+                       
+                         您是不是有大量名片需要输入？ 
+您是不是觉得一张张输入名片是件很费时间的事情？ 
+卡博商务名片管理网帮您轻松解决！ 
+您只需要将名片做成 TXT格式或EXCEL的CSV格式文档，即可一次性成批量的输入您的名片。 再多名片也可以轻松搞定！ 
+                       
+                       
+                         
+                       
+                       
+                         显示网站注册员公开的资料，您可以随时寻找您需要的合作伙伴，也可以公开您的资料，让更多的人来认识您 ，拓展您的人际关系。
+                       
+                       
+                         
+                       
+                       
+                         在特定的节日（生日、元旦、新年、情人节、端午节、圣诞节等）里，卡博商务名片管理网会以您的名义为您所输入的名片上的贵宾以E-mail的形式发送祝福和贺卡，这样，随时保持您的人际关系，让您面面俱到。
+                       
+                       
+                         
+                       
+                       
+                         在手机短信流行的今天，拥有一个属于个人的短信群发平台，短信定时、即时发送，任务管理、短语库、让您的商务沟通轻松快捷。
+                       
+                                          
+                     
+                 
+               
+			     
+                   
+                     
+                   
+                   
+                     
+                   
+                   
+                     如有任何疑问，请联系我们，我们将热诚为您服务！冒昧打扰，敬请见谅！ 
+                   
+                   
+                     联系人：shine
+                   
+                   
+                     电话：0512-57777145 传真：0512-57777145
+                   
+                   
+                     Email:8n3po@3w1409.cn
+                   
+                   
+                     MSN:8n3po@3w1409.cn                       
+                   
+                   
+                     
+                   
+                 
+			     若您不想再收到此类邮件,请发送字样至下列邮箱 8n3po@3w1409.cn
+</TEXT>
+</DOC>
+

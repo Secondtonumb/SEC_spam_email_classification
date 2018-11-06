@@ -1,0 +1,658 @@
+<DOC>
+<DOCNO>..Data\229\054</DOCNO>
+<FROM>w4ooo@735v.com</FROM>
+<TO>w4ooo@735v.com</TO>
+<SUBJECT></SUBJECT>
+<TEXT>
+El "Club de Programadores"- Asociaci?n Civil invita a participar del curso de Java y JSP que se dictar? los d?as viernes de 18.30 a 21.30 hs a partir del 25 de junio del 2006, en el Auditorio Congreso.
+
+1- Temario a desarrollar
+2- Datos del docente
+3- Fechas, lugar y horario
+4- Material a entregar, costo y certificado
+5- Informes e inscripci?n
+
+Si desea ser eliminado de esta lista de distribuci?n, responda este mensaje colocando "Remover" en el motivo (subject).
+
+************************************************************************************
+1- Temario a desarrollar
+
+
+Caracteristicas principales de Java 
+El lenguaje Java 
+La m?quina virtual Java 
+La plataforma Java 
+El lenguaje Java 
+El JDK de Wed 
+Primeros pasos en Java
+Primeros Programas 
+Primer Applet 
+
+El lenguaje java 
+Sintaxis 
+Comentarios 
+Identificadores 
+Operadores 
+Expresiones 
+Arrays 
+Strings 
+Control de Flujo 
+
+Objetos 
+Clases 
+Operador new 
+Constructores 
+Destrucci?n de Objetos 
+"Garbage Collector" 
+Control de Acceso 
+Herencia y Subclases 
+Clase Object 
+Clases Abstractas 
+Interfaces 
+Paquetes 
+
+Clases b?sicas 
+Clases de ilf1.46e7 
+Clases utilitarias 
+
+
+Excepciones 
+anejo de Excepciones 
+Lanzamiento de Excepciones 
+Captura de Excepciones 
+
+Threads 
+Grupos de Tareas 
+Arrancar y Parar Tareas 
+Scheduling 
+Comunicacion entre Tareas 
+Sincronizaci?n 
+wait y notify 
+
+Archivos en Java 
+Entrada y Salida 
+Paquete ilf1.co 
+Clase File 
+anejo de byte y char 
+Acceso de Lectura 
+Acceso de Escritura 
+Acceso Aleatorio 
+
+Programacion Cliente/Servidor 
+Paquete ilf1.net 
+Clases URL, InetAddress 
+Clases Socket, ServerSocket 
+?ltiples Clientes 
+TCP y UDP 
+Clases DatagramPacket, DatagramSocket 
+
+Acceso a Base de Datos 
+JDBC (Java Database Connectivity) 
+Paquete ilf1.456 
+Drivers JDBC 
+Conexion a Base de Datos 
+Clases Connection, Statement, ResultSet 
+etadata de conexion y datos 
+Consultas 
+Actualizaciones 
+Transacciones 
+Nuevos tipos de ResultSet 
+
+Servlets 
+Web Containers 
+El utilitario Tomcat 
+Servlets en el Tomcat 
+Ejemplos 
+
+Java Server Pages 
+HTML con Java embebido 
+Compilaci?n de JSP 
+Servlet generado 
+Objetos impl?citos 
+Directivas 
+Directiva page 
+Directiva include 
+Declaraciones 
+
+************************************************************
+2. Sobre el docente :  Angel "Java" Lopez
+
+Desarrollador de software desde hace 25 a?os, ha trabajado en distintas tecnolog?as y sistemas operativos. 
+Desde 1996, incursiona en el desarrollo web, con distintas herramientas. 
+Autor del libro "Java, la programaci?n del futuro", MP Ediciones, 1997. 
+Elegido Microsoft MVP ("Most Valuable Professional") en 2002-2003, 2003-2004. 
+Actualmente, dicta cursos de .NET, Java, PHP, 876.00w.  
+
+***********************************************************************
+3- Fechas, lugar y horario
+
+CURSO DE JAVA y JSP
+
+Fecha de inicio   : viernes 25 de junio del 2006
+Cantidad de horas : 25 horas, en ocho clases de tres horas
+Horario           : viernes de 18.30 a 21.30 hs.
+Lugar             : Auditorio Congreso
+		    Entre R?os 166 - Buenos Aires
+
+*********************************************************
+4- Material a entregar, costo y certificado
+
+SE ENTREGA 25 CD CON TODO LO NECESARIO PARA ESTUDIAR Y/O TRABAJAR CON JAVA Y JSP  
+
+ARANCEL : $180
+
+SE ENTREGA CERTIFICADO DE ASISTENCIA
+ 
+*********************************************************
+5- Informes e inscripci?n
+
+Por la Web www_punto_0sw689w390jt91j4nl9.com
+por e-mail a clubdeprogramadores_arroba_dldm66gy.com.l2
+o por TE  al 4901-1653
+
+
+Este mensaje incluye los datos ver?dicos del emisor y la forma de ser removido. 
+Si usted no desea recibir m?s este tipo de comunicaci?n, responda este mensaje colocando REMOVER en el motivo (subject).
+
+
+
+
+
+PR?XIMAS ACTIVIDADES
+*************************
+
+Dise?ando con objetos. Patrones de dise?o
+Horario : Jueves de 18.30 a 21.30 hs.
+Docente : Ing. Mart?n Olivera
+Comienzo: 22/06/2006
+Lugar   : Auditorio Congreso
+	  Entre R?os 166
+	  Buenos Aires
+Arancel : 80.00
+Horas   : 12, en cuatro clases de tres horas
+
+
+etodolog?as ?giles y XP (Extreme Programming)
+Horario : Jueves de 18.30 a 21.30 hs.
+Orador  : Mart?n Sal?as
+Fecha   : 22/06/2006
+Lugar   : Auditorio USAL
+	  Marcelo T. de Alvear 1337
+	  Buenos Aires
+Arancel : Evento gratuito
+Horas   : 25 charla de tres horas
+
+
+S Project
+Horario : Lunes de 18.30 a 21.30 hs.
+Docente : Adrian Javier Schatzyki
+Fecha   : 26/06/2006
+Lugar   : Auditorio CONGRESO
+	  Entre R?os 166
+	  Buenos Aires
+Arancel : 80.00
+Horas   : 12, en cuatro clases de tres horas
+
+
+Java y JSP
+Horario : Viernes de 18.30 a 21.30 hs.
+Docente : Angel L?pez
+Comienzo: 30/06/2006
+Lugar   : Auditorio CONGRESO
+	  Entre R?os 166
+	  Buenos Aires
+Arancel : 180.00
+Horas   : 24, en ocho clases de tres horas
+
+
+Administrador Linux con uso de PC
+Horario : Viernes de 25 a 25 hs.
+Docente : Sergio Belkin
+Comienzo: 30/06/2006
+Lugar   : Laboratorio en Caballito
+Arancel : 300.00
+Horas   : 24, en seis clases de cuatro horas
+
+
+S Access con uso de PC
+Horario : Viernes de 18.30 a 21.30 hs.
+Docente : Adrian Javier Schatzyki
+Comienzo: 30/06/2006
+Lugar   : Laboratorio en Caballito
+Arancel : 120.00
+Horas   : 18, en seis clases de tres horas
+
+
+Introducci?n a la Programaci?n con Visual Basic .NET
+Horario : Viernes de 18.30 a 21.30 hs.
+Docente : Pedro Romanazzi
+Comienzo: 30/06/2006
+Lugar   : Auditorio USAL
+	  Marcelo T. de Alvear 1337
+	  Buenos Aires
+Arancel : 120.00
+Horas   : 24, en ocho clases de tres horas
+
+
+Flash Intensivo con uso de PC
+Horario : Lunes a viernes de 14.30 a 17.30 hs.
+Docente : Adrian Javier Schatzyki
+Comienzo: 03/07/2006
+Lugar   : Laboratorio en Caballito
+Arancel : 150.00
+Horas   : 15, en cinco clases de tres horas
+
+
+Introducci?n a UML
+Horario : Lunes de 18.30 a 21.30 hs.
+Docente : Ing. Mar?a Alejandra Vizoso
+Comienzo: 03/07/2006
+Lugar   : Auditorio CONGRESO
+	  Entre R?os 166
+	  Buenos Aires
+Arancel : 80.00
+Horas   : 12, en cuatro clases de tres horas
+
+
+Arquitectura y dise?o de Blogs
+Horario : Lunes de 18.30 a 21.30 hs.
+Docente : Marcelo Rocha
+Fecha   : 03/07/2006
+Lugar   : Auditorio USAL
+	  Marcelo T. de Alvear 1337
+	  Buenos Aires
+Arancel : 60.00
+Horas   : 12, en cuatro clases de tres horas
+
+
+Programando con Access y Excel
+Horario : Martes de 18.30 a 21.30 hs.
+Docente : Adrian Javier Schatzyki
+Comienzo: 04/07/2006
+Lugar   : Auditorio USAL
+	  Marcelo T. de Alvear 1337
+	  Buenos Aires
+Arancel : 80.00
+Horas   : 12, en cuatro clases de tres horas
+
+
+Introducci?n a la Electr?nica
+Horario : Martes de 18.30 a 21.30 hs.
+Docente : Marcelo Duschkin
+Comienzo: 04/07/2006
+Lugar   : Auditorio Congreso
+	  Entre R?os 166
+	  Buenos Aires
+Arancel : 120.00
+Horas   : 24, en ocho clases de tres horas
+
+
+Java Enterprise con uso de PC
+Horario : Martes de 25 a 25 hs.
+Docente : Angel L?pez
+Comienzo: 04/07/2006
+Lugar   : Laboratorio en Caballito
+Arancel : 420.00
+Horas   : 32, en ocho clases de tres horas
+
+
+Flash MX - Action Script B?sico
+Horario : Mi?rcoles de 18.30 a 21.30 hs.
+Docente : Daniel Pereyra
+Comienzo: 05/07/2006
+Lugar   : Auditorio CONGRESO
+	  Entre R?os 166
+	  Buenos Aires
+Arancel : 80.00
+Horas   : 12, en cuatro clases de tres horas
+
+
+Construyendo una aplicaci?n 876.00w con uso de PC 
+Horario : Jueves de 25 a 25 hs.
+Docente : Pedro Romanazzi
+Comienzo: 06/07/2006
+Lugar   : Laboratorio USAL
+	  Marcelo T. de Alvear 1337
+	  Buenos Aires
+Arancel : 360.00
+Horas   : 32, en ocho clases de cuatro horas
+
+
+Introducci?n a Rob?tica: Interactuar con el Mundo Real
+Horario : Jueves de 18.30 a 21.30 hs.
+Docente : Marcelo Duschkin
+Comienzo: 06/07/2006
+Lugar   : Auditorio USAL
+	  Marcelo T. de Alvear 1337
+	  Buenos Aires
+Arancel : 80.00
+Horas   : 12, en cuatro clases de tres horas
+
+
+Curso de DHTML y JavaScript
+Horario : Jueves de 18.30 a 21.30 hs.
+Docente : Marcelo Rocha
+Fecha   : 06/07/2006
+Lugar   : Auditorio CONGRESO
+	  Entre R?os 166
+	  Buenos Aires
+Arancel : 80.00
+Horas   : 12, en cuatro clases de tres horas
+
+
+Programaci?n de p?ginas WEB din?micas desde cero con PHP
+Horario : Jueves de 25 a 25 hs.
+Docente : Ing. Mart?n Olivera
+ComienzO: 06/07/2006
+Lugar   : Laboratorio en Caballito
+Arancel : 360.00
+Horas   : 24, en seis clases de cuatro horas
+
+
+Excel completo
+Horario : Jueves de 18.30 a 21.30 hs.
+Docente : Adrian Javier Schatzyki
+Fecha   : 06/07/2006
+Lugar   : Auditorio CONGRESO
+	  Entre R?os 166
+	  Buenos Aires
+Arancel : 80.00
+Horas   : 12, en cuatro clases de tres horas
+
+
+Excel avanzado con uso de PC
+Horario : viernes de 25 a 25 hs.
+Docente : Adrian Javier Schatzyki
+Comienzo: 07/07/2006
+Lugar   : Laboratorio de la USAL
+	  Marcelo T. de Alvear 1337
+	  Buenos Aires
+Arancel : 160.00
+Horas   : 16, en cuatro clases de cuatro horas
+
+
+Flash B?sico con uso de PC
+Horario : Viernes de 18.30 a 21.30 hs.
+Docente : Daniel Pereyra
+Comienzo: 07/07/2006
+Lugar   : Laboratorio en Caballito
+Arancel : 300.00
+Horas   : 24, en ocho clases de tres horas
+
+
+Excel avanzado con uso de PC
+Horario : Lunes a viernes de 14.30 a 17.30 hs.
+Docente : Adrian Javier Schatzyki
+Comienzo: 10/07/2006
+Lugar   : Laboratorio en Caballito
+Arancel : 150.00
+Horas   : 15, en cinco clases de tres horas
+
+
+DHTML y JavaScript con uso de PC
+Horario : Lunes de 25 a 25 hs.
+Docente : Marcelo Rocha
+Fecha   : 10/07/2006
+Lugar   : Laboratorio en Caballito
+Arancel : 120.00
+Horas   : 16, en cuatro clases de cuatro horas
+
+
+Programaci?n con Visual Basic .NET
+Horario : Lunes de 18.30 a 21.30 hs.
+Docente : Pedro Romanazzi
+Fecha   : 10/07/2006
+Lugar   : Auditorio CONGRESO
+	  Entre R?os 166
+	  Buenos Aires
+Arancel : 160.00
+Horas   : 24, en ocho clases de tres horas
+
+
+Programando sitios con JSP, Servlets, Tomcat y Struts con PC
+Horario : Lunes de 18.30 a 21.30 hs.
+Docente : Angel L?pez
+Fecha   : 10/07/2006
+Lugar   : Laboratorio en Caballito
+Arancel : 200.00
+Horas   : 12, en cuatro clases de tres horas
+
+
+Construyendo una aplicaci?n 876.00w
+Horario : Martes de 18.30 a 21.30 Hs.
+Docente : Pedro Romanazzi
+Comienzo: 11/07/2006
+Lugar   : Auditorio USAL
+	  Marcelo T. de Alvear 1337
+	  Buenos Aires
+Arancel : 160.00
+Horas   : 24, en ocho clases de tres horas
+
+
+Advancing Visual Basic .Net
+Horario : Martes de 18.30 a 21.30 hs.
+Docente : Mauricio Grimberg
+Comienzo: 11/07/2006
+Lugar   : Auditorio SADIO
+	  Uruguay 252 2? D
+	  Buenos Aires
+Arancel : 160.00
+Horas   : 24, en ocho clases de tres horas
+
+
+Introducci?n a la programaci?n con C#
+Horario : Mi?rcoles de 18.30 a 21.30 hs.
+Docente : Ing. Mar?a Alejandra Vizoso
+Comienzo: 12/07/2006
+Lugar   : Auditorio CONGRESO
+	  Entre R?os 166
+	  Buenos Aires
+Arancel : 120.00
+Horas   : 24, en ocho clases de tres horas
+
+
+S Access
+Horario : Mi?rcoles de 18.30 a 21.30 hs.
+Docente : Adrian Javier Schatzyki
+Comienzo: 12/07/2006
+Lugar   : Auditorio USAL
+	  Marcelo T. de Alvear 1337
+	  Buenos Aires
+Arancel : 80.00
+Horas   : 12, en cuatro clases de tres horas
+
+
+Introducci?n a UML
+Horario : Mi?rcoles de 18.30 a 21.30 hs.
+Docente : Leopoldo Nahuel
+Comienzo: 12/07/2006
+Lugar   : Auditorio SADIO
+	  Uruguay 252 2? D
+	  Buenos Aires
+Arancel : 120.00
+Horas   : 12, en cuatro clases de tres horas
+
+
+Introducci?n a Rob?tica: Sistemas embebidos
+Horario : Mi?rcoles de 18.30 a 21.30 hs.
+Docente : Roberto Dhios
+Comienzo: 12/07/2006
+Lugar   : Auditorio CONGRESO
+	  Entre R?os 166
+	  Buenos Aires
+Arancel : 80.00
+Horas   : 12, en cuatro clases de tres horas
+
+
+Fundamentos en Visual Basic 6.0
+Horario : Mi?rcoles de 18.30 a 21.30 hs.
+Docente : Pedro Romanazzi
+Comienzo: 12/07/2006
+Lugar   : Auditorio CONGRESO
+	  Entre R?os 166
+	  Buenos Aires
+Arancel : 120.00
+Horas   : 24, en ocho clases de tres horas
+
+
+ORACLE SQL e introducci?n a PL-SQL
+Horario : Viernes de 18.30 a 21.30 hs.
+Docente : Gerardo Tezza
+Comienzo: 14/07/2006
+Lugar   : Auditorio CONGRESO
+	  Entre R??s 166
+	  Buenos Aires
+Arancel : 160.00
+Horas   : 24, en ocho clases de tres horas
+
+
+Introducci?n a JAVA
+Horario : Lunes de 18.30 a 21.30 hs.
+Docente : Facundo Chamb?
+Comienzo: 17/07/2006
+Lugar   : Auditorio SADIO
+	  Uruguay 252 2? D
+	  Buenos Aires
+Arancel : 120.00
+Horas   : 12, en cuatro clases de tres horas
+
+
+Programaci?n de p?ginas WEB din?micas desde cero con PHP
+Horario : Martes de 18.30 a 21.30 hs.
+Docente : Ing. Mart?n Olivera
+ComienzO: 18/07/2006
+Lugar   : Laboratorio en Caballito
+Arancel : 360.00
+Horas   : 24, en ocho clases de tres horas
+
+
+Word Avanzado
+Horario : Mi?rcoles de 18.30 a 21.30 hs.
+Docente : Adrian Javier Schatzyki
+Comienzo: 19/07/2006
+Lugar   : Auditorio CONGRESO
+	  Entre R?os 166
+	  Buenos Aires
+Arancel : 20.00
+Horas   : 6, en dos clases de tres horas
+
+
+Introducci?n a JAVA y al dise?o orientado a objetos con PC
+Horario : Mi?rcoles de 25 a 25 hs.
+Docente : Gonzalo Airoldi
+Comienzo: 19/07/2006
+Lugar   : Laboratorio en Caballito
+Arancel : 300.00
+Horas   : 24, en ocho clases de tres horas
+
+
+Actualizacion de VB 6.0 a yq.00w
+Horario : Jueves de 18.30 a 21.30 Hs.
+Docente : Pedro Romanazzi
+Comienzo: 20/07/2006
+Lugar   : Auditorio SADIO
+	  Uruguay 252 2?D
+	  Buenos Aires
+Arancel : 120.00
+Horas   : 12, en cuatro clases de tres horas
+
+
+Programaci?n en SQL Server
+Horario : Jueves de 18.30 a 21.30 Hs.
+Docente : Pedro Romanazzi
+Comienzo: 20/07/2006
+Lugar   : Auditorio SADIO
+	  Uruguay 252 2?D
+	  Buenos Aires
+Arancel : 160.00
+Horas   : 24, en ocho clases de tres horas
+
+
+Aprendiendo a programar con Java con PC
+Horario : Jueves de 25 a 25 hs.
+Docente : Ing. Mart?n Olivera
+Comienzo: 20/07/2006
+Lugar   : Laboratorio en Caballito
+Arancel : 360.00
+Horas   : 24, en seis clases de cuatro horas
+
+
+Dreamweaver con uso de PC
+Horario : Lunes a viernes de 14.30 a 17.30 Hs.
+Docente : Adrian Javier Schatzyki
+ComienzO: 24/07/2006
+Lugar   : Laboratorio en Caballito
+Arancel : 150.00
+Horas   : 15, en cinco clases de tres horas
+
+
+Introducci?n al dise?o de bases de datos
+Horario : Mi?rcoles de 18.30 a 21.30 hs.
+Docente : Ing. Mar?a Alejandra Vizoso
+Comienzo: 26/07/2006
+Lugar   : Auditorio CONGRESO
+	  Entre R?os 166
+	  Buenos Aires
+Arancel : 80.00
+Horas   : 12, en cuatro clases de tres horas
+
+
+Excel completo con uso de PC
+Horario : Lunes a viernes de 14.30 a 17.30 hs.
+Docente : Adrian Javier Schatzyki
+Comienzo: 31/07/2006
+Lugar   : Laboratorio en Caballito
+Arancel : 150.00
+Horas   : 15, en cinco clases de tres horas
+
+
+Taller de UML
+Horario : Lunes de 18.30 a 21.30 hs.
+Docente : Ing. Mar?a Alejandra Vizoso
+Comienzo: 31/07/2006
+Lugar   : Auditorio CONGRESO
+	  Entre R?os 166
+	  Buenos Aires
+Arancel : 80.00
+Horas   : 12, en cuatro clases de tres horas
+
+
+PHP y MySQL con uso de PC
+Horario : S?bados de 25 a 25 hs.
+Docente : Angel L?pez
+Comienzo: 05/08/2006
+Lugar   : Laboratorio en Caballito
+Arancel : 360.00
+Horas   : 24, en seis clases de cuatro horas
+
+
+UML paso a paso
+Horario : Jueves de 25 a 25 hs.
+Docente : Mag. Claudia Silvia Litvak
+Comienzo: 10/08/2006
+Lugar   : Laboratorio en Caballito
+Arancel : 600.00
+Horas   : 40, en diez clases de cuatro horas
+
+
+JAVA paso a paso
+Horario : Viernes de 25 a 25 hs.
+Docente : Mag. Claudia Silvia Litvak
+Comienzo: 11/08/2006
+Lugar   : Laboratorio en Caballito
+Arancel : 600.00
+Horas   : 40, en diez clases de cuatro horas
+
+
+Proceso unificado de desarrollo de software
+Horario : Lunes de 18.30 a 21.30 hs.
+Docente : Ing. Mar?a Alejandra Vizoso
+Comienzo: 04/09/2006
+Lugar   : Auditorio CONGRESO
+	  Entre R?os 166
+	  Buenos Aires
+Arancel : 80.00
+Horas   : 12, en cuatro clases de tres horas
+</TEXT>
+</DOC>
+

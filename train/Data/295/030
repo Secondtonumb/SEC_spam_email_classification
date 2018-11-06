@@ -1,0 +1,239 @@
+<DOC>
+<DOCNO>..Data\295\030</DOCNO>
+<FROM></FROM>
+<TO>0x27r4@a9hj.edu.cn</TO>
+<SUBJECT>Moxa周周送你世界杯专用足球</SUBJECT>
+<TEXT>
+Home
+    
+      
+        
+        
+          
+          联系我们
+  
+    
+    
+
+  
+  
+    
+  
+
+  
+  
+    
+  
+    
+      
+        
+        
+          特点
+    
+      
+        
+        
+          规格
+    
+      
+        
+        
+          Datasheet
+    
+      
+        
+        
+          白皮书
+    
+      
+        
+        
+          新闻稿 
+        
+    
+      
+        
+        
+          订购单
+
+  
+  
+    
+      
+        
+        
+          
+      
+        
+        
+          
+          
+            
+              
+              
+                EDS-518A 
+                  系列 
+              
+                
+                  16+2G-Port 千兆网管型冗余工业以太网交换机
+              
+                
+                  产品特点: 
+              
+                
+                
+                  2个千兆端口＋16 个快速以太网端口（ 光纤/RJ45）
+              
+                
+              
+                
+                
+                  支持Gigabit Turbo Ring (自愈时间  300 ms), 
+                  RSTP/STP(IEEE802.1W/D) 以太网冗余协议
+              
+                
+              
+                
+                
+                  支持QoS, IGMP snooping/GMRP, VLAN, LACP, SNMP V1/V2c/V3, 
+                  RMON
+              
+                
+              
+                
+                
+                  提供广播风暴保护和速率限制功能用于带宽管理
+              
+                
+              
+                
+                
+                  支持IEEE802.1X和SSL，增强网络安全性
+              
+                
+          
+          
+            
+              
+              
+                
+              
+              
+                
+                  
+                  
+                
+                  活动截止时间 July 31, 
+                  2006
+                  
+                  注册方法:
+              
+                
+                  
+                
+                  1. 
+                
+                  立刻点击上面的足球;
+              
+                
+                  
+                
+                  2. 
+                
+                  正确的回答3个问题;
+              
+                
+                  
+                
+                  3. 
+                
+                  递交您的联系方式.
+              
+                
+                  
+                
+                  
+                
+                  
+                  我们会每周抽取10名幸运获胜者, 越早登录, 
+                  得奖机会越高! 
+            ※ 点击这里查阅每周获奖名单! 
+            
+          
+        
+          
+          
+        
+          
+            简化向千兆以太网迁移难度对于现代工业自动化应用来说，如何提升网络的速度已经成为越来越重要的一个观点。为了满足工业应用高速数据传输的要求，MOXA新推出了一款18端口的千兆网管型交换机。EDS-518A为您的千兆骨干网构建，提供更快网络连接的一个强有力的工具。您可以使用 
+            具有2个千兆端口、高端口密度、紧固型交换机EDS-518A，将您的工业自动化网络升级到千兆网络。
+            灵活、可靠、安全的骨干网解决方案EDS-518A 
+            提供了2个组合的千兆端口（内置的RJ45或可选SFP端口），系统集成商可以使用双绞线、光纤或者超长距离光纤，灵活地组建千兆骨干网。EDS-518A系列交换机具有多种高级网管功能，QoS用于划分流量的优先等级，增加传输的确定性，VLAN和GVRP能够使网络的规划更加容易，IGMP 
+            Snooping和GMRP用于过滤多播流量，LACP链路聚合能够最大化带宽利用，SNMP 
+            V1/V2c/V3适合于不同安全等级的网络管理，RMON更加有效的监控网络。此外，IEEE 
+            802.1x和https/SSL，可以大幅度地增强网络的安全性。在您的工业自动化网络中使用EDS-518A系列交换机，可以享受到千兆网络通讯的高速、可靠的特点。
+        
+          
+            
+              
+                
+                    
+                      
+                        您在中华工控网的注册的用户名：                            
+                          
+                        
+                        
+                      
+                      
+                        密码： 
+                        
+                      
+                      
+                        
+                        
+                      
+                      
+                        
+                            
+                        如果您尚未注册，请点击此处免费注册为中华工控网会员
+                      
+                    
+                
+              
+        
+      
+        
+        
+          
+          
+        
+        
+          
+            2006 The Moxa Group. All rights 
+reserved
+
+  
+  
+    
+
+
+
+	function fs_CheckField()
+	{  
+		if (!CheckBlank(mu62bww1.1vjw_Name,"Full Name")) return false;
+		if (!CheckBlank(mu62bww1.791k827,"company")) return false;
+		if (!CheckBlank(mu62bww1.muhgn,"phone")) return false;														
+		if (!CheckEmail(mu62bww1.3lm8y,"E-mail")) return false;	
+		if (!CheckBlank(mu62bww1.ongare0,"address")) return false;	      				
+	}
+
+
+
+
+
+
+_uacct = "UA-297123-1";
+urchinTracker();
+</TEXT>
+</DOC>
+

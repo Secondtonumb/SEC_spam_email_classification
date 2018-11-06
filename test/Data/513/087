@@ -1,0 +1,288 @@
+<DOC>
+<DOCNO>..Data\513\087</DOCNO>
+<FROM>4n23smpit36@mjh.com</FROM>
+<TO>wgux7z440@a9hj.edu.cn</TO>
+<SUBJECT></SUBJECT>
+<TEXT>
+www.allnice.cn　
+
+
+
+
+
+	
+		
+		
+		
+首页
+艺术新闻
+关于我们
+网上商城
+网上房市
+招聘求职
+供求信息
+在线视频
+产品目录
+软件下载
+电子相册
+数据资料
+信息反馈
+艺术论坛
+
+
+       function zydn_net_menuover(td_name,td_bg1,td_co1){
+           if (td_bg1!==""){ td_name.background=td_bg1;}
+           td_name.bgColor=td_co1;
+       } 
+
+       function zydn_net_mouseout(td_name,td_bg){
+           if ( td_bg!==""){
+                td_name.background=td_bg ;}
+           else{
+                     td_name.background="";
+           }
+           td_name.bgColor="";
+      } 
+
+
+
+	
+
+
+	
+		
+			
+
+  
+		
+	用户：
+
+密码：
+
+
+
+
+
+
+
+
+
+
+		
+		
+		
+		
+
+							
+								搜索: 
+						文章
+						栏目
+						数据
+						 
+								
+							
+
+		
+		
+	
+
+
+	
+		
+		
+
+	
+
+
+	
+		
+		
+		　
+		
+		
+	
+	
+		 本网是由一个艺术团队共同维护,建设.其全部成员都是来自高等艺术院校,其目的是为了让更多更好的艺术工作者在网上有一片天空,让祖国的艺术万花筒绽开的更美丽.我国的艺术形式多种多样,奇人异士更是数不胜数,但本网由于自身限制,只做关于雕塑(包括民间工艺),,水彩,人物雕像　树脂工艺品　油画，炭精画等等 
+
+
+
+
+
+
+		　
+		06-5-7
+
+	
+
+
+	
+		
+
+		
+	
+
+
+	
+		
+		
+		 精美炭精画欣赏　5月4日
+ 作品赏析〔2〕　5月5日更多…
+美国务卿赖斯首访欧洲 乘…　2月4日更多…
+  更多…
+目击警方追捕北京西站持枪劫匪 …　2月4日更多…
+ 3900更多…
+
+		
+		
+		
+	
+
+
+	
+		 
+
+		
+	
+
+
+	
+		
+		
+			
+				
+				
+				
+				
+				
+				
+				
+					
+						
+						 粉画炭精画
+艺术新闻人物雕像　树脂工艺品　油画　画像　国际新闻　雕像　国内新闻　军事新闻　中国新闻　体育新闻　
+关于我们
+
+				
+					
+				
+				
+				
+				
+			
+		
+		
+		
+		
+			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			
+		
+		
+		
+		
+			
+				
+				
+				
+					
+				
+					
+						
+					 对雕像 画像，您有什么看法？
+我很喜欢，可就是找不到
+喜欢！可是太贵了
+差不多，如果心情好我也要
+不是很喜欢，但也不讨厌
+一点也不感兴趣
+
+				
+					
+				
+
+			
+		
+		
+	
+
+
+	
+		
+		最新图片
+		本网法律顾…风景8风景9风景6风景5风景4
+
+	
+
+
+	
+		 鲜花/百合/ 祝福 ￥442.00
+
+		
+		网上商城
+	
+
+
+	
+		
+	
+
+
+
+
+
+ 
+
+   function input_url(urltext)
+      if trim(urltext)="" then
+       webname="MY_WebServer"
+      else
+         urltext=right(urltext,len(urltext)-7)
+         web_url=replace(replace(urltext,"?","|"),"&","||")
+         str=instr(urltext,"/")-1
+         if str>0 then
+           webname=left(urltext,str)
+         else
+           webname=urltext
+         end if
+         urltext=right(urltext,len(urltext)-instr(urltext,"?"))
+      end if
+      input_url="webname="&webname&"&WEBURL="&WEB_URL&"&"&urltext
+   end function 
+
+
+var where = document.referrer
+document.write("<img width=0 src=http://www.allnice.cn/'jsq.asp?"+input_url(where)+"'>") 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kk@allnice.cn 电话:592-5794839
+</TEXT>
+</DOC>
+

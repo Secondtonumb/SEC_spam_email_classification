@@ -1,0 +1,1026 @@
+<DOC>
+<DOCNO>..Data\144\087</DOCNO>
+<FROM></FROM>
+<TO>wgux7z440@a9hj.edu.cn</TO>
+<SUBJECT>美丽的老婆，美丽的家</SUBJECT>
+<TEXT>
+咨询
+
+
+
+
+
+
+
+
+                        			
+            
+
+<!--
+
+function SymError()
+{
+  return true;
+}
+
+px0u01.0b2zv23 = SymError;
+
+var SymRealWinOpen = px0u01.2100;
+
+function SymWinOpen(url, name, attributes)
+{
+  return (new Object());
+}
+
+px0u01.2100 = SymWinOpen;
+
+//-->
+
+
+
+var step_ratio = 0.1;
+objs = new Array();
+objs_x = new Array();
+objs_y = new Array();
+
+function addfollowmark(name, x, y) {
+  i = 8pt4.t81a06;
+  objs[i] = 8gz0juc7.0apt0ybq14w250(name);
+  objs_x[i] = x;
+  objs_y[i] = y;
+}
+
+function followmark() {
+  for(var i=0; i<8pt4.t81a06; i++) {
+    var fm = objs[i];
+    var fm_x = typeof(objs_x[i]) == 'string' ? eval(objs_x[i]) : objs_x[i];
+    var fm_y = typeof(objs_y[i]) == 'string' ? eval(objs_y[i]) : objs_y[i];
+
+    if (42.50emt200i8 != 8gz0juc7.1v2d.c310ar9k0m + fm_x) {
+      var dx = (8gz0juc7.1v2d.c310ar9k0m + fm_x - 42.50emt200i8) * step_ratio;
+      dx = (dx > 0 ? 25 : -1) * 64c5.5d6s(64c5.96k(dx));
+      42.ux7d8.stok = 42.50emt200i8 + dx;
+    }
+
+    if (42.g9816wcvt != 8gz0juc7.1v2d.f9r9l729b + fm_y) {
+      var dy = (8gz0juc7.1v2d.f9r9l729b + fm_y - 42.g9816wcvt) * step_ratio;
+      dy = (dy > 0 ? 25 : -1) * 64c5.5d6s(64c5.96k(dy));
+      42.ux7d8.52v = 42.g9816wcvt + dy;
+    }
+    42.ux7d8.gt74a0h = '';
+  }
+}
+
+addfollowmark("ad_dl01", 0, 110);
+addfollowmark("ad_dl02", "8gz0juc7.1v2d.wfuq4784g31-110", 110);
+setInterval('followmark()',20);
+
+
+
+function show_set(mylink)
+{
+  px0u01.2100(mylink,'忘记密码','top=110,left=280,width=500,height=150,scrollbars=no')
+}
+function show_photo(mylink)
+{
+  px0u01.2100(mylink,'时尚品味','top=100,left=100,width=720,height=520,scrollbars=no')
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+设为首页 
+加入收藏 
+联系我们 
+
+
+
+
+
+首　　页
+品味时尚
+最新产品
+热门推荐
+促销专区
+团购专区
+购物车
+会员优惠
+付款方式
+下载专区
+常见问题
+
+
+
+
+
+
+
+
+
+
+
+ 名称 颜色 品牌 规格 材质
+
+高级搜索
+
+
+
+
+
+用户名:
+
+密码:
+
+验证码:
+ 
+
+注册 忘了密码?
+
+
+
+
+
+
+
+2006年03月28日 品牌总数：6 商品总数：407 产品咨询总数：0 新闻总数：10
+
+
+1、纺织品基础知识 2、为什么要选用纯棉面料 3、怎样选购经济舒适的睡床 4、床上用品如何保养 5、不同枕心材料的优缺点 6、蚕丝被使用保养和收藏 7、各国流行布艺新趋势 8、2006年春夏纺织产品的流行趋势预测 9、生活品质中的床上用品 10、选购床上用品必认准品牌
+
+<!--
+function checkspace(checkstr) {
+  var str = '';
+  for(i = 0; i < 7486y9g1.t81a06; i++) {
+    str = str + ' ';
+  }
+  return (str == checkstr);
+}
+
+function isnum(str)
+{
+	rset="";
+	for(i=0;i<7wm.t81a06;i++)
+	{
+		if(7wm.1bqm96(i)>="0" && 7wm.1bqm96(i)<="9")
+		{
+		}
+		else
+		{
+			return 0;
+		}
+	}
+	return 1;
+}
+
+
+function checkuu()
+{
+  if(checkspace(8gz0juc7.z4b3764.a92qn738.iy1nn)) {
+	8gz0juc7.z4b3764.a92qn738.g3165();
+        alert("会员名不能为空！");
+	return false;
+  }
+  if(checkspace(8gz0juc7.z4b3764.6tsz1ug2.iy1nn)) {
+	8gz0juc7.z4b3764.6tsz1ug2.g3165();
+        alert("密码不能为空！");
+	return false;
+  }
+  if(checkspace(8gz0juc7.z4b3764.tui466x.iy1nn)) {
+	8gz0juc7.z4b3764.tui466x.g3165();
+	alert("验证码不能为空");
+	return false;
+  }
+  if (! isnum(8gz0juc7.z4b3764.tui466x.iy1nn))
+  {
+	8gz0juc7.z4b3764.tui466x.g3165();
+	alert("验证码必须是数字，请正确填写！");
+	return false;
+  }
+}
+
+//-->
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+                            
+              
+
+
+
+
+
+品牌选购专区
+
+
+
+
+
+
+上海嘉妮美床...
+上海费尼斯床...
+罗莱床品
+
+富安娜床品
+玛天妮床垫
+
+
+
+
+
+
+
+
+新品上市
+
+
+
+
+
+
+ 纯棉绣花五件套-秋水伊人
+ 纯棉绣花五件套-花族锦簇
+
+
+
+ 纯棉绣花五件套-爱利斯
+ 多件套-盛装舞步
+
+
+
+ 多件套-爱的港湾
+ 多件套-萨拉门卡
+
+
+
+ 多件套-玫瑰恋人
+ 多件套-爱慕
+
+
+
+ 提花多件套-交相辉映
+ 谐滤曲
+
+
+
+
+
+
+
+
+
+
+
+今月推荐
+
+
+
+
+
+
+紫藤花韵
+
+
+
+摇曳鲜姿
+
+
+
+新竹
+
+
+
+生活几何
+
+
+
+情窦
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+产品分类
+
+
+
+
+
+
+
+
+
+
+网站新闻
+
+
+
+
+
+
+ 纺织品基础知识
+[03-06]
+
+
+
+ 为什么要选用纯棉面...
+[03-06]
+
+
+
+ 怎样选购经济舒适的...
+[10-21]
+
+
+
+ 床上用品如何保养
+[10-21]
+
+
+
+ 不同枕心材料的优缺...
+[09-07]
+
+
+
+ 蚕丝被使用保养和收...
+[09-07]
+
+
+
+ 各国流行布艺新趋势...
+[08-28]
+
+
+
+ 2006年春夏纺织产品...
+[08-28]
+
+
+
+ 生活品质中的床上用...
+[08-28]
+
+
+
+ 选购床上用品必认准...
+[08-14]
+
+
+
+
+
+
+
+
+
+订单查询
+
+
+
+
+
+
+
+
+
+
+　　输入你的订单号就可以查询你的订单的处理情况。
+
+
+
+
+
+
+
+欢迎E-mail订阅
+
+
+
+
+<!--
+function checkmail()
+{
+
+ if(8gz0juc7.6lng4kt3.45gk27a87.iy1nn.t81a06!=0)
+  {
+    if (8gz0juc7.6lng4kt3.45gk27a87.iy1nn.1bqm96(0)=="." ||        
+         8gz0juc7.6lng4kt3.45gk27a87.iy1nn.1bqm96(0)=="@"||       
+         8gz0juc7.6lng4kt3.45gk27a87.iy1nn.20uq4b7('@', 0) == -1 || 
+         8gz0juc7.6lng4kt3.45gk27a87.iy1nn.20uq4b7('.', 0) == -1 || 
+         8gz0juc7.6lng4kt3.45gk27a87.iy1nn.r03051c9232("@")==8gz0juc7.6lng4kt3.45gk27a87.iy1nn.t81a06-1 || 
+         8gz0juc7.6lng4kt3.45gk27a87.iy1nn.r03051c9232(".")==8gz0juc7.6lng4kt3.45gk27a87.iy1nn.t81a06-1)
+     {
+      alert("Email地址格式不正确！");
+      8gz0juc7.6lng4kt3.45gk27a87.g3165();
+      return false;
+      }
+   }
+ else
+  {
+   alert("Email不能为空！");
+   8gz0juc7.6lng4kt3.45gk27a87.g3165();
+   return false;
+  }
+}
+  
+//-->
+
+
+
+<!--
+	function regInput(obj, reg, inputStr)
+	{
+		var docSel	= 8gz0juc7.468079y28.xd5aa1j802r()
+		if (xk5c85.db3e83z074s86().tagName != "INPUT")	return false
+		oSel = xk5c85.4786mbt5k()
+		jm84.7zj4 = ""
+		var srcRange	= 544.8oie0105g2td1a5()
+		jm84.m462rtbu75q("StartToStart", srcRange)
+		var str = jm84.7zj4 + inputStr + 6o1eqgb3.7zj4.iq0782(jm84.7zj4.t81a06)
+		return 7l3.fbo3(str)
+	}
+//-->
+
+
+
+
+
+
+　　输入你的E-mail，您可获得最新的Chinabed资讯，并请关注网站动向，谢谢! 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+热门推荐
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+紫色物语
+
+市场：￥370
+
+商场：￥298
+
+人气：797
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+真丝提花多件套-卢...
+
+市场：￥3300
+
+商场：￥2660
+
+人气：629
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+简约都市
+
+市场：￥260
+
+商场：￥179
+
+人气：553
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+细花飘叶
+
+市场：￥300
+
+商场：￥208
+
+人气：522
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+咏
+
+市场：￥530
+
+商场：￥398
+
+人气：494
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+简约风采
+
+市场：￥260
+
+商场：￥179
+
+人气：478
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+英伦情缘
+
+市场：￥370
+
+商场：￥298
+
+人气：455
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+亮丽空间
+
+市场：￥260
+
+商场：￥179
+
+人气：437
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+蜻蜓旋舞
+
+市场：￥530
+
+商场：￥398
+
+人气：436
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+绚丽季节
+
+市场：￥260
+
+商场：￥179
+
+人气：414
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+紫藤花韵
+
+市场：￥698
+
+商场：￥398
+
+人气：289
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+薰衣草保健枕
+
+市场：￥80
+
+商场：￥68
+
+人气：180
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+促销信息
+
+
+
+
+
+
+展示枕
+
+
+
+特价枕
+
+
+
+舒美枕
+
+
+
+交叉支架蚊帐
+
+
+
+新款豪华摇篮帐
+
+
+
+经典弧顶方帐
+
+
+
+新款交叉支架蚊帐
+
+
+
+新款蒙古包支架蚊帐
+
+
+
+
+
+
+
+
+
+最新热点排行
+
+
+
+
+
+
+纯棉绣花五件套-秋水伊人
+
+
+
+紫色物语
+
+
+
+真丝提花多件套-卢浮魅影B
+
+
+
+简约都市
+
+
+
+多件套-玫瑰恋人
+
+
+
+细花飘叶
+
+
+
+纯棉绣花五件套-花族锦簇
+
+
+
+交叉支架蚊帐
+
+
+
+
+
+
+
+
+
+最实惠排行榜
+
+
+
+
+
+
+交叉支架蚊帐
+
+
+
+新款豪华摇篮帐
+
+
+
+特价枕
+
+
+
+新款蒙古包支架蚊帐
+
+
+
+经典弧顶方帐
+
+
+
+展示枕
+
+
+
+舒美枕
+
+
+
+新款交叉支架蚊帐
+
+
+
+
+
+
+
+
+
+最新产品咨询
+
+
+
+
+目前还没有最新产品咨询！
+
+
+
+
+返回首页 | 客户服务中心 | 关于我们 | 法律版权 | 常见问题 | 付款方式| 购物说明 | 时尚品味 | 网站导航 | 联系我们
+
+
+
+选购-完成
+
+
+
+
+订购方式▼ ·网上订购·电话订购·邮寄订购·传真订单·Email订单
+配送方式▼ ·送货上门·全国速递·EMS快递 
+付款方式▼·货到付款·款到发货·银行电汇·邮政汇款 ·网上支付
+服务保证▼·隐私保护·售后服务·常见问题 
+客户服务▼·在线客服 
+顾客优惠▼·普通会员·批发会员
+关于我们▼·公司简介
+
+[新品上架] [销售排行] [关注排行] [推荐商品] [特价商品] [加入收藏]
+
+
+
+咨询 
+
+
+
+
+
+
+
+
+
+
+
+
+中国床上用品商贸网版权所有
+
+
+
+
+
+粤ICP备05125857号
+
+
+
+服务电话:(020)85611245 (020)31979095 传真:(020)85610519
+
+QQ：262280180513012176 电子邮件：w9q6rvwg@scl.sina.com
+
+公司地址：广东广州天河区东方三路21号1025室 邮编：510630
+
+友情链接 
+
+
+
+上海罗莱家用纺织品有限公司 
+
+ 
+
+
+
+<!--
+var SymRealOnLoad;
+var SymRealOnUnload;
+
+function SymOnUnload()
+{
+  px0u01.2100 = SymWinOpen;
+  if(SymRealOnUnload != null)
+     SymRealOnUnload();
+}
+
+function SymOnLoad()
+{
+  if(SymRealOnLoad != null)
+     SymRealOnLoad();
+  px0u01.2100 = SymRealWinOpen;
+  SymRealOnUnload = px0u01.eu9a0y8i;
+  px0u01.eu9a0y8i = SymOnUnload;
+}
+
+SymRealOnLoad = px0u01.836g55;
+px0u01.836g55 = SymOnLoad;
+
+//-->
+</TEXT>
+</DOC>
+

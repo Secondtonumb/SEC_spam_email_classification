@@ -1,0 +1,2965 @@
+<DOC>
+<DOCNO>..Data\291\070</DOCNO>
+<FROM>ki814m9mp@tr7ln8.com</FROM>
+<TO>jvmgkn99e@4207606.com</TO>
+<SUBJECT></SUBJECT>
+<TEXT>
+function check()
+ {
+ if (document.sch.keyword.value=='')
+ {
+   alert('请输入关键字！');
+   return false;
+   }
+  }  
+ 
+
+  
+    
+    
+        
+        
+        
+        
+      
+    
+        
+          
+          登录/注册 | 购物车 | 我的帐户 | 购物指南 | 文字版
+          
+        
+      
+    
+  
+  
+    
+    
+        
+          
+          
+        
+        
+          
+        
+      
+  
+  
+    
+    
+        
+          
+              
+                首　页
+              
+            
+          
+              
+                男用系列
+              
+            
+          
+              
+                女用系列
+              
+            
+          
+              
+                情趣用品
+              
+            
+          
+              
+                情趣内衣
+              
+            
+          
+              
+                避孕测孕
+              
+            
+          
+              
+                壮阳增大
+              
+            
+          
+              
+                助情类
+              
+            
+          
+              
+                保健护理
+              
+            
+          
+        
+      
+    
+  
+  
+    
+    
+        
+          
+            
+            名称|编号
+            
+            
+            
+                全部
+                
+                男用系列
+                
+                保健护理
+                
+                壮阳增大
+                
+                女用系列
+                
+                情趣用品
+                
+                情趣内衣
+                
+                避孕测孕
+                
+                助情类
+                
+              
+              
+            
+            
+            
+                .::按品牌购物::.
+                
+                爱侣
+                
+                每日星球
+                
+                欲望都市
+                
+                夜火
+                
+                伊丝丽
+                
+                人之源
+                
+                杜蕾斯
+                
+                杰士邦
+                
+                千岱
+                
+                lovely-kit
+                
+                欧姿丽雅
+                
+                梯酷
+                
+                第六感
+                
+                ST.HERB圣荷 
+                
+              
+            搜索风云榜-高级搜索
+            
+          
+        
+      
+    
+  
+
+
+
+
+
+   
+     
+      
+         
+          
+               
+                 
+              
+               
+                 
+                
+				
+<!--
+
+        var scrollerwidth=480 // 
+        var scrollerheight=22  // 
+        var scrollerbgcolor='#ffffff'  // 
+        var scrollerbackground=''  // 
+        var num = 6 // 
+        var scrollspeed='3000'  // 
+        var waitingtime='0'          // 
+
+        var messages=new Array() 
+        if (messages.length>1)
+        i=2
+        else
+        i=0 
+
+        function move1(whichlayer){  
+        tlayer=eval(whichlayer)  
+        if (tlayer.top>0&&tlayer.top<=num){  
+        tlayer.top=0  
+        setTimeout("move1(tlayer)",scrollspeed)  
+        setTimeout("move2(document.main.document.second)",scrollspeed)  
+        return  
+        }  
+        if (tlayer.top>=tlayer.document.height*-1){  
+        tlayer.top-=num
+        setTimeout("move1(tlayer)",waitingtime)  
+        }  
+        else{  
+        tlayer.top=scrollerheight  
+        tlayer.document.write(messages[i])  
+        tlayer.document.close()  
+        if (i==messages.length-1)  
+        i=0  
+        else  
+        i++  
+        }  
+        }  
+          
+        function move2(whichlayer){  
+        tlayer2=eval(whichlayer)  
+        if (tlayer2.top>0&&tlayer2.top<=num){  
+        tlayer2.top=0  
+        setTimeout("move2(tlayer2)",scrollspeed)  
+        setTimeout("move1(document.main.document.first)",scrollspeed)  
+        return  
+        }  
+        if (tlayer2.top>=tlayer2.document.height*-1){  
+        tlayer2.top-=num
+        setTimeout("move2(tlayer2)",waitingtime)  
+        }  
+        else{  
+        tlayer2.top=scrollerheight  
+        tlayer2.document.write(messages[i])  
+        tlayer2.document.close()  
+        if (i==messages.length-1)  
+        i=0  
+        else  
+        i++  
+        }  
+        }  
+          
+        function move3(whichdiv){  
+        tdiv=eval(whichdiv)  
+        if (tdiv.style.pixelTop>0&&tdiv.style.pixelTop<=num){  
+        tdiv.style.pixelTop=0  
+        setTimeout("move3(tdiv)",scrollspeed)  
+        setTimeout("move4(second2)",scrollspeed)  
+        return  
+        }  
+        if (tdiv.style.pixelTop>=tdiv.offsetHeight*-1){  
+        tdiv.style.pixelTop-=num
+        setTimeout("move3(tdiv)",waitingtime)  
+        }  
+        else{  
+        tdiv.style.pixelTop=scrollerheight  
+        tdiv.innerHTML=messages[i]  
+        if (i==messages.length-1)  
+        i=0  
+        else  
+        i++  
+        }  
+        }  
+          
+        function move4(whichdiv){  
+        tdiv2=eval(whichdiv)  
+        if (tdiv2.style.pixelTop>0&&tdiv2.style.pixelTop<=num){  
+        tdiv2.style.pixelTop=0  
+        setTimeout("move4(tdiv2)",scrollspeed)  
+        setTimeout("move3(first2)",scrollspeed)  
+        return  
+        }  
+        if (tdiv2.style.pixelTop>=tdiv2.offsetHeight*-1){  
+        tdiv2.style.pixelTop-=num  
+        setTimeout("move4(second2)",waitingtime)  
+        }  
+        else{  
+        tdiv2.style.pixelTop=scrollerheight  
+        tdiv2.innerHTML=messages[i]  
+        if (i==messages.length-1)  
+        i=0  
+        else  
+        i++  
+        }  
+        }  
+          
+        function startscroll(){  
+                if (document.all){  
+                move3(first2)  
+                second2.style.top=scrollerheight  
+                second2.style.visibility='visible'  
+                }  
+                else if (document.layers){  
+                document.main.visibility='show'  
+                move1(document.main.document.first)  
+                document.main.document.second.top=scrollerheight+num  
+                document.main.document.second.visibility='show'  
+                }  
+     }
+        window.onload=startscroll
+          
+//-->
+ 
+        
+<!--
+
+	messages[0]='<table width=98%><tr><td><a href=http://www.chinaxshop.com/hot.asp?id=8 target=_blank class=hot><b><font class=0>旧貌换新颜，商城换新版，礼品送不完！ </b></font></a></td></tr></table>'	
+
+	messages[1]='<table width=98%><tr><td><a href=http://www.chinaxshop.com/hot.asp?id=7 target=_blank class=hot><b><font class=1>购买健慰器均赠送避孕套，多买多送！ </b></font></a></td></tr></table>'	
+
+	messages[2]='<table width=98%><tr><td><a href=http://www.chinaxshop.com/hot.asp?id=10 target=_blank class=hot><b><font class=2>货到付款，购物无风险，先收货，再给钱！ </b></font></a></td></tr></table>'	
+
+	messages[3]='<table width=98%><tr><td><a href=http://www.chinaxshop.com/hot.asp?id=9 target=_blank class=hot><b><font class=3>禁果可以尽情的吃，亚当夏娃送给您！ </b></font></a></td></tr></table>'	
+
+if (document.all){
+        document.writeln('<span id="main2" style="position:relative;width:'+scrollerwidth+';height:'+scrollerheight+';overflow:hiden;background-color:'+scrollerbgcolor+' ;background-image:url('+scrollerbackground+')">')
+        document.writeln('<div style="position:absolute;width:'+scrollerwidth+';height:'+scrollerheight+';clip:rect(0 '+scrollerwidth+' '+scrollerheight+' 0);left:0;top:0">')
+        document.writeln('<div id="first2" style="position:absolute;width:'+scrollerwidth+';left:0;top:1;">')
+        document.write(messages[0])
+        document.writeln('</div>') 
+
+        document.writeln('<div id="second2" style="position:absolute;width:'+scrollerwidth+';left:0;top:0;visibility:hidden">')
+        document.write(messages[1])
+        document.writeln('</div>')
+        document.writeln('</div>')
+        document.writeln('</span>')
+}
+
+//-->
+
+				
+                 
+              
+               
+                 
+              
+            
+        
+         
+          
+              
+              
+              
+        
+         
+          
+        
+         
+          
+               
+                
+              
+               
+                
+                  
+                    
+                        
+                        
+                           
+                                像海浪般彻底冲掉你们的…
+                          优惠价格：￥8.00 
+                        
+                        
+                        
+                           
+                                清除你的妇科烦恼。
+                          优惠价格：￥10.00 
+                        
+                        
+                        
+                           
+                                助你达到性爱的高潮。
+                          优惠价格：￥353.00 
+                        
+                        
+                        
+                           
+                                来自真人式的整体性爱！
+                          优惠价格：￥5980.00 
+                        
+                        
+                    
+                    
+
+                        
+                        
+                           
+                                让你油刃有余。
+                          促销价格：￥16.00 
+                        
+                        
+                        
+                           
+                                Micro Depth…
+                          促销价格：￥50.00 
+                        
+                        
+                        
+                           
+                                诱人的味道，吸引你～～…
+                          促销价格：￥305.00 
+                        
+                        
+                        
+                           
+                                红颜佳人若即若离，让人…
+                          促销价格：￥140.00 
+                        
+                        
+                    
+                  
+                  
+                    
+                        
+                          
+                          
+                              
+                                
+                              
+                              
+                                
+                                    
+                                      
+                                    
+                                
+                              
+                              
+                                
+                              
+                              
+                                
+                                  浪爽洁阴洗液
+                                
+                              
+                          
+                          
+                          
+                              
+                                
+                              
+                              
+                                
+                                    
+                                      
+                                    
+                                
+                              
+                              
+                                
+                              
+                              
+                                
+                                  妇炎洁妇洁栓
+                                
+                              
+                          
+                          
+                          
+                              
+                                
+                              
+                              
+                                
+                                    
+                                      
+                                    
+                                
+                              
+                              
+                                
+                              
+                              
+                                
+                                  佛裸蒙
+                                
+                              
+                          
+                          
+                          
+                              
+                                
+                              
+                              
+                                
+                                    
+                                      
+                                    
+                                
+                              
+                              
+                                
+                              
+                              
+                                
+                                  妙龄美少女…
+                                
+                              
+                          
+                          
+                          
+                              
+                                
+                              
+                              
+                                
+                                    
+                                      
+                                    
+                                
+                              
+                              
+                                
+                              
+                              
+                                
+                                  玫瑰船柠檬…
+                                
+                              
+                          
+                          
+                        
+                    
+                  
+                
+              
+            
+        
+      
+    
+     
+      
+         
+          
+        
+        
+          
+        
+         
+          
+               
+                
+                     
+                      
+                           
+                            
+                            
+                          
+                           
+                            
+                            
+                                 
+                                  
+                                      
+                                       
+                                        电话：
+                                        13008809596
+                                      
+                                      
+                                       
+                                        短信定购：
+                                        13008809596
+                                      
+                                      
+                                       
+                                        男客服QQ：
+                                        634493021
+                                      
+                                      
+                                       
+                                        女客服QQ：
+                                        513337792
+                                      
+                                      
+                                    
+                                
+                                 
+                                  
+                                       
+                                        
+                                        
+                                      
+                                    
+                                
+                              
+                          
+                        
+                    
+                  
+              
+               
+                
+              
+               
+                 
+                    
+                    
+                    
+              
+               
+                
+              
+               
+                 
+              
+            
+        
+      
+    
+  
+
+
+   
+    
+	
+
+
+<!--
+var sohuAD=new Array(); 
+var sohuADlink=new Array(); 
+var sohuADmsg=new Array(); 
+var adNum=3; 
+
+
+sohuAD[0]="images/video_03.jpg"; 
+sohuADlink[0]="video.asp?id=1"; 
+sohuADmsg[0]="激情视频，精彩回放";
+
+sohuAD[1]="images/video_04.jpg"; 
+sohuADlink[1]="video.asp?id=42"; 
+sohuADmsg[1]="使用过程全程录制 ";
+
+sohuAD[2]="images/video_05.jpg"; 
+sohuADlink[2]="video.asp?id=41"; 
+sohuADmsg[2]="手把手教你玩转“性”福";
+
+sohuAD[3]="images/video_06.jpg"; 
+sohuADlink[3]="video.asp?id=30"; 
+sohuADmsg[3]="面对面，让你性心十足！";
+
+sohuAD[4]="images/video_01.jpg"; 
+sohuADlink[4]="video.asp?id=30"; 
+sohuADmsg[4]="使用过程全程录制！";
+
+sohuAD[5]="images/video_07.jpg"; 
+sohuADlink[5]="video.asp?id=11"; 
+sohuADmsg[5]="手把手教你玩转“性”福";
+
+var preloadedimages=new Array(); 
+for (i=1;i<sohuAD.length;i++){ 
+preloadedimages[i]=new Image(); 
+preloadedimages[i].src=http://www.chinaxshop.com/sohuad[i]; 
+} 
+
+function setTransition(){ 
+if (document.all){ 
+sohuADrush.filters.revealTrans.Transition=30; 
+sohuADrush.filters.revealTrans.apply(); 
+} 
+} 
+
+function playTransition(){ 
+if (document.all) 
+sohuADrush.filters.revealTrans.play() 
+} 
+
+function jump2url(){ 
+jumpUrl=sohuADlink[adNum]; 
+jumpTarget='_blank'; 
+if (jumpUrl != ''){ 
+if (jumpTarget != '')window.open(jumpUrl,jumpTarget); 
+else location.href=http://www.chinaxshop.com/jumpurl; 
+} 
+} 
+
+function nextAd(){ 
+if(adNum<sohuAD.length-1)adNum++ ; 
+else adNum=0; 
+setTransition(); 
+document.images.sohuadrush.src=http://www.chinaxshop.com/sohuad[adnum]; 
+playTransition(); 
+displayStatusMsg();
+theTimer=setTimeout("nextAd()", 5000); 
+} 
+
+function displayStatusMsg() { 
+status=sohuADmsg[adNum]; 
+document.returnValue = true; 
+} 
+-->
+
+
+
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+-->
+
+
+  
+    
+  
+  
+    
+    
+	  nextAd()
+    
+  
+  
+    
+  
+
+
+
+	
+         
+          
+              
+                
+              
+             
+            
+               
+                
+                    
+                     
+                      
+                      [情趣]采蜜的蝴蝶
+                      ￥75.00
+                    
+                    
+                     
+                      
+                      [情趣]月亮湾
+                      ￥178.00
+                    
+                    
+                     
+                      
+                      [男用]浴室小秘
+                      ￥499.00
+                    
+                    
+                     
+                      
+                      [女用]一泄千里
+                      ￥228.00
+                    
+                    
+                     
+                      
+                      [情趣]一起快乐
+                      ￥173.00
+                    
+                    
+                     
+                      
+                      [情趣]一触即刷
+                      ￥99.00
+                    
+                    
+                     
+                      
+                      [情趣]遥控激情红
+                      ￥300.00
+                    
+                    
+                     
+                      
+                      [情趣]遥控彩蝶二
+                      ￥149.00
+                    
+                    
+                     
+                      
+                      [女用]星际204
+                      ￥169.00
+                    
+                    
+                  
+              
+            
+          
+        
+      
+    
+	
+         
+          
+
+   
+    
+    
+  
+   
+                
+    
+                
+                
+                
+  
+   
+    
+  
+  
+     
+
+			 
+	 var sinfo_1='<table width="100%" border="0" cellspacing="0" cellpadding="0" class="f" onmouseover=zanting() onmouseout=yanshi(1)><tr><td width="50%"><table width="100%" border="0" cellspacing="0" cellpadding="5"><tr><td>充气娃娃 法兰西苏菲亚…【会员价】￥828.00法兰西苏菲亚(￥828.00妙龄美少女整体￥5980.00夜宵配送员￥199.00野蛮女友￥368.00午夜皇后￥480.00安妮公主￥699.00极度辣妹￥728.00'
+		  
+		  
+	var sinfo_2='<table width="100%" border="0" cellspacing="0" cellpadding="0" class="f" onmouseover=zanting() onmouseout=yanshi(2)><tr><td width="50%"><table width="100%" border="0" cellspacing="0" cellpadding="5"><tr><td>阴蒂刺激 彩光海豚【会员价】￥125.00彩光海豚￥125.00弹导小海豚￥90.00吻蜂而动￥150.00私家挂件￥125.00舌战群芳￥82.00老龙头￥30.00蜂起蜜涌￥60.00'
+		  
+    var sinfo_3='<table width="100%" border="0" cellspacing="0" cellpadding="0" class="f" onmouseover=zanting() onmouseout=yanshi(3)><tr><td width="50%"><table width="100%" border="0" cellspacing="0" cellpadding="5"><tr><td>情趣套装 豪华型六件套【会员价】￥138.00豪华型六件套￥138.00一网情深￥212.00指环王￥186.00野战套装￥125.00小辣椒欢乐套装￥96.00嗡嗡的小蜜蜂￥128.00完美调情豪华套￥282.00'
+	
+	  document.write(sInfo_1);
+    
+    
+    
+  
+
+            
+function Changetab(id){
+	sInfo = eval('sInfo_' + id);
+	if(sInfo == ''){
+		alert('数据尚未下载完毕，请刷新页面再试！！');
+	}else{
+		document.getElementById('subT').innerHTML = sInfo;
+		zanting();
+	}
+}
+    
+            
+	var i=0
+	var thetime
+	var thetimer
+function xunhuan(){
+	if(i < 3){
+	   i = i + 1;
+	 }
+	else{
+	   i = 1
+	 }
+	document.getElementById('subT').innerHTML = eval('sInfo_' + i);
+	thetime=setTimeout("xunhuan()",8000);
+	}
+function yanshi(xh){
+   i=xh
+   thetimer=setTimeout("xunhuan()",2000);
+   }
+   xunhuan();
+
+
+function zanting()
+{  
+   clearTimeout(thetimer);
+   clearTimeout(thetime);
+}
+		  
+        
+         
+          
+        
+        
+          
+        
+         
+          
+            
+              
+              
+              
+            
+            
+              
+              
+                  
+                    
+                    
+                  
+                  
+                    
+                  
+              
+              
+              
+              
+                  
+                    
+                    
+                  
+                  
+                    
+                  
+              
+            
+            
+              
+                    
+                     
+                      随着你对她的进一步了解，你会爱不
+                      ￥1.00
+                    
+                    
+                     
+                      设计小巧、精干、方便，少女的嫩红
+                      ￥26.00
+                    
+                    
+                     
+                      迷人色彩改变你传统生活！
+                      ￥28.00
+                    
+                    
+                     
+                      造型逼真形象，叹为观止！
+                      ￥18.00
+                    
+                    
+                     
+                      让你的雄风如洪水般一浪高过一浪！
+                      ￥252.00
+                    
+                    
+                     
+                      仿真设计，短小精悍！
+                      ￥18.00
+                    
+                    
+                     
+                      享受贵族式的性生活，中国男人的肾
+                      ￥60.00
+                    
+                    
+                     
+                      医治诸虚百损全在冬虫夏草
+                      ￥150.00
+                    
+                    
+                  
+              
+              
+                    
+                     
+                      妇科困挠去的干干净净。
+                      ￥28.00
+                    
+                    
+                     
+                      慢慢的，钻入你的体内，正如你慢慢
+                      ￥162.00
+                    
+                    
+                     
+                      感受星期五的味道
+                      ￥142.00
+                    
+                    
+                     
+                      有人说紫色代表性感，有人说紫色代
+                      ￥25.00
+                    
+                    
+                     
+                      淋梅不在影响以后的生活！
+                      ￥30.00
+                    
+                    
+                     
+                      有效呵护口腔！
+                      ￥28.00
+                    
+                    
+                     
+                      抗菌除臭一点不留！
+                      ￥28.00
+                    
+                    
+                     
+                      有效增进男性功能，使你有意想不到
+                      ￥278.00
+                    
+                    
+                  
+            
+            
+              
+            
+           
+        
+       
+	
+  
+
+	
+	
+
+   
+     
+      
+         
+          
+        
+         
+          
+          
+              
+               
+                 
+                  1美臀夹阴
+                  
+                ￥650.00
+              
+              
+               
+                 
+                  2梦幻芳草园
+                  
+                ￥220.00
+              
+              
+               
+                 
+                  3犹敌
+                  
+                ￥85.00
+              
+              
+               
+                 
+                  4止痒灵喷剂
+                  
+                ￥28.00
+              
+              
+               
+                 
+                  5情趣钻
+                  
+                ￥162.00
+              
+              
+               
+                 
+                  6波波夫
+                  
+                ￥40.00
+              
+              
+               
+                 
+                  7男助理
+                  
+                ￥28.00
+              
+              
+               
+                 
+                  8艾莉小姐
+                  
+                ￥450.00
+              
+              
+               
+                 
+                  9双头龙
+                  
+                ￥88.00
+              
+              
+               
+                 
+                  10流氓兔
+                  
+                ￥90.00
+              
+              
+               
+                 
+                  11新美乳贴片
+                  
+                ￥170.00
+              
+              
+               
+                 
+                  12真空助勃器
+                  
+                ￥176.00
+              
+              
+               
+                 
+                  13霸王枪
+                  
+                ￥135.00
+              
+              
+            
+          
+        
+         
+          
+        
+      
+     
+      
+	
+		   
+	
+	
+		
+			
+		
+          
+                
+            
+                
+
+                     
+                      
+
+                           
+                            
+                            
+                              
+                                
+                              
+                                                          美国fancy 
+                              三重强效增大,…
+                            ￥980.00
+                            
+                            
+                              
+                                
+                              
+                                                          伟哥王
+                              助你游刃有余！…
+                            ￥12.00
+                            
+                            
+                              
+                                
+                              
+                                                          威哥王九鞭粒
+                              大大促进生殖器…
+                            ￥20.00
+                            
+                          
+                        
+                        
+                    
+                     
+                      
+                    
+                    
+                      
+                           
+                            
+                             
+                              ￥980.00美国fancy 
+                            
+                             
+                              ￥12.00伟哥王
+                            
+                             
+                              ￥20.00威哥王九鞭粒
+                            
+                             
+                              ￥22.00快挺
+                            
+                             
+                              ￥30.00治泄神油
+                            
+                             
+                              ￥48.00神你油喷剂(3m
+                            
+                          
+                          
+                        
+                    
+                  
+                
+          
+        
+		
+			
+	
+	
+		
+			
+	
+
+  
+
+	
+	
+
+
+  
+    
+  
+  
+    
+    
+         
+          
+          紫色星空透明小裤 
+             评语: 
+            我那位把这件衣服穿上，真是性感
+            
+            ￥25.00详情评论 
+             
+          
+          水中浮云透明超短裙 
+             评语: 
+            好漂亮呀,还是透明的,真让人喜欢.
+            
+            ￥185.00详情评论 
+             
+          
+          妖娆缠绵玉女套装 
+             评语: 
+            太漂亮了,像个高贵的贵夫人,也像玉女
+            
+            ￥188.00详情评论 
+             
+          
+          蝶之恋鲜花香型 
+             评语: 
+            再次购买.上次买的用完了,这次要便宜点…
+            
+            ￥6.00详情评论 
+             
+          
+          非常男女浮点套 
+             评语: 
+            买器具的时候送了一个.
+下次买个整体…
+            
+            ￥12.00详情评论 
+             
+          
+          漂亮mm水果香型 
+             评语: 
+            买了一盒.用一下挺好.就是有点薄
+            
+            ￥6.00详情评论 
+             
+          
+        
+        
+       
+    
+    
+	
+	     
+          
+        
+        
+
+        
+          同起同落，共同越过生命中的优弧
+        
+        
+
+        
+          吸引异性的绝密武器！
+        
+        
+
+        
+          魅力之源―佛罗蒙
+        
+        
+
+        
+          一弯明月“照”乳房―月亮湾
+        
+        
+
+        
+          收放之间自是风光无限―一触即刷
+        
+        
+
+        
+          产品因你而变―百变龙虎豹
+        
+        
+
+        
+          我的快感你遥控―遥控彩蝶二代
+        
+        
+
+        
+          亚洲首创―妙龄美少女整体人
+        
+        
+
+        
+          逍遥的办公女郎―office…
+        
+        
+
+        
+          功能更强的女用精品―美舌家
+        
+        
+      
+    
+  
+  
+    
+  
+
+	
+	
+	
+
+
+	
+	
+		
+     
+    
+	
+
+
+	
+   
+     
+		
+    
+        
+          
+		  
+               
+                
+              
+              
+                
+				
+                     
+                      
+                    
+                   
+				  
+                
+              
+            
+			
+              
+                 
+                  
+                     
+                      
+                    
+                     
+                      名称：紫色星空透明
+                    
+                  
+				  
+                     
+                      
+                    
+                     
+                      介绍：有人说紫色代
+                    
+                  
+                  
+                     
+                      
+                    
+                     
+                      会员价：￥25.00
+                    
+                       
+				  
+                     
+                      
+                    
+                     
+                      
+                    
+                  
+			    
+  
+                      
+                      
+                
+                    
+
+
+		      
+          
+		  
+               
+                
+              
+              
+                
+				
+                     
+                      
+                    
+                   
+				  
+                
+              
+            
+			
+              
+                 
+                  
+                     
+                      
+                    
+                     
+                      名称：陆军米彩男士
+                    
+                  
+				  
+                     
+                      
+                    
+                     
+                      介绍：陆军米彩为你
+                    
+                  
+                  
+                     
+                      
+                    
+                     
+                      会员价：￥68.00
+                    
+                       
+				  
+                     
+                      
+                    
+                     
+                      
+                    
+                  
+			    
+  
+                      
+                      
+                
+                    
+
+
+		      
+          
+		  
+               
+                
+              
+              
+                
+				
+                     
+                      
+                    
+                   
+				  
+                
+              
+            
+			
+              
+                 
+                  
+                     
+                      
+                    
+                     
+                      名称：卡通小丑游戏
+                    
+                  
+				  
+                     
+                      
+                    
+                     
+                      介绍：以小丑作为表
+                    
+                  
+                  
+                     
+                      
+                    
+                     
+                      会员价：￥50.00
+                    
+                       
+				  
+                     
+                      
+                    
+                     
+                      
+                    
+                  
+			    
+  
+                      
+                      
+                
+                    
+
+
+		      
+          
+		  
+               
+                
+              
+              
+                
+				
+                     
+                      
+                    
+                   
+				  
+                
+              
+            
+			
+              
+                 
+                  
+                     
+                      
+                    
+                     
+                      名称：黄纱透明男士
+                    
+                  
+				  
+                     
+                      
+                    
+                     
+                      介绍：朝气蓬勃的透
+                    
+                  
+                  
+                     
+                      
+                    
+                     
+                      会员价：￥45.00
+                    
+                       
+				  
+                     
+                      
+                    
+                     
+                      
+                    
+                  
+			    
+  
+                      
+                      
+                
+                    
+
+
+		      
+        
+      
+      
+         
+          
+           
+            棉+尼龙的面料上印有银色抽象图案，件…
+            ￥420.00
+          
+           
+            凭添几分狂野的性感气息。
+            ￥212.00
+          
+           
+            超高弹力面料，大网眼，兼有黑色圆点装饰
+            ￥200.00
+          
+           
+            纤纤玉体，体现完美身材！
+            ￥832.00
+          
+           
+            半透明的诱惑，最性感的挑逗！
+            ￥220.00
+          
+           
+            犹如进入桃色梦魇中！
+            ￥212.00
+          
+           
+            犹如梦里仙境！
+            ￥346.00
+          
+           
+            凭添几分狂野的性感气息。
+            ￥210.00
+          
+        
+        
+      
+  
+
+	
+	
+	
+
+
+	
+	
+		
+     
+    
+	
+
+
+	
+   
+     
+		
+    
+        
+          
+		  
+               
+                
+              
+              
+                
+				
+                     
+                      
+                    
+                   
+				  
+                
+              
+            
+			
+              
+                 
+                  
+                     
+                      
+                    
+                     
+                      名称：情趣钻
+
+                    
+                  
+				  
+                     
+                      
+                    
+                     
+                      介绍：慢慢的，钻入
+                    
+                  
+                  
+                     
+                      
+                    
+                     
+                      会员价：￥162.00
+                    
+                       
+				  
+                     
+                      
+                    
+                     
+                      
+                    
+                  
+			    
+  
+                      
+                      
+                
+                    
+
+
+		      
+          
+		  
+               
+                
+              
+              
+                
+				
+                     
+                      
+                    
+                   
+				  
+                
+              
+            
+			
+              
+                 
+                  
+                     
+                      
+                    
+                     
+                      名称：y-07 加
+                    
+                  
+				  
+                     
+                      
+                    
+                     
+                      介绍：小巧别致,却
+                    
+                  
+                  
+                     
+                      
+                    
+                     
+                      会员价：￥140.00
+                    
+                       
+				  
+                     
+                      
+                    
+                     
+                      
+                    
+                  
+			    
+  
+                      
+                      
+                
+                    
+
+
+		      
+          
+		  
+               
+                
+              
+              
+                
+				
+                     
+                      
+                    
+                   
+				  
+                
+              
+            
+			
+              
+                 
+                  
+                     
+                      
+                    
+                     
+                      名称：流氓兔
+
+                    
+                  
+				  
+                     
+                      
+                    
+                     
+                      介绍：无线变速流氓
+                    
+                  
+                  
+                     
+                      
+                    
+                     
+                      会员价：￥90.00
+                    
+                       
+				  
+                     
+                      
+                    
+                     
+                      
+                    
+                  
+			    
+  
+                      
+                      
+                
+                    
+
+
+		      
+          
+		  
+               
+                
+              
+              
+                
+				
+                     
+                      
+                    
+                   
+				  
+                
+              
+            
+			
+              
+                 
+                  
+                     
+                      
+                    
+                     
+                      名称：后庭独秀
+                    
+                  
+				  
+                     
+                      
+                    
+                     
+                      介绍：完美的造型，
+                    
+                  
+                  
+                     
+                      
+                    
+                     
+                      会员价：￥155.00
+                    
+                       
+				  
+                     
+                      
+                    
+                     
+                      
+                    
+                  
+			    
+  
+                      
+                      
+                
+                    
+
+
+		      
+        
+      
+      
+         
+          
+           
+            迷人色彩改变你传统生活！
+            ￥28.00
+          
+           
+            真正的精致丝绸，特殊工艺镂空，美不胜…
+            ￥182.00
+          
+           
+            激情的演绎，爱的交融！
+            ￥30.00
+          
+           
+            马亦如此有激情！
+            ￥30.00
+          
+           
+            小河马形象生动有趣！
+            ￥30.00
+          
+           
+            鸳鸯戏水，情意无限！
+            ￥18.00
+          
+           
+            浣熊笨笨，“它”真的这么笨吗？
+            ￥30.00
+          
+           
+            小牛强强，拉伸自如！
+            ￥45.00
+          
+        
+        
+      
+  
+
+	
+	
+	
+
+	
+	
+		
+     
+    
+	
+
+
+	
+   
+     
+		
+    
+        
+          
+		  
+               
+                
+              
+              
+                
+				
+                     
+                      
+                    
+                   
+				  
+                
+              
+            
+			
+              
+                 
+                  
+                     
+                      
+                    
+                     
+                      名称：白带净栓
+                    
+                  
+				  
+                     
+                      
+                    
+                     
+                      介绍：妇科困挠去的
+                    
+                  
+                  
+                     
+                      
+                    
+                     
+                      会员价：￥28.00
+                    
+                       
+				  
+                     
+                      
+                    
+                     
+                      
+                    
+                  
+			    
+  
+                      
+                      
+                
+                    
+
+
+		      
+          
+		  
+               
+                
+              
+              
+                
+				
+                     
+                      
+                    
+                   
+				  
+                
+              
+            
+			
+              
+                 
+                  
+                     
+                      
+                    
+                     
+                      名称：洁氏淋梅净
+                    
+                  
+				  
+                     
+                      
+                    
+                     
+                      介绍：淋梅不在影响
+                    
+                  
+                  
+                     
+                      
+                    
+                     
+                      会员价：￥30.00
+                    
+                       
+				  
+                     
+                      
+                    
+                     
+                      
+                    
+                  
+			    
+  
+                      
+                      
+                
+                    
+
+
+		      
+          
+		  
+               
+                
+              
+              
+                
+				
+                     
+                      
+                    
+                   
+				  
+                
+              
+            
+			
+              
+                 
+                  
+                     
+                      
+                    
+                     
+                      名称：口腔喷剂
+                    
+                  
+				  
+                     
+                      
+                    
+                     
+                      介绍：有效呵护口腔
+                    
+                  
+                  
+                     
+                      
+                    
+                     
+                      会员价：￥28.00
+                    
+                       
+				  
+                     
+                      
+                    
+                     
+                      
+                    
+                  
+			    
+  
+                      
+                      
+                
+                    
+
+
+		      
+          
+		  
+               
+                
+              
+              
+                
+				
+                     
+                      
+                    
+                   
+				  
+                
+              
+            
+			
+              
+                 
+                  
+                     
+                      
+                    
+                     
+                      名称：抗菌防臭
+                    
+                  
+				  
+                     
+                      
+                    
+                     
+                      介绍：抗菌除臭一点
+                    
+                  
+                  
+                     
+                      
+                    
+                     
+                      会员价：￥28.00
+                    
+                       
+				  
+                     
+                      
+                    
+                     
+                      
+                    
+                  
+			    
+  
+                      
+                      
+                
+                    
+
+
+		      
+        
+      
+      
+         
+          
+           
+            沉浸在百合花香中享受沐浴
+            ￥48.00
+          
+           
+            沉浸在百种花香中享受沐浴
+            ￥48.00
+          
+           
+            沉浸在薰衣草香中享受沐浴
+            ￥55.00
+          
+           
+            去除体味 让身体散发淡淡幽香
+            ￥72.00
+          
+           
+            沉浸在木兰花香中享受沐浴
+            ￥45.00
+          
+           
+            花瓣香皂，体验无限洗浴乐趣
+            ￥22.00
+          
+           
+            花瓣香皂，体验无限洗浴乐趣
+            ￥22.00
+          
+           
+            好多泡泡 宝宝更爱洗澡澡
+            ￥50.00
+          
+        
+        
+      
+  
+
+	
+	
+	
+	
+	
+		
+     
+    
+	
+
+
+
+	
+   
+     
+		
+    
+        
+          
+		  
+               
+                
+              
+              
+                
+				
+                     
+                      
+                    
+                   
+				  
+                
+              
+            
+			
+              
+                 
+                  
+                     
+                      
+                    
+                     
+                      名称：秀色可餐(西
+                    
+                  
+				  
+                     
+                      
+                    
+                     
+                      介绍：感受星期五的
+                    
+                  
+                  
+                     
+                      
+                    
+                     
+                      会员价：￥142.00
+                    
+                       
+				  
+                     
+                      
+                    
+                     
+                      
+                    
+                  
+			    
+  
+                      
+                      
+                
+                    
+
+
+		      
+          
+		  
+               
+                
+              
+              
+                
+				
+                     
+                      
+                    
+                   
+				  
+                
+              
+            
+			
+              
+                 
+                  
+                     
+                      
+                    
+                     
+                      名称：佛裸蒙
+
+                    
+                  
+				  
+                     
+                      
+                    
+                     
+                      介绍：助你达到性爱
+                    
+                  
+                  
+                     
+                      
+                    
+                     
+                      会员价：￥353.00
+                    
+                       
+				  
+                     
+                      
+                    
+                     
+                      
+                    
+                  
+			    
+  
+                      
+                      
+                
+                    
+
+
+		      
+          
+		  
+               
+                
+              
+              
+                
+				
+                     
+                      
+                    
+                   
+				  
+                
+              
+            
+			
+              
+                 
+                  
+                     
+                      
+                    
+                     
+                      名称：vivid 
+
+                    
+                  
+				  
+                     
+                      
+                    
+                     
+                      介绍：爱就此唤醒！
+                    
+                  
+                  
+                     
+                      
+                    
+                     
+                      会员价：￥278.00
+                    
+                       
+				  
+                     
+                      
+                    
+                     
+                      
+                    
+                  
+			    
+  
+                      
+                      
+                
+                    
+
+
+		      
+          
+		  
+               
+                
+              
+              
+                
+				
+                     
+                      
+                    
+                   
+				  
+                
+              
+            
+			
+              
+                 
+                  
+                     
+                      
+                    
+                     
+                      名称：伊丝丽水基润
+                    
+                  
+				  
+                     
+                      
+                    
+                     
+                      介绍：您的肌肤持续
+                    
+                  
+                  
+                     
+                      
+                    
+                     
+                      会员价：￥96.00
+                    
+                       
+				  
+                     
+                      
+                    
+                     
+                      
+                    
+                  
+			    
+  
+                      
+                      
+                
+                    
+
+
+		      
+        
+      
+      
+         
+          
+           
+            共享爱情梦幻仙境！
+            ￥300.00
+          
+           
+            将你带入一个自由、激情、浪漫的梦幻世…
+            ￥350.00
+          
+           
+            性感香氛让人沉醉！
+            ￥110.00
+          
+           
+            是你挥不去的味道……!
+            ￥230.00
+          
+           
+            俘获女性芳心的利剑
+            ￥52.00
+          
+           
+            回归自然的味道
+            ￥52.00
+          
+           
+            天香国色 妩媚动人
+            ￥52.00
+          
+           
+            异国风情让你魅力独具
+            ￥52.00
+          
+        
+        
+      
+  
+
+	
+	
+	
+
+  
+    
+    
+      
+        
+          
+          
+        
+          
+          
+        
+      
+      
+    
+    
+    
+    
+        
+          
+        
+    
+  
+
+	
+	
+	
+
+
+  
+    
+    
+    
+  
+
+	
+	
+	
+
+   
+     
+     
+     
+     
+     
+  
+   
+     
+     
+  
+   
+     
+    
+
+        
+           
+            
+              
+               
+                逼真的舒适快感只有体验才能懂得！
+              
+               
+               
+                第三代充气娃娃，采用全新无缝整体技术
+              
+               
+               
+                世界有名的性感小姐
+              
+               
+               
+                享受夏威夷的浪漫情怀！
+              
+               
+               
+                享受夏威夷的浪漫情怀！
+              
+               
+               
+                想和西班牙女郎共舞吗？想和西班牙斗士
+              
+               
+			  
+                …更多内容
+              
+             
+            
+
+          
+              
+               
+                胸部的隐形好玩伴!
+              
+                
+               
+                一人使用，双洞快感；二人使用，一起快
+              
+                
+               
+                超爽的震荡能让您时时刻刻倍受快感
+              
+                
+               
+                彩蝶在手，轻松掌握无限快乐！！
+              
+                
+               
+                打造水晶般的感受！还可以防水哦！
+              
+                
+               
+                挺直干炼，超长的滚珠刺激，令人无法自
+              
+                
+			  
+                …更多内容
+              
+            
+            
+        
+       
+    
+     
+     
+  
+   
+    
+
+        
+		 
+          商城大优惠,注册即送十个{2006-4-7}
+        
+        
+          
+        
+		
+		 
+          货到付款，购物无风险，先{2006-4-7}
+        
+        
+          
+        
+		
+		 
+          亚当夏娃连锁商城升级完成{2006-4-7}
+        
+        
+          
+        
+		
+       
+    
+     
+  
+   
+     
+     
+  
+   
+     
+     
+  
+   
+     
+     
+     
+     
+     
+     
+  
+   
+     
+     
+      
+         
+          
+          
+		  
+              
+			  
+                [文]含有生殖器插图，性教育教…
+              
+              
+			  
+                [文]男人如果忍精不射……
+              
+              
+			  
+                [文]男性私密处瘙痒最忌乱抓
+              
+              
+			  
+                [文]男人性交需要小心三种过敏…
+              
+              
+			  
+                [文]男性健康之非常攻略
+              
+              
+			  
+                [文]月经周期
+              
+              
+			  
+                [文]边怀孕边工作要注意
+              
+              
+            
+        
+      
+    
+     
+     
+     
+  
+   
+    
+
+  
+    
+	
+	 
+        
+           
+            
+          
+          
+            调查项目：你用过口交液吗？ 
+               
+              
+          
+          
+           
+             
+                 
+                   
+                    非常不错，经常用
+                
+              
+          
+          
+           
+             
+                 
+                   
+                    有时候用
+                
+              
+          
+          
+           
+             
+                 
+                   
+                    一般不怎么用
+                
+              
+          
+          
+           
+             
+                 
+                   
+                    不喜欢，没有用过
+                
+              
+          
+          
+           
+              
+               
+          
+        
+       
+	
+	
+  
+
+     
+  
+   
+     
+     
+  
+   
+     
+     
+  
+   
+     
+     
+  
+   
+     
+     
+  
+   
+     
+     
+  
+   
+     
+     
+  
+   
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+    
+  
+
+	
+	
+	
+
+
+   
+    
+  
+   
+    
+         
+          
+          选购-完成
+        
+         
+          [订购商品]
+          [配送服务]
+          [付款方式]
+          [产品咨讯]
+          [客服中心]
+          [关于本站]
+        
+         
+          订购方式
+          邮局邮寄
+          银行汇款
+          新品上架
+          购买统计
+          关于我们
+        
+         
+          vip会员
+          特快专递
+          邮政汇款
+          推荐商品
+          售后服务
+          新闻动态
+        
+         
+          购物流程
+          货到付款
+          货到付款
+          特价商品
+          订单查询
+          版权声明
+        
+         
+          购 物 车
+          送货上门
+          网上银行
+          销售排行
+          工作时间
+          加入收藏
+        
+         
+          商品搜索
+          运输说明
+          交易条款
+          商品分类
+          常见问题
+          友情链接
+        
+         
+          
+          保密安全
+          
+          
+          意见反馈
+          关于禁果
+        
+      
+  
+
+   
+     
+         
+          
+          
+		  关于我们 |
+          商城资历 |
+          连锁站点 |
+          需求登记 | 
+			联系我们 | 亚当夏娃总部
+          
+        
+      
+  
+   
+    
+         
+          
+           
+              
+                 
+                  
+                
+              
+            
+
+          ＋地址：深圳市宝安区福永镇凤凰东区 邮编：518103 
+            ＋联系电话：13008809596 客服信箱：chinaxshop@hotmail.com
+            ＋服务支持qq(男)： qq(女)：
+            ＋访问总数：3519 页面执行时间 156.25 毫秒 
+            ＋版权所有：亚当夏娃连锁商城--深圳一站　浙ICP备05009970号 
+            ＋本站为成人网站，含有成人健康、成人内容，部分内容不适合未成年人浏览。
+　未满18岁的网民请在家长陪同下浏览或离开本站！特此声明！
+</TEXT>
+</DOC>
+

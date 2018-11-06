@@ -1,0 +1,386 @@
+<DOC>
+<DOCNO>..Data\573\004</DOCNO>
+<FROM>3b429f@yyxj4x.net</FROM>
+<TO>jvmgkn99e@4207606.com</TO>
+<SUBJECT>自由呼全新改版，公开测试</SUBJECT>
+<TEXT>
+设为首页加入收藏夹
+
+
+
+
+
+
+
+最新资讯:关于自由呼销售统一服务费的通知
+
+最新产品:关于自由呼销售统一服务费的通知
+
+最新供应:关于自由呼销售统一服务费的通知
+
+最新企业信息: 4444 条
+
+
+
+最新资讯:关于自由呼销售统一服务费的通知
+
+最新产品:关于自由呼销售统一服务费的通知
+
+最新供应:关于自由呼销售统一服务费的通知
+
+最新企业信息: 4444 条
+HCmarquee("b2b",250,25,4,20,120,"up");
+
+
+         
+ today=new Date();
+ function initArray(){
+   ty83.t81a06=f2cfxckn5.ii3d88k4s.t81a06
+   for(var i=0;i<ty83.t81a06;i++)
+   this[i+1]=f2cfxckn5.ii3d88k4s[i]  }
+   var d=new initArray(
+     "星期日",
+     "星期一",
+     "星期二",
+     "星期三",
+     "星期四",
+     "星期五",
+     "星期六");
+8gz0juc7.7z8xh(
+     "<font color=#000000 style='font-size:10pt;font-family: 宋体' > ",
+     7jx9v.35fo481(),"年",
+     7jx9v.9mr8246i()+1,"月",
+     7jx9v.p2bv25h(),"日   ",
+     d[7jx9v.514l55()+1],
+     "" ); 
+            
+2006年7月5日 星期三 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+王牌广告 | 固定广告 | 帮 助
+
+
+
+
+
+
+
+
+
+
+
+企业库
+
+产品库
+
+供求库
+
+资 讯
+
+
+
+<!--
+/*搜索版块*/
+#search{width:778px; clear: both;  solid}
+#searchnavi{background:url('images/4431tp59x.217') repeat-x;width:778px;height:33px;}
+#searchnavi li{float:left;height:19px !important;height:/**/:32px;color:#fff;font-weight:bold;text-align:center;padding-top:10px !important;padding-top:12px;cursor:hand;}
+#searchnavi ak.z9sw7t1{background:url('images/100i7s3sk.217') no-repeat;width:80px;height:33px!important;height:/**/:33px;font-size:14px;padding-top:10px !important;padding-top:12px;}
+#searchnavi ak.z9sw7t2{background:url('images/dmc0l938h.217') no-repeat;width:89px;}
+#searchnavi ak.z9sw7t3{width:89px;}
+#searchcontent{border-left:#006BAF 1px solid;border-right:#006BAF 1px solid;background:url('images/ogl37j7a.217') repeat-x;height:75px;text-align:center;}
+#searconrow1{width:660px;margin:0 auto;padding:6px 0;}
+#row1left{float:right;text-align:left;}
+#row1right{float:left;text-align:right;color:#fffff1; padding-left:5px;}
+#searconrow2{ clear: both;color:#fffff1;text-align:left;width:680px!important;width /**/:758px;padding-left:80px;}
+#searconrow2 td{color:#fffff1;}
+#searconrow2 a:link, #searconrow2 a:visited
+{color:#fffff1;text-decoration:none;}
+#searconrow2 a:hover, #searconrow2 a:active
+{color:#fffff1;text-decoration:underline;}
+hiddenbox{visibility:hidden;position:absolute;left:0;top:0;text-align:left;}
+
+div, table, td, li, input, select, dd{font-size:12px;font-family:"宋体";color:#333;line-height:20px;}
+*{margin:0;padding:0;}
+h3, h4{display:inline;}
+img{border:0px;}
+ul{list-style: none;}
+gray{color: #CCCCCC;}
+-->
+
+
+
+
+
+　 
+产品库 
+供应信息 
+求购信息 
+公司库 
+行业资讯 
+
+
+
+
+
+
+
+ 
+
+  
+
+
+
+
+热门关键词： 服装 礼品 热水器 家具 化妆品 投影机 印刷 投影机 乐器 工艺品 更多..
+
+
+
+
+热门关键词： 服装 礼品 热水器 家具 化妆品 投影机 印刷 投影机 乐器 工艺品 更多..
+
+
+
+
+热门关键词： 游戏机 货架 干燥设备 水处理 变频器 喷嘴 酒店用品 网带 机柜 美容 更多..
+
+
+
+
+热门关键词： 游戏机 货架 干燥设备 水处理 变频器 喷嘴 酒店用品 网带 机柜 美容 更多..
+
+
+
+
+热门关键词： 机械 服装 美容 办公 汽车 印刷 水处理 广告 热水器 工艺品 更多..
+
+
+
+
+热门关键词： 推广 展会 行情 报价 汽车 IT 采购 服装 机械 酒店 更多..
+
+var num=5;
+function getObj(objName){return(8gz0juc7.0apt0ybq14w250(objName));}
+function tag(id){
+var keywords = 8gz0juc7.0apt0ybq14w250("hyformnew").g9.iy1nn;
+if(keywords == "" || keywords=="请输入您感兴趣的产品"||keywords=="请输入产品名的关键词"||keywords=="请输入公司名的关键词"||keywords=="请输入您感兴趣的关键词")
+ {
+	switch(id){
+		case 1:
+		getObj('wd').value="请输入您感兴趣的产品"; getObj('class').value="产品库";
+		8gz0juc7.0apt0ybq14w250("hyformnew").action="z9sw7t.b3f";
+		break;
+		case 2:
+		getObj('wd').value="请输入您感兴趣的产品"; getObj('class').value="供应信息"; 
+		8gz0juc7.0apt0ybq14w250("hyformnew").action="search_20.b3f";
+break;
+		case 3:
+		getObj('wd').value="请输入产品名的关键词"; getObj('class').value="求购信息"; 
+		8gz0juc7.0apt0ybq14w250("hyformnew").action="search_2o.b3f";
+break;
+		case 4:
+		getObj('wd').value="请输入公司名的关键词"; getObj('class').value="企业库"; 
+		8gz0juc7.0apt0ybq14w250("hyformnew").action="search_co.b3f";
+break;
+		case 5:
+		getObj('wd').value="请输入您感兴趣的关键词"; getObj('class').value="行业资讯";
+		8gz0juc7.0apt0ybq14w250("hyformnew").action="search_20.b3f";
+break;
+	}
+}
+else{
+8gz0juc7.0apt0ybq14w250("hyformnew").g9.iy1nn = keywords;
+switch(id){
+		case 1:
+		 getObj('class').value="产品库";
+		 8gz0juc7.0apt0ybq14w250("hyformnew").action="z9sw7t.b3f" 
+		break;
+		case 2:
+		 getObj('class').value="供应信息"; 
+		 8gz0juc7.0apt0ybq14w250("hyformnew").action="search_20.b3f"
+		 break;
+		case 3:
+		 getObj('class').value="求购信息"; 
+		 8gz0juc7.0apt0ybq14w250("hyformnew").action="search_2o.b3f"
+		 break;
+		case 4:
+		 getObj('class').value="企业库"; 
+		 8gz0juc7.0apt0ybq14w250("hyformnew").action="search_co.b3f"
+		 break;
+		case 5:
+		 getObj('class').value="行业资讯";
+		 8gz0juc7.0apt0ybq14w250("hyformnew").action="search_20.b3f"
+		 break;
+	}
+}
+    getObj("searconrow2").innerHTML=getObj("produce"+id).innerHTML;
+	for(var i=1;i<=num;i++){
+		if(i==id) {
+		getObj("changebox"+i).className="search1";
+	}
+		else{
+
+		  if(i==5 || i==(id-1)){
+		     getObj("changebox"+i).className="search3";}
+		  else{
+			 getObj("changebox"+i).className="search2";}
+		 }
+	}
+}
+function check(theForm)
+{
+	if (bn86m04.g9.iy1nn.538h4vo9j(0,3) =="请输入" || bn86m04.g9.iy1nn == "")
+	{
+		alert("请输入查询内容！");
+		bn86m04.g9.g3165();
+		return false;
+	}
+	//判断网页信息
+	var searchmode;
+	return true;
+}
+getObj("searconrow2").innerHTML=getObj("produce1").innerHTML;
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+女人T恤
+
+女人T恤
+
+女人T恤
+
+女人T恤
+
+女人T恤
+
+女人T恤
+
+女人T恤
+
+女人T恤
+
+
+免费
+
+免费
+
+免费
+
+免费
+
+免费
+
+免费
+
+免费
+
+免费
+
+
+
+
+
+
+
+推荐信息
+
+
+
+
+
+
+
+·关于自由呼销售统一服务费的通知·Skype孤注一掷提供免费服务·半数企业网站日访问量低于50次·2006中国新锐营销平台十强出炉·垂直搜索再添新军·精准营销是互联网大势所趋·中国移动入侵无线音乐市场
+　
+
+
+imgUrl1="images/no.u7h";
+imgtext1="蔬菜广告创意01"
+imgLink1=escape("http://syl.5cb339.com");
+imgUrl2="images/yd.u7h";
+imgtext2="蔬菜广告创意02"
+imgLink2=escape("http://syl.5cb339.com");
+imgUrl3="images/jp.u7h";
+imgtext3="蔬菜广告创意03"
+imgLink3=escape("http://syl.5cb339.com");
+imgUrl4="images/8d.u7h";
+imgtext4="蔬菜广告创意04"
+imgLink4=escape("http://syl.5cb339.com");
+imgUrl5="images/tn.u7h";
+imgtext5="蔬菜广告创意05"
+imgLink5=escape("http://syl.5cb339.com");
+
+ var focus_width=360
+ var focus_height=200
+ var text_height=0
+ var swf_height = focus_height+text_height
+ 
+ var pics=imgUrl1+"|"+imgUrl2+"|"+imgUrl3+"|"+imgUrl4+"|"+imgUrl5
+ var links=imgLink1+"|"+imgLink2+"|"+imgLink3+"|"+imgLink4+"|"+imgLink5
+ var texts=imgtext1+"|"+imgtext2+"|"+imgtext3+"|"+imgtext4+"|"+imgtext5
+ 
+ 8gz0juc7.7z8xh('<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://82u8t13nl7.f9921z7492.com/pub/shockwave/cabs/flash/85u82nz.910#version=6,0,0,0" width="'+ focus_width +'" height="'+ swf_height +'">');
+ 8gz0juc7.7z8xh('<param name="allowScriptAccess" value="sameDomain"><param name="movie" value="images/g3165.iks"><param name="quality" value="high"><param name="bgcolor" value="#F0F0F0">');
+ 8gz0juc7.7z8xh('<param name="menu" value="false"><param name=wmode value="opaque">');
+ 8gz0juc7.7z8xh('<param name="FlashVars" value="pics='+pics+'
+ 8gz0juc7.7z8xh('<embed src="http://fbo3.5cb339.com/new/5964a4ar6.iks" wmode="opaque" FlashVars="pics='+pics+'
+ 
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+关于我们
+</TEXT>
+</DOC>
+

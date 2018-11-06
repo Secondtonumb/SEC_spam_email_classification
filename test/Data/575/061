@@ -1,0 +1,965 @@
+<DOC>
+<DOCNO>..Data\575\061</DOCNO>
+<FROM>61i703vnec8i@39r.com</FROM>
+<TO>0x27r4@a9hj.edu.cn</TO>
+<SUBJECT></SUBJECT>
+<TEXT>
+<!--
+function checkspace(checkstr) {
+  var str = '';
+  for(i = 0; i < checkstr.length; i++) {
+    str = str + ' ';
+  }
+  return (str == checkstr);
+}
+
+function checkreceiveaddr()
+{
+   if(checkspace(document.receiveaddr.recepit.value)) {
+	document.receiveaddr.recepit.focus();
+    alert("对不起，请填写收货人姓名！");
+	return false;
+  }
+  if(checkspace(document.receiveaddr.city.value)) {
+	document.receiveaddr.city.focus();
+    alert("对不起，请填写收货人所在省市！");
+	return false;
+  }
+  if(checkspace(document.receiveaddr.address.value)) {
+	document.receiveaddr.address.focus();
+    alert("对不起，请填写收货人详细收货地址！");
+	return false;
+  }
+  if(checkspace(document.receiveaddr.postcode.value)) {
+	document.receiveaddr.postcode.focus();
+    alert("对不起，请填写邮编！");
+	return false;
+  }
+ 
+    if(checkspace(document.receiveaddr.usertel.value)) {
+	document.receiveaddr.usertel.focus();
+    alert("对不起，请留下您的电话！");
+	return false;
+  }
+      if(checkspace(document.receiveaddr.deliverymethord.value)) {
+	document.receiveaddr.deliverymethord.focus();
+    alert("对不起，您还没有选择送货方式！");
+	return false;
+  }
+      if(checkspace(document.receiveaddr.paymethord.value)) {
+	document.receiveaddr.paymethord.focus();
+    alert("对不起，您还没有选择支付方式！");
+	return false;
+  }
+}
+
+	function regInput(obj, reg, inputStr)
+	{
+		var docSel	= document.selection.createRange()
+		if (docSel.parentElement().tagName != "INPUT")	return false
+		oSel = docSel.duplicate()
+		oSel.text = ""
+		var srcRange	= obj.createTextRange()
+		oSel.setEndPoint("StartToStart", srcRange)
+		var str = oSel.text + inputStr + srcRange.text.substr(oSel.text.length)
+		return reg.test(str)
+	}
+
+function checkuserinfo()
+{
+ if(document.userinfo.useremail.value.length!=0)
+  {
+    if (document.userinfo.useremail.value.charAt(0)=="." ||        
+         document.userinfo.useremail.value.charAt(0)=="@"||       
+         document.userinfo.useremail.value.indexOf('@', 0) == -1 || 
+         document.userinfo.useremail.value.indexOf('.', 0) == -1 || 
+         document.userinfo.useremail.value.lastIndexOf("@")==document.userinfo.useremail.value.length-1 || 
+         document.userinfo.useremail.value.lastIndexOf(".")==document.userinfo.useremail.value.length-1)
+     {
+      alert("Email地址格式不正确！");
+      document.userinfo.useremail.focus();
+      return false;
+      }
+   }
+ else
+  {
+   alert("Email不能为空！");
+   document.userinfo.useremail.focus();
+   return false;
+   }
+}
+
+function check0()
+{
+   if(checkspace(document.shop0.username.value)) {
+	document.shop0.username.focus();
+    alert("请输入您的用户名！");
+	return false;
+  }
+  }
+  function check1()
+{
+   if(checkspace(document.shop1.answer.value)) {
+	document.shop1.answer.focus();
+    alert("请填写密码答案！");
+	return false;
+  }
+  }
+   function check2()
+{
+   if(checkspace(document.shop2.password1.value)) {
+	document.shop2.password1.focus();
+    alert("请输入新密码！");
+	return false;
+  }
+  if(checkspace(document.shop2.password2.value)) {
+	document.shop2.password2.focus();
+    alert("请输入确认密码！");
+	return false;
+  }
+  if(document.shop2.password1.value != document.shop2.password2.value) {
+	document.shop2.password1.focus();
+	document.shop2.password1.value = '';
+	document.shop2.password2.value = '';
+    alert("两次输入的密码不同，请重新输入！");
+	return false;
+  }
+}
+
+function checkrepass()
+{
+   if(checkspace(document.userpass.password.value)) {
+	document.userpass.password.focus();
+    alert("对不起，请填写您的原密码！");
+	return false;
+  }
+     if(checkspace(document.userpass.password1.value)) {
+	document.userpass.password1.focus();
+    alert("对不起，您还没有填新密码！");
+	return false;
+  }
+     if(checkspace(document.userpass.password2.value)) {
+	document.userpass.password2.focus();
+    alert("对不起，您还没有填确认密码！");
+	return false;
+  }
+   if(document.userpass.password1.value != document.userpass.password2.value) {
+	document.userpass.password1.focus();
+	document.userpass.password1.value = '';
+	document.userpass.password2.value = '';
+    alert("两次输入的密码不同，请重新输入！");
+	return false;
+  }
+}
+
+  function checkuu()
+{
+    if(checkspace(document.loginfo.username.value)) {
+	document.loginfo.username.focus();
+    alert("用户名不能为空！");
+	return false;
+  }
+    if(checkspace(document.loginfo.password.value)) {
+	document.loginfo.password.focus();
+    alert("密码不能为空！");
+	return false;
+  }
+ 
+	
+  }
+
+//-->
+ 
+
+
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexof("#")!=0){ d.mm_p[j]=new image; d.mm_p[j++].src=http://www.homestyle.com.cn/a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.mm_sr; for(i=0;a
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])
+  for(i=0;!x
+  if(!x 
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=mm_findobj(a[i]))!=null){document.mm_sr[j++]=x; if(!x.osrc) x.osrc=http://www.homestyle.com.cn/x.src; x.src=http://www.homestyle.com.cn/a[i+2];}
+}
+//-->
+
+床上用品、北京床上用品、家庭床上用品、床上用品厂家
+
+
+   
+    
+  
+   
+    
+     
+      
+        
+           
+             
+                
+                   
+                    
+                    
+                    
+                    
+                    
+                    
+                  
+                
+              
+          
+        
+      
+      
+      
+         
+            
+              
+                
+                   
+                    
+                     最新商品
+                     特价商品
+                     热卖商品
+                     流行看板
+	     
+                    网友酷评
+
+                  
+                
+              
+            
+        
+      
+  
+   
+    
+  
+   
+    
+  
+   
+    
+  
+   
+     
+      
+        
+          
+          
+          
+              
+                
+                  
+                    用户:
+                    
+                    
+                    密码: 
+                    
+                    验证:
+                    
+                         
+                    
+                        
+                    
+                  
+                
+              
+              
+          
+          
+          
+          
+              
+                
+                    
+                      
+                        
+<!--
+function check()
+{
+   if(checkspace(document.searchform.searchkey.value !='请输入关键字'))  {
+	document.searchform.searchkey.focus();
+	alert("请输入查询关键字！");
+	return false;
+  }
+  if(checkspace(document.searchform.searchkey.value))  {
+	document.searchform.searchkey.focus();
+	alert("请输入查询关键字！");
+	return false;
+  }
+   document.searchform.submit();
+}
+function checkspace(checkstr) {
+  var str = '';
+  for(i = 0; i < checkstr.length; i++) {
+    str = str + ' ';
+  }
+  return (str == checkstr);
+}
+//-->
+      
+                        
+                          
+                              
+                                查询所有分类
+                                
+                                套件类
+                                
+                                单件类
+                                
+                                婚庆系列
+                                
+                                芯类
+                                
+                                卫浴类
+                                
+                                毯类
+                                
+                                儿童系列
+                                
+                              
+                              
+                              
+                              
+                              
+                          
+                        
+                      
+                    
+                
+              
+              
+                
+              
+          
+          详细查询
+          
+          
+          
+        
+      
+  
+   
+    
+  
+
+
+ 
+
+  
+    
+
+         
+           
+           
+            
+              
+                 
+                  
+                
+              
+            
+            
+              
+                 
+                   
+                      
+                         
+                           
+                            
+                              
+                                
+                                    
+                                      
+                                        
+                                            
+                                              
+                                                
+                                                    
+                                                      
+                                                        
+                                                            
+                                                            中华家纺网
+                                                            
+                                                            
+                                                            
+                                                            中国家纺网
+                                                            
+                                                            
+                                                            
+                                                            中国时尚品牌网
+                                                            
+                                                            
+                                                            
+                                                            中国纺织商务网
+                                                            
+                                                            
+                                                            
+                                                            中国床上用品资讯网
+                                                            
+                                                            
+                                                            
+                                                            慧博网络
+                                                            
+                                                            
+                                                        
+                                                      
+                                                    
+                                                  
+                                                    
+                                                      
+                                                        
+                                                          提交友情链接 
+                                                        
+                                                        
+                                                          通知我们贵网链接已经完成 
+                                                        
+                                                        
+                                                          全部友情链接 
+                                                        
+														
+                                                          自助链接说明 
+                                                        
+                                                        
+                                                      
+                                                  
+                                              
+                                            
+                                        
+                                      
+                                    
+                                
+                              
+                            
+                          
+                        
+                      
+                    
+                
+              
+           
+          
+          
+   
+    提交友情链接
+  
+   
+    尊敬的webmaster：
+      　　欢迎您使用家纺精品购物网homestyle.com.cn的自助链接服务，您只需2分钟时间，完成以下简单步骤，提交贵网站的信息然后在贵网站添加上家纺精品购物网homestyle.com.cn的链接并通知我们，即可完成双向友情链接。了解建立连接的效果,请点击此处
+      　　第一步，您只需填写好以下表单内容并提交即可。我们的系统会首先将贵网站添加到我们的友情链接上。
+      　　第二步,拷贝以下代码到贵网站的合适位置；或者您自行在贵网站上添加家纺精品购物网homestyle.com.cn的链接。
+      　　添加文字链接：家纺精品购物网；将以下源代码添加到链接网页中：　　
+        家纺精品购物网
+
+　　添加网站logo链接，将以下源代码添加到链接网页中：　　
+        
+        本网站logo图片
+	  　　请注意，本网站谢绝与敏感政治内容、带有色情成分以及其他敏感内容的网站链接，其中包括：激情电影、美女图片、两性课堂、一夜情交友、网上赌博以及黄色网站等。如果贵网站属于以上类别，我们将不提供链接，请谅解。 
+      网站信息：
+  
+  
+    
+      
+        
+           
+            选择分类（必选）：
+             
+              
+              
+                电脑网络其他类别公司企业教育就业政法军事科学技术社会文化医疗健康体育旅游征婚交友娱乐休闲生活服务珠宝首饰时尚美容服装服饰房产家居文学艺术家纺品牌
+              
+              （请选择贵网所属类别）             
+          
+           
+              
+                网站名称（必填）：
+             
+              （请填写贵网对外统一名称，如“家纺精品购物网”）            
+          
+           
+             网站地址(url)（必填）：
+             
+              （请填写贵网的英文域名，如http://homestyle.com.cn　以便链接）             
+          
+		    
+              姓名（必填）：
+             
+              （编辑人员为了便于将处理结果及时通知到您）
+          
+		    
+              电子邮件地址（必填）：
+             
+              （请填写您常用的真实电子邮箱地址，我们将通过电子邮箱向您发送重要通知和信息）             
+          
+		   
+              网站描述（必填）：
+             
+              
+              注1: 请填写关于贵网的简单说明，不超过30个字；
+              注2: 请不要使用广告词或夸大性语言（如：全国最大的……），该类文字会被全部删除；            
+          
+           
+            
+                
+                
+             
+          
+        
+        
+      
+  
+
+
+        
+      
+
+
+
+
+  
+     
+      
+          
+             
+               
+                   
+                    
+                     
+                         
+                           常见问题
+                        
+                        
+                         
+                           
+                            
+                            
+                               
+                                 ? 如何购买 
+                                
+                              
+                            
+                            
+                            
+                               
+                                 ? 正式发售 
+                                
+                              
+                            
+                            
+                          
+                        
+                      
+                    
+                     
+                         
+                           支付方式
+                        
+                        
+                         
+                           
+                            
+                            
+                               
+                                 ? 在线支付 
+                                
+                              
+                            
+                            
+                            
+                               
+                                 ? 付款方式 
+                                
+                              
+                            
+                            
+                          
+                        
+                      
+                    
+                     
+                         
+                           关于配送
+                        
+                        
+                         
+                           
+                            
+                            
+                               
+                                 ? 货到付款 
+                                
+                              
+                            
+                            
+                            
+                               
+                                 ? 特别说明  
+                                
+                              
+                            
+                            
+                          
+                        
+                      
+                    
+                     
+                         
+                           售后服务
+                        
+                        
+                         
+                           
+                            
+                            
+                               
+                                 ? 保修 
+                                
+                              
+                            
+                            
+                            
+                               
+                                 ? 退货  
+                                
+                              
+                            
+                            
+                          
+                        
+                      
+                    
+                     
+                         
+                           特别条款
+                        
+                        
+                         
+                           
+                            
+                            
+                               
+                                 ? 服务保证 
+                                
+                              
+                            
+                            
+                            
+                               
+                                 ? vip制度  
+                                
+                              
+                            
+                            
+                          
+                        
+                      
+                    
+                     
+                         
+                           关于我们
+                        
+                        
+                         
+                           
+                            
+                            
+                               
+                                 ? 公司简介 
+                                
+                              
+                            
+                            
+                            
+                               
+                                 ? 联系我们 
+                                
+                              
+                            
+                            
+                          
+                        
+                      
+                    
+                  
+                  
+                
+                 
+            
+          
+         
+    
+  
+
+
+  
+     
+       
+    
+     
+       
+          客服信箱：
+
+ 
+ info@homestyle.com.cn  页面执行时间3.353688E+07Powered 
+          by huiboshop
+		   
+        
+    
+     
+       
+          
+             
+               
+              
+              
+            
+          
+        
+    
+  
+
+
+ 
+
+
+
+function checkdata()
+{
+if(myform1.webname.value==''){
+		alert('请填写贵网对外统一名称!');
+		myform1.webname.focus();
+		return false;
+	}
+if(myform1.URL.value==''){
+		alert('请填写贵网的英文域名!');
+		myform1.URL.focus();
+		return false;
+	}
+if(myform1.yname.value==''){
+		alert('请填写您的姓名!');
+		myform1.yname.focus();
+		return false;
+	}
+if(myform1.email.value==''){
+		alert('请填写您常用的真实电子邮箱地址!');
+		myform1.email.focus();
+		return false;
+	}
+if(myform1.detail.value==''){
+		alert('请填写关于贵网的简单说明!');
+		myform1.detail.focus();
+		return false;
+	}
+}
+
+
+
+===============================================================
+以上信息由V_o_l_l_y_M_a_i_l软件发送，该信息与本软件无任何关系，
+下载：http://www.onlinedown.net/soft/22070.htm，用户不得用此发送垃圾邮件！
+
+
+  
+     
+      
+          
+             
+               
+                   
+                    
+                     
+                         
+                           常见问题
+                        
+                        
+                         
+                           
+                            
+                            
+                               
+                                 ? 如何购买 
+                                
+                              
+                            
+                            
+                            
+                               
+                                 ? 正式发售 
+                                
+                              
+                            
+                            
+                          
+                        
+                      
+                    
+                     
+                         
+                           支付方式
+                        
+                        
+                         
+                           
+                            
+                            
+                               
+                                 ? 在线支付 
+                                
+                              
+                            
+                            
+                            
+                               
+                                 ? 付款方式 
+                                
+                              
+                            
+                            
+                          
+                        
+                      
+                    
+                     
+                         
+                           关于配送
+                        
+                        
+                         
+                           
+                            
+                            
+                               
+                                 ? 货到付款 
+                                
+                              
+                            
+                            
+                            
+                               
+                                 ? 特别说明  
+                                
+                              
+                            
+                            
+                          
+                        
+                      
+                    
+                     
+                         
+                           售后服务
+                        
+                        
+                         
+                           
+                            
+                            
+                               
+                                 ? 保修 
+                                
+                              
+                            
+                            
+                            
+                               
+                                 ? 退货  
+                                
+                              
+                            
+                            
+                          
+                        
+                      
+                    
+                     
+                         
+                           特别条款
+                        
+                        
+                         
+                           
+                            
+                            
+                               
+                                 ? 服务保证 
+                                
+                              
+                            
+                            
+                            
+                               
+                                 ? vip制度  
+                                
+                              
+                            
+                            
+                          
+                        
+                      
+                    
+                     
+                         
+                           关于我们
+                        
+                        
+                         
+                           
+                            
+                            
+                               
+                                 ? 公司简介 
+                                
+                              
+                            
+                            
+                            
+                               
+                                 ? 联系我们 
+                                
+                              
+                            
+                            
+                          
+                        
+                      
+                    
+                  
+                  
+                
+                 
+            
+          
+         
+    
+  
+
+
+  
+     
+       
+    
+     
+       
+          客服信箱：
+
+ 
+ info@homestyle.com.cn  页面执行时间3.353688E+07Powered 
+          by huiboshop
+</TEXT>
+</DOC>
+

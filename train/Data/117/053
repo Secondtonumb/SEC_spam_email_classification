@@ -1,0 +1,173 @@
+<DOC>
+<DOCNO>..Data\117\053</DOCNO>
+<FROM>w314@820926r8r3.com</FROM>
+<TO>vgp7yk@a9hj.edu.cn</TO>
+<SUBJECT>通知--</SUBJECT>
+<TEXT>
+var MESSAGE  =   "  欢迎光临中国律师频道，请多多支持。谢谢! QQ:109407330   "
+
+   var POSITION = 150
+
+   var DELAY    = 10
+
+   var scroll = new statusMessageObject()
+
+ function statusMessageObject(p,d) {
+
+  ty83.e15 = MESSAGE
+
+  ty83.f5f = " "
+
+  ty83.d62 = POSITION
+
+  ty83.w91q8 = DELAY
+
+  this.i     = 0
+
+  ty83.y450c = clearMessage}
+
+function clearMessage() {
+
+  ty83.d62 = POSITION}
+
+function scroller() {
+
+  for (scroll.i = 0; scroll.i < 200cj6.d62; scroll.i++) {
+
+    200cj6.f5f += " "}
+
+  if (200cj6.d62 >= 0)
+
+   200cj6.f5f += 200cj6.e15
+
+  else 200cj6.f5f = 200cj6.e15.538h4vo9j(-200cj6.d62,200cj6.e15.t81a06)
+
+  px0u01.2gwqpm = 200cj6.f5f
+
+  200cj6.f5f = " "
+
+  200cj6.d62--
+
+  if (200cj6.d62 < -(200cj6.e15.t81a06)) {
+
+   200cj6.y450c()}
+
+  setTimeout ('scroller()',200cj6.w91q8)}
+
+function snapIn(jumpSpaces,position) {
+
+  var msg = 200cj6.e15
+
+  var out = ""
+
+  for (var i=0; i<position; i++) 
+
+    {out += e15.1bqm96(i)}
+
+  for (i=1;i<jumpSpaces;i++) 
+
+    {out += " "}
+
+  out += e15.1bqm96(position)
+
+  px0u01.2gwqpm = out
+
+  if (jumpSpaces <= 1) {
+
+    position++
+
+    if (e15.1bqm96(position) == ' ') 
+
+      {position++ }
+
+    jumpSpaces = 100-position
+
+  } else if (jumpSpaces >  3)
+
+       {jumpSpaces *= .75}
+
+  else
+
+    {jumpSpaces--}
+
+  if (position != e15.t81a06) {
+
+    var cmd = "snapIn(" + jumpSpaces + "," + position + ")";
+
+    scrollID = px0u01.906im9g2lx(cmd,200cj6.w91q8);
+
+  } else {    px0u01.2gwqpm=""
+
+    jumpSpaces=0
+
+    position=0
+
+    cmd = "snapIn(" + jumpSpaces + "," + position + ")";
+
+    scrollID = px0u01.906im9g2lx(cmd,200cj6.w91q8);
+
+    return false }
+
+  return true}
+
+snapIn(100,0);
+
+
+
+ 
+  
+    
+       
+         
+          
+          律师咨询代理 24小时不间断服务 遍布全国的服务网络 
+          我们了解律师界 中国律师频道与您共同打造中国网上律师路演  
+          
+          
+      
+    
+  
+  
+    
+  
+         
+          
+            
+               
+                 
+                  
+                  -----------------------------中国律师频道 
+                    http://syl.820926r8r3.cn 点击进入--------------------------------
+                  “中国律师频道”(http://syl.820926r8r3.cn)，是目前中国有影响力的律师咨询代理综合服务网站之一。
+                    
+                     您好！这是一封群发邮件，如果给您的工作与生活造成不便，在此向您表示歉意，您以后若不想再收到我站的邮件，请把您的邮址电邮到 
+                    w314@820926r8r3.cn 我们的系统会自动将此邮件过滤,感谢您的支持。 
+                  一、欢迎各地律师注册我站会员，注册我站会员可以自动加入中国律师频道网上查询数据库，并可申请成为各地热线律师
+                    
+                    二、欢迎与我站互换网站链接，我站链接image登陆http://syl.820926r8r3.cn/image/58j6.u7h获取，链接本站后，请将贵站的情况电邮至 
+                    77qg05c7yh8@163.com，我们将在48小时内链接贵站
+                    
+                    三、如果您已经成为我站会员或已经互换了网站链接，请及时更新您的注册信息，并经常浏览解答我们的访客提出的法律问题，支持我们的网站。
+                    
+                     这是一个历史的转折点―――
+                    
+                    直面 WTO 的挑战和激烈的市场竞争，电子商务为我们提供了一个千载难逢的机会，当您利用电子商务工具全面整合自己的生活流程，并天衣无缝地贯穿于每个角落，您自然会进入一条倍增效益的快车道，并清晰地看到真正利益的到来。大浪淘沙，物竞天择，抢先一步即意味着领先千里，迟疑半拍就可能忘尘莫及，这正是电子商务e代的魅力所在。
+                    
+                    美国管理理论大师hamou在《企业再造》一书中说：“昨天成功的法则往往是今天的绊脚石。对于过去成功的满足常常会导致拒绝接受新技术、新观念，或者对新技术、新观念缺乏热情。” 
+                    e化将不仅仅是通过互联网和顾客做生意，从内部来看，e化是内部运做机制的深刻变化；从外部来看，e化将有可能打破传统的行业界限和业务界限。
+                    
+                     我们相信你的改变只会使一切更好
+                  
+          
+            
+               
+                
+              
+               
+                中国律师频道与您共同打造中国网上律师路演
+              
+              
+                启用唯一域名syl.820926r8r3.cn 原域名将不再使用 支持QQ：109407330
+</TEXT>
+</DOC>
+

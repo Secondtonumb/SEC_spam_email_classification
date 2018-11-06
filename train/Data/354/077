@@ -1,0 +1,397 @@
+<DOC>
+<DOCNO>..Data\354\077</DOCNO>
+<FROM>ejs79x@2l.com</FROM>
+<TO>2hstr9l@a9hj.edu.cn</TO>
+<SUBJECT></SUBJECT>
+<TEXT>
+NI News from National Instruments
+Your Global, Customized Source for 
+Company and Product News, Events, and Support
+ 
+ 
+Top Stories
+--------------------------------------------
+NI Introduces New USB Data Acquisition System
+http://u5kr.2l.com/ct?g=9.izfga.ei9j.56.e.g8w8o.18h6d&i=231879&h=1
+
+NI Signal Streaming Technology Stretches the Limits of USB Data Acquisition
+http://u5kr.2l.com/ct?g=9.izfga.ei9j.56.e.g8w8o.18h6d&i=232371&h=1
+
+ 
+Issue at a Glance
+--------------------------------------------
+Company and Product News--
+1. Measurement Studio 8.0 Brings Remote Weditoring, Control via 876.00w
+2. NI Enhances Communications Test with 2.5 and 25 GHz RF Multiplexers
+3. Improve Quality, Efficiency with New Requirements Tracking Software
+4. FPGA-Based Servo Drive Module, C Series Modules Expand NI CompactRIO Platform
+ 
+Development Resources--
+1. Hot NI Discussion Forum Topics: LabVIEW 8.0.1
+2. NI Requirements Gateway Captures Traceability Information for Your Applications
+3. Measuring Noise Figure with the NI RF Signal Generator and RF Vector Signal Analyzer
+ 
+Events--
+1. National Instruments to Host 12th NIWeek Conference
+2. Webcast: PXI Express and the PXI Platform
+3. Industry Experts Share Tips for Embedded Design Efficiency
+4. Webcast: RF Continuous-Wave Measurement Applications
+5. Learn about PXI through Hands-On Demos and More
+ 
+Support--
+1. Example Code: Modbus Library for LabVIEW
+2. Example Code: NI-IMAQ for USB Cameras
+3. Example Code: Port and Memory Utilities for Windows
+ 
+ 
+Company and Product News
+--------------------------------------------
+1. Measurement Studio 8.0 Brings Remote Weditoring, Control via 876.00w
+The new <a href='http://u5kr.2l.com/ct?g=9.izfga.ei9j.56.e.g8w8o.18h6d&i=232030&h=1'>Measurement Studio 8.0</a> is a comprehensive suite of class libraries and controls for acquiring, analyzing, and presenting data in applications built using Microsoft Visual Studio. Now with scientific Web controls for 876.00w, the upgrade gives you the power to create Web pages that you can view with any browser or operating system for remote monitoring and control of your test and measurement applications.
+http://u5kr.2l.com/ct?g=9.izfga.ei9j.56.e.g8w8o.18h6d&i=231864&h=1
+
+2. NI Enhances Communications Test with 2.5 and 25 GHz RF Multiplexers
+Automated test engineers can use the new National Instruments PXI and SCXI RF multiplexing switch modules to route signals ranging from DC to 25 GHz. These modules are ideal for accurate RF signal routing in telecommunications, military/aerospace, and automated test applications.
+http://u5kr.2l.com/ct?g=9.izfga.ei9j.56.e.g8w8o.18h6d&i=231865&h=1
+
+3. Improve Quality, Efficiency with New Requirements Tracking Software
+You can use the new National Instruments <a href='http://u5kr.2l.com/ct?g=9.izfga.ei9j.56.e.g8w8o.18h6d&i=232035&h=1'>Requirements Gateway</a> software to link common requirements management tools such as Telelogic DOORS, IBM Rational RequisitePro, and Microsoft Word to familiar NI software development environments, including <a href='http://u5kr.2l.com/ct?g=9.izfga.ei9j.56.e.g8w8o.18h6d&i=232036&h=1'>National Instruments LabVIEW</a>, <a href='http://u5kr.2l.com/ct?g=9.izfga.ei9j.56.e.g8w8o.18h6d&i=232037&h=1'>LabWindows/CVI</a>, <a href='http://u5kr.2l.com/ct?g=9.izfga.ei9j.56.e.g8w8o.18h6d&i=232038&h=1'>NI TestStand</a>, and <a href='http://u5kr.2l.com/ct?g=9.izfga.ei9j.56.e.g8w8o.18h6d&i=232039&h=1'>MATRIXx</a>. 
+http://u5kr.2l.com/ct?g=9.izfga.ei9j.56.e.g8w8o.18h6d&i=231866&h=1
+
+4. FPGA-Based Servo Drive Module, C Series Modules Expand NI CompactRIO Platform
+The new, high-speed, H-bridge, servo drive module for <a href='http://u5kr.2l.com/ct?g=9.izfga.ei9j.56.e.g8w8o.18h6d&i=232031&h=1'>NI CompactRIO</a> offers direct connectivity to actuators, such as fractional horsepower brushed DC servo motors, relays, lamps, solenoids, and valves. With the addition of the new C Series modules, you now have more than 25 plug-in C Series modules to choose from and use to connect to any industrial or automotive sensor or signal type. 
+http://u5kr.2l.com/ct?g=9.izfga.ei9j.56.e.g8w8o.18h6d&i=231867&h=1
+
+ 
+Development Resources
+--------------------------------------------
+1. Hot NI Discussion Forum Topics: LabVIEW 8.0.1
+This week, posters in the NI discussion forums want to know how to configure Modbus with <a href='http://u5kr.2l.com/ct?g=9.izfga.ei9j.56.e.g8w8o.18h6d&i=230449&h=1'>LabVIEW</a> 8.0.1, LabVIEW Real-Time, and PXI-8412/4;  how to dynamically create controls or indicators in LabVIEW; and more. 
+http://u5kr.2l.com/ct?g=9.izfga.ei9j.56.e.g8w8o.18h6d&i=230150&h=1
+
+2. NI Requirements Gateway Captures Traceability Information for Your Applications
+Working documents, such as hardware schematics, simulation models, software source code, and test specifications and procedures, must adhere to and cover requirements defined by high-level specifications. Learn how the new <a href='http://u5kr.2l.com/ct?g=9.izfga.ei9j.56.e.g8w8o.18h6d&i=232041&h=1'>NI Requirements Gateway</a> interacts with your applications to capture traceability information.
+http://u5kr.2l.com/ct?g=9.izfga.ei9j.56.e.g8w8o.18h6d&i=231870&h=1
+
+3. Measuring Noise Figure with the NI RF Signal Generator and RF Vector Signal Analyzer
+The noise figure of a unit under test is the ratio in dB of its noise power to the noise power that a matched resistive load would deliver at room temperature. Learn about measuring noise figure with the NI PXI-565x RF signal generator and RF vector signal analyzer. 
+http://u5kr.2l.com/ct?g=9.izfga.ei9j.56.e.g8w8o.18h6d&i=230148&h=1
+
+ 
+Events
+--------------------------------------------
+1. National Instruments to Host 12th NIWeek Conference
+NIWeek, the world's leading virtual instrumentation conference and exhibition, opens August 25 at the Austin Convention Center in Austin, Texas, for three days of interactive summits, exhibitions, technical sessions, and hands-on workshops on the latest technologies for test, control, and design applications.
+http://u5kr.2l.com/ct?g=9.izfga.ei9j.56.e.g8w8o.18h6d&i=231872&h=1
+
+2. Webcast: PXI Express and the PXI Platform
+Learn about the <a href='http://u5kr.2l.com/ct?g=9.izfga.ei9j.56.e.g8w8o.18h6d&i=232032&h=1'>PXI Express</a> specification and how it enhances the PXI platform by providing high-performance features, including increased bandwidth and improved synchronization with backward compatibility. 
+http://u5kr.2l.com/ct?g=9.izfga.ei9j.56.e.g8w8o.18h6d&i=231873&h=1
+
+3. Industry Experts Share Tips for Embedded Design Efficiency
+Engineers and scientists seeking to enhance efficiency in their embedded system designs can discover the benefits of graphical system design &#150; using a single, graphical platform to design, prototype, and deploy embedded systems &#150; through a series of FREE Webcasts hosted by National Instruments this month. 
+http://u5kr.2l.com/ct?g=9.izfga.ei9j.56.e.g8w8o.18h6d&i=231874&h=1
+
+4. Webcast: RF Continuous-Wave Measurement Applications
+Learn how to use <a href='http://u5kr.2l.com/ct?g=9.izfga.ei9j.56.e.g8w8o.18h6d&i=232033&h=1'>PXI</a>-based, modular RF instruments to set up and make common RF measurements. Designed for test engineers, this Webcast demonstrates how to perform sweep- and single-tone tests, as well as how to set up sophisticated stimulus-response applications and other measurement applications.
+http://u5kr.2l.com/ct?g=9.izfga.ei9j.56.e.g8w8o.18h6d&i=231875&h=1
+
+5. Learn about PXI through Hands-On Demos and More
+Join more than 25 leading test, measurement, and technology companies at the PXI Technology and Applications Conference. The conference is a series of FREE, full-day events in 25 cities across the United States, Canada, and Mexico featuring informational sessions on the latest PXI platform technologies and roadmaps, case study presentations, hands-on technical training, and networking with industry experts. 
+http://u5kr.2l.com/ct?g=9.izfga.ei9j.56.e.g8w8o.18h6d&i=223411&h=1
+
+Support
+--------------------------------------------
+1. Example Code: Modbus Library for LabVIEW
+The Modbus library is a FREE, downloadable set of virtual instrument function blocks that provide Modbus communication from any standard Ethernet or serial port. The <a href='http://u5kr.2l.com/ct?g=9.izfga.ei9j.56.e.g8w8o.18h6d&i=232034&h=1'>LabVIEW</a> Library implements the Modbus protocol in software and offers both master and slave functionality. 
+http://u5kr.2l.com/ct?g=9.izfga.ei9j.56.e.g8w8o.18h6d&i=231876&h=1
+
+2. Example Code: NI-IMAQ for USB Cameras
+NI-IMAQ for USB Cameras is a FREE software driver for acquiring images from any DirectShow imaging device into <a href='http://u5kr.2l.com/ct?g=9.izfga.ei9j.56.e.g8w8o.18h6d&i=232042&h=1'>LabVIEW</a>. These devices include USB cameras, Webcams, microscopes, scanners, and many consumer-grade imaging products. With the driver, you can configure your device and acquire images into LabVIEW.
+http://u5kr.2l.com/ct?g=9.izfga.ei9j.56.e.g8w8o.18h6d&i=231877&h=1
+
+3. Example Code: Port and Memory Utilities for Windows
+With this example, you can call In Port and Out Port from Windows 98/95/NT. The in port and out port VIs in <a href='http://u5kr.2l.com/ct?g=9.izfga.ei9j.56.e.g8w8o.18h6d&i=232043&h=1'>LabVIEW</a> 7.x work with Windows 2000/XP. Their only limitation is that the memory range they can access is smaller (I16 versus U32). You can still install these utilities in Windows 2000/XP if you need the additional functionality.
+http://u5kr.2l.com/ct?g=9.izfga.ei9j.56.e.g8w8o.18h6d&i=231878&h=1
+
+ 
+--------------------------------------------
+Of Recent Interest:
+ost Viewed Content on 2l.com
+http://u5kr.2l.com/ct?g=9.izfga.ei9j.56.e.g8w8o.18h6d&i=216160&h=1
+Find Events in Your Area
+http://u5kr.2l.com/ct?g=9.izfga.ei9j.56.e.g8w8o.18h6d&i=225755&h=1
+--------------------------------------------
+View NI News Archives:
+http://u5kr.2l.com/ct?g=9.izfga.ei9j.56.e.g8w8o.18h6d&i=179870&h=1
+--------------------------------------------
+Local Sales Contact Info:
+Local Sales Engineer  
+Tel: 86-21-65557838, or 800 820-3622
+Fax: 86-21-65556244
+lk7m5.9b33@2l.com
+--------------------------------------------
+NI News is customized to your product, industry, and content subscription preferences. To update these preferences, visit http://u5kr.2l.com/ct?g=9.izfga.ei9j.56.e.g8w8o.18h6d&i=179871&h=1
+--------------------------------------------
+To activate a new e-mail subscription, visit http://u5kr.2l.com/ct?g=9.izfga.ei9j.56.e.g8w8o.18h6d&i=179874&h=1
+If you do not wish to receive e-mail from National Instruments, please visit: http://u5kr.2l.com/ct?g=9.izfga.ei9j.56.e.g8w8o.18h6d&i=1297&h=1
+--------------------------------------------
+(C) 2006 National Instruments Corporation. All rights reserved.
+11500 N Mopac Expwy  Austin, TX 78759-3504
+--------------------------------------------Top Stories
+		
+	    
+		May 2, 2006
+		
+	    
+
+
+		
+			
+				Issue at a Glance
+			
+			
+				
+			
+
+
+			
+				Company and Product News
+			
+			
+				
+			
+
+FPGA-Based Servo Drive Module, C Series Modules Expand NI CompactRIO Platform
+			
+				
+				
+			
+		
+		
+
+
+		
+			
+				Development Resources
+			
+			
+				
+			
+
+easuring Noise Figure with the NI RF Signal Generator and RF Vector Signal Analyzer
+			
+				
+				
+			
+		
+		
+
+
+		
+			
+				Events
+			
+			
+				
+			
+
+Webcast: RF Continuous-Wave Measurement Appl!
+ icationsLearn about PXI through Hands-On Demos and More
+			
+				
+				
+			
+		
+		
+
+
+		
+			
+				Support
+			
+			
+				
+			
+
+Example Code: Port and Memory Utilities for Windows
+			
+				
+				
+			
+		
+		
+
+
+		
+			
+				
+			
+			
+				
+				Of Recent Interest
+				
+			
+			
+				
+			
+
+Find Events in Your Area
+			
+				
+				
+			
+		
+		
+
+
+		
+			
+				
+			
+			
+				View NI News Archives
+			
+		
+		
+
+
+		
+			
+				
+			
+			
+				 Local Sales Contact Info				
+			
+			
+				
+			
+
+
+			
+				Local Sales Engineer86-21-65556244lk7m5.9b33@2l.com
+			
+
+Additional Local Contacts
+
+
+
+		
+		
+
+ 
+		
+		
+			
+				
+			
+		
+		
+		
+			
+				
+			
+			
+				
+			
+			
+				
+				Subscription Preferences
+					NI News is customized to your product, industry, and content subscription preferences.
+				
+			
+		
+
+		
+		
+
+		
+	
+
+ 
+
+NI Introduces New USB Data Acquisition System
+The NI CompactDAQ USB-based modular data acquisition system is a new platform ideal for sensor and electrical measurements on the benchtop, in the field, and on the production line.  It combines plug-and-play simplicity with the flexibility of modular instrumentation.
+Learn more.
+
+
+NI Signal Streaming Technology Stretches the Limits of USB Data Acquisition
+National Instruments recently released its first high-performance USB DAQ devices featuring patent-pending signal streaming technology. These devices provide you with high-speed data highways to and from PC memory.
+Learn more.
+
+	
+	    
+		Company and Product News
+		
+
+		
+
+easurement Studio 8.0 Brings Remote Weditoring, Control via 876.00wThe new Measurement Studio 8.0 is a comprehensive suite of class libraries and controls for acquiring, analyzing, and presenting data in applications built using Microsoft Visual Studio. Now with scientific Web controls for 876.00w, the upgrade gives you the power to create Web pages that you can view with any browser or operating system for remote monitoring and control of your test and measurement applications.Learn more.NI Enhances Communications Test with 2.5 and 25 GHz RF MultiplexersAutomated test engineers can use the new National !
+ Instruments PXI and SCXI RF multiplexing switch modules to route signals ranging from DC to 25 GHz. These modules are ideal for accurate RF signal routing in telecommunications, military/aerospace, and automated test applications.Learn more.Improve Quality, Efficiency with New Requirements Tracking SoftwareYou can use the new National Instruments Requirements Gateway software to link common requirements management tools such as Telelogic DOORS, IBM Rational RequisitePro, and Microsoft Word to familiar NI software development environments, including National Instruments LabVIEW, LabWindows/CVI, NI TestStand, and MATRIXx. Learn more.FPGA-Based Servo Drive Module, C Series Modules Expand NI CompactRIO PlatformThe new, high-speed, H-bridge, servo drive module for NI CompactRIO offers direct connectivity to actuators, such as fractional horsepower brushed DC servo motors, relays, lamps, solenoids, and valves. With the addition of the new C Series modules, you now have more than 25 plug-in C Series modules to choose from and use to connect to any industrial or automotive sensor or signal type. Learn more.
+		
+
+
+		
+		
+
+		 Development Resources
+		
+
+		
+
+Hot NI Discussion Forum Topics: LabVIEW 8.0.1This week, posters in the NI discussion forums want to know how to configure Modbus with LabVIEW 8.0.1, LabVIEW Real-Time, and PXI-8412/4;  how to dynamically create controls or indicators in LabVIEW; and more. Join in the discussion.NI Requirements Gateway Captures Traceability Information for Your ApplicationsWorking documents, such as hardware schematics, simulation models, software source code, and test specifications and procedures, must adhere to and cover requirements defined by high-level specifications. Learn how the new NI Requirements Gateway interacts with your applications to capture traceability information.Learn more.Measuring Noise Figure with the NI RF Signal Generator and RF Vector Signal AnalyzerThe noise figure of a unit under test is the ratio in dB of its noise power to the noise power that a matched resistive load would deliver at room temperature. Learn about measuring noise figure with the NI PXI-565x RF signal generator and RF vector signal analyzer. Learn more.
+		
+
+
+		
+		
+
+		 Events
+		
+
+		
+
+National Instruments to Host 12th NIWeek ConferenceNIWeek, the world's leading virtual instrumentation conference and exhibition, opens August 25 at the Austin Convention Center in Austin, Texas, for three days of interactive summits, exhibitions, technical sessions, and hands-on workshops on the latest technologies for test, control, and design applications.Learn more.Webcast: PXI Express and the PXI PlatformLearn about the PXI Express specification and how it enhances the PXI platform by providing high-performance features, including increased bandwidth and improved synchronization with backward compati!
+ bility. View this Webcast.Industry Experts Share Tips for Embedded Design EfficiencyEngineers and scientists seeking to enhance efficiency in their embedded system designs can discover the benefits of graphical system design  through a series of FREE Webcasts hosted by National Instruments this month. Learn more.Webcast: RF Continuous-Wave Measurement ApplicationsLearn how to use PXI-based, modular RF instruments to!
+  set up and make common RF measurements. Designed for test engineers, 
+this Webcast demonstrates how to perform sweep- and single-tone tests, as well as how to set up sophisticated stimulus-response applications and other measurement applications.View this Webcast.Learn about PXI through Hands-On Demos and MoreJoin more than 25 leading test, measurement, and technology companies at the PXI Technology and Applications Conference. The conference is a series of FREE, full-day events in 25 cities across the United States, Canada, and Mexico featuring informational sessions on the latest PXI platform technologies and roadmaps, case study presentations, hands-on technical training, and networking with industry experts. Learn more.
+		
+
+
+		
+		
+
+		 Support
+		
+
+		
+
+Example Code: Modbus Library for LabVIEWThe Modbus library is a FREE, downloadable set of virtual instrument function blocks that provide Modbus communication from any standard Ethernet or serial port. The LabVIEW Library implements the Modbus protocol in software and offers both master and slave functionality. Download this example.Example Code: NI-IMAQ for USB CamerasNI-IMAQ for USB Cameras is a FREE software driver for acquiring images from any DirectShow imaging device into LabVIEW. These devices include USB cameras, Web!
+ cams, microscopes, scanners, and many consumer-grade imaging products. With the driver, you can configure your device and acquire images into LabVIEW.Download this example.Example Code: Port and Memory Utilities for WindowsWith this example, you can call In Port and Out Port from Windows 98/95/NT. The in port and out port VIs in LabVIEW 7.x work with Windows 2000/XP. Their only limitation is that the memory range they can access is smaller (I16 versus U32). You can still install these utilities in Windows 2000/XP if you need the additional functionality.Download this example.
+		
+
+
+		
+	
+	
+	    
+		
+		
+		This e-mail was sent to: 2hstr9l@utsc.edu.cn
+		If you do not wish to receive e-mail from National Instruments, please visit 2l.com/remove
+		
+		Privacy
+		Technical Support
+		Activate a new e-mail subscription
+      
+		
+	
+	
+		
+		
+		
+		 2006 National Instruments Corporation. All rights reserved.
+		11500 N Mopac Expwy Austin, TX 78759-3504
+</TEXT>
+</DOC>
+

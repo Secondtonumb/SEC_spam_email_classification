@@ -1,0 +1,498 @@
+<DOC>
+<DOCNO>..Data\101\095</DOCNO>
+<FROM>wgux7z440@9629o.com.cn</FROM>
+<TO>50fkb161@a9hj.edu.cn</TO>
+<SUBJECT>3Q齐发展,?好礼大放送</SUBJECT>
+<TEXT>
+.style1 {
+	color: blue;
+	font-size: 10pt;
+}
+
+body {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	background-image: url(../images/background.gif);
+}
+a:link {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+
+a:visited {
+	text-decoration: underline;
+}
+
+.breadcrumb {
+	font-size: 12px;
+	font-weight: normal;
+	color: #383838;
+	text-decoration: none;
+}
+.arrow {
+	font-size: 11px;
+	font-weight: normal;
+	color: #CC3300;
+	text-decoration: none;
+}
+.field {
+	font-size: 11px;
+	font-weight: normal;
+	color: #333333;
+}
+.smalltext {
+	font-size: 12px;
+	color: #717171;
+	text-decoration: none;
+	line-height: 15px;
+}
+
+.smalltext A:visited:hover{
+	font-size: 12px;
+	color: #717171;
+	text-decoration: underline;
+	line-height: 15px;
+}
+.smalltext A:link{
+	font-size: 12px;
+	color: #717171;
+	text-decoration: none;
+	line-height: 15px;
+}
+.smalltext A:hover{
+	font-size: 12px;
+	color: #717171;
+	text-decoration: underline;
+	line-height: 15px;
+}
+.smalltext A:visited{
+	font-size: 12px;
+	color: #717171;
+	text-decoration: none;
+	line-height: 15px;
+}
+.dropdown {
+	font-size: 11px;
+	font-weight: normal;
+	color: #FFFFFF;
+	background-color: #AF0C15;
+}
+.bigRed {
+	font-size: 23px;
+	font-weight: bold;
+	color: #EE4357;
+	text-decoration: none;
+}
+.smallRed {
+	font-size: 13px;
+	font-weight: normal;
+	color: #C90024;
+	text-decoration: none;
+	line-height: 15px;
+}
+.bodytext a:link{
+	font-size: 13px;
+	font-weight: normal;
+	color: #494949;
+	text-decoration: none;
+	line-height: 17px;
+}
+
+.bodytext a:hover{
+	font-size: 13px;
+	font-weight: normal;
+	color: #494949;
+	text-decoration: underline;
+	line-height: 17px;
+}
+
+.bodytext a:visited{
+	font-size: 13px;
+	font-weight: normal;
+	color: #494949;
+	text-decoration: none;
+	line-height: 17px;
+}
+
+.bodytext a:visited:hover{
+	font-size: 13px;
+	font-weight: normal;
+	color: #494949;
+	text-decoration: underline;
+	line-height: 17px;
+}
+.header {
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+	background-color: #D84E55;
+}
+.company {
+	font-size: 12px;
+	font-weight: bold;
+	color: #333333;
+	text-decoration: none;
+	line-height: 13px;
+}
+.addrr {
+	font-size: 12px;
+	font-weight: normal;
+	color: #666666;
+	text-decoration: none;
+	line-height: 13px;
+}
+.countries {
+	font-size: 11px;
+	font-weight: bold;
+	color: #D84E55;
+	text-decoration: none;
+	line-height: 16px;
+	background-color: #EEEEEE;
+}
+.whiteBold {
+	font-size: 13px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.redtextBold {
+	font-size: 11px;
+	color: #CC0000;
+	text-decoration: none;
+	line-height: 15px;
+	font-weight: bold;
+}
+.yellowtextBold {
+	font-size: 13px;
+	color: #996600;
+	text-decoration: none;
+	line-height: 13px;
+	font-weight: bold;
+}
+
+}
+.greyBold {
+	font-size: 13px;
+	font-weight: bold;
+	color: #666666;
+	text-decoration: none;
+	line-height: 17px;
+}
+
+.greybold A:link{
+	font-size: 13px;
+	font-weight: bold;
+	color: #666666;
+	text-decoration: none;
+	line-height: 17px;
+}
+
+.greybold A:hover{
+	font-size: 13px;
+	font-weight: bold;
+	color: #666666;
+	text-decoration: underline;
+	line-height: 17px;
+}
+
+.greybold A:visited{
+	font-size: 13px;
+	font-weight: bold;
+	color: #666666;
+	text-decoration: none;
+	line-height: 17px;
+}
+
+.greybold A:visited:hover{
+	font-size: 13px;
+	font-weight: bold;
+	color: #666666;
+	text-decoration: underline;
+	line-height: 17px;
+}
+
+.smallRedBold {
+	font-size: 13px;
+	font-weight: bold;
+	color: #C90024;
+	text-decoration: none;
+	line-height: 15px;
+}
+.smallLight {
+	font-size: 13px;
+	font-weight: normal;
+	color: #218BBE;
+	text-decoration: none;
+	line-height: 15px;
+}
+.smallPinkBold {
+	font-size: 13px;
+	font-weight: bold;
+	color: #EC0089;
+	text-decoration: none;
+	line-height: 15px;
+}
+.BigyellowtextBold {
+	font-size: 19px;
+	color: #996600;
+	text-decoration: none;
+	line-height: 21px;
+	font-weight: bold;
+}
+.smallGreen {
+	font-size: 13px;
+	font-weight: normal;
+	color: #4AAE77;
+	text-decoration: none;
+	line-height: 15px;
+}
+.smallBlue {
+	font-size: 13px;
+	font-weight: normal;
+	color: #394B9D;
+	text-decoration: none;
+	line-height: 15px;
+}
+.blog {
+	font-size: 12px;
+	color: #999999;
+	text-decoration: none;
+	line-height: 15px;
+}
+.date {
+	font-size: 11px;
+	font-weight: normal;
+	color: #996600;
+	text-decoration: none;
+	line-height: 13px;
+}
+.smallBlog {
+	font-size: 12px;
+	font-weight: normal;
+	color: #D2111C;
+	text-decoration: none;
+	line-height: 14px;
+}
+
+.greetings {
+	font-size: 13px;
+	line-height: 15px;
+	color: #333333;
+}
+
+.intro {
+	font-size: 12px;
+	color: #717171;
+	text-decoration: none;
+	line-height: 15px;
+}
+
+.intro A:link{
+	font-size: 12px;
+	color: #717171;
+	text-decoration: none;
+	line-height: 15px;
+}
+
+.intro A:hover{
+font-size: 12px;
+	color: #717171;
+	text-decoration: underline;
+	line-height: 15px;
+}
+
+.intro A:visited{
+	font-size: 12px;
+	color: #717171;
+	text-decoration: none;
+	line-height: 15px;
+}
+
+.intro A:visited:hover{
+	font-size: 12px;
+	color: #717171;
+	text-decoration: underline;
+	line-height: 15px;
+}
+
+
+  
+
+
+  
+    
+      
+        
+          
+            
+          
+          
+             
+          
+        
+        
+          
+            
+              
+                
+                
+                  
+                    周驰! 
+                  
+                  
+                    
+                  
+                
+              
+            
+          
+          
+            
+              
+                      
+              
+            
+          
+          
+            
+              
+                
+                  
+                
+                
+                  
+                
+              
+          
+          
+            
+              
+                 
+                
+
+
+
+
+
+训练孩子走路的自然和协调
+
+
+4岁孩子走路时，应该上体正直，上下肢协调。
+
+              
+              
+                
+                
+              
+                 
+                
+                  
+                    
+                       
+                    
+                    
+                      通过猜谜活动开发孩子的智力
+                    
+                    
+                      猜谜就是通过谜面所提供的信息(包括物体的特征...
+                    
+                  
+                
+              
+              
+                
+                
+              
+                 
+                
+                  
+                    
+                       
+                    
+                    
+                      欣赏古典音乐
+                    
+                    
+                      古典音乐有着独特的魅力和艺术价值。
+                    
+                  
+                
+              
+              
+                
+                
+              
+                 
+                
+                  
+                    
+                       
+                    
+                    
+                      让宝宝爱上刷牙
+                    
+                    
+                      两岁的宝宝，需要自己刷牙了，偏偏有些孩子不爱刷牙...
+                    
+                  
+                
+              
+              
+                
+                
+              
+                 
+                
+                  
+                    
+                      
+                    
+                    
+                      宝宝夏季该吃啥
+                    
+                    
+                      夏季来临，天气变热，温度升高，孩子会产生一系列生理反应...
+                    
+                  
+                
+              
+              
+                
+                
+            
+          
+          
+            
+          
+          
+            
+              
+                
+                
+                  
+                    1.
+                    宝宝吃蔬菜全攻略 
+                  
+                  
+                    2.
+                    入托后关注三个健康问题 
+                  
+                  
+                    3.
+                    喂养方式决定你宝宝的健康
+                  
+                  
+                    4.
+                    孩子害羞怎么办 ？ 
+                  
+                  
+                    5.
+                    宝宝吃蔬菜全攻略
+</TEXT>
+</DOC>
+

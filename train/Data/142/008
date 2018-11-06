@@ -1,0 +1,243 @@
+<DOC>
+<DOCNO>..Data\142\008</DOCNO>
+<FROM>xxix0nf055@178j8.net</FROM>
+<TO>wgux7z440@a9hj.edu.cn</TO>
+<SUBJECT>世界杯到现在为止最为精彩的一幕,儿童不宜</SUBJECT>
+<TEXT>
+恢复默认设置
+
+
+登录
+注册 
+搜索
+
+我能做什么 
+				
+
+
+→ 每一个向往自由的灵魂，从高处飘落，在这个声色光影的世界里，让视觉带上耳朵去旅行 
+
+
+
+搜一搜相关精彩主题
+ 凤凰城社区 →  ≈休闲娱乐区≈  → 影音天堂 → 世界杯到现在为止最为精彩的一幕  
+
+function astro(birth)
+{
+	if (birth!='')
+	{	var tmpstr;
+		var bstr;
+		var mm;
+		var yy;
+		var dd;
+		var birthmonth;
+		tmpstr=birth.split(' ')
+		bstr=tmpstr[0]
+		tmpstr=bstr.split('-')
+		yy=(tmpstr[0]*1)
+		mm=(tmpstr[1]*1)
+		dd=(tmpstr[2]*1)
+		switch(mm){
+		case 1 :
+		if(dd>=21){return('<img src=http://www.104688.com/skins/default/birth/z11.gif alt=水瓶座'+mm+'-'+dd+'>');}
+		else{return('<img src=http://www.104688.com/skins/default/birth/z10.gif alt=魔羯座'+mm+'-'+dd+'>');}
+		break;
+		case 2 :
+		if(dd>=20){return('<img src=http://www.104688.com/skins/default/birth/z12.gif alt=双鱼座'+mm+'-'+dd+'>');}
+		else{return('<img src=http://www.104688.com/skins/default/birth/z11.gif alt=水瓶座'+mm+'-'+dd+'>');}
+		break;
+		case 3 :
+		if(dd>=21){return('<img src=http://www.104688.com/skins/default/birth/z1.gif alt=白羊座'+mm+'-'+dd+'>');}
+		else{return('<img src=http://www.104688.com/skins/default/birth/z12.gif alt=双鱼座'+mm+'-'+dd+'>');}
+		break;
+		case 4 :
+		if(dd>=21){return('<img src=http://www.104688.com/skins/default/birth/z2.gif alt=金牛座'+mm+'-'+dd+'>');}
+		else{return('<img src=http://www.104688.com/skins/default/birth/z1.gif alt=白羊座'+mm+'-'+dd+'>');}
+		break;
+		case 5 :
+		if(dd>=22){return('<img src=http://www.104688.com/skins/default/birth/z3.gif alt=双子座'+mm+'-'+dd+'>');}
+		else{return('<img src=http://www.104688.com/skins/default/birth/z2.gif alt=金牛座'+mm+'-'+dd+'>');}
+		break;
+		case 6 :
+		if(dd>=22){return('<img src=http://www.104688.com/skins/default/birth/z4.gif alt=巨蟹座'+mm+'-'+dd+'>');}
+		else{return('<img src=http://www.104688.com/skins/default/birth/z3.gif alt=双子座'+mm+'-'+dd+'>');}
+		break;
+		case 7 :
+		if(dd>=23){return('<img src=http://www.104688.com/skins/default/birth/z5.gif alt=狮子座'+mm+'-'+dd+'>');}
+		else{return('<img src=http://www.104688.com/skins/default/birth/z4.gif alt=巨蟹座'+mm+'-'+dd+'>');}
+		break;
+		case 8 :
+		if(dd>=24){return('<img src=http://www.104688.com/skins/default/birth/z6.gif alt=处女座'+mm+'-'+dd+'>');}
+		else{return('<img src=http://www.104688.com/skins/default/birth/z5.gif alt=狮子座'+mm+'-'+dd+'>');}
+		break;
+		case 9 :
+		if(dd>=24){return('<img src=http://www.104688.com/skins/default/birth/z7.gif alt=天秤座'+mm+'-'+dd+'>');}
+		else{return('<img src=http://www.104688.com/skins/default/birth/z6.gif alt=处女座'+mm+'-'+dd+'>');}
+		break;
+		case 10 :
+		if(dd>=24){return('<img src=http://www.104688.com/skins/default/birth/z8.gif alt=天蝎座'+mm+'-'+dd+'>');}
+		else{return('<img src=http://www.104688.com/skins/default/birth/z7.gif alt=天秤座'+mm+'-'+dd+'>');}
+		break;
+		case 11 :
+		if(dd>=23){return('<img src=http://www.104688.com/skins/default/birth/z9.gif alt=射手座'+mm+'-'+dd+'>');}
+		else{return('<img src=http://www.104688.com/skins/default/birth/z8.gif alt=天蝎座'+mm+'-'+dd+'>');}
+		break;
+		case 12 :
+		if(dd>=22){return('<img src=http://www.104688.com/skins/default/birth/z10.gif alt=魔羯座'+mm+'-'+dd+'>');}
+		else{return('<img src=http://www.104688.com/skins/default/birth/z9.gif alt=射手座'+mm+'-'+dd+'>');}
+		break;
+		default : return('');
+}
+	}else{return('');}
+}
+function MM_showHideLayers() { //v6.0
+
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  obj=document.getElementById("MagicFace");
+  for (i=0; i<(args.length-2); i+=3) if (obj) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
+    obj.visibility=v; }
+}
+
+function DispMagicEmot(MagicID,H,W){
+	MagicFaceUrl = "Dv_plus/tools/magicface/swf/" + MagicID + ".swf";
+	document.getelementbyid("magicface").innerhtml = '<object codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="' + w + '" height="' + h + '"><param name=movie value="'+ magicfaceurl +'"><param name=menu value=false><param name=quality value=high><param name=play value=false><param name="wmode" value="transparent"><embed src="http://www.104688.com/' + magicfaceurl +'" quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?p1_prod_version=shockwaveflash" type="application/x-shockwave-flash" width="' + w + '" height="' + h + '">';
+	document.getElementById("MagicFace").style.top = '250px';
+	document.getElementById("MagicFace").style.left = '250px';
+	document.getElementById("MagicFace").style.visibility = 'visible';
+	MagicID += Math.random();
+	setTimeout("MM_showHideLayers('MagicFace','','hidden')",5000);
+	NowMeID = MagicID;
+}
+function LoadMagicEmot(MagicID,topicid){
+var cookiesstr=readCookie('mofaface_'+ topicid);
+if (cookiesstr ==null){
+createCookie('mofaface_'+ topicid,MagicID,365)
+DispMagicEmot(MagicID,350,500)
+}
+}
+
+	
+您是本帖的第 51 个阅读者 
+
+
+
+
+
+
+
+
+树形
+打印
+
+标题：世界杯到现在为止最为精彩的一幕
+
+
+
+
+
+
+凤凰灌水员
+
+
+document.write (astro(''));
+
+
+等级：初生鸟
+文章：12
+积分：155
+门派：无门无派
+注册：2006年6月29日
+
+
+
+楼主
+
+
+世界杯到现在为止最为精彩的一幕
+
+	[此贴子已经被作者于2006-6-29 18:17:55编辑过]
+
+
+
+
+2006-6-29 18:14:56
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BoardJumpListSelect('9',"BoardJumpList","论坛跳转到....","",0);
+
+
+
+
+
+发短信
+
+我能做什么
+我发表的主题
+我参与的主题
+基本资料修改
+用户密码修改
+联系资料修改
+
+编辑好友列表
+用户收藏管理
+个人文件管理
+
+
+
+
+
+
+今日贴数图例
+主题数图例
+总帖数图例
+在线图例
+在线情况
+用户组在线图例
+
+
+
+
+
+文件集浏览
+图片集浏览
+flash浏览
+音乐集浏览
+电影集浏览
+贺卡发送
+
+
+
+
+
+copyright 2000 - 2006  www.104688.com
+</TEXT>
+</DOC>
+

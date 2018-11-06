@@ -1,0 +1,183 @@
+<DOC>
+<DOCNO>..Data\115\028</DOCNO>
+<FROM>9b33@yahoo.com</FROM>
+<TO></TO>
+<SUBJECT></SUBJECT>
+<TEXT>
+นวัตกรรมคู่ใหม?/span> สุดยอดประหยัดน้ำมั?/span> 
+                    ประหยัดจริ?ลดควัน เพิ่มแรง
+                     ติดตั้งง่า?ไม่ผ่านปั๊?ไม่ตัดต่อดัดแปลงเครื่องยนต?    กินไฟไม่เกิน 2.5A
+  
+  
+    
+<!--
+//กำหนดความกว้างสายพานลำเลีย?var sliderwidth=600
+//กำหนดความสูงสายพาน
+var sliderheight=145
+//กำหนดความเร็วสายพา?var slidespeed=4
+//กำหนดรูปที่ต้องการแล?LINK
+var leftrightslide=new Array()
+var finalslide=''
+leftrightslide[0]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/nzjk0j9h8.u7h" width="50" height="38">'
+leftrightslide[1]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/1j46.u7h" width="50" height="38">'
+leftrightslide[2]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/o9jggy24d9.u7h"width="50" height="38">'
+leftrightslide[3]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/0e88z08.u7h"width="50" height="38">'
+leftrightslide[4]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/8bo.u7h"width="50" height="38">'
+
+leftrightslide[5]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/1w289ec8.u7h"width="50" height="38">'
+leftrightslide[6]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/l42dc9edv.u7h"width="50" height="38">'
+leftrightslide[7]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/xyf1lbpx.u7h"width="50" height="38">'
+leftrightslide[8]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/fa5r81x.u7h"width="50" height="38">'
+leftrightslide[9]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/lk1f9k.u7h"width="50" height="38">'
+leftrightslide[10]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/712dys4i.u7h"width="50" height="38">'
+leftrightslide[11]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/0652992.u7h"width="50" height="38">'
+leftrightslide[12]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/75j1.u7h" width="50" height="38">'
+leftrightslide[13]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/f5vw.u7h" width="50" height="38">'
+leftrightslide[14]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/129d6o.u7h" width="50" height="38">'
+leftrightslide[15]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/k631t.u7h" width="50" height="38">'
+leftrightslide[16]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/3xd3nco.u7h" width="50" height="38">'
+leftrightslide[17]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/26s7y.u7h" width="50" height="38">'
+leftrightslide[18]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/kf734f.u7h" width="50" height="38">'
+leftrightslide[19]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/5jl3.u7h" width="50" height="38">'
+leftrightslide[20]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/e35.u7h" width="50" height="38">'
+leftrightslide[21]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/b2u61pr4rgr.u7h" width="50" height="38">'
+leftrightslide[22]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/0o21r463r.u7h" width="50" height="38">'
+leftrightslide[23]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/yy19z.u7h" width="50" height="38">'
+leftrightslide[24]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/16fh6.u7h" width="50" height="38">'
+leftrightslide[25]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/4gy1gqw7.u7h" width="50" height="38">'
+leftrightslide[26]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/p56sa.u7h" width="50" height="38">'
+leftrightslide[27]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/k4029ek7p0bw.u7h" width="50" height="38">'
+leftrightslide[28]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/p028n6v85d.u7h" width="50" height="38">'
+leftrightslide[29]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/k5puv1.u7h" width="50" height="38">'
+leftrightslide[30]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/fi70.u7h" width="50" height="38">'
+leftrightslide[31]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/l27zzsq.u7h" width="50" height="38">'
+leftrightslide[32]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/9f1a05e.u7h" width="50" height="38">'
+leftrightslide[33]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/c7jpk9.u7h"width="50" height="38">'
+leftrightslide[34]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/ra215l7.u7h" width="50" height="38">'
+leftrightslide[35]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/907cz032hh.u7h" width="50" height="38">'
+leftrightslide[36]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/2nwh2.u7h" width="50" height="38">'
+leftrightslide[37]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/7jfa.u7h" width="50" height="38">'
+leftrightslide[38]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/0vj4.u7h" width="50" height="38">'
+leftrightslide[39]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/ens6s.u7h" width="50" height="38">'
+leftrightslide[40]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/992xi.u7h" width="50" height="38">'
+leftrightslide[41]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/a7anb869z.u7h" width="50" height="38">'
+leftrightslide[42]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/8g925h.u7h" width="50" height="38">'
+leftrightslide[43]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/2k5vvg.u7h" width="50" height="38">'
+leftrightslide[44]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/g245xj.u7h" width="50" height="38">'
+leftrightslide[45]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/a55rf24oc3.u7h" width="50" height="38">'
+leftrightslide[46]='<img src="http://syl.4xp52diw942.com/yoo/logo-car/v7cay.u7h" width="50" height="38">'
+///////ข้างล่างนอย่าไปยุ่งนะครับี?/////////////////
+var copyspeed=slidespeed
+//copy contents of leftrightslide into one variable
+for (i=0;i<5dlga7u86tjnn5.t81a06;i++)
+finalslide=finalslide+leftrightslide[i]+""
+if (8gz0juc7.0v6){
+//dynamically write out the marquee tag
+8gz0juc7.7z8xh('<marquee id="ieslider" scrollAmount=0 style="width:'+sliderwidth+'">'+finalslide+'</marquee>')
+//stop marquee when mouse is over it
+q3190331.e5d2j7v892s=new Function("q3190331.ruj9dcn8187t=0")
+//re-enable marquee when mouse is out
+q3190331.2z97s69rka=new Function("if (8gz0juc7.j27p1b479s=='complete') q3190331.ruj9dcn8187t=slidespeed")
+}
+function regenerate(){
+px0u01.m0lsfkt7.b1gzcx()
+}
+function regenerate2(){
+if (8gz0juc7.7lk4ph){
+8gz0juc7.6q_sjr5o2s4.3bw51qu3r8="show"
+setTimeout("px0u01.0uu483jf=regenerate",450)
+intializeleftrightslide()
+}
+if (8gz0juc7.0v6)
+q3190331.ruj9dcn8187t=slidespeed
+}
+//NS specific function for initializing slider upon page load
+function intializeleftrightslide(){
+8gz0juc7.6q_sjr5o2s4.8gz0juc7.6q_06qu7vrg.8gz0juc7.7z8xh('<nobr>'+finalslide+'</nobr>')
+document. ns_sjr5o2s4.8gz0juc7.6q_06qu7vrg.8gz0juc7.2r7x7()
+thelength=rznsade86u.6q_sjr5o2s4.8gz0juc7.6q_06qu7vrg.8gz0juc7.22365
+scrollslide()
+}
+//NS specific function for sliding slideshow
+function scrollslide(){
+if (8gz0juc7.6q_sjr5o2s4.8gz0juc7.6q_06qu7vrg.stok>=thelength*(-1)){
+8gz0juc7.6q_sjr5o2s4.8gz0juc7.6q_06qu7vrg.stok-=slidespeed
+setTimeout("scrollslide()",100)
+}
+else{
+8gz0juc7.6q_sjr5o2s4.8gz0juc7.6q_06qu7vrg.stok=sliderwidth
+scrollslide()
+}
+}
+px0u01.836g55=regenerate2
+//-->
+
+  
+  
+    
+                * เครื่องยนต์ต้องใช้ อากา?และน้ำมั?/strong> เป็นหลักในการเผาไหม้ หรือจุดระเบิ?เพื่อให้เกิดพลังงานใ?
+          การขับเคลื่อ?เราจะทำอย่างไรให้เครื่องยนต์เผาไหม้ได้สมบูรณ์ที่สุ?เท่าที่เครื่องแต่ละรุ่นจะทำได้ 
+
+      วิธีทีดีที่สุด ต้องศึกษาจากปัจจัยหลัก คื?อากาศและน้ำมัน โดยต้องไม่ส่งผลกระทบต่อเครื่องยนต์เดิม
+        หรือตัดต่อปรับแต่งใด?ที่อาจก่อให้เกิดการเปลี่ยนแปลงซึ่งอาจส่งผลเสียต่อเครื่องยนต์
+        โดยพอสรุปแนวคิดในการทดลองออกแบบได้ดังนี้
+        
+    
+  
+  
+    เซฟพลั?1 
+                เครื่องเพิ่มออกซิเจนของเครื่องยนต์ (OXIDIZINGGENT) 
+    ถูกออกแบบและพัฒนามาจากเครื่องฟอกอากา?
+    โดยอาศัยหลักการเดียวกันแต่ออกแบบวงจรให้มีแรงดันทางไฟฟ้าแบบเพิ่มทวีคู?    
+ปล่อยอิเล็กตรอนสู่ปลายสา?ซึ่ง ถูกออกแบบให้มีถึ? เส้นเพื่อเพิ่ม แล?เร่งปฎิกิริย?span class="style84">
+ออกซิเดชั่?(OXIDATION)ให้อากาศแตกตัวพร้อมกับเกิดการม้วนตัวของอากาศ
+ให้อัดเข้าสูู่่ภายในห้องเผาไหม้ได้ดียิ่งขึ้น ผลที่ได้ก็คื?เครื่องเซฟพลัส1ช่วยทำให้้เกิดออกซิเจน
+จำนวนมากกว่าน้ำมัน พร้อมแรงผลักดันเข้าสู่ห้องเผาไหม้เพื่อม้วนตัวเข้าผสมกับน้ำมันเบนซินและ
+ดีเซ?จึงใช้ได้ทั้งเครื่องยนต์ แบบเบนซิ?ดีเซ?แล?คอมมอนเร?br>
+สอดปลายแหลมสายไฟสามเส้นในท่อไอดี
+  
+  
+    เซฟพลั?2      
+      เครื่องเพิ่มอุณหภูมิน้ำมันดีเซ?( DIESEL HEATER ) 
+      ถูกออกแบบและพัฒนามาจาก เครื่องทำความร้อ?
+      โดยแท่งความร้อนจะสร้างอุณหภูมิูมิที่เหมาะส?ถ่ายเทสู่ท่อที่มีน้ำมันไหลผ่าน 
+
+      ทำให้น้ำมันดีเซล ลดความหนืดแตกตัวง่ายพร้อมจุดระเบิดกับอากาศที่ผลิ?img src="http://syl.4xp52diw942.com/yoo/474m3080pt7.u7h" width="100" height="80" align="right">
+จากเครื่องเซฟพลั?1ส่งผลให้การเผาไหม้สมบูรณ์ยิ่งขึ้?เซฟพลั?1-2 จึงถูกออกแบบให้ใช้คู่กัน
+      
+        รัดแท่งความร้อนทั้งสี่กับท่อน้ำมันใกล้หัวฉีด
+        
+  
+  
+    ข้อดีคู่เซฟพลั?
+        
+         เพิ่?/span> - แรงม้า อัตราเร่?ความเร็วสูงสุด เครื่องสะอาด ระยะทา?
+        ลด - น้ำมัน ควันดำ อาการตื้อวิ่งอืด ค่าบำรุงรักษ?การสึกหร?
+        ติดตั้งง่า?nbsp;- ไม่ต้องตัดต่อดัดแปลงเครื่องยนต?กินไฟต่ำไม่ถึง 2.5 A 
+        เห็นผลทันท- ควันดำลดลง รอบเครื่องลดลง คันเร่งเบา เครื่องเดินเรียบ 
+ออกรถเกียร?3-4 ได?โดยไม่ต้องกดคันเร่?
+      
+            ประหยั?25 ต่?/span>
+    1. ประหยัดน้ำมั?br>
+    2. ประหยัดค่าเครื่อ?( 25 เครื่อ?แต่ราคาเดียว) 
+    3. ประหยัดค่าบำรุ?/span>
+    
+    
+      สนใจติดต่อได้ที่นี?/span>
+        website
+        syl.4xp52diw942.com
+        e-mail:
+
+            9b33@4xp52diw942.com 
+            
+            Tel.
+            01-561-0055
+
+            02-382-3300
+            
+            
+            ต้องขออภัยอย่างสูง
+            หากเมลล์นี้รบกวนท่าน
+</TEXT>
+</DOC>
+

@@ -1,0 +1,304 @@
+<DOC>
+<DOCNO>..Data\105\010</DOCNO>
+<FROM>to30n8c6v5mh954t@716n.net</FROM>
+<TO>wgux7z440@a9hj.edu.cn</TO>
+<SUBJECT></SUBJECT>
+<TEXT>
+allnice奥莱斯☆像网
+
+
+
+
+
+
+	
+		
+		
+		
+首页
+炭精画
+艺术新闻
+关于我们
+网上商城
+厦门房市
+招聘求职
+供求信息
+在线视频
+产品目录
+软件下载
+products
+数据资料
+信息反馈
+艺术论坛
+
+
+       function zydn_net_menuover(td_name,td_bg1,td_co1){
+           if (td_bg1!==""){ td_name.background=td_bg1;}
+           td_name.bgColor=td_co1;
+       } 
+
+       function zydn_net_mouseout(td_name,td_bg){
+           if ( td_bg!==""){
+                td_name.background=td_bg ;}
+           else{
+                     td_name.background="";
+           }
+           td_name.bgColor="";
+      } 
+
+
+
+	
+
+
+	
+		
+			
+
+  
+		
+	用户：
+
+密码：
+
+
+
+
+
+
+
+
+
+
+		
+		
+		
+		
+
+							
+								搜索: 
+						文章
+						栏目
+						数据
+						 
+								
+							
+
+		
+		
+	
+
+
+	
+		
+		 
+
+	
+
+
+	
+		
+		
+		　
+		
+		
+	
+	
+		 本网是由一个艺术团队共同维护,建设.其全部成员都是来自高等艺术院校,其目的是为了让更多更好的艺术工作者在网上有一片天空,让祖国的艺术万花筒绽开的更美丽.我国的艺术形式多种多样,奇人异士更是数不胜数,但本网由于自身限制,只做关于雕塑(包括民间工艺),,水彩,人物雕像　树脂工艺品　油画，炭精画等等 
+
+
+
+
+
+
+ （像 相 象 项 向)
+
+		　
+		06-6-3
+
+	
+
+
+	
+		
+
+油画画像（彩色/黑白） 
+
+ 
+水彩画画像（彩色/黑白）
+ 
+
+		
+	
+
+
+	
+		
+		
+		 　　　炭精画 画像砖　6月3日更多…
+　　　国际新闻 美国务卿赖斯首访欧洲 乘…　2月4日更多…
+ 　　　网上商城名称价格产地单位 更多…
+　　　国内新闻 兵马佣　2月4日更多…
+ 　　　厦门房市名称物业类别装修状况起价3900更多…
+
+		
+		
+		
+	
+
+
+	
+		
+雕像 肖像雕塑 纪念雕像
+ 
+烙画肖像
+ 
+
+		
+	
+
+
+	
+		
+		
+			
+				
+				
+				
+				
+				
+				
+				
+					
+						
+						 炭精画
+艺术新闻人物雕像　树脂工艺品　油画　画像　国际新闻　雕像　国内新闻　内画　鼻烟壶　军事新闻　中国新闻　体育新闻　
+关于我们
+网上商城鲜花　画像艺术　
+
+				
+					
+				
+				
+				
+				
+			
+		
+		
+		
+		
+			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			
+		
+		
+		
+		
+			
+				
+				
+				
+					
+				
+					
+						
+					 对雕像 画像，您有什么看法？
+我很喜欢，可就是找不到
+喜欢！可是太贵了
+差不多，如果心情好我也要
+不是很喜欢，但也不讨厌
+一点也不感兴趣
+
+				
+					
+				
+
+			
+		
+		
+	
+
+
+	
+		
+		最新图片
+		chris…chris…chris…chris…chris…chris…
+
+	
+
+
+	
+		 鲜花/百合/ 祝福 ￥442.00
+
+		
+		网上商城
+	
+
+
+	
+		
+	
+
+
+
+
+
+
+ 
+
+作品版权归所属媒体与作者所有kk@allnice.cn coco@allnice.cn电话05925794839手机13950170918
+   function input_url(urltext)
+      if trim(urltext)="" then
+       webname="MY_WebServer"
+      else
+         urltext=right(urltext,len(urltext)-7)
+         web_url=replace(replace(urltext,"?","|"),"&","||")
+         str=instr(urltext,"/")-1
+         if str>0 then
+           webname=left(urltext,str)
+         else
+           webname=urltext
+         end if
+         urltext=right(urltext,len(urltext)-instr(urltext,"?"))
+      end if
+      input_url="webname="&webname&"&WEBURL="&WEB_URL&"&"&urltext
+   end function 
+
+
+var where = document.referrer
+document.write("<img width=0 src=http://www.allnice.cn/'jsq.asp?"+input_url(where)+"'>") 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+allnice
+</TEXT>
+</DOC>
+

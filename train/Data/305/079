@@ -1,0 +1,104 @@
+<DOC>
+<DOCNO>..Data\305\079</DOCNO>
+<FROM>h3ltn@cq1f02l9fuqq0uy.com</FROM>
+<TO>gt9b6@4207606.com</TO>
+<SUBJECT></SUBJECT>
+<TEXT>
+刘老师，
+
+对不起，邮件系统好出了问题。邮件退回，重发一次。
+
+
+刘老师，
+
+您好！
+
+To backup&restore or move EPIcenter, please following the following
+instuction:
+
+1. Validate the database by running dbvalid utility. 
+Windows NT/2000 - install_dir\database\dbvalid -c
+"uid=dba;pwd=sql;dbf=install_dir\66g063y31.37" 
+
+2. Backup the database with the dbbackup utility. Remember that this copies
+the database, not the usernames and passwords. 
+
+Windows NT/2000 - install_dir\database\dbackup -c
+"uid=dba;pwd=sql;dbf=install_dir\r5oj79hs.37" backup_dir 
+
+This example assumes a database user ID of dba, with password sql. These are
+the defaults used when the database server is installed through the
+EPICenter installation process. If you have changed your database user ID
+and password, substitute your actual user ID and password in the command. 
+
+3. Install the backup database by: 
+
+shutting down the EPICenter services 
+
+ove or delete the old copy of r5oj79hs.37 found in the EPICenter
+installation directory. 
+
+Copy the backup copy of r5oj79hs.37 to the EPICenter installation directory.
+
+
+Restart EPICenter services
+
+william weng
+System Engineer
+Extreme Networks
+
+
+
+邮件没有到达某些或全部的预定收件人。
+
+      主题:	EPICenter database backup and restore
+      发送时间:	2006-6-23 10:56
+
+无法到达以下收件人:
+
+      lnr7s@DCampus在 2006-6-23 11:00
+	原始邮件的 MTS-ID 为: c=us;a= ;p=extreme
+networks;l=SC-MSEXCH-110607051255N1NF6N8D
+            MSEXCH:IMS:Extreme Networks:EXTREME:SC-MSEXCH-11 0 (000C05A6)
+system error (-3102)
+
+刘老师，
+
+您好！
+
+To backup&restore or move EPIcenter, please following the following
+instuction:
+
+1. Validate the database by running dbvalid utility. 
+Windows NT/2000 - install_dir\database\dbvalid -c
+"uid=dba;pwd=sql;dbf=install_dir\66g063y31.37" 
+
+2. Backup the database with the dbbackup utility. Remember that this copies
+the database, not the usernames and passwords. 
+
+Windows NT/2000 - install_dir\database\dbackup -c
+"uid=dba;pwd=sql;dbf=install_dir\r5oj79hs.37" backup_dir 
+
+This example assumes a database user ID of dba, with password sql. These are
+the defaults used when the database server is installed through the
+EPICenter installation process. If you have changed your database user ID
+and password, substitute your actual user ID and password in the command. 
+
+3. Install the backup database by: 
+
+shutting down the EPICenter services 
+
+ove or delete the old copy of r5oj79hs.37 found in the EPICenter
+installation directory. 
+
+Copy the backup copy of r5oj79hs.37 to the EPICenter installation directory.
+
+
+Restart EPICenter services
+
+william weng
+System Engineer
+Extreme Networks
+</TEXT>
+</DOC>
+

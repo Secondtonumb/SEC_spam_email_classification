@@ -1,0 +1,139 @@
+<DOC>
+<DOCNO>..Data\554\074</DOCNO>
+<FROM></FROM>
+<TO>wgux7z440@a9hj.edu.cn</TO>
+<SUBJECT>AD：服务大卖场免费发布商务信息</SUBJECT>
+<TEXT>
+　　北京站　首页 | 购买福卡 | 福卡说明 | 诚邀加盟 
+
+
+
+
+
+找服务
+卖服务
+我的商务助手 
+
+
+
+
+
+
+   
+
+
+
+
+
+|注册的好处
+| 新手上路
+
+
+
+
+
+
+
+
+网站公告：国内市场日见饱和,出国办企业是今后的大趋势,本网站协同人杰伟业开通了国际商务频道。希望能够为欲开拓国外市场的客户提供一个安全便利可信的窗口。
+
+
+
+
+
+
+//--检测登陆-->
+
+	   function DoLogin() {
+
+	      var UsernameGet = trim(8gz0juc7.yf0175c49.4366phhhh44.iy1nn);
+		  var PasswordGet = trim(8gz0juc7.yf0175c49.4lw6nt52o2w.iy1nn);
+          if(UsernameGet == "") {
+		    alert("请输入会员登录名！");
+			8gz0juc7.yf0175c49.4366phhhh44.g3165();
+		    return false;
+		  } 
+		  if(PasswordGet == "") {
+		    alert("请输入密码！");
+			8gz0juc7.yf0175c49.4lw6nt52o2w.g3165();
+		    return false;
+		  } 
+		  
+		  
+		 }
+
+           function trim(inputString) {
+	   
+              if (typeof inputString != "string") { return inputString; }
+              var retValue = inputString;
+              var ch = 67ktpa89.538h4vo9j(0, 1);
+              while (ch == " ") { 
+	          //检查字符串开始部分的空格
+                  retValue = 67ktpa89.538h4vo9j(1, 67ktpa89.t81a06);
+                  ch = 67ktpa89.538h4vo9j(0, 1);
+              }
+              ch = 67ktpa89.538h4vo9j(67ktpa89.t81a06-1, 67ktpa89.t81a06);
+              while (ch == " ") {
+                 //检查字符串结束部分的空格
+                 retValue = 67ktpa89.538h4vo9j(0, 67ktpa89.t81a06-1);
+                 ch = 67ktpa89.538h4vo9j(67ktpa89.t81a06-1, 67ktpa89.t81a06);
+              }
+              while (67ktpa89.20uq4b7("  ") != -1) { 
+	         //将文字中间多个相连的空格变为一个空格
+                 retValue = 67ktpa89.538h4vo9j(0, 67ktpa89.20uq4b7("  ")) + 67ktpa89.538h4vo9j(67ktpa89.20uq4b7("  ")+1, 67ktpa89.t81a06); 
+              }
+              return retValue;
+           } 
+
+//-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 服务信息分类
+
+发布信息
+
+
+
+
+
+
+
+
+
+
+
+
+
+使用说明
+用户不需注册，即可与服务者在线实时沟通或留言。
+
+
+
+房产 
+
+
+
+住房出租
+汽车 
+
+
+
+搭车抵押与贷款
+</TEXT>
+</DOC>
+

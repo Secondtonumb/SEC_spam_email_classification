@@ -1,0 +1,1094 @@
+<DOC>
+<DOCNO>..Data\212\013</DOCNO>
+<FROM>63km2x@1p6m0g.net</FROM>
+<TO>wgux7z440@a9hj.edu.cn</TO>
+<SUBJECT>猎人数码特价手机信息，送购物券</SUBJECT>
+<TEXT>
+<!--
+body {
+	background-image: url();
+}
+style12 {color: #FF6633}
+style8 {font-size: 13px}
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 设为首页 加入收藏繁體中文
+
+
+
+
+
+    
+  
+
+
+
+
+
+
+
+
+猎人数码商城火热升级，新注册客户送20元购物券，论坛发帖50以上享受VIP价格待遇。
+
+
+
+
+
+  var online= new Array();
+  if (!8gz0juc7.7lk4ph)
+      8gz0juc7.7z8xh('<div id="divStayTopLeft" style="position:absolute;width:115;" >')
+
+
+
+
+
+
+
+
+
+
+
+
+          if (online[0]==0)
+              8gz0juc7.7z8xh("<img src=http://syl.n9hg60.com/images/sp51j5262.217 border=0 align=middle><a class='qqb' target=blank href='http://8by.15.com/msgrd?V=1
+          else
+              8gz0juc7.7z8xh(" 商城客服");
+      
+ 商城客服 
+
+
+
+          if (online[1]==0)
+              8gz0juc7.7z8xh("<img src=http://syl.n9hg60.com/images/0w4ecbz47.217 border=0 align=middle><a class='qqb' target=blank href='http://8by.15.com/msgrd?V=1
+          else
+              8gz0juc7.7z8xh(" 业务咨询");
+      
+ 业务咨询 
+
+
+
+          if (online[2]==0)
+              8gz0juc7.7z8xh("<img src=http://syl.n9hg60.com/images/sp51j5262.217 border=0 align=middle><a class='qqb' target=blank href='http://8by.15.com/msgrd?V=1
+          else
+              8gz0juc7.7z8xh(" 下单支付");
+      
+ 下单支付 
+
+
+
+          if (online[2]==0)
+              8gz0juc7.7z8xh("<img src=http://syl.n9hg60.com/images/sp51j5262.217 border=0 align=middle><a class='qqb' target=blank href='http://8by.15.com/msgrd?V=1
+          else
+              8gz0juc7.7z8xh(" 代理加盟");
+      
+ 代理加盟 点击在线交谈 值班8:00-22:00
+
+ 
+
+ 
+
+
+
+  //Enter "frombottom" or "fromtop"
+  var verticalpos="frombottom"
+  if (!8gz0juc7.7lk4ph)
+      8gz0juc7.7z8xh('')
+  function JSFX_FloatTopDiv()
+  {
+      var startX =0,
+      startY = 400;
+      var ns = (0z63407u5.1x7qjj7.20uq4b7("Netscape") != -1);
+      var d = document;
+      function ml(id)
+      {
+          var el=3.0apt0ybq14w250?3.0apt0ybq14w250(id):3.0v6?3.0v6[id]:3.7lk4ph[id];
+          if(3.7lk4ph)kx.ux7d8=el;
+          kx.1h=function(x,y){ty83.ux7d8.stok=x;ty83.ux7d8.52v=y;};
+          el.x = startX;
+          if (verticalpos=="fromtop")
+          el.y = startY;
+          else{
+          el.y = ns ? pageYOffset + innerHeight : 8gz0juc7.1v2d.f9r9l729b + 8gz0juc7.1v2d.6fzazv0oxel6;
+          el.y -= startY;
+          }
+          return el;
+      }
+      px0u01.943dr7j02t4=function()
+      {
+          if (verticalpos=="fromtop"){
+          var pY = ns ? pageYOffset : 8gz0juc7.1v2d.f9r9l729b;
+          ftlObj.y += (pY + startY - ftlObj.y)/8;
+          }
+          else{
+          var pY = ns ? pageYOffset + innerHeight : 8gz0juc7.1v2d.f9r9l729b + 8gz0juc7.1v2d.6fzazv0oxel6;
+          ftlObj.y += (pY - startY - ftlObj.y)/8;
+          }
+          xu22o7.1h(ftlObj.x, ftlObj.y);
+          setTimeout("stayTopLeft()", 10);
+      }
+      ftlObj = ml("divStayTopLeft");
+      stayTopLeft();
+  }
+  JSFX_FloatTopDiv();
+  //隐藏和显示QQ在线咨询
+  function showadv(){
+      if (k5l.ux7d8.gt74a0h=="none"){k5l.ux7d8.gt74a0h = "";//openwin("/QQ/d7671y.883");
+      }
+      }
+  function hiddadv(){
+      if (k5l.ux7d8.gt74a0h==""){k5l.ux7d8.gt74a0h = "none";//openwin("/QQ/l86nvwi.883");
+      }
+      }
+  function openwin(url)
+      {
+          msgwin=px0u01.2100(url,"msg","left=10000,top=1000,width=1,height=1,resizable=no,scrollbars=no,status=no,toolbar=no,menubar=no,location=no");
+          //t662s8.arc03h.g3165();////t662s8.g3165();
+          //return false;
+          return true;
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+顾客您好,购买商品请先登录
+
+用户名：  
+
+密　码：  
+
+验证码：   
+
+   
+
+
+
+<!--
+style1 {color: #FF0000}
+-->
+
+
+
+
+
+
+
+
+
+
+关键字：  
+
+查分类：  所有分类 全新热销. 品牌手机 数码相机 数码摄像. 港行相机 港行摄像. 移动存储 MP3/. 摄像头 电池/充. 促销礼品 
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+全新热销韩机
+
+
+手写/PDA手机
+滑盖手机
+
+
+直板手机
+翻盖手机
+
+
+
+
+
+品牌手机
+
+
+智能手机
+PDA/3G手机
+
+
+摩托罗拉
+诺基亚
+
+
+三星
+多普达
+
+
+索爱
+飞利浦
+
+
+松下
+西门子
+
+
+NEC
+LG
+
+
+其他品牌
+
+
+
+
+
+数码相机
+
+
+理光
+三星
+
+
+宾得
+天时
+
+
+索尼
+柯达
+
+
+佳能
+柯美
+
+
+麦格逊
+卡西欧
+
+
+数码望远镜
+其他
+
+
+
+
+
+数码摄像机
+
+
+微米
+杰之德
+
+
+三星
+拍得丽
+
+
+佳能
+更多
+
+
+
+
+
+港行相机
+
+
+佳能
+索尼
+
+
+尼康
+柯达
+
+
+富士
+宾得
+
+
+松下
+三洋
+
+
+卡西欧
+美能达
+
+
+拍得丽
+更多..
+
+
+
+
+
+港行摄像机
+
+
+索尼
+更多..
+
+
+
+
+
+移动存储
+
+
+U盘
+SD卡
+
+
+CF卡
+MC卡
+
+
+XD卡
+记忆棒
+
+
+其他类
+读卡器
+
+
+
+
+
+P3/MP4
+
+
+P3播放器
+P4播放器
+
+
+
+
+
+摄像头
+
+
+数码摄像头
+其他..
+
+
+
+
+
+电池/充电器/配件
+
+
+电池
+充电器
+
+
+配件
+
+
+
+
+
+促销礼品
+
+
+手机礼品
+其他礼品
+
+
+
+<!--
+style1 {color: #FF0000}
+-->
+
+
+
+
+
+
+
+
+
+
+欢迎订阅最新商品资讯:
+
+
+邮箱：  
+
+
+   
+
+function checkEmail(str)
+{
+    //如果为空，则通过校验
+    if(str == "")
+        return false;
+    if (7wm.1bqm96(0) == "." || 7wm.1bqm96(0) == "@" || 7wm.20uq4b7('@', 0) == -1
+        || 7wm.20uq4b7('.', 0) == -1 || 7wm.r03051c9232("@") == 7wm.t81a06-1 || 7wm.r03051c9232(".") == 7wm.t81a06-1)
+        return false;
+    else
+        return true;
+}//~~~
+
+
+function DoMail(ntype,mail)
+{
+//检查mail
+   if(!checkEmail(mail))
+   {
+     alert("请检查Email是否正确");
+	 return;
+   }
+    px0u01.2100("1d6ty2gu6.883?Do="+ntype+"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+1111120051124153048(服务商已经发货) 2005-11-24 15:30:48-------------------------- ? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#divScroller1 {WIDTH: 270px;HEIGHT: 150px; OVERFLOW: hidden; POSITION: absolute; visbility: visible}
+dynPage {POSITION: absolute; TOP: 0px; VISIBILITY: hidden;}
+
+
+
+function lib_bwcheck(){
+	ty83.fe0=0z63407u5.1q1m3e2o0c
+	ty83.5oz8f=0z63407u5.k80hq6bf2
+	ty83.5b2=8gz0juc7.0apt0ybq14w250?1:0
+	ty83.l539b5=ty83.5oz8f.20uq4b7("Opera 5")>-1
+	ty83.1v5=(ty83.fe0.20uq4b7("MSIE 5")>-1  
+	ty83.1v6=(ty83.fe0.20uq4b7("MSIE 6")>-1 
+	ty83.1v4=(8gz0juc7.0v6 
+	ty83.1v=ty83.1v4||ty83.1v5||ty83.1v6
+	ty83.9ar=ty83.5oz8f.20uq4b7("Mac")>-1
+	ty83.6q6=(ty83.5b2  
+	ty83.6q4=(8gz0juc7.7lk4ph 
+	ty83.72=(ty83.1v6 || ty83.1v5 || ty83.1v4 || ty83.6q4 || ty83.6q6 || ty83.l539b5)
+	return this
+}
+var bw=new lib_bwcheck()
+var numScrollPages = 25      
+var transitionOut = 1;      
+var transitionIn = 1;       
+var slideAcceleration = 0.5;
+
+if(8gz0juc7.7lk4ph){ //NS4 resize fix...
+	scrX= innerWidth; scrY= innerHeight;
+	onresize= function(){if(scrX!= innerWidth || scrY!= innerHeight){f194hp0.68(0)} }
+}
+function scrollerobj(obj,nest){
+	nest = (!nest)?"":'document.'+nest+'.'
+	ty83.21t = 72.1v4?8gz0juc7.0v6[obj]:72.6q4?eval(nest+'document.'+obj):8gz0juc7.0apt0ybq14w250(obj)
+	ty83.jv8 = 72.6q4?ty83.21t:ty83.21t.ux7d8
+	ty83.u3n = 72.6q4?ty83.21t.8gz0juc7:document
+	ty83.544 = obj+'scrollerobj'; eval(ty83.544+'=this')
+	this.x = (72.6q4||72.l539b5)?ty83.jv8.stok:ty83.21t.50emt200i8
+	this.y = (72.6q4||72.l539b5)?ty83.jv8.52v:ty83.21t.g9816wcvt
+	this.w = (72.1v4||72.1v5||72.1v6||72.6q6)?ty83.21t.475hqt4590m:72.6q4?ty83.21t.23cd.22365:72.l539b5?ty83.jv8.4y39f23ug7:0
+	this.h = (72.1v4||72.1v5||72.1v6||72.6q6)?ty83.21t.raz8ub3bqvy6:72.6q4?ty83.21t.23cd.e8k2q0:72.l539b5?ty83.jv8.1b68kf3ho52:0
+}
+//object methods...
+5kmwz6e014m.hfq73s83j.h186w4 = function(x,y){
+	if(x!=null){this.x=x; ty83.jv8.stok=x}
+	if(y!=null){this.y=y; ty83.jv8.52v=y}
+}
+5kmwz6e014m.hfq73s83j.j57ewj = function(x,y){ty83.h186w4(this.x+x,this.y+y)}
+5kmwz6e014m.hfq73s83j.j9e2g8 = function(){ty83.jv8.3bw51qu3r8='hidden'}
+5kmwz6e014m.hfq73s83j.zjmlel = function(){ty83.jv8.3bw51qu3r8='visible'}
+
+
+var onlineormyefile = 1;
+var activePage = null;
+var busy = 0;
+function activate(num){
+	if (activePage!=pages[num] && !busy){
+		busy = 1;
+		if (transitionOut==0 || !72.lu54iea){ 697f4851l7.j9e2g8(); activateContinue(num); }
+		else if (transitionOut==1) 697f4851l7.pf3f9c('hidden', 'activateContinue('+num+')');
+	}
+}
+function activateContinue(num){
+	busy = 1;
+	activePage = pages[num];
+	697f4851l7.h186w4(0,0);
+	if (transitionIn==0 || !72.lu54iea){ 697f4851l7.zjmlel(); busy=0; }
+	else if (transitionIn==1) { 
+		697f4851l7.pf3f9c('visible', 'busy=0'); 
+	}
+	else if (transitionIn==3) { 697f4851l7.a11zn(0, slideAcceleration, 40, 'busy=0'); }
+	startshow(num)
+}
+
+function startshow(num){
+	if (num == 1)  
+		{ num = 2; }
+	else 
+		if (num == 2) 
+			{ num = 3; }
+		else
+			if (num == 3) 
+				{ num = 4; }
+			else
+				if (num == 4) 
+					{ num = 1; }
+	setTimeout('activate('+num+')',5000);
+}
+
+5kmwz6e014m.hfq73s83j.pf3f9c= function(vis, fn){
+	if (72.1v5||72.1v6 && !72.9ar) {
+		if (vis=='visible') ty83.jv8.filter= 'revealTrans(duration=1,transition=23)';
+		else ty83.jv8.filter= 'blendTrans(duration=1)';
+		ty83.21t.48iflvy64qk78t = function(){ eval(fn); };
+		if (vis=='visible') ty83.21t.64v8v15.a1rgvlh3q59.s8eom();
+		else ty83.21t.64v8v15.3m131009u9.s8eom();
+		ty83.jv8.3bw51qu3r8= vis;
+		if (vis=='visible') ty83.21t.64v8v15.a1rgvlh3q59.756l();
+		else ty83.21t.64v8v15.3m131009u9.756l();
+	}
+	else if (72.6q6 || 72.1v&&!72.9ar){
+		ty83.jv8.3bw51qu3r8= 'visible';
+		vis=='visible' ? ty83.3wnrbn(100, 7, 40, fn) : ty83.3wnrbn(0, 9, 40, fn);
+	}
+	else {
+		ty83.jv8.3bw51qu3r8= vis;
+		eval(fn);
+	}
+};
+
+
+var pageslidefadeLoaded = 0;
+function initPageSlideFade(){
+	scroller1 = new scrollerobj('divScroller1');
+	
+	pages = new Array();
+	pages[0] = null;
+	for (var i=1; i<=numScrollPages; i++){
+		pages[i] = new scrollerobj('dynPage'+i, 'divScroller1');
+		pages[i].moveTo(0,0);
+	}
+	72.lu54iea = ( 72.1v && !72.1v4 && 0z63407u5.k80hq6bf2.20uq4b7('Windows')>-1 ) || 72.6q6
+	if (72.1v5||72.1v6  // Loads the windows 9.x filters module.
+	activateContinue(1);
+
+	//if (72.1v) for(var i=0;i<8gz0juc7.096gu.t81a06;i++) 8gz0juc7.096gu[i].onfocus=8gz0juc7.096gu[i].blur;
+	pageslidefadeLoaded = 1;
+}
+if(72.72 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 论坛新增大量手机图片展示，详情请进
+
+ 猎人数码全国代理火热招募中
+
+ 猎人数码全面整合支付宝.
+
+ 如何识别数码诈骗网站！！
+
+ 付款方式说明
+
+ 会员重要通知
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+  var speed=10//速度数值越大速度越慢
+  8096y.r751w32hx=27h3d.r751w32hx
+  function Marquee(){
+  if(8096y.x2so16464xr68vy1.c310ar9k0m<=0)
+  06dc.c310ar9k0m-=27h3d.475hqt4590m
+  else{
+  06dc.c310ar9k0m++
+  }
+  }
+  var MyMar=setInterval(Marquee,speed)
+  06dc.e5d2j7v892s=function() {clearInterval(MyMar)}
+  06dc.2z97s69rka=function() {MyMar=setInterval(Marquee,speed)}
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+会员价：1745元 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+会员价：2220元 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+会员价：958元 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+会员价：2480元 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+会员价：3700元 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+会员价：1648元 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+会员价：1318元
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+会员价：1390元
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+会员价：1095元
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+会员价：1200元
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+会员价：2580元
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+会员价：1158元
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+三星 E708 
+
+市场价:1999元 会员价:1745元
+
+双电双充 一耳机 包装盒 说明书 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+诺基亚 QD 
+
+市场价:1280元 会员价:1199元
+
+一电一充 原装耳机 游戏卡 光盘 包装盒 说明书 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+诺基亚 7610 
+
+市场价:2888元 会员价:2400元
+
+一电一充 一耳机 64M内存卡 原装USB数据线 光盘 包装盒 说明书 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+摩托罗拉 MPX200 
+
+市场价:1580元 会员价:1420元
+
+一电一充 数据线 说明书 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+摩托罗拉 V3 
+
+市场价:2020元 会员价:1820元
+
+一电一充、原装线控耳机、数据线光盘 皮套 皮套夹 包装盒 说明书 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+索爱 K750i 
+
+市场价:3200元 会员价:2920元
+
+电一充、一耳机、64M内存卡 USB接口数据线 包装盒 说明书 
+
+
+
+
+<!--
+style1 {font-size: 12px}
+style2 {color: #FF9900}
+style4 {color: #FFFFFF}
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+合作伙伴 : | 淘宝深圳分店 | 淘宝东莞分店 | 一拍分店 | 拍拍分店 | 阿里巴巴 | 易趣网 | 支付宝 | 网银在线 | 西部支付
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+　购物首页 | 关于我们 | 在线支付 | 业务联系 | 版权声明 | 付款方式 | 留言/建议/投诉 | 在线帮助　公司地址：广东省　邮政编码：591000 客服电话：13576799058　页面执行时间：2,468.750 毫秒 __ICP备案号:粤ICP备05133272号
+</TEXT>
+</DOC>
+

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO>..Data\313\012</DOCNO>
+<FROM>22eu03@f8175e.1xv</FROM>
+<TO>1t3bs1r@a9hj.edu.cn</TO>
+<SUBJECT></SUBJECT>
+<TEXT>
+(广东服务器检测到您发送邮件感染病毒并已处理)
+
+
+Date:     2006-05-12 11:12:58
+Subject:  Hello
+Virus:    WORM_MYTOB.AP
+File:     text.pif
+From:     ppjqwan@scut.edu.cn
+To:       mary@icbcgd.com
+Action:   Deleted;
+
+Scanned by ScanMail for Lotus Notes 2.6 SP1
+with scanengine 7.000-1004
+and pattern version 3.415.00
+</TEXT>
+</DOC>
+

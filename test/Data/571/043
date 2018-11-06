@@ -1,0 +1,244 @@
+<DOC>
+<DOCNO>..Data\571\043</DOCNO>
+<FROM>a85vk73o@80h32039.com</FROM>
+<TO>dg6v5mzs@vj7ly.com.cn</TO>
+<SUBJECT>电源管理e-news 2006-6-28</SUBJECT>
+<TEXT>
+“电源管理”电子新闻
+2006年6月27日 
+
+
+  
+
+产品新闻/技术文章应用资料厂商方案新闻发布
+
+
+产品新闻/技术文章
+
+用于340~550VAC高压电源输入的120W交换式电源 
+DRH -120系列、120W轨道型交换式电源低耗损高效率的特点(最高达86%)使其可仅利用空气的对流来散热，无须使用额外的风扇，故可有效延长产品寿命并 增加其可靠度...
+http://www.epc.com.cn/count/count_link.asp?id=61&link_id=383&email=liyajing@ecict.com.cn
+精密的智能电池使充电变简单了
+智能电池系统（SBS）的出现大大简化了独立电池系统的设计，因此其应用已经超出了笔记本计算机领域，而出现在其他各种应用中，比如备份电源系统、高可靠性军事和航天应用中。其他关键应用还包括了汽车、安全/监视/防伪系统、医疗设备、刀片服务器、电信和便携式电子产品... 
+http://www.epc.com.cn/count/count_link.asp?id=61&link_id=384&email=liyajing@ecict.com.cn
+应用在汽车电子领域的国产DC/DC模块电源(图) 
+UFB_MP-6W系列模块电源，宽压4：1输入，五面金属屏蔽封装，功率密度大，体积小（尺寸为：31.8mm×20.3mm×10.5mm），适用于汽车电子供电系统... 
+http://www.epc.com.cn/count/count_link.asp?id=61&link_id=385&email=liyajing@ecict.com.cn
+数字电源监视器降低了电源成本并解决散热问题(图)
+ADM1175/6/7/8 系列数字电源监视器可降低刀片式服务器、刀片式PC以及先进电信计算体系结构(ATCA)卡的电源要求和成本，并且解决了散热问题... 
+http://www.epc.com.cn/count/count_link.asp?id=61&link_id=386&email=liyajing@ecict.com.cn
+专用于航空雷达的功率晶体管和功率模块
+PH1090-700B双极晶体管主要面向1,030MHz至1,090MHz频段的IFF和其它航空应用。在32μs脉宽和2%占空比情况下，这种NPN型共基C类脉冲功率晶体管的饱和输出功率超过700Wpk。此外，该器件采用灌封/金属封装，具有高可靠性...
+http://www.epc.com.cn/count/count_link.asp?id=61&link_id=387&email=liyajing@ecict.com.cn
+应用资料
+
+White Paper: High-voltage IC design and development considerations 
+This paper is a distillation of what we have learnt while designing high voltage analog integrated circuits using processes from well known and established fabrication houses. 
+http://www.epc.com.cn/count/count_link.asp?id=61&link_id=388&email=liyajing@ecict.com.cn
+Application Note: Fluorescent Lighting
+Common electronic ballasts convert 60-Hz line voltage into a much higher frequency; 20 - 120KHz. With the advent of highly efficient electronic ballast, the fluorescent lighting industry is rapidly progressing toward high-frequency operation of fluorescent lamps. 
+http://www.epc.com.cn/count/count_link.asp?id=61&link_id=389&email=liyajing@ecict.com.cn
+Reference Design: Two Channel Gate Driver for Large IGBT Modules
+The BG2A is a fully isolated two channel gate drive circuit designed for use with dual IGBT modules. The BG2A utilizes Powerex VLA500-01 or VLA502-01 hybrid gate drivers to provide efficient switching of modules rated up to 1400A. http://www.epc.com.cn/count/count_link.asp?id=61&link_id=390&email=liyajing@ecict.com.cn
+厂商方案
+
+LT1990 - ±250V Input Range G = 1, 10, Micropower, Difference Amplifier
+Applications: Battery Cell Voltage Monitoring; High Voltage Current Sensing; Signal Acquisition in Noisy Environments; Input Protection; Fault Protected Front Ends; Level Sensing; Isolation.
+http://www.epc.com.cn/count/count_link.asp?id=61&link_id=391&email=liyajing@ecict.com.cn
+四路网络电源控制器, 用于网络供电 
+MAX5945四路网络电源控制器设计用于与IEEE 802.3af兼容的供电设备(PSE)。器件提供用电设备(PD)探测、分级、限流以及直流和交流负载断开探测。MAX5945可用于终端PSE (LAN交换机/路由器)或中跨PSE (电源注入)系统。 
+http://www.epc.com.cn/count/count_link.asp?id=61&link_id=392&email=liyajing@ecict.com.cn
+LED 照明
+美国国家半导体公司提供业界最齐备的 LED 驱动器。 这些不同系列的产品专为各种便携式设备而优化设计, 其中包括手机、个人数字助理(PDA)、数码相机、医疗器械等。 
+http://www.epc.com.cn/count/count_link.asp?id=61&link_id=393&email=liyajing@ecict.com.cn
+
+新闻发布
+
+Atmel和IXYS发布新的灯具镇流器演示套件
+ATAVRFBKIT是一个可调光镇流器演示套件，AT89RFD-10是一个不可调光镇流器演示套件， 两个套件都有丰富的设计特点，包括通用输入线，低谐振干扰,低待机功耗和各种保护特性. 可调光镇流器有DALI接口，或者一个接触式的开关控制调节级别。
+http://www.epc.com.cn/count/count_link.asp?id=61&link_id=394&email=liyajing@ecict.com.cn
+针对高性能处理器应用的IR XPhase多相位可扩展控制集成电路在中国获奖 
+世界功率管理技术领袖国际整流器公司（International Rectifier，简称IR）近日宣布，该公司的IR3082 XPhase多相位控制集成电路在《今日电子》杂志（EPC）举办的“2005 DC-DC 10强”电源产品评选中获奖。经过读者投票，独立评审团和《今日电子》杂志的编辑将此荣誉颁发给了这一具有创新意义的控制芯片，因为它具有更广泛的应用，在性能方面也十分突出。
+http://www.epc.com.cn/count/count_link.asp?id=61&link_id=395&email=liyajing@ecict.com.cn
+LT3491 : 采用 SC70 封装并具集成肖特基二极管的高效白光 LED 驱动器 
+凌特公司推出采用 SC70 封装的高效率、恒定电流白光 LED 驱动器 LT3491。LT3491 片上集成了肖特基二极管，由于无需外部二极管，因而节省了成本和空间。
+http://www.epc.com.cn/count/count_link.asp?id=61&link_id=396&email=liyajing@ecict.com.cn
+
+编者语
+
+如今，电子产品中的电流越来越高，而系统电压越来越低，封装尺寸越来越小。半导体应用网的“电源管理”电子新闻帮您寻找应付这些挑战的产品和技术。
+
+
+ 
+查寻更多电源管理解决方案
+
+查寻更多电源管理解决方案 
+  所有类别 汽车 消费产品 电源管理 工业/仪器 无线通信 有线通信  
+
+
+分类浏览电源管理解决方案 
+? 汽车电源 
+? 电池管理 
+? 数字电源 
+? 显示驱动 
+? 高压 
+? 照明 
+? 军事/航空航天/恶劣环境 
+? 电源转换 
+
+
+
+
+
+欢迎索阅《今日电子》杂志
+涉及范围栏目设置
+
+无源器件
+开发软件
+板卡、外设
+测试、测量
+线性IC
+数字IC
+电源
+分立半导体
+光电器件
+控制、开关
+封装、连接器技术前沿
+
+专题特写
+
+应用天地
+
+产品撷英
+
+新品发布
+
+
+
+
+
+
+
+
+ 
+如果您不想再接收此邮件请点击退定邮件“电源管理”电子新闻2006年6月27日 
+
+
+
+  
+
+
+
+
+
+产品新闻/技术文章
+应用资料
+厂商方案
+新闻发布
+
+
+
+
+
+
+
+
+
+
+
+
+
+产品新闻/技术文章
+
+用于340~550VAC高压电源输入的120W交换式电源 DRH -120系列、120W轨道型交换式电源低耗损高效率的特点(最高达86%)使其可仅利用空气的对流来散热email=liyajing@ecict.com.cn
+
+
+
+应用资料
+
+White Paper: High-voltage IC design and development considerations This paper is a distillation of what we have learnt while designing high voltage analog integrated circuits using processes from well known and established fabrication houses. http://www.epc.com.cn/count/count_link.asp?id=61email=liyajing@ecict.com.cn
+
+
+
+厂商方案
+
+LT1990 - email=liyajing@ecict.com.cn
+
+
+
+新闻发布
+
+Atmel和IXYS发布新的灯具镇流器演示套件ATAVRFBKIT是一个可调光镇流器演示套件email=liyajing@ecict.com.cn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+编者语
+
+
+如今封装尺寸越来越小。半导体应用网的“电源管理”电子新闻帮您寻找应付这些挑战的产品和技术。
+
+
+
+
+ 
+
+
+
+
+
+
+
+查寻更多电源管理解决方案
+
+查寻更多电源管理解决方案 
+  所有类别 汽车 消费产品 电源管理 工业/仪器 无线通信 有线通信  
+
+
+
+分类浏览电源管理解决方案 
+ 电源转换 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+欢迎索阅《今日电子》杂志
+
+
+
+涉及范围
+
+栏目设置
+
+无源器件开发软件板卡、外设测试、测量线性IC数字IC电源分立半导体光电器件控制、开关封装、连接器
+
+技术前沿专题特写应用天地产品撷英新品发布
+
+
+如果您不想再接收此邮件请点击退定邮件
+</TEXT>
+</DOC>
+

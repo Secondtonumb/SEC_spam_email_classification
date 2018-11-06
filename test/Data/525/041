@@ -1,0 +1,276 @@
+<DOC>
+<DOCNO>..Data\525\041</DOCNO>
+<FROM>vx047k95ui8h@163.com</FROM>
+<TO>gvi1g6@a9hj.edu.cn</TO>
+<SUBJECT>征集会标，广告语</SUBJECT>
+<TEXT>
+这是一封HTML格式信件！
+
+
+================================================
+中啦！--网上彩票代购，中奖通知，自动兑奖；
+为彩票销售点搭建网上销售平台网址：www.zhongla.cn中国（第二届）南京国际酒文化节
+        
+      
+  
+   
+     
+         
+          首? 
+            |首 
+            页|文化节简介|组织机构|文化活动项目|招商方案|酒文化|诚信酒企业|文化名酒|行业资讯|客户留言|
+        
+      
+  
+   
+    
+     
+         
+           
+            
+<!-- Begin
+text = "中国酒行业诚信万里行"; //显示的文字
+color1 = "red"; //文字的颜色
+color2 = "yellow"; //转换的颜色
+fontsize = "6"; //字体大小
+speed = 300; //转换速度 (1000 = 1 秒) 
+i = 0;
+if (navigator.appName == "Netscape") {
+document.write("<layer id=a visibility=show></layer><br><br><br>");
+}
+else {
+document.write("<div id=a></div>");
+}
+function changeCharColor() {
+if (navigator.appName == "Netscape") {
+document.a.document.write("<center><font face=arial size =" + fontsize + "><font color=" + color1 + 
+">");
+for (var j = 0; j < text.length; j++) {
+if(j == i) {
+document.a.document.write("<font face=arial color=" + color2 + ">" + Text.charAt(i) + "</font>");
+}
+else {
+document.a.document.write(text.charAt(j));
+}
+}
+document.a.document.write('</font></font></center>');
+document.a.document.close();
+}
+if (navigator.appName == "Microsoft Internet Explorer") {
+str = "<center><font face=arial size=" + fontsize + "><font color=" + color1 + ">";
+for (var j = 0; j < text.length; j++) {
+if( j == i) {
+str += "<font face=arial color=" + color2 + ">" + text.charAt(i) + "</font>";
+}
+else {
+str += text.charAt(j);
+}
+}
+str += "</font></font></center>";
+a.innerHTML = str;
+}
+(i == text.length) ? i=0 : i++;
+}
+setInterval("changeCharColor()", speed);
+// End -->
+          
+            
+        
+      
+  
+   
+     
+         
+          ●　
+          中国（首 届）西安国际酒文化节剪影
+          　
+          
+               
+                  
+document.write('<marquee style="color:#414141;font-size:12px;line-height:17px;" direction="up" height="90" scrollamount="1" scrolldelay="100" onmouseover="this.scrolldelay=500" onmouseout="this.scrolldelay=1">欢迎光临中国酒文化网站，本站是为了弘扬宣传酒文化及其企业、产品、活动专设。您可以点击左侧相应按扭查看相关信息。如果您在游览本站时有什么问题可以到本站的论坛发表你的看法，也可以将你的问题来信告诉我们，我们将竭诚为您服务。<br><font color="#6699cc"> □'); 
+                 　
+              
+            
+            　
+        
+         
+          ●
+          中国（第二届）南京国际酒文化节简介
+        
+         
+          ●　
+          网上征集酒类绝活---------实施方案
+        
+         
+          ●　
+          
+          中华文化名酒评审（含中华儒商）
+        
+         
+          ●
+          
+          诚信明星企业评审（含诚信明星企业家）
+        
+         
+          ●
+          中国人民解放军军事后勤博物馆藏酒简介
+        
+         
+          ●
+          国家博物馆珍藏纪念酒简介
+        
+         
+          ●
+          会标、广告语征集
+        
+         
+          ●
+          南京玄武湖公园简介（国家aaaa旅游区）
+        
+         
+          ●
+          文化名酒、诚信酒企业推介
+        
+        
+          ●
+          珍品美图　
+        
+         
+           
+            ●
+            　
+           
+              参会合同下载　
+            
+        
+      
+  
+   
+     
+         
+           
+        
+         
+          
+               
+                中国酒营销网
+                中国茶酒信息网
+                中国烧酒网
+                中国酒类行业信息网
+                中国酒类营销网
+                中国保健酒网
+              
+               
+                意大利葡萄酒网
+                中国葡萄酒信息网
+                中国绍酒网
+                中外葡萄与葡萄酒网
+                中国名酒网
+                葡萄酒在线
+              
+               
+                中国酒业网
+                酒类营销网
+                中国酒网
+                中国糖酒网
+                中国名酒在线
+                中国洋酒网
+              
+               
+                中国酒饮机械网
+                中国酒业新闻网
+                中国酒业网
+                白酒经营者俱乐部
+                中国酒具网
+                　
+              
+               
+                中国糖酒食品网
+                传说调酒师俱乐部
+                中国酒网
+                中国产业经济信息网
+                中国酒
+                　
+              
+               
+                　
+                　
+                　
+                中国食品酒业情报网　
+                　
+                　
+              
+            
+        
+         
+          
+        
+         
+          
+          　
+          联系我们
+          加入收藏 
+          友情链接
+          广告服务
+          关于本站
+          本站论坛
+          　
+        
+      
+  
+   
+    
+         
+          　
+          　
+          copyright  
+            2005 www.jiuwenhua.org all rights reserved.
+          　
+          　
+        
+         
+          
+          　
+           电 话：025-83200781 
+            、83200782 
+          
+          手 机：81703281、
+           13390792116
+          　
+          　
+        
+         
+          　
+          　
+          e-mail:jiuwenhuajie@163.com
+          传 真：025-83613250
+          邮编：210008
+          　
+          　
+        
+         
+          　
+          　
+          地 址：南京市玄武巷1号（玄武湖公园管理处1楼）
+          qq:535639294
+          　
+          　
+        
+      
+  
+   
+    
+         
+          　
+          豫icp备06004754
+          　
+        
+      
+  
+
+
+  
+    hxstat_WebID=279;
+</TEXT>
+</DOC>
+

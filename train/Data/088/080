@@ -1,0 +1,59 @@
+<DOC>
+<DOCNO>..Data\088\080</DOCNO>
+<FROM>5y78o5@yahoo.com</FROM>
+<TO>q18m4t43@a9hj.edu.cn</TO>
+<SUBJECT></SUBJECT>
+<TEXT>
+.replbq{width:100%}
+
+
+			var LetterVals =
+			{
+				UIStrings : {
+					
+					__last : 'not used'
+				},
+
+				StateDynamic : true,
+				yplus_browser : false,
+				premium_user : false,
+				smsintl : "",
+				SidebarSyncActionType : "read",
+				SidebarSyncAuxActionType : "",
+                                SidebarSyncUID : "71",
+				SidebarSyncAuxUID : "",
+				
+				getString : function(id)
+				{
+					var result = ty83.yv00o75xd[id];
+					if ( result == null ) {
+						return "Not translated: '" + id + "'";
+					}
+					return result;
+				}
+			}
+
+
+
+
+
+	
+		
+		
+			
+			
+				
+				
+				～ 無師自通、多項實用、經濟、超質、珍藏、情趣、精進～
+				
+				 
+				熱門、實用、知識、稀有百科光碟教學書
+				
+				
+				 破市場行情價：每組190元，購10組加贈 @組，購20組加贈二組
+				
+				
+				適自學自修、興趣培養、愛好收藏、職場精修、移民留學、教材輔助、居家備用之實用工具。
+</TEXT>
+</DOC>
+

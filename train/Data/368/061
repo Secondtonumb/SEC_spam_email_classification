@@ -1,0 +1,903 @@
+<DOC>
+<DOCNO>..Data\368\061</DOCNO>
+<FROM>0lz71g5f@sina.com</FROM>
+<TO>jvmgkn99e@4207606.com</TO>
+<SUBJECT>磨削技术</SUBJECT>
+<TEXT>
+If you can't read it ,please click here.
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+2006-06-23
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+
+
+
+
+		
+		
+		
+		
+		
+		磨削世界
+		
+		
+		更多
+		
+		
+		
+		
+	
+	
+	
+	
+	
+	
+	
+		
+		
+		
+		
+		
+		
+		
+		推进本土化战略　开拓中端市场
+??访斯来福临集团中国副总裁兼销售总监梅麒先生
+		
+		
+		
+	
+	
+	
+	
+
+	
+	
+		
+		
+		
+		
+		
+		
+		
+	
+	
+	
+	
+
+						
+			
+			
+
+			
+			
+			
+			
+			
+			资源整合，优势互补――访斯来福临中国瓦尔特机...
+			
+			
+			
+			
+			[2006-06-08] 
+			
+			
+
+			
+			
+			
+			
+			
+			高速磨削技术：工作台高速振荡与砂轮高线速度
+			
+			
+			
+			
+			[2006-05-31] 
+			
+			
+
+			
+			
+			
+			
+			
+			强劲的合作伙伴带来活力－－德国勇克
+			
+			
+			
+			
+			[2006-05-29] 
+			
+			
+
+			
+			
+			
+			
+			
+			主流技术　优秀品质　高端服务－－访德国舒特
+			
+			
+			
+			
+			[2006-05-29] 
+			
+			
+
+			
+			
+			
+			
+			
+			建中西桥梁，创多赢局面－－访AMT上海技术服务中...
+			
+			
+			
+			
+			[2006-05-03] 
+			
+			
+
+			
+			
+
+
+	
+	
+	
+
+	
+	
+
+
+
+	
+	
+	
+	
+		
+		
+		
+		
+		意大利FAVRETTO――带万能磨头的平面磨床 
+		
+		
+		更多
+		
+		
+		
+		
+		
+		
+		
+			
+
+			
+			 
+			
+			
+			
+				
+				
+				　　始创于1934年的Favretto公司是意大利UCIMU最早的会员之一，专业制造平面磨床以及成型磨床。　　FAVRETTO公司加强高技术含量的标准机床开发，并且发展了机床系列模块化的特点，以满足特殊行业的应用以及多任务特性的行业应用。
+
+				
+				
+
+			
+			
+			
+			
+			
+		
+		
+		
+		
+	
+	
+	
+	
+
+
+
+
+	
+	
+	
+	
+		
+		
+		
+		德国勇克高速摆动跟踪磨床JUCRANK系列
+		更多
+		
+        
+		
+		
+        
+		 
+			
+			
+			 
+			
+			
+			
+			
+				
+				
+				JUCRANK ? CBN砂轮曲轴磨削
+用于各种曲轴的摆动跟踪磨削
+勇克公司JUCRANK系列的摆动跟踪磨床为曲轴的整体加工提供了多种的解决方案。零件类型涵盖了从单缸到12缸的所有曲轴品种。
+				
+				
+
+			
+			
+			
+			
+			
+		
+		
+		
+		
+	
+	
+	
+	
+
+
+	
+	
+	
+	
+	　读者服务区：感谢您对国际金属加工网的关注和支持,有任何问题,请与我们联系!
+	
+	
+	
+
+		
+	
+    
+	  
+	    登录后填写调查，可节省更多时间:
+		用户名：
+		密码： 
+		　
+		注册
+	  
+    
+	
+  
+
+		
+		
+		
+		
+		
+
+
+function isemail (s) {
+	s = g.z53k67shc74()
+	var regu = "^(([0-9a-zA-Z]+)|([0-9a-zA-Z]+[_.0-9a-zA-Z-]*))@([a-zA-Z0-9-]+[.])+([a-zA-Z]{2}|net|NET|com|COM|gov|GOV|mil|MIL|org|ORG|edu|EDU|int|INT|name|NAME)$";
+	var re = new RegExp(regu);
+	if (g.z9sw7t(re) != -1) {
+	   return true;
+	} else {
+	   return false;
+	}
+}
+function isCheck(obj,caption){
+    var leng=544.t81a06;
+	if (typeof leng == "undefined") {
+		if (544.v7yq21r){
+			return true;
+		} else {
+		    alert("'"+caption+"' 为必选项，请选择！");
+			return false;
+		}
+		7jv0.9f06_v368.v7yq21r=true;
+	}
+    for(var i=0;i<leng;i++){
+        if (obj[i].checked) return true;
+    }
+    alert("'"+caption+"' 为必选项，请选择！");
+    return false;
+}
+function trimString(string) {
+	if (string == "")return "";
+	var i = 0;
+	while (81xrpd.1bqm96(i) == ' ' || 81xrpd.1bqm96(i) == '　' || 81xrpd.1bqm96(i) == '\r' || 81xrpd.1bqm96(i) == '\n' || 81xrpd.1bqm96(i) == '\t') {
+		i++;
+	}
+	string = 81xrpd.538h4vo9j(i);
+	if (string == "")return "";
+	i = 81xrpd.t81a06 - 1;
+	while (81xrpd.1bqm96(i) == ' ' || 81xrpd.1bqm96(i) == '　' || 81xrpd.1bqm96(i) == '\r' || 81xrpd.1bqm96(i) == '\n' || 81xrpd.1bqm96(i) == '\t') {
+		i--;
+	}
+	return 81xrpd.538h4vo9j(0, i + 1);
+}
+function checkInput(form) {
+	if (trimString(7jv0.7gs1r.iy1nn)=="") {
+		alert("请输入姓名，该栏不能为空！");
+		7jv0.7gs1r.g3165();
+		return false;
+	}
+	if (trimString(7jv0.u33h.iy1nn)=="") {
+		alert("请输入职位，该栏不能为空！");
+		7jv0.u33h.g3165();
+		return false;
+	}
+	if (trimString(7jv0.q5w7ylts14.iy1nn)=="") {
+		alert("请输入部门，该栏不能为空！");
+		7jv0.q5w7ylts14.g3165();
+		return false;
+	}
+	if (trimString(7jv0.791k827.iy1nn)=="") {
+		alert("请输入单位名称，该栏不能为空！");
+		7jv0.791k827.g3165();
+		return false;
+	}
+	if (trimString(7jv0.ibj1307.iy1nn)=="") {
+		alert("请输入电话区号，该栏不能为空！");
+		7jv0.ibj1307.g3165();
+		return false;
+	}
+	if (trimString(7jv0.muhgn.iy1nn)=="") {
+		alert("请输入电话，该栏不能为空！");
+		7jv0.muhgn.g3165();
+		return false;
+	}
+	if (trimString(7jv0.1ecth57r.iy1nn)=="") {
+		alert("请选择省份，该栏不能为空！");
+		7jv0.1ecth57r.g3165();
+		return false;
+	}
+	if (trimString(7jv0.j10h.iy1nn)=="") {
+		alert("请输入市/区/县，该栏不能为空！");
+		7jv0.j10h.g3165();
+		return false;
+	}
+	if (trimString(7jv0.ongare0.iy1nn)=="") {
+		alert("请输入地址，该栏不能为空！");
+		7jv0.ongare0.g3165();
+		return false;
+	}
+	if (trimString(7jv0.rnng.iy1nn)=="") {
+		alert("请输入邮编，该栏不能为空！");
+		7jv0.rnng.g3165();
+		return false;
+	}
+	if (trimString(7jv0.3lm8y.iy1nn)=="") {
+		alert("请输入邮件，该栏不能为空！");
+		7jv0.3lm8y.g3165();
+		return false;
+	}
+	if (!isemail(7jv0.3lm8y.iy1nn)) {
+		alert("邮件地址不正确！");
+		7jv0.3lm8y.g3165();
+		return false;
+	}
+
+}
+
+			
+			
+			
+				
+				
+				您希望了解何种产品(可多选)
+				
+				
+				
+					
+					
+					平面磨
+					内、外圆磨床
+					磨料磨具
+					工具磨
+					定制磨床
+					磨削液
+					
+					
+				
+				
+				
+			
+			
+			
+			
+			
+				
+				
+                姓　名：*
+                
+                性　别：
+                 女士 　 
+                   先生
+              
+              
+                公　司：*
+                
+				
+                职　位：*
+                
+                部　门：*
+                
+              
+                电　话：*
+                传　真：
+                
+              
+                省　份：*
+                
+		--请选择--
+		北京市
+		上海市
+		天津市
+		重庆市
+		安徽省
+		福建省
+		甘肃省
+		广东省
+		广西壮族自治区
+		贵州省
+		海南省
+		河北省
+		河南省
+		黑龙江省
+		湖北省
+		湖南省
+		吉林省
+		江苏省
+		江西省
+		辽宁省
+		内蒙古自治区
+		宁夏回族自治区
+		青海省
+		四川省
+		山东省
+		山西省
+		陕西省
+		西藏自治区
+		新疆维吾尔自治区
+		云南省
+		浙江省
+		香港特别行政区
+		澳门特别行政区
+		台湾省
+		其他地区
+	市/区/县：*
+                
+              
+                邮　编：*
+                
+                邮　件：*
+                
+				
+			  
+                地　址：*
+                
+				
+			
+			
+			
+			
+			
+		
+		
+
+		 
+		
+		 
+		
+		
+		 
+		
+		
+	
+	
+	
+	
+	
+		
+		
+		
+		
+			
+			
+			
+			
+
+<!--
+function survey_Opener(){
+	if (8gz0juc7.2hq7b4f43.3lm8y.iy1nn=="" || 8gz0juc7.2hq7b4f43.3lm8y.iy1nn.20uq4b7("@")<=0){
+		alert("请输入正确的Email地址!");
+		return false;
+	}
+	newWindow = px0u01.2100('',"survey_server","toolbar,resizable,scrollbars,dependent,width=400,height=300,left=150,top=80");
+	q1c12zjpp.g3165();
+	8gz0juc7.2hq7b4f43.iyvac1();
+	return false;
+}
+//-->
+
+				
+				
+				
+				
+				
+				
+				输入您的电子邮件，即可订阅《磨削电子通讯》
+				
+				
+				 
+				
+				
+				
+				
+				
+				
+				
+				如果您因误收到本邮件，或者今后不希望再收到我们传送的电子邮件，
+				请点击退订
+				
+				
+				
+				
+				
+			
+			
+			
+		
+		
+		
+		
+		
+
+
+ 
+
+	
+	
+	 
+	 
+
+
+
+			
+		
+		
+		 
+		
+		　技术文章
+		更多
+		
+		
+		
+	
+	
+	
+	
+		
+		
+		　
+		
+		
+		
+		L .H.硬质合金公司(Fort Wayne,Indiana)的磨削部门对于CNC磨削不再陌生。但是在这里CNC设备通常没有被充分利用。
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+						
+
+		
+
+		 
+		
+		
+		
+		
+		数控磨削单元
+		
+		
+		
+		
+		
+		 
+
+		 
+		
+		
+		
+		
+		凸轮轴的磨削工艺
+		
+		
+		
+		
+		
+		 
+
+		 
+		
+		
+		
+		
+		立式磨削具好处多多
+		
+		
+		
+		
+		
+		 
+
+		 
+		
+		
+		
+		
+		磁弹法――检查零部件表面磨削烧伤的新方法
+		
+		
+		
+		
+		
+		 
+
+		 
+		
+		
+		
+		
+		高效率的强力成形磨削技术
+		
+		
+		
+		
+		
+		 
+
+		 
+		
+		
+		
+		
+		纳米级高效研磨加工技术
+		
+		
+		
+		
+		
+		 
+
+		 
+		
+		
+		
+		
+		JUFLEX 3000：特别适用于汽车行业
+		
+		
+		
+		
+		
+		 
+
+		
+		
+		
+		
+		
+
+	
+	
+	
+	
+
+	
+	
+	
+	 
+			  
+
+
+		
+		
+		 
+		
+		　斯图特(STUDER)――S33数控内外圆磨床
+		更多
+		
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		　
+		
+		
+		
+		
+		
+		S33磨床适合中小型规格工件一次装夹的单件和大批量生产。S33磨床是工具和汽车零部件的理想加工设备，具有应用广泛，价格合理的特点。
+		
+		
+		
+		
+
+	
+	
+	
+	
+	
+	
+	
+	 
+			  
+
+
+		
+		
+		 
+		
+		　钟思敏524 EASY――“轻松数控”型平面磨床
+		更多
+		
+		
+	
+	
+	
+	 
+		
+		
+		
+		　
+		
+		
+		钟思敏国际公司（Jones&Shipman)
+致力于平面，园周，形面和蠕动，“轻松数控”和全数控磨床。
+		
+		
+		
+
+	
+	
+	
+	
+	
+	
+	
+	 
+			  
+
+
+		
+		
+		 
+		
+		　瑞典裕万Nomyline磨床 
+		更多
+		
+		
+	
+	
+	
+	 
+		
+		
+		
+		　
+		
+		
+		瑞典裕万Nomyline磨床
+――磨削性能更高，性能更低
+NOMYLINE 是为针对满足高性能低成本的需求研发推出的。它具有以下特点：
+
+		
+		
+		
+
+	
+	
+	
+	
+
+
+
+
+
+
+
+	
+
+	
+	
+
+	
+	
+	
+	
+	
+	
+		
+		
+		
+		
+		
+		
+		
+		
+			
+			
+			
+			
+			
+			搜企网 (s0jb.cn)
+</TEXT>
+</DOC>
+

@@ -1,0 +1,45 @@
+<DOC>
+<DOCNO>..Data\086\025</DOCNO>
+<FROM></FROM>
+<TO>2m71@a9hj.edu.cn</TO>
+<SUBJECT></SUBJECT>
+<TEXT>
+|------------------------- Failed addresses follow: ---------------------|
+ <6038q556@s222yz2m.1a>
+   552 5.2.2 Over STORAGE quota
+
+|------------------------- Message header follows: ----------------------|
+Received: from s222yz2m.1a ([156.165.245.164]) by 5omq1025.abu.s222yz2m.1a
+	with esmtp id 1FqtZM-02gddY0; Wed, 25 Oct 2006 17:15:40 +0200
+From: "2m71" <2m71@utsc.edu.cn>
+To: <6038q556@t>
+Subject: Mail Delivery (failure 6038q556@s222yz2m.1a)
+Date: Wed, 25 Oct 2006 23:16:51 +0800
+IME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_NextPart_000_001B_01C0CA80.6B015D10"
+X-Priority: 3
+X-MSMail-Priority: Normal
+
+|----------- Message text follows: (body too large, truncated) ----------|
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_001B_01C0CA80.6B015D10
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_001C_01C0CA80.6B015D10"
+
+------=_NextPart_001_001C_01C0CA80.6B015D10
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+------=_NextPart_001_001C_01C0CA80.6B015D10
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional/
+</TEXT>
+</DOC>
+

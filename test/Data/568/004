@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO>..Data\568\004</DOCNO>
+<FROM>p9z945@v7xslp8jeylk.net</FROM>
+<TO>zyb2nuwd@a9hj.edu.cn</TO>
+<SUBJECT></SUBJECT>
+<TEXT>
+----- The following addresses had permanent fatal errors -----
+<8jl8nrkih@v7xslp8jeylk.net>
+    (reason: Can't create output)
+
+   ----- Transcript of session follows -----
+procmail: Quota exceeded while writing "/var/mail/cehoffman"
+550 5.0.0 <8jl8nrkih@v7xslp8jeylk.net>... Can't create output
+</TEXT>
+</DOC>
+

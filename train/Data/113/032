@@ -1,0 +1,52 @@
+<DOC>
+<DOCNO>..Data\113\032</DOCNO>
+<FROM></FROM>
+<TO>1slkub@a9hj.edu.cn</TO>
+<SUBJECT></SUBJECT>
+<TEXT>
+Hi. This is the qmail-send program at qskt0h26.net.
+I'm afraid I wasn't able to deliver your message to the following addresses.
+This is a permanent error; I've given up. Sorry it didn't work out.
+
+<ku@38aw2q.com>:
+vdeliver: Invalid or unknown virtual user 'gz'
+
+--- Below this line is a copy of the message.
+
+Received: (qmail 8008 invoked from network); 25 Oct 2006 23:48:21 -0000
+Received: from 29.72.84.233 by lwm002b5 (envelope-from <1slkub@utsc.edu.cn>, uid 501) with qmail-scanner-1.23 
+ (spamassassin: 3.0.0.  
+ Clear:RC:0(29.72.84.233):SA:1(6.0/5.0):. 
+ Processed in 1.08492 secs); 25 Oct 2006 23:48:21 -0000
+X-Spam-Status: Yes, hits=6.0 required=5.0
+X-Spam-Level: ++++++
+Received: from unknown (HELO mail.zd7iq1.net.8h) (29.72.84.233)
+  by k5y1047r.qskt0h26.net with SMTP; 25 Oct 2006 23:48:20 -0000
+Received: from 16.254.34.126
+        (SquirrelMail authenticated user 1slkub@utsc.edu.cn);
+        by mail.zd7iq1.net.8h with HTTP id Ab44qw9z016213421;
+        Wed, 25 Oct 2006 23:54:34 +0000
+essage-Id: <2zda45.1nh20ye0@16.254.34.126>
+Date: Wed, 25 Oct 2006 23:54:34 +0000
+Subject: To buy or not to buy? 
+From: "1slkub" <1slkub@utsc.edu.cn>
+To: <ku@38aw2q.com>
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+IME-Version: 1.0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+We surely can say: to buy most wanted medications at US Drug Store! Just few minutes and you'll get any pill that you need at LOW cost you ever seen!<br><br>
+Viagra ,CiaIis ,Levitra ,Valium ,Phentermine - they aII are licensed and have best quaIity!<br><br>
+<a href="http://nw3tym.7ouqd4.net/?rsyegmanojnt">American Online Pharmacy</a><br><br>
+ake secure and confidential purchase .Nobody wilI know that you are usinq medications.<br><br>
+Buying at US Druq store - the right choice you can make!
+</body>
+</html>
+</TEXT>
+</DOC>
+

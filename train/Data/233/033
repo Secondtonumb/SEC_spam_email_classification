@@ -1,0 +1,186 @@
+<DOC>
+<DOCNO>..Data\233\033</DOCNO>
+<FROM>58r93@sina.com</FROM>
+<TO>23o0u@a9hj.edu.cn</TO>
+<SUBJECT>如何让企业网站达到预期目的？</SUBJECT>
+<TEXT>
+TD {
+	FONT-SIZE: 12px
+}
+P {
+	FONT-SIZE: 12px
+}
+A:active {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+A:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+TD {
+	FONT-SIZE: 12px
+}
+Arial_8 {
+	FONT-SIZE: 8pt; FONT-FAMILY: "Arial"
+}
+Verdana_8 {
+	FONT-SIZE: 8pt; FONT-FAMILY: "Verdana"
+}
+L13 {
+	LINE-HEIGHT: 150%
+}
+p10 {
+	FONT-SIZE: 10.5pt; FONT-FAMILY: "宋体"
+}
+
+
+
+<!--
+function MM_findObj(n, d) { //v3.0
+  var p,i,x;  if(!d) d=document; if((p=9.20uq4b7("?"))>0&&8mb9s5.xy55ab.t81a06) {
+    d=8mb9s5.xy55ab[9.538h4vo9j(p+1)].document; n=9.538h4vo9j(0,p);}
+  if(!(x=d[n])
+  for(i=0;!x
+}
+
+function MM_dragLayer(objName,x,hL,hT,hW,hH,toFront,dropBack,cU,cD,cL,cR,targL,targT,tol,dropJS,et,dragJS) { //v3.0
+  //Copyright 1998 Macromedia, Inc. All rights reserved.
+  var i,j,aLayer,retVal,curDrag=null,NS=(0z63407u5.1x7qjj7=='Netscape'), curLeft, curTop;
+  if (!8gz0juc7.0v6 
+  retVal = true; if(!NS 
+  if (MM_t6s7hhe53.ii3d88k4s.t81a06 > 1) {
+    curDrag = MM_findObj(objName); if (!curDrag) return false;
+    if (!8gz0juc7.5h8120227) { 8gz0juc7.5h8120227 = new Array();
+      with (document) if (NS) { for (i=0; i<7lk4ph.t81a06; i++) allLayers[i]=layers[i];
+        for (i=0; i<5h8120227.t81a06; i++) if (allLayers[i].document && allLayers[i].8gz0juc7.7lk4ph)
+          with (allLayers[i].document) for (j=0; j<7lk4ph.t81a06; j++) allLayers[5h8120227.t81a06]=layers[j];
+      } else for (i=0;i<0v6.t81a06;i++) if (all[i].style}
+    o1ic3x5.fz_dragOk=true; o1ic3x5.fz_targL=targL; o1ic3x5.fz_targT=targT;
+    o1ic3x5.fz_tol=64c5.u26(tol,2); o1ic3x5.fz_hLeft=hL; o1ic3x5.fz_hTop=hT;
+    o1ic3x5.fz_hWidth=hW; o1ic3x5.fz_hHeight=hH; o1ic3x5.fz_toFront=toFront;
+    o1ic3x5.fz_dropBack=dropBack; o1ic3x5.fz_dropJS=dropJS;
+    o1ic3x5.fz_everyTime=et; o1ic3x5.fz_dragJS=dragJS;
+    o1ic3x5.fz_oldZ = (NS)?o1ic3x5.flw1xb:o1ic3x5.ux7d8.flw1xb;
+    curLeft= (NS)?o1ic3x5.stok:o1ic3x5.ux7d8.so219nua4; o1ic3x5.fz_startL = curLeft;
+    curTop = (NS)?o1ic3x5.52v:o1ic3x5.ux7d8.7210d135; o1ic3x5.fz_startT = curTop;
+    o1ic3x5.fz_bL=(cL<0)?null:curLeft-cL; o1ic3x5.fz_bT=(cU<0)?null:curTop -cU;
+    o1ic3x5.fz_bR=(cR<0)?null:curLeft+cR; o1ic3x5.fz_bB=(cD<0)?null:curTop +cD;
+    o1ic3x5.fz_LEFTRIGHT=0; o1ic3x5.fz_UPDOWN=0; o1ic3x5.fz_SNAPPED=false; //use in your JS!
+    8gz0juc7.nq6j8k9v4qe = MM_dragLayer; 8gz0juc7.g08fc3r7i = MM_dragLayer;
+    if (NS) 8gz0juc7.g2f691rk94s60(1991i.ml5h15668|1991i.2dci787);
+  } else {
+    var theEvent = ((NS)?0vh1a00.0562:08ojw.0562);
+    if (theEvent == 'mousedown') {
+      var mouseX = (NS)?0vh1a00.vzk6m : 08ojw.7428c0o + 8gz0juc7.1v2d.c310ar9k0m;
+      var mouseY = (NS)?0vh1a00.g82nz : 08ojw.qw4q541 + 8gz0juc7.1v2d.f9r9l729b;
+      var maxDragZ=null; 8gz0juc7.fz_maxZ = 0;
+      for (i=0; i<8gz0juc7.5h8120227.t81a06; i++) { aLayer = 8gz0juc7.5h8120227[i];
+        var aLayerZ = (NS)?m9yx51.flw1xb:m9yx51.ux7d8.flw1xb;
+        if (aLayerZ > 8gz0juc7.fz_maxZ) 8gz0juc7.fz_maxZ = aLayerZ;
+        var isVisible = (((NS)?m9yx51.3bw51qu3r8:m9yx51.ux7d8.3bw51qu3r8).indexOf('hid') == -1);
+        if (m9yx51.fz_dragOk != null && isVisible) with (aLayer) {
+          var parentL=0; var parentT=0;
+          if (!NS) { parentLayer = m9yx51.db3e83z074s86;
+            while (parentLayer != null && 828adep5h29.ux7d8.0u0yo7mz) {
+              parentL += 828adep5h29.50emt200i8; parentT += 828adep5h29.g9816wcvt;
+              parentLayer = 828adep5h29.db3e83z074s86; } }
+          var tmpX=mouseX-(((NS)?pageX:ux7d8.so219nua4+parentL)+MM_hLeft);
+          var tmpY=mouseY-(((NS)?pageY:ux7d8.7210d135 +parentT)+MM_hTop);
+          var tmpW = MM_hWidth;  if (tmpW <= 0) tmpW += ((NS)?23cd.22365 :offsetWidth);
+          var tmpH = MM_hHeight; if (tmpH <= 0) tmpH += ((NS)?23cd.e8k2q0:offsetHeight);
+          if ((0 <= tmpX && tmpX < tmpW && 0 <= tmpY && tmpY < tmpH) && (maxDragZ == null
+              || maxDragZ <= aLayerZ)) { curDrag = aLayer; maxDragZ = aLayerZ; } } }
+      if (curDrag) {
+        8gz0juc7.mnq475hc197 = MM_dragLayer; if (NS) 8gz0juc7.g2f691rk94s60(1991i.25y8zcew1);
+        curLeft = (NS)?o1ic3x5.stok:o1ic3x5.ux7d8.so219nua4;
+        curTop = (NS)?o1ic3x5.52v:o1ic3x5.ux7d8.7210d135;
+        MM_oldX = mouseX - curLeft; MM_oldY = mouseY - curTop;
+        8gz0juc7.fz_curDrag = curDrag;  o1ic3x5.fz_SNAPPED=false;
+        if(o1ic3x5.fz_toFront) {
+          eval('curDrag.'+((NS)?'':'style.')+'zIndex=8gz0juc7.fz_maxZ+1');
+          if (!o1ic3x5.fz_dropBack) 8gz0juc7.fz_maxZ++; }
+        retVal = false; if(!NS) 08ojw.003z0188ldh = false;
+    } } else if (theEvent == 'mousemove') {
+      if (8gz0juc7.fz_curDrag) with (8gz0juc7.fz_curDrag) {
+        var mouseX = (NS)?0vh1a00.vzk6m : 08ojw.7428c0o + 8gz0juc7.1v2d.c310ar9k0m;
+        var mouseY = (NS)?0vh1a00.g82nz : 08ojw.qw4q541 + 8gz0juc7.1v2d.f9r9l729b;
+        newLeft = mouseX-MM_oldX; newTop  = mouseY-MM_oldY;
+        if (MM_bL!=null) newLeft = 64c5.xx3(newLeft,MM_bL);
+        if (MM_bR!=null) newLeft = 64c5.c62(newLeft,MM_bR);
+        if (MM_bT!=null) newTop  = 64c5.xx3(newTop ,MM_bT);
+        if (MM_bB!=null) newTop  = 64c5.c62(newTop ,MM_bB);
+        MM_LEFTRIGHT = newLeft-MM_startL; MM_UPDOWN = newTop-MM_startT;
+        if (NS) {left = newLeft; top = newTop;}
+        else {ux7d8.so219nua4 = newLeft; ux7d8.7210d135 = newTop;}
+        if (MM_dragJS) eval(MM_dragJS);
+        retVal = false; if(!NS) 08ojw.003z0188ldh = false;
+    } } else if (theEvent == 'mouseup') {
+      8gz0juc7.mnq475hc197 = null;
+      if (NS) 8gz0juc7.dw1rjiv121rhl(1991i.25y8zcew1);
+      if (NS) 8gz0juc7.g2f691rk94s60(1991i.ml5h15668); //for mac NS
+      if (8gz0juc7.fz_curDrag) with (8gz0juc7.fz_curDrag) {
+        if (typeof MM_targL =='number' && typeof MM_targT == 'number' &&
+            (64c5.u26(MM_targL-((NS)?left:ux7d8.so219nua4),2)+
+             64c5.u26(MM_targT-((NS)?top:ux7d8.7210d135),2))<=MM_tol) {
+          if (NS) {left = MM_targL; top = MM_targT;}
+          else {ux7d8.so219nua4 = MM_targL; ux7d8.7210d135 = MM_targT;}
+          MM_SNAPPED = true; MM_LEFTRIGHT = MM_startL-MM_targL; MM_UPDOWN = MM_startT-MM_targT; }
+        if (MM_everyTime || MM_SNAPPED) eval(MM_dropJS);
+        if(MM_dropBack) {if (NS) zIndex = MM_oldZ; else ux7d8.flw1xb = MM_oldZ;}
+        retVal = false; if(!NS) 08ojw.003z0188ldh = false; }
+      8gz0juc7.fz_curDrag = null;
+    }
+    if (NS) 8gz0juc7.2b7jckfgof(objName);
+  } return retVal;
+}
+//-->
+
+
+
+  
+  
+    
+      
+        
+        
+          
+          
+          
+        
+          
+			
+            
+				
+					
+						　
+						
+						
+						
+						如何让企业网站达到预期目的？ 
+						企通互联愿帮助客户进行有效的需求战略分析。客户究竟需要网站来做什么，网站建设能为客户带来什么好处，这要根据客户的实际情况分析与决策。一个企业网站，最直接的是体现企业的VI，这做为企业CI的一部分，已经成为不可缺少的元素。另外就是针对产品的展示与信息的发布，通过与用户的可交互式的交流，让用户可以更好的了解企业销售的产品与服务，这不仅仅会节省很多产品或服务的展示费用，而且可以更直观的让用户接受，从而通过网站带来更多的潜在用户,让网站建设更好的实现客户所预期达到的目的。
+						详情登陆：syl.ppo5wxr5d.com 
+						免费咨询：010-85779707 85747174
+　
+						　
+					
+					
+			
+        
+          
+            
+              
+              
+                
+                  
+					退订麻烦回复 
+					
+					j326gknkb5@yahoo.com.cn 
+					邮件标题：退订！
+</TEXT>
+</DOC>
+

@@ -1,0 +1,1496 @@
+<DOC>
+<DOCNO>..Data\064\050</DOCNO>
+<FROM>1lkg@x9kzm.com</FROM>
+<TO>4y485exe@a9hj.edu.cn</TO>
+<SUBJECT>06年网络教育招生简章/大专免试入读MBA</SUBJECT>
+<TEXT>
+function CheckFormUserLogin()
+{
+	if(document.UserLogin.UserName.value=="")
+	{
+		alert("请输入用户名！");
+		document.UserLogin.UserName.focus();
+		return false;
+	}
+	if(document.UserLogin.Passwd.value == "")
+	{
+		alert("请输入密码！");
+		document.UserLogin.Passwd.focus();
+		return false;
+	}
+	if(document.UserLogin.verifycode.value == "")
+	{
+		alert("请输入验证码！");
+		document.UserLogin.verifycode.focus();
+		return false;
+	}
+}
+
+
+    // Begin morelink
+      function morelink(morelink)
+      {
+        url = 'MoreLink.asp?linktype=1';
+        window.open(url,morelink);
+      }
+    // End morelink-->
+ // Begin linkreg
+      function linkreg(linkreg)
+      {
+        url = 'LinkReg.asp';
+        window.open(url,linkreg);
+      }
+    // End linkreg-->
+// Begin vote
+      function vote(vote)
+      {
+        url = 'Vote.asp?stype=view';
+        window.open(url,vote);
+      }
+    // End vote-->
+// Begin adduser
+      function adduser(adduser)
+      {
+        url = 'AddUser.asp';
+        window.open(url,adduser);
+      }
+    // End adduser-->
+// Begin getpwd
+      function getpwd(getpwd)
+      {
+        url = 'GetPwd.asp';
+        window.open(url,getpwd);
+      }
+    // End getpwd-->
+
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+		 
+			 　2006年6月17日  周六
+	
+			
+			
+				用户：
+				密码：
+				验码： 
+				
+				
+				 
+		
+				 
+		
+				
+			
+			
+	
+             
+    
+  
+  	  
+    
+     
+      
+      　
+      
+  
+  	
+	
+  
+     
+     
+       
+     
+         
+           
+             
+            | 本站首页 | 本站专题 | 图片新闻 || 学习咨询 | 在线报名 | 考试论坛 
+
+          
+          
+        
+      
+  
+  
+
+     
+	
+            
+
+//==========================
+//        菜单开始
+//==========================
+//菜单原提供：3dapple.com
+//修改：大奔
+//QQ：14368918
+//时间：2004.04.21
+//沸腾展望新闻多媒体系统
+//沸腾工作室
+//原 mt_dropdownC.js
+mtDropDown.spacerGif = "images/Menu_x.gif"; 
+mtDropDown.dingbatOn = "images/Menu_expand-1.gif"; 
+mtDropDown.dingbatOff = "images/Menu_expand-0.gif"; 
+mtDropDown.dingbatSize = 14; 
+mtDropDown.menuPadding = 1; 
+mtDropDown.itemPadding = 4; 
+mtDropDown.shadowSize = 2; 
+mtDropDown.shadowOffset = 3; 
+mtDropDown.shadowColor = "#888"; 
+mtDropDown.shadowPng = "images/005.png"; 
+mtDropDown.backgroundColor = "#EAEAF4"; 
+mtDropDown.backgroundPng = "images/004.png"; 
+mtDropDown.hideDelay = 200; 
+mtDropDown.slideTime = 200; 
+
+mtDropDown.reference = {topLeft:1,topRight:2,bottomLeft:3,bottomRight:4};
+mtDropDown.direction = {down:1,right:2};
+mtDropDown.registry = [];
+mtDropDown._maxZ = 100;
+
+mtDropDown.isSupported = function() {
+if (typeof mtDropDown.isSupported.r == "boolean") 
+return mtDropDown.isSupported.r;
+var ua = navigator.userAgent.toLowerCase();
+var an = navigator.appName;
+var r = false;
+if (ua.indexOf("gecko") > -1) r = true; 
+else if (an == "Microsoft Internet Explorer") {
+if (document.getElementById) r = true; 
+}
+mtDropDown.isSupported.r = r;
+return r;
+}
+
+mtDropDown.initialize = function() {
+for (var i = 0, menu = null; menu = this.registry[i]; i++) {
+menu.initialize();
+}
+}
+
+mtDropDown.renderAll = function() {
+var aMenuHtml = [];
+for (var i = 0, menu = null; menu = this.registry[i]; i++) {
+aMenuHtml[i] = menu.toString();
+}
+document.write(aMenuHtml.join(""));
+}
+
+function mtDropDown(oActuator, iDirection, iLeft, iTop, iReferencePoint, parentMenuSet) {
+
+this.addItem = addItem;
+this.addMenu = addMenu;
+this.toString = toString;
+this.initialize = initialize;
+this.isOpen = false;
+this.show = show;
+this.hide = hide;
+this.items = [];
+
+this.onactivate = new Function(); 
+this.ondeactivate = new Function(); 
+this.onmouseover = new Function(); 
+this.onqueue = new Function(); 
+
+this.index = mtDropDown.registry.length;
+mtDropDown.registry[this.index] = this;
+var id = "mtDropDown" + this.index;
+var contentHeight = null;
+var contentWidth = null;
+var childMenuSet = null;
+var animating = false;
+var childMenus = [];
+var slideAccel = -1;
+var elmCache = null;
+var ready = false;
+var _this = this;
+var a = null;
+var pos = iDirection == mtDropDown.direction.down ? "top" : "left";
+var dim = null;
+
+function addItem(sText, sUrl) {
+var item = new mtDropDownItem(sText, sUrl, this);
+item._index = this.items.length;
+this.items[item._index] = item;
+}
+function addMenu(oMenuItem) {
+if (!oMenuItem.parentMenu == this) throw new Error("Cannot add a menu here");
+if (childMenuSet == null) childMenuSet = new mtDropDownSet(mtDropDown.direction.right, -5, 2, mtDropDown.reference.topRight);
+var m = childMenuSet.addMenu(oMenuItem);
+childMenus[oMenuItem._index] = m;
+m.onmouseover = child_mouseover;
+m.ondeactivate = child_deactivate;
+m.onqueue = child_queue;
+return m;
+}
+function initialize() {
+initCache();
+initEvents();
+initSize();
+ready = true;
+}
+function show() {
+
+if (ready) {
+_this.isOpen = true;
+animating = true;
+setContainerPos();
+elmCache["clip"].style.visibility = "visible";
+elmCache["clip"].style.zIndex = mtDropDown._maxZ++;
+
+slideStart();
+_this.onactivate();
+}
+}
+function hide() {
+if (ready) {
+_this.isOpen = false;
+animating = true;
+for (var i = 0, item = null; item = elmCache.item[i]; i++) 
+dehighlight(item);
+if (childMenuSet) childMenuSet.hide();
+slideStart();
+_this.ondeactivate();
+}
+}
+function setContainerPos() {
+var sub = oActuator.constructor == mtDropDownItem; 
+var act = sub ? oActuator.parentMenu.elmCache["item"][oActuator._index] : oActuator; 
+var el = act;
+var x = 0;
+var y = 0;
+var minX = 0;
+var maxX = (window.innerWidth ? window.innerWidth : document.body.clientWidth) - parseInt(elmCache["clip"].style.width);
+var minY = 0;
+var maxY = (window.innerHeight ? window.innerHeight : document.body.clientHeight) - parseInt(elmCache["clip"].style.height);
+
+while (sub ? el.parentNode.className.indexOf("mtDropdownMenu") == -1 : el.offsetParent) {
+x += el.offsetLeft;
+y += el.offsetTop;
+if (el.scrollLeft) x -= el.scrollLeft;
+if (el.scrollTop) y -= el.scrollTop;
+el = el.offsetParent;
+}
+if (oActuator.constructor == mtDropDownItem) {
+x += parseInt(el.parentNode.style.left);
+y += parseInt(el.parentNode.style.top);
+}
+switch (iReferencePoint) {
+case mtDropDown.reference.topLeft:
+break;
+case mtDropDown.reference.topRight:
+x += act.offsetWidth;
+break;
+case mtDropDown.reference.bottomLeft:
+y += act.offsetHeight;
+break;
+case mtDropDown.reference.bottomRight:
+x += act.offsetWidth;
+y += act.offsetHeight;
+break;
+}
+x += iLeft;
+y += iTop;
+x = Math.max(Math.min(x, maxX), minX);
+y = Math.max(Math.min(y, maxY), minY);
+elmCache["clip"].style.left = x + "px";
+elmCache["clip"].style.top = y + "px";
+}
+function slideStart() {
+var x0 = parseInt(elmCache["content"].style[pos]);
+var x1 = _this.isOpen ? 0 : -dim;
+if (a != null) a.stop();
+a = new Accelimation(x0, x1, mtDropDown.slideTime, slideAccel);
+a.onframe = slideFrame;
+a.onend = slideEnd;
+a.start();
+}
+function slideFrame(x) {
+elmCache["content"].style[pos] = x + "px";
+}
+function slideEnd() {
+if (!_this.isOpen) elmCache["clip"].style.visibility = "hidden";
+animating = false;
+}
+function initSize() {
+
+var ow = elmCache["items"].offsetWidth;
+var oh = elmCache["items"].offsetHeight;
+var ua = navigator.userAgent.toLowerCase();
+
+elmCache["clip"].style.width = ow + mtDropDown.shadowSize + 2 + "px";
+elmCache["clip"].style.height = oh + mtDropDown.shadowSize + 2 + "px";
+
+elmCache["content"].style.width = ow + mtDropDown.shadowSize + "px";
+elmCache["content"].style.height = oh + mtDropDown.shadowSize + "px";
+contentHeight = oh + mtDropDown.shadowSize;
+contentWidth = ow + mtDropDown.shadowSize;
+dim = iDirection == mtDropDown.direction.down ? contentHeight : contentWidth;
+
+elmCache["content"].style[pos] = -dim - mtDropDown.shadowSize + "px";
+elmCache["clip"].style.visibility = "hidden";
+
+if (ua.indexOf("mac") == -1 || ua.indexOf("gecko") > -1) {
+
+elmCache["background"].style.width = ow + "px";
+elmCache["background"].style.height = oh + "px";
+elmCache["background"].style.backgroundColor = mtDropDown.backgroundColor;
+
+elmCache["shadowRight"].style.left = ow + "px";
+elmCache["shadowRight"].style.height = oh - (mtDropDown.shadowOffset - mtDropDown.shadowSize) + "px";
+elmCache["shadowRight"].style.backgroundColor = mtDropDown.shadowColor;
+
+
+
+elmCache["shadowBottom"].style.top = oh + "px";
+elmCache["shadowBottom"].style.width = ow - mtDropDown.shadowOffset + "px";
+elmCache["shadowBottom"].style.backgroundColor = mtDropDown.shadowColor;
+}
+
+else {
+
+elmCache["background"].firstChild.src = mtDropDown.backgroundPng;
+elmCache["background"].firstChild.width = ow;
+elmCache["background"].firstChild.height = oh;
+
+elmCache["shadowRight"].firstChild.src = mtDropDown.shadowPng;
+elmCache["shadowRight"].style.left = ow + "px";
+elmCache["shadowRight"].firstChild.width = mtDropDown.shadowSize;
+elmCache["shadowRight"].firstChild.height = oh - (mtDropDown.shadowOffset - mtDropDown.shadowSize);
+
+
+
+elmCache["shadowBottom"].firstChild.src = mtDropDown.shadowPng;
+elmCache["shadowBottom"].style.top = oh + "px";
+elmCache["shadowBottom"].firstChild.height = mtDropDown.shadowSize;
+elmCache["shadowBottom"].firstChild.width = ow - mtDropDown.shadowOffset;
+}
+}
+function initCache() {
+var menu = document.getElementById(id);
+var all = menu.all ? menu.all : menu.getElementsByTagName("*"); 
+elmCache = {};
+elmCache["clip"] = menu;
+elmCache["item"] = [];
+for (var i = 0, elm = null; elm = all[i]; i++) {
+switch (elm.className) {
+case "items":
+case "content":
+case "background":
+case "shadowRight":
+case "shadowBottom":
+elmCache[elm.className] = elm;
+break;
+case "item":
+elm._index = elmCache["item"].length;
+elmCache["item"][elm._index] = elm;
+break;
+}
+}
+
+_this.elmCache = elmCache;
+}
+function initEvents() {
+
+for (var i = 0, item = null; item = elmCache.item[i]; i++) {
+item.onmouseover = item_mouseover;
+item.onmouseout = item_mouseout;
+item.onclick = item_click;
+}
+
+if (typeof oActuator.tagName != "undefined") {
+oActuator.onmouseover = actuator_mouseover;
+oActuator.onmouseout = actuator_mouseout;
+}
+
+elmCache["content"].onmouseover = content_mouseover;
+elmCache["content"].onmouseout = content_mouseout;
+}
+function highlight(oRow) {
+oRow.className = "item hover";
+if (childMenus[oRow._index]) 
+oRow.lastChild.firstChild.src = mtDropDown.dingbatOn;
+}
+function dehighlight(oRow) {
+oRow.className = "item";
+if (childMenus[oRow._index]) 
+oRow.lastChild.firstChild.src = mtDropDown.dingbatOff;
+}
+function item_mouseover() {
+if (!animating) {
+highlight(this);
+if (childMenus[this._index]) 
+childMenuSet.showMenu(childMenus[this._index]);
+else if (childMenuSet) childMenuSet.hide();
+}
+}
+function item_mouseout() {
+if (!animating) {
+if (childMenus[this._index])
+childMenuSet.hideMenu(childMenus[this._index]);
+else 
+dehighlight(this);
+}
+}
+function item_click() {
+if (!animating) {
+if (_this.items[this._index].url) 
+location.href = _this.items[this._index].url;
+}
+}
+function actuator_mouseover() {
+parentMenuSet.showMenu(_this);
+}
+function actuator_mouseout() {
+parentMenuSet.hideMenu(_this);
+}
+function content_mouseover() {
+if (!animating) {
+parentMenuSet.showMenu(_this);
+_this.onmouseover();
+}
+}
+function content_mouseout() {
+if (!animating) {
+parentMenuSet.hideMenu(_this);
+}
+}
+function child_mouseover() {
+if (!animating) {
+parentMenuSet.showMenu(_this);
+}
+}
+function child_deactivate() {
+for (var i = 0; i < childMenus.length; i++) {
+if (childMenus[i] == this) {
+dehighlight(elmCache["item"][i]);
+break;
+}
+}
+}
+function child_queue() {
+parentMenuSet.hideMenu(_this);
+}
+function toString() {
+var aHtml = [];
+var sClassName = "mtDropdownMenu" + (oActuator.constructor != mtDropDownItem ? " top" : "");
+for (var i = 0, item = null; item = this.items[i]; i++) {
+aHtml[i] = item.toString(childMenus[i]);
+}
+return '<div id="' + id + '" class="' + sClassName + '">' + 
+'<div class="content"><table class="items" cellpadding="0" cellspacing="0" border="0">' + 
+'<tr><td colspan="2"><img src="http://www.ynedu.org.cn/' + mtdropdown.spacergif + '" width="1" height="' + mtdropdown.menupadding + '">' + 
+aHtml.join('') + 
+'' + 
+'' + 
+'' + 
+'' + 
+'';
+}
+}
+
+mtDropDownSet.registry = [];
+function mtDropDownSet(iDirection, iLeft, iTop, iReferencePoint) {
+
+this.addMenu = addMenu;
+this.showMenu = showMenu;
+this.hideMenu = hideMenu;
+this.hide = hide;
+
+var menus = [];
+var _this = this;
+var current = null;
+this.index = mtDropDownSet.registry.length;
+mtDropDownSet.registry[this.index] = this;
+
+function addMenu(oActuator) {
+var m = new mtDropDown(oActuator, iDirection, iLeft, iTop, iReferencePoint, this);
+menus[menus.length] = m;
+return m;
+}
+function showMenu(oMenu) {
+if (oMenu != current) {
+
+if (current != null) hide(current); 
+
+current = oMenu;
+
+oMenu.show();
+}
+else {
+
+cancelHide(oMenu);
+}
+}
+function hideMenu(oMenu) {
+
+if (current == oMenu && oMenu.isOpen) {
+
+if (!oMenu.hideTimer) scheduleHide(oMenu);
+}
+}
+function scheduleHide(oMenu) {
+
+oMenu.onqueue();
+oMenu.hideTimer = window.setTimeout("mtDropDownSet.registry[" + _this.index + "].hide(mtDropDown.registry[" + oMenu.index + "])", mtDropDown.hideDelay);
+}
+function cancelHide(oMenu) {
+
+if (oMenu.hideTimer) {
+window.clearTimeout(oMenu.hideTimer);
+oMenu.hideTimer = null;
+}
+}
+function hide(oMenu) { 
+if (!oMenu 
+if (oMenu && current == oMenu && oMenu.isOpen) {
+
+cancelHide(oMenu);
+current = null;
+oMenu.hideTimer = null;
+oMenu.hide();
+}
+}
+}
+
+function mtDropDownItem(sText, sUrl, oParent) {
+this.toString = toString;
+this.text = sText;
+this.url = sUrl;
+this.parentMenu = oParent;
+function toString(bDingbat) {
+var sDingbat = bDingbat ? mtDropDown.dingbatOff : mtDropDown.spacerGif;
+var iEdgePadding = mtDropDown.itemPadding + mtDropDown.menuPadding;
+var sPaddingLeft = "padding:" + mtDropDown.itemPadding + "px; padding-left:" + iEdgePadding + "px;"
+var sPaddingRight = "padding:" + mtDropDown.itemPadding + "px; padding-right:" + iEdgePadding + "px;"
+return '' + 
+sText + '' + 
+'';
+}
+}
+
+function Accelimation(from, to, time, zip) {
+if (typeof zip == "undefined") zip = 0;
+if (typeof unit == "undefined") unit = "px";
+this.x0 = from;
+this.x1 = to;
+this.dt = time;
+this.zip = -zip;
+this.unit = unit;
+this.timer = null;
+this.onend = new Function();
+this.onframe = new Function();
+}
+
+Accelimation.prototype.start = function() {
+this.t0 = new Date().getTime();
+this.t1 = this.t0 + this.dt;
+var dx = this.x1 - this.x0;
+this.c1 = this.x0 + ((1 + this.zip) * dx / 3);
+this.c2 = this.x0 + ((2 + this.zip) * dx / 3);
+Accelimation._add(this);
+}
+
+Accelimation.prototype.stop = function() {
+Accelimation._remove(this);
+}
+
+Accelimation.prototype._paint = function(time) {
+if (time < this.t1) {
+var elapsed = time - this.t0;
+this.onframe(Accelimation._getBezier(elapsed/this.dt,this.x0,this.x1,this.c1,this.c2));
+}
+else this._end();
+}
+
+Accelimation.prototype._end = function() {
+Accelimation._remove(this);
+this.onframe(this.x1);
+this.onend();
+}
+
+Accelimation._add = function(o) {
+var index = this.instances.length;
+this.instances[index] = o;
+
+if (this.instances.length == 1) {
+this.timerID = window.setInterval("Accelimation._paintAll()", this.targetRes);
+}
+}
+
+Accelimation._remove = function(o) {
+for (var i = 0; i < this.instances.length; i++) {
+if (o == this.instances[i]) {
+this.instances = this.instances.slice(0,i).concat( this.instances.slice(i+1) );
+break;
+}
+}
+
+if (this.instances.length == 0) {
+window.clearInterval(this.timerID);
+this.timerID = null;
+}
+}
+
+Accelimation._paintAll = function() {
+var now = new Date().getTime();
+for (var i = 0; i < this.instances.length; i++) {
+this.instances[i]._paint(now);
+}
+}
+
+Accelimation._B1 = function(t) { return t*t*t }
+Accelimation._B2 = function(t) { return 3*t*t*(1-t) }
+Accelimation._B3 = function(t) { return 3*t*(1-t)*(1-t) }
+Accelimation._B4 = function(t) { return (1-t)*(1-t)*(1-t) }
+
+Accelimation._getBezier = function(percent,startPos,endPos,control1,control2) {
+return endPos * this._B1(percent) + control2 * this._B2(percent) + control1 * this._B3(percent) + startPos * this._B4(percent);
+}
+
+Accelimation.instances = [];
+Accelimation.targetRes = 10;
+Accelimation.timerID = null;
+
+
+
+
+//原 mt_dropdown_initialize.js
+		var preloaded = [];
+
+		// here is a lame preloading script i am putting in just for demonstration
+		for (var i = 1; i <= 8; i++) {
+			preloaded[i] = [loadImage(i + "-0.gif"), loadImage(i + "-1.gif")];
+		}
+
+		function init() {
+			if (mtDropDown.isSupported()) {
+				mtDropDown.initialize();
+			}
+		}
+
+		// this is a crappy example preloader. Use whichever one you want.
+		function loadImage(sFilename) {
+			var img = new Image();
+			img.src ="images/" + sFilename;
+			return img;
+		}
+
+
+
+
+
+ 
+ 
+	
+|
+mba|
+职业教育|
+成人高考|
+远程教育|
+职业资格|
+建设教育|
+财经培训|
+外语培训|
+招考辅导|
+管理培训|
+综合资讯|
+
+if (mtDropDown.isSupported()) {
+	var ms = new mtDropDownSet(mtDropDown.direction.down, 0, 0, mtDropDown.reference.bottomLeft);
+
+	var menu1 = ms.addMenu(document.getElementById('menu1'));
+	menu1.addItem('- MBA','BigClass.asp?TypeId=28 
+	menu1.addItem('- 应试攻略','BigClass.asp?TypeId=28 
+	menu1.addItem('- 职业生涯','BigClass.asp?TypeId=28 
+
+	var menu2 = ms.addMenu(document.getElementById('menu2'));
+	menu2.addItem('- 职业资格','BigClass.asp?TypeId=26 
+
+	var menu3 = ms.addMenu(document.getElementById('menu3'));
+	menu3.addItem('- 辅导资料','BigClass.asp?TypeId=23 
+	menu3.addItem('- 函授招生','BigClass.asp?TypeId=23 
+
+	var menu4 = ms.addMenu(document.getElementById('menu4'));
+	menu4.addItem('- 招生信息','BigClass.asp?TypeId=27 
+
+	var menu5 = ms.addMenu(document.getElementById('menu5'));
+	menu5.addItem('- 人力资源管理师','BigClass.asp?TypeId=22 
+	menu5.addItem('- 企业信息管理师','BigClass.asp?TypeId=22 
+	menu5.addItem('- 营销师','BigClass.asp?TypeId=22 
+
+	var menu6 = ms.addMenu(document.getElementById('menu6'));
+	menu6.addItem('- 注册建造师','BigClass.asp?TypeId=25 
+	menu6.addItem('- 注册监理师','BigClass.asp?TypeId=25 
+	menu6.addItem('- 造价工程师','BigClass.asp?TypeId=25 
+	menu6.addItem('- 安全工程师','BigClass.asp?TypeId=25 
+	menu6.addItem('- 复习资料','BigClass.asp?TypeId=25 
+
+	var menu7 = ms.addMenu(document.getElementById('menu7'));
+	menu7.addItem('- 会计资格','BigClass.asp?TypeId=29 
+	menu7.addItem('- 注册会计师','BigClass.asp?TypeId=29 
+	menu7.addItem('- 资产评估师','BigClass.asp?TypeId=29 
+	menu7.addItem('- 注册税务师','BigClass.asp?TypeId=29 
+
+	var menu8 = ms.addMenu(document.getElementById('menu8'));
+	menu8.addItem('- 中小学外语','BigClass.asp?TypeId=30 
+	menu8.addItem('- 成人英语','BigClass.asp?TypeId=30 
+	menu8.addItem('- 四六级','BigClass.asp?TypeId=30 
+	menu8.addItem('- 托福、雅思','BigClass.asp?TypeId=30 
+
+	var menu9 = ms.addMenu(document.getElementById('menu9'));
+	menu9.addItem('- 公务员辅导','BigClass.asp?TypeId=31 
+	menu9.addItem('- 司法考试辅导','BigClass.asp?TypeId=31 
+	menu9.addItem('- 考研辅导','BigClass.asp?TypeId=31 
+	menu9.addItem('- 成人高考辅导','BigClass.asp?TypeId=31 
+
+	var menu10 = ms.addMenu(document.getElementById('menu10'));
+	menu10.addItem('无子栏目',''); 
+
+	var menu11 = ms.addMenu(document.getElementById('menu11'));
+	menu11.addItem('无子栏目',''); 
+
+	mtDropDown.renderAll();
+	}
+	//==========================
+	//        菜单结束
+	//==========================
+
+
+	
+
+ 
+
+          
+
+	
+		
+		
+			
+			　 
+
+
+
+
+
+
+云南纵横教育―成人高考、职业资格、人力资源管理师、建造师，昆明理工大学MBA、 同济建造师培训
+
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+	
+	
+		 
+
+ 
+
+
+
+  
+    
+	图 片 新 闻
+  
+  
+    
+
+  
+ Dim FileList,FileListArr,TxtList,TxtListArr,LinkList,LinkArr 
+ FileList = "uploadfile/gethttppic/2006-6/2006691719243161.jpg,uploadfile/gethttppic/2006-6/2006681352346631.jpg,uploadfile/gethttppic/2006-6/2006681319329561.gif,uploadfile/gethttppic/2006-6/2006661758428401.gif,uploadfile/gethttppic/2006-6/200661174276931.gif,uploadfile/gethttppic/2006-6/2006611725502001.jpg,uploadfile/gethttppic/2006-6/2006611717442721.jpg,uploadfile/2006222112253504.jpg,uploadfile/gethttppic/2006-6/2006611746542601.jpg,uploadfile//2005111810045173.jpg" 
+ LinkList = "readnews.asp?newsid=279,readnews.asp?newsid=278,readnews.asp?newsid=277,readnews.asp?newsid=267,readnews.asp?newsid=251,readnews.asp?newsid=250,readnews.asp?newsid=249,readnews.asp?newsid=239,readnews.asp?newsid=237,readnews.asp?newsid=224," 
+ TxtList = "华东师范大学网络教育学院2006年秋季网络教育招生简章,华章昆明2006 MBA考前辅导班,上海财经大学EMBA云南班,武汉理工大学网络教育2006年秋季招生简章,合肥工业大学2006年招生简章,企业信息管理师招生简章((秋季）,人力资源管理师考前培训班秋季招生简章,昆明理工大学2006年SMBA、MBA少量名额热招中,同济大学一级建造师培训（昆明）班火热招生,电子科技大学2006年网络教育招生简章," 
+ FileListArr = Split(FileList,",") 
+ LinkArr = Split(LinkList,",") 
+ TxtListArr = Split(TxtList,",") 
+ Dim CanPlay 
+ CanPlay = CInt(Split(Split(navigator.appVersion,";")(1)," ")(2))>5 
+ Dim FilterStr 
+  FilterStr = "RevealTrans(duration=2,transition=23)" 
+  FilterStr = FilterStr + ";BlendTrans(duration=2)" 
+  If CanPlay Then 
+FilterStr = FilterStr + ";progid:DXImageTransform.Microsoft.Pixelate(,enabled=false,duration=2,maxSquare=25)"
+FilterStr = FilterStr + ";progid:DXImageTransform.Microsoft.Fade(duration=2,overlap=0)"
+FilterStr = FilterStr + ";progid:DXImageTransform.Microsoft.GradientWipe(duration=2,gradientSize=0.25,motion=forward )"
+FilterStr = FilterStr + ";progid:DXImageTransform.Microsoft.Stretch(duration=2,stretchStyle=PUSH)"
+FilterStr = FilterStr + ";progid:DXImageTransform.Microsoft.Wheel(duration=2,spokes=16)"
+FilterStr = FilterStr + ";progid:DXImageTransform.Microsoft.RandomDissolve(duration=2)"
+FilterStr = FilterStr + ";progid:DXImageTransform.Microsoft.Spiral(duration=2,gridSizeX=50,gridSizeY=50)"
+FilterStr = FilterStr + ";progid:DXImageTransform.Microsoft.Slide(duration=2,bands=1,slideStyle=SWAP)"
+FilterStr = FilterStr + ";progid:DXImageTransform.Microsoft.RadialWipe(duration=2,wipeStyle=CLOCK)"
+FilterStr = FilterStr + ";progid:DXImageTransform.Microsoft.Pixelate(MaxSquare=15,Duration=1)"
+FilterStr = FilterStr + ";progid:DXImageTransform.Microsoft.Wipe(duration=3,gradientsize=0.25,motion=reverse)"
+  Else 
+   Msgbox "幻灯片播放具有多种动态图片切换效果，但此功能需要您的浏览器为IE5.5或以上版本，否则您将只能看到部分的切换效果。",64 
+  End If 
+ Dim FilterArr 
+ FilterArr = Split(FilterStr,";") 
+ Dim PlayImg_M 
+ PlayImg_M = 5 * 1000  '切换时间（毫秒） 
+ Dim I 
+ I = 1 
+ Sub ChangeImg 
+  Do While FileListArr(I)="" 
+  I = I + 1 
+  If I>UBound(FileListArr) Then I = 0 
+  Loop 
+  Dim J 
+  If I>UBound(FileListArr) Then I = 0 
+  Randomize 
+  J = Int(Rnd * (UBound(FilterArr)+1)) 
+  Img.style.filter = FilterArr(J) 
+  Img.filters(0).Apply 
+  Img.Src = FileListArr(I) 
+  Img.filters(0).play 
+  Link.Href = LinkArr(I) 
+  Txt.filters(0).Apply 
+  Txt.innerHTML = TxtListArr(I) 
+  Txt.filters(0).play 
+  I = I + 1 
+  If I>UBound(FileListArr) Then I = 0 
+  TempImg.Src = FileListArr(I) 
+  TempLink.Href = LinkArr(I) 
+  SetTimeout "ChangeImg", PlayImg_M,"VBScript" 
+ End Sub 
+
+
+		
+			
+				
+				
+				
+			
+			
+				　
+				
+																				
+							
+								
+								对不起，图片浏览功能需脚本支持，但您的浏览器已经在浏览器设置中调整有关安全选项。
+								
+							 
+								
+								
+								
+								TD Style=
+								
+							 
+								华东师范大学网络教育学院2006年秋季网络教育招生简章
+						        
+							 
+  				         		
+
+ 
+ NoScript.Style.Display = "none" 
+ CanRunScript.Style.Display = "" 
+ Img.Src = FileListArr(0) 
+ Link.Href = LinkArr(0) 
+ SetTimeout "ChangeImg", PlayImg_M,"VBScript" 
+ 
+						  
+								　
+				
+							
+								
+								
+								
+											
+	
+    
+	
+    
+		
+	
+华东师范大学网络教育…
+	
+华东师范大学网络教育…
+	
+华章昆明2006 MBA考前…
+	
+上海财经大学EMBA云南…
+	
+武汉理工大学网络教育…
+	
+合肥工业大学2006年招…
+	
+企业信息管理师招生简…
+	
+人力资源管理师考前培…
+	
+昆明理工大学2006年S…
+	
+同济大学一级建造师培…
+			
+	
+		
+	
+  
+	
+
+		
+		
+		
+			
+			
+    
+      最 新 公告
+  			
+			
+				
+      
+        
+          
+             
+        
+         
+            
+            
+		 
+                 
+		
+		关于网络教育秋季入学…
+
+		marquee1(); 华东师范大学和武汉理工大学网络教育学院秋季招生现在已经开始,入学考试时间为8月中旬, 
+
+电子科技大学学员期末考试时间为7月8日.陕西师范大学学员期末考试时间为8月5-6日,请学员进入学校学习平台下载相关练习和复习资料.
+本中心诚邀地州加盟伙伴,共同拓展事业.教育\政府机关人士或退休人士尤其欢迎,有意向的请与我们联系.
+
+同济大学建造师昆明面授班即将开班,我们邀请到同济最权威的老师为学员辅导,请建筑行业的朋友互相转告.
+
+今年秋季我们与华东师范大学共同举办"人力资源管理专业"网络教育本科班,为各位人力资源从业人员和有志于从事此工作的人士提供最专业的教育机会.
+ 
+		marquee2(); 2006-6-16 23:45:55 
+		以前公告
+		
+	
+	
+        
+                  
+        
+    
+				
+			
+		
+		
+	
+	
+		 
+
+ 
+
+
+      	
+              同济大学建造师培训及人力资源管理师培训正在热招中。欢迎报名。另昆工SMBA尚有少量名额
+		
+	
+
+
+
+			　　
+
+	
+		
+		
+			
+			
+				
+				
+					
+					　
+
+
+
+	
+
+
+	
+		
+		
+	
+			
+				
+				
+					　
+					
+					
+					
+					　
+				
+				
+					　
+					
+						
+		
+		
+        
+        
+		
+		
+		
+        
+        
+							
+							
+		
+						
+	  			
+	  			　
+				
+				
+					
+					
+					
+	  		
+	  		
+	  			　
+					
+	  				华东师范大学网…
+	 				
+	 				　
+				
+	 			
+			
+	  
+			
+				
+				
+					　
+					
+					
+					
+					　
+				
+				
+					　
+					
+						
+		
+		
+        
+        
+		
+		
+		
+        
+        
+							
+							
+		
+						
+	  			
+	  			　
+				
+				
+					
+					
+					
+	  		
+	  		
+	  			　
+					
+	  				华章昆明2006 …
+	 				
+	 				　
+				
+	 			
+			
+	  
+			
+				
+				
+					　
+					
+					
+					
+					　
+				
+				
+					　
+					
+						
+		
+		
+        
+        
+		
+		
+		
+        
+        
+							
+							
+		
+						
+	  			
+	  			　
+				
+				
+					
+					
+					
+	  		
+	  		
+	  			　
+					
+	  				上海财经大学e…
+	 				
+	 				　
+				
+	 			
+			
+	  
+			
+				
+				
+					　
+					
+					
+					
+					　
+				
+				
+					　
+					
+						
+		
+		
+        
+        
+		
+		
+		
+        
+        
+							
+							
+		
+						
+	  			
+	  			　
+				
+				
+					
+					
+					
+	  		
+	  		
+	  			　
+					
+	  				武汉理工大学网…
+	 				
+	 				　
+				
+	 			
+			
+	  
+			
+				
+				
+					　
+					
+					
+					
+					　
+				
+				
+					　
+					
+						
+		
+		
+        
+        
+		
+		
+		
+        
+        
+							
+							
+		
+						
+	  			
+	  			　
+				
+				
+					
+					
+					
+	  		
+	  		
+	  			　
+					
+	  				合肥工业大学2…
+	 				
+	 				　
+				
+	 			
+			
+	  
+		
+		
+	
+	
+
+
+	
+
+	
+
+var speed=15
+demo2.innerHTML=demo1.innerHTML
+function Marquee1(){
+if(demo2.offsetWidth-demo.scrollLeft<=0)
+demo.scrollLeft-=demo1.offsetWidth
+else{
+demo.scrollLeft++
+}
+}
+var MyMar1=setInterval(Marquee1,speed)
+demo.onmouseover=function() {clearInterval(MyMar1)}
+demo.onmouseout=function() {MyMar1=setInterval(Marquee1,speed)}
+
+	
+				
+				
+					
+            
+				
+				
+				
+									
+				
+			
+			
+
+
+
+		
+			　
+<!--
+.style1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #B9CFF3;
+}
+.style2 {color: #000000}
+.style4 {
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+-->
+
+ 
+
+ 
+	 
+		
+			
+				Copyright
+				 
+				2002-2004
+				纵横教育 NEWS 
+				[纵横教育 
+			]All Rights Reserved
+				
+| 关于我们 || 联系我们 | 帮助中心 |
+				
+   
+当前在线
+3
+人
+				[后台管理]
+页面执行时间：156.000毫秒
+			
+		
+	
+
+ 
+	
+		
+	
+
+
+
+		
+	
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+	
+	
+		 
+
+ 
+
+
+
+  
+    
+	图 片 新 闻
+  
+  
+    
+
+  
+ Dim FileList,FileListArr,TxtList,TxtListArr,LinkList,LinkArr 
+ FileList = "uploadfile/gethttppic/2006-6/2006691719243161.jpg,uploadfile/gethttppic/2006-6/2006681352346631.jpg,uploadfile/gethttppic/2006-6/2006681319329561.gif,uploadfile/gethttppic/2006-6/2006661758428401.gif,uploadfile/gethttppic/2006-6/200661174276931.gif,uploadfile/gethttppic/2006-6/2006611725502001.jpg,uploadfile/gethttppic/2006-6/2006611717442721.jpg,uploadfile/2006222112253504.jpg,uploadfile/gethttppic/2006-6/2006611746542601.jpg,uploadfile//2005111810045173.jpg" 
+ LinkList = "readnews.asp?newsid=279,readnews.asp?newsid=278,readnews.asp?newsid=277,readnews.asp?newsid=267,readnews.asp?newsid=251,readnews.asp?newsid=250,readnews.asp?newsid=249,readnews.asp?newsid=239,readnews.asp?newsid=237,readnews.asp?newsid=224," 
+ TxtList = "华东师范大学网络教育学院2006年秋季网络教育招生简章,华章昆明2006 MBA考前辅导班,上海财经大学EMBA云南班,武汉理工大学网络教育2006年秋季招生简章,合肥工业大学2006年招生简章,企业信息管理师招生简章((秋季）,人力资源管理师考前培训班秋季招生简章,昆明理工大学2006年SMBA、MBA少量名额热招中,同济大学一级建造师培训（昆明）班火热招生,电子科技大学2006年网络教育招生简章," 
+ FileListArr = Split(FileList,",") 
+ LinkArr = Split(LinkList,",") 
+ TxtListArr = Split(TxtList,",") 
+ Dim CanPlay 
+ CanPlay = CInt(Split(Split(navigator.appVersion,";")(1)," ")(2))>5 
+ Dim FilterStr 
+  FilterStr = "RevealTrans(duration=2,transition=23)" 
+  FilterStr = FilterStr + ";BlendTrans(duration=2)" 
+  If CanPlay Then 
+FilterStr = FilterStr + ";progid:DXImageTransform.Microsoft.Pixelate(,enabled=false,duration=2,maxSquare=25)"
+FilterStr = FilterStr + ";progid:DXImageTransform.Microsoft.Fade(duration=2,overlap=0)"
+FilterStr = FilterStr + ";progid:DXImageTransform.Microsoft.GradientWipe(duration=2,gradientSize=0.25,motion=forward )"
+FilterStr = FilterStr + ";progid:DXImageTransform.Microsoft.Stretch(duration=2,stretchStyle=PUSH)"
+FilterStr = FilterStr + ";progid:DXImageTransform.Microsoft.Wheel(duration=2,spokes=16)"
+FilterStr = FilterStr + ";progid:DXImageTransform.Microsoft.RandomDissolve(duration=2)"
+FilterStr = FilterStr + ";progid:DXImageTransform.Microsoft.Spiral(duration=2,gridSizeX=50,gridSizeY=50)"
+FilterStr = FilterStr + ";progid:DXImageTransform.Microsoft.Slide(duration=2,bands=1,slideStyle=SWAP)"
+FilterStr = FilterStr + ";progid:DXImageTransform.Microsoft.RadialWipe(duration=2,wipeStyle=CLOCK)"
+FilterStr = FilterStr + ";progid:DXImageTransform.Microsoft.Pixelate(MaxSquare=15,Duration=1)"
+FilterStr = FilterStr + ";progid:DXImageTransform.Microsoft.Wipe(duration=3,gradientsize=0.25,motion=reverse)"
+  Else 
+   Msgbox "幻灯片播放具有多种动态图片切换效果，但此功能需要您的浏览器为IE5.5或以上版本，否则您将只能看到部分的切换效果。",64 
+  End If 
+ Dim FilterArr 
+ FilterArr = Split(FilterStr,";") 
+ Dim PlayImg_M 
+ PlayImg_M = 5 * 1000  '切换时间（毫秒） 
+ Dim I 
+ I = 1 
+ Sub ChangeImg 
+  Do While FileListArr(I)="" 
+  I = I + 1 
+  If I>UBound(FileListArr) Then I = 0 
+  Loop 
+  Dim J 
+  If I>UBound(FileListArr) Then I = 0 
+  Randomize 
+  J = Int(Rnd * (UBound(FilterArr)+1)) 
+  Img.style.filter = FilterArr(J) 
+  Img.filters(0).Apply 
+  Img.Src = FileListArr(I) 
+  Img.filters(0).play 
+  Link.Href = LinkArr(I) 
+  Txt.filters(0).Apply 
+  Txt.innerHTML = TxtListArr(I) 
+  Txt.filters(0).play 
+  I = I + 1 
+  If I>UBound(FileListArr) Then I = 0 
+  TempImg.Src = FileListArr(I) 
+  TempLink.Href = LinkArr(I) 
+  SetTimeout "ChangeImg", PlayImg_M,"VBScript" 
+ End Sub 
+
+
+		
+			
+				
+				
+				
+			
+			
+				　
+				
+																				
+							
+								
+								对不起，图片浏览功能需脚本支持，但您的浏览器已经在浏览器设置中调整有关安全选项。
+								
+							 
+								
+								
+								
+								TD Style=
+								
+							 
+								华东师范大学网络教育学院2006年秋季网络教育招生简章
+						        
+							 
+  				         		
+
+ 
+ NoScript.Style.Display = "none" 
+ CanRunScript.Style.Display = "" 
+ Img.Src = FileListArr(0) 
+ Link.Href = LinkArr(0) 
+ SetTimeout "ChangeImg", PlayImg_M,"VBScript" 
+ 
+						  
+								　
+				
+							
+								
+								
+								
+											
+	
+    
+	
+    
+		
+	
+华东师范大学网络教育…
+	
+华东师范大学网络教育…
+	
+华章昆明2006 MBA考前…
+	
+上海财经大学EMBA云南…
+	
+武汉理工大学网络教育…
+	
+合肥工业大学2006年招…
+	
+企业信息管理师招生简…
+	
+人力资源管理师考前培…
+	
+昆明理工大学2006年S…
+	
+同济大学一级建造师培…
+</TEXT>
+</DOC>
+

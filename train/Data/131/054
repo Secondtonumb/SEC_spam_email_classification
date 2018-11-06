@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO>..Data\131\054</DOCNO>
+<FROM>p9z945@c537f71.n9453.com</FROM>
+<TO>49@o6jfa.g8.jp</TO>
+<SUBJECT></SUBJECT>
+<TEXT>
+----- The following addresses had permanent fatal errors -----
+<er3xo7g@gmail.com>
+    (reason: 552 5.7.0 Illegal Attachment 36si941712huc)
+
+   ----- Transcript of session follows -----
+ while talking to a3yl1pjv2ha3u.u.tr7ln8.com.:
+>>> DATA
+<<< 552 5.7.0 Illegal Attachment 36si941712huc
+554 5.0.0 Service unavailable
+This attachment contained a virus and was stripped.
+	Filename: 7y.o93
+	Content-Type: application/octet-stream
+	Virus(es): W32/Bagle-KF
+
+</TEXT>
+</DOC>
+

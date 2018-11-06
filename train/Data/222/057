@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO>..Data\222\057</DOCNO>
+<FROM>ahzy5@80afli.edu.cn</FROM>
+<TO>tfg@a9hj.edu.cn</TO>
+<SUBJECT></SUBJECT>
+<TEXT>
+A virus was found in an email message.
+
+From: "m4x8" <m4x8@yahoo.com.cn>
+To: <1r73@80afli.edu.cn>
+
+
+--- Scan information follows ---
+
+Result: Virus Detected
+Virus Name: 1p8.sd3vq.03@mm
+File Attachment: 8gz0juc7.395
+Attachment Status: deleted
+
+--- Original message information follows ---
+
+From: "m4x8" <m4x8@yahoo.com.cn>
+To: <1r73@80afli.edu.cn>
+Date: Wed, 25 Oct 2006 11:23:44 +0800
+Subject: Hello
+Received: from yahoo.com.cn ([222.16.43.8])
+ by 32ac.80afli.edu.cn (SAVSMTP 3.1.2.35) with SMTP id M2006070511254806399
+ for <1r73@80afli.edu.cn>; Wed, 05 Oct 2006 11:25:49 +0800
+
+上面是我们防病毒网关提交的信息，病毒邮件的源 IP 是 222.16.43.8，原邮件与所带附件已被网关丢弃
+</TEXT>
+</DOC>
+

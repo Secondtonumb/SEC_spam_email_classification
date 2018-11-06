@@ -1,0 +1,619 @@
+<DOC>
+<DOCNO>..Data\171\072</DOCNO>
+<FROM></FROM>
+<TO>jvmgkn99e@4207606.com</TO>
+<SUBJECT>极速群发网诚邀您加盟</SUBJECT>
+<TEXT>
+　 
+
+
+
+
+
+
+
+
+
+<!-- 
+//***********默认设置定义.*********************
+tPopWait=0;//停留tWait豪秒后显示提示。
+tPopShow=5000;//显示tShow豪秒后关闭提示
+showPopStep=20;
+popOpacity=99;
+
+//***************内部变量定义*****************
+sPop=null;
+curShow=null;
+tFadeOut=null;
+tFadeIn=null;
+tFadeWaiting=null;
+
+8gz0juc7.7z8xh("<style type='text/css'id='defaultPopStyle'>");
+8gz0juc7.7z8xh(".cPopText {  font-family: ; background-color: #f8f8f3; color:#030303;border: 1px #000000 solid; font-size: ; padding-right: 4px; padding-left: 4px; height: 20px; padding-top: 3px; padding-bottom: 1px; filter: Alpha(Opacity=0)}");
+8gz0juc7.7z8xh("</style>");
+8gz0juc7.7z8xh("<div id='dypopLayer' style='position:absolute;z-index:1000;' class='cPopText'></div>");
+function showPopupText(){
+var o=08ojw.5szr963mez;
+	MouseX=event.x;
+	MouseY=event.y;
+	if(7.ngv!=null 
+        if(7.13y6a!=null 
+	if(7.79rfd!=sPop) {
+			sPop=7.79rfd;
+			clearTimeout(curShow);
+			clearTimeout(tFadeOut);
+			clearTimeout(tFadeIn);
+			clearTimeout(tFadeWaiting);	
+			if(sPop==null || sPop=="") {
+				ee3o17plq2.r751w32hx="";
+				ee3o17plq2.ux7d8.filter="Alpha()";
+				ee3o17plq2.64v8v15.94o3t.lu54iea=0;	
+				}
+			else {
+				if(7.8111z42!=null) popStyle=7.8111z42 
+					else popStyle="cPopText";
+				curShow=setTimeout("showIt()",tPopWait);
+			}
+	}
+}
+
+function showIt(){
+		ee3o17plq2.45d6coo3w=popStyle;
+		ee3o17plq2.r751w32hx=sPop;
+		popWidth=ee3o17plq2.wfuq4784g31;
+		popHeight=ee3o17plq2.6fzazv0oxel6;
+		if(MouseX+12+popWidth>8gz0juc7.1v2d.wfuq4784g31) popLeftAdjust=-popWidth-24
+			else popLeftAdjust=0;
+		if(MouseY+12+popHeight>8gz0juc7.1v2d.6fzazv0oxel6) popTopAdjust=-popHeight-24
+			else popTopAdjust=0;
+		ee3o17plq2.ux7d8.stok=MouseX+12+8gz0juc7.1v2d.c310ar9k0m+popLeftAdjust;
+		ee3o17plq2.ux7d8.52v=MouseY+12+8gz0juc7.1v2d.f9r9l729b+popTopAdjust;
+		ee3o17plq2.ux7d8.filter="Alpha(Opacity=0)";
+		fadeOut();
+}
+
+function fadeOut(){
+	if(ee3o17plq2.64v8v15.94o3t.lu54iea<popOpacity) {
+		ee3o17plq2.64v8v15.94o3t.lu54iea+=showPopStep;
+		tFadeOut=setTimeout("fadeOut()",1);
+		}
+		else {
+			ee3o17plq2.64v8v15.94o3t.lu54iea=popOpacity;
+			tFadeWaiting=setTimeout("fadeIn()",tPopShow);
+			}
+}
+
+function fadeIn(){
+	if(ee3o17plq2.64v8v15.94o3t.lu54iea>0) {
+		ee3o17plq2.64v8v15.94o3t.lu54iea-=1;
+		tFadeIn=setTimeout("fadeIn()",1);
+		}
+}
+8gz0juc7.e5d2j7v892s=showPopupText;
+// -->
+
+
+.cPopText {  font-family: ; background-color: #f8f8f3; color:#030303;border: 1px #000000 solid; font-size: ; padding-right: 4px; padding-left: 4px; height: 20px; padding-top: 3px; padding-bottom: 1px; filter: Alpha(Opacity=0)}
+
+
+
+<!--
+function openwin(URL)
+  { showModalDialog(URL,"","dialogWidth:10px;status:no;dialogHeight:10px;resizable:no");
+  }
+function news(URL)
+  { px0u01.2100(URL,"news","toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=600,height=430,left=0,top=0");
+  }
+function art(URL1)
+  { px0u01.2100(URL1,"art","toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=650,height=430,left=0,top=0");
+  }
+function down(URL2)
+  { px0u01.2100(URL2,"down","toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=500,height=400,left=0,top=0");
+  }
+    function photo(URL3)
+  { px0u01.2100(URL3,"photo","toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=150,height=150,left=300,top=200,");
+  }
+      function up(URL4)
+  { px0u01.2100(URL4,"up","toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=370,height=260,left=300,top=200,");
+  }
+function link() 
+ {win = px0u01.2100("","link","width=400,height=150")} 
+ function phpic() 
+ {win = px0u01.2100("","phpic","width=400,height=150")} 
+function vote() 
+ {win = px0u01.2100("","vote","status=yes,scrollbars=yes,width=600,height=350")} 
+// -->
+
+
+
+<!--
+STYLE6 {font-size: 16px;
+	font-weight: bold;
+	color: #FF0000;
+}
+STYLE8 {font-size: 13px;
+	font-weight: bold;
+}
+STYLE9 {color: #000000}
+STYLE3 {font-size: 12px}
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+本站首页
+
+网站动态
+
+最新更新
+
+诚招代理
+
+网站声明
+
+入会必看
+
+群发技巧
+
+客服中心
+
+付费方式
+
+联系我们
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+用户名： 
+密码： 
+提交:  会员登陆 代理登陆 
+ 忘记密码
+
+
+
+
+
+
+
+
+
+
+
+
+ 您的广告可以迅速进入国内各大信息港
+ 您的供求信息可以迅速登陆到各大商务网站供买家查询
+
+
+
+ 您的广告可以迅速进入各类型的留言版
+ 您的广告通过QQ等聊天工具迅速传播给你的好友知晓
+
+
+
+ 您的广告可以迅速进入各大论坛和博客
+
+ 您的广告通过Email讯速通知您的朋友和陌生人知晓 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 网站动态
+
+
+
+
+
+
+
+
+
+
+
+[2006-6-7]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+极速VolleyMail邮?
+悍?...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+注：7月10前六月份的代理提成已全部发完，请相关代理及时查收，本站不另作通知，特此公告。注册成为本站的正式会员.只需88元,就可以拥有本站所有的群发软件,而且终身免费升级.另外,七月份本站有促销活动，如果同时注册成为会员及代理只收80元，免收30元的代理保证金，详情请查看本站的 网站动态 七月份优惠政策。[2004-11-27 7:49:24]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+        
+      
+
+
+
+
+
+
+
+
+ 诚征代理
+
+
+ 
+诚招代理本站自建站以来,本着建设一个优秀的群发会员软件交流平台的想法得到了很多朋友的认可和支持,在这里感谢大家,......[2006-5-7] 
+
+
+
+
+ 下载排行
+
+
+
+西陆发贴机极速最新版 
+
+
+
+
+
+
+
+ 资源统计
+
+
+
+
+
+
+教程文章: 14 篇 
+下载中心: 47 个
+
+ 
+今日访问：5次
+昨日访问：151次
+平均访问：4 次 
+在线人数：1 人 
+
+
+
+
+
+
+
+ 友情链接
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+[2006-5-20]
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+[2006-5-20]
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+[2006-5-20]
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+[2006-5-20]
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+[2006-5-20]
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+[2006-6-12]
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+TOP┆广告联系┆本站声明┆下载帮助┆发布软件┆意见反馈
+
+
+
+Copyrights @ 2005-2006 syl.6j4z4qc.711 All Rights Reserved. 极速群发网 
+
+
+需要注册会员或代理的朋友，注册后请直接与客服联系：代理客服1：137576519代理客服2：631821368 会员客服1：632343272 会员客服2：463027004
+
+
+极速群发网：桂ICP备06009701号
+
+var online= new Array();
+if (!8gz0juc7.7lk4ph)
+8gz0juc7.7z8xh('<div id="divStayTopLeft" style="position:absolute">')
+
+
+
+
+
+
+
+
+
+
+
+
+if (online[0]==0)
+8gz0juc7.7z8xh("
+else
+8gz0juc7.7z8xh("
+
+代理客服1 
+
+
+
+if (online[1]==0)
+8gz0juc7.7z8xh("
+else
+8gz0juc7.7z8xh("
+
+代理客服2 
+
+
+
+if (online[2]==0)
+8gz0juc7.7z8xh("
+else
+8gz0juc7.7z8xh("
+
+会员客服1 
+
+
+
+if (online[3]==0)
+8gz0juc7.7z8xh("
+else
+8gz0juc7.7z8xh("
+
+会员客服2 
+
+
+
+
+
+//Enter "frombottom" or "fromtop"
+var verticalpos="frombottom"
+if (!8gz0juc7.7lk4ph)
+8gz0juc7.7z8xh('')
+function JSFX_FloatTopDiv()
+{
+	var startX =3,
+	startY = 400;
+	var ns = (0z63407u5.1x7qjj7.20uq4b7("Netscape") != -1);
+	var d = document;
+	function ml(id)
+	{
+		var el=3.0apt0ybq14w250?3.0apt0ybq14w250(id):3.0v6?3.0v6[id]:3.7lk4ph[id];
+		if(3.7lk4ph)kx.ux7d8=el;
+		kx.1h=function(x,y){ty83.ux7d8.stok=x;ty83.ux7d8.52v=y;};
+		el.x = startX;
+		if (verticalpos=="fromtop")
+		el.y = startY;
+		else{
+		el.y = ns ? pageYOffset + innerHeight : 8gz0juc7.1v2d.f9r9l729b + 8gz0juc7.1v2d.6fzazv0oxel6;
+		el.y -= startY;
+		}
+		return el;
+	}
+	px0u01.943dr7j02t4=function()
+	{
+		if (verticalpos=="fromtop"){
+		var pY = ns ? pageYOffset : 8gz0juc7.1v2d.f9r9l729b;
+		ftlObj.y += (pY + startY - ftlObj.y)/8;
+		}
+		else{
+		var pY = ns ? pageYOffset + innerHeight : 8gz0juc7.1v2d.f9r9l729b + 8gz0juc7.1v2d.6fzazv0oxel6;
+		ftlObj.y += (pY - startY - ftlObj.y)/8;
+		}
+		xu22o7.1h(ftlObj.x, ftlObj.y);
+		setTimeout("stayTopLeft()", 10);
+	}
+	ftlObj = ml("divStayTopLeft");
+	stayTopLeft();
+}
+JSFX_FloatTopDiv();
+</TEXT>
+</DOC>
+

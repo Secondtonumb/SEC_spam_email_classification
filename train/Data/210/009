@@ -1,0 +1,50 @@
+<DOC>
+<DOCNO>..Data\210\009</DOCNO>
+<FROM>y71c1765nr@556.ql</FROM>
+<TO>2m71@a9hj.edu.cn</TO>
+<SUBJECT></SUBJECT>
+<TEXT>
+Attention: 2m71@utsc.edu.cn
+
+
+A Disallowed attachment type was found in an Email message you sent. 
+This Email scanner intercepted it and stopped the entire message
+reaching its destination. 
+
+The Disallowed attachment type was reported to be: 
+
+SCR files not allowed per UOP security policy
+
+
+Please contact your I.T support personnel with any queries regarding this 
+policy.
+
+
+Your message was sent with the following envelope:
+
+AIL FROM: 2m71@utsc.edu.cn
+RCPT TO:   ryye@556.ql 
+
+ and with the following headers:
+
+---
+AILFROM: 2m71@utsc.edu.cn
+Received: from unknown (HELO utsc.edu.cn) ([156.165.69.14])
+          (envelope-sender <2m71@utsc.edu.cn>)
+          by 51t6rlw.556.ql (qmail-ldap-1.03) with SMTP
+          for <ryye@556.ql>; 25 Oct 2006 03:51:55 -0000
+From: "2m71" <2m71@utsc.edu.cn>
+To: <ryye@556.ql>
+Subject: read it immediately
+Date: Wed, 25 Oct 2006 01:00:39 +0800
+IME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0003_B91EC1AF.307E5381"
+X-Priority: 3
+X-MSMail-Priority: Normal
+
+
+---
+</TEXT>
+</DOC>
+

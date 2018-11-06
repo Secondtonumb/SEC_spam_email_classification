@@ -1,0 +1,150 @@
+<DOC>
+<DOCNO>..Data\226\079</DOCNO>
+<FROM>e066x9@6131j2w.com</FROM>
+<TO>30dx3sla@a9hj.edu.cn</TO>
+<SUBJECT></SUBJECT>
+<TEXT>
+The Berkeley Electronic Press is pleased to announce the publication of several new articles in the International Journal of Chemical Reactor Engineering (IJCRE), the first fully electronic chemical engineering journal. A full description of IJCRE may be found below.
+
+Visit http://syl.6131j2w.com/287d60.n4t3 to learn about the Scholarly Communication Crisis and what The Berkeley Electronic Press is doing to help.
+
+
+
+Juliana Piña, Verónica Bucal? Noem?Susana Schbib, Paul Ege, and Hugo Ignacio de Lasa "Modeling a Silicon CVD Spouted Bed Pilot Plant Reactor".
+http://syl.6131j2w.com/ijcre/vol4/A9
+
+Jose Luis Ayastuy, Miguel Angel Gutiérrez-Ortiz, Jose Antonio González-Marcos, and Juan Ramon González-Velasco "Intercooled Double-Bed Reactor for LTWGS Reaction with Catalyst Poisoning by Chlorine: Inlet Temperatures for the Maximization of the Production".
+http://syl.6131j2w.com/ijcre/vol4/A10
+
+Andres Mahecha-Botero, John Grace, Said S.E.H. Elnashaie, and C. Jim Lim "Comprehensive Modeling of Gas Fluidized-Bed Reactors Allowing for Transients, Multiple Flow Regimes and Selective Removal of Species".
+http://syl.6131j2w.com/ijcre/vol4/A11
+
+Ravindra S. Waghmare and Arun S. Moharir "Isothermal PFR/PMR Networks".
+http://syl.6131j2w.com/ijcre/vol4/A12
+
+Keshav C. Ruthiya, John van der Schaaf, Ben F.M. Kuster, and Jaap C. Schouten "Influence of Particles and Electrolyte on Gas Hold-Up and Mass Transfer in a Slurry Bubble Column".
+http://syl.6131j2w.com/ijcre/vol4/A13
+
+Ganapati D. Yadav and Neesha M. Desai "Three Phase Catalytic Reactions: Role of Omega Aqueous Phase in Solid-Liquid Phase Transfer Catalyzed Etherification of 2? Hydroxy Acetophenone".
+http://syl.6131j2w.com/ijcre/vol4/A14
+
+aria J. San Jose, Sonia Alvarez, Alvaro Ortiz de Salazar, Alberto Morales, and Javier Bilbao "Treatment of Cork Wastes in a Conical Spouted Bed Reactor".
+http://syl.6131j2w.com/ijcre/vol4/A15
+
+Ravindra Pogaku and Sripathi Kulkarni "Biosorption of Combined Industrial Effluents using Phanerochaete Chrysosporium".
+http://syl.6131j2w.com/ijcre/vol4/A16
+
+D. Rajeshwer, G. Sreenivasa Rao, K.R. Krishnamurthy, G. Padmavathi, N. Subrahmanyam, and Jagdish D. Rachh "Kinetics of Liquid - Phase Hydrogenation of Straight Chain C10 to C13 Di-Olefins Over Ni/Al2O3 Catalyst".
+http://syl.6131j2w.com/ijcre/vol4/A17
+
+Luis F. Razon "Stabilization of a CSTR in an Oscillatory State by Varying the Thermal Characteristics of the Reactor Vessel".
+http://syl.6131j2w.com/ijcre/vol4/S1
+
+
+
+The International Journal of Chemical Reactor Engineering (IJCRE) publishes significant research and scholarship in the broad fields of theoretical and applied reactor engineering. The mandate of the journal is to assemble high quality papers from the broad research spectrum covered by modern reactor engineering. The range of topics includes single-phase and multi-phase reactor design, operation and control, new chemical reactor concepts, fluid mechanics and fluid dynamics, computational fluid dynamics, catalysis, low and high pressure and temperature operation, environmental and economical implications, as well as topics drawn from the substantial areas of overlap between reaction and reactor engineering. To submit your research to IJCRE, visit http://syl.6131j2w.com/ijcre and follow the link for "Submit Article".
+
+
+***NEW*** IJCRE is pleased to be indexed in ISI Web of Science (Science Citation Index Expanded).
+
+
+EDITORS:
+Franco Berruti, The University of Western Ontario
+Cedric Briens, The University of Western Ontario
+Hugo DeLasa, The University of Western Ontario
+
+
+
+_______________________
+CITATIONS & ABSTRACTS OF PUBLISHED ARTICLES
+
+
+Juliana Piña, Verónica Bucal? Noem?Susana Schbib, Paul Ege, and Hugo Ignacio de Lasa (2006) "Modeling a Silicon CVD Spouted Bed Pilot Plant Reactor," International Journal of Chemical Reactor Engineering, Vol. 4: A9.
+http://syl.6131j2w.com/ijcre/vol4/A9
+
+ABSTRACT:
+This study reports a comprehensive multiphase gas-solid dynamic mathematical model that successfully describes the batch growth of silicon particles in a CVD submerged spouted bed reactor. This multiphase reactor model takes into account the hydrodynamics and interphase mass exchange between the different fluidized bed regions (spout or grid zone, bubbles and emulsion phase) and uses applicable kinetic rate models to describe both heterogeneous and homogeneous reactions. The model also incorporates a population balance equation representing particle growth and agglomeration.
+The CVD submerged spouted bed reactor operation is simulated by means of a sequential modular procedure, which involves the solution of the reactor model and the population balance equation. 
+It is shown that the proposed CVD multiphase reactor model successfully simulates experimental data obtained from batch operation in a pilot scale reactor at REC Silicon Inc. The modeling of experiments obtained for different operating conditions allows correlating the scavenging factor as a function of the silane concentration for short- and long-term operations.
+
+
+Jose Luis Ayastuy, Miguel Angel Gutiérrez-Ortiz, Jose Antonio González-Marcos, and Juan Ramon González-Velasco (2006) "Intercooled Double-Bed Reactor for LTWGS Reaction with Catalyst Poisoning by Chlorine: Inlet Temperatures for the Maximization of the Production," International Journal of Chemical Reactor Engineering, Vol. 4: A10.
+http://syl.6131j2w.com/ijcre/vol4/A10
+
+ABSTRACT:
+An intercooled double-bed reactor for industrial Low Temperature WGS reaction, subject to catalyst deactivation by irreversible chlorine chemisorption is modelled and optimised. 
+Decline of the catalyst activity due to poisoning by chlorine decreases the reactor CO outlet conversion. After some time of operation, the lowest targeted CO conversion is reached, and further operation is inefficient. The reactor Efficient Production (EP) is calculated as the total amount of CO converted until the CO outlet conversion falls below the permissible minimum value, namely 0.85, which occurs at the operation time called the Catalyst Lifetime (CLT). 
+Deactivation kinetics was assumed to be first order to chlorine partial pressure, and both the chlorine adsorption and deactivation rate constants were considered independent of temperature. For computation, spatio-temporal discretization of the reactor was adopted, and maximum CLT of 25 kh has been assumed. 
+As the operation temperature is determining the overall reactor performance, two inlet temperature strategies for both reactors have been employed to maximise the EP: (a) isothermal and (b) time-trajectory. 
+For a base case, optimum inlet isothermal temperatures for the first and second reactors of 483 and 458 K were found, respectively, at which 972.0 kmol of CO were converted within the CLT of 25.584 kh, being the EP of 958.6 kmol of CO. The maximum EP of 971.0 kmol was achieved for 483 and 462.3 K, for the first and second reactor, respectively. Varying the inlet temperature for both reactors along the time, higher production and EP were achieved. 
+In comparison to the EP obtained for the single-bed reactor, the intercooled double-bed reactor allows to achieve higher EP, for both strategies. 
+Also a sensitivity study to other operational variables, such as steam to gas ratio and total inlet flow, was carried out, in order to investigate their influence on optimal inlet temperatures.
+
+
+Andres Mahecha-Botero, John Grace, Said S.E.H. Elnashaie, and C. Jim Lim (2006) "Comprehensive Modeling of Gas Fluidized-Bed Reactors Allowing for Transients, Multiple Flow Regimes and Selective Removal of Species," International Journal of Chemical Reactor Engineering, Vol. 4: A11.
+http://syl.6131j2w.com/ijcre/vol4/A11
+
+ABSTRACT:
+A multiphase reaction engineering model is being developed to investigate the dynamic and steady state behaviour of fluidized-bed catalytic reactors. It accounts for transients, axial and radial dispersion, temperature and pressure profiles, interphase mass and heat transfer, different hydrodynamic flow regimes, catalyst deactivation, reactions with changes in molar flows and various energy options. The model is general enough that it can treat catalytic systems, subject to mass and energy transfer resistances within the phases, as well as permeating membranes. It is able to handle multiple phases and regions (low-density phase, high-density phase, freeboard region and permselective membranes). The model reduces as special cases to a number of simpler fluidized bed reactor models previously reported in the literature, allowing evaluation of the influence of different simplifying assumptions. As a case study, the model is shown to simulate oxy-chlorination fluidized-bed reactors for the production of ethylene dichloride from ethylene, extending a recent paper by Abba et al. (Chem. Eng. Sci., (2002) 57, 4797-4807).
+
+
+Ravindra S. Waghmare and Arun S. Moharir (2006) "Isothermal PFR/PMR Networks," International Journal of Chemical Reactor Engineering, Vol. 4: A12.
+http://syl.6131j2w.com/ijcre/vol4/A12
+
+ABSTRACT:
+Combinations of Plug Flow Reactor (PFR) and continuous Perfectly Mixed Reactor (PMR, also known as Continuous Stirred Tank Reactor - CSTR) are widely known to give superior performance over a single reactor especially when multiple reactions take place in the reactor. The occurrence of a PMR in an optimal reactor network requires presence of inflection condition in the space of variables describing the reactor objective. The mathematical equation for inflection of multi-dimensional trajectories is derived and applied to five cases of well-known models of kinetic schemes. The previously known results are confirmed or improved upon by applying the technique. A general algorithm for PFR/PMR network synthesis for arbitrary kinetic models is presented.
+
+
+Keshav C. Ruthiya, John van der Schaaf, Ben F.M. Kuster, and Jaap C. Schouten (2006) "Influence of Particles and Electrolyte on Gas Hold-Up and Mass Transfer in a Slurry Bubble Column," International Journal of Chemical Reactor Engineering, Vol. 4: A13.
+http://syl.6131j2w.com/ijcre/vol4/A13
+
+ABSTRACT:
+In this paper, the influence of carbon and silica particle slurry concentration up to 25 g/l (4 vol%) on regime transition, gas hold-up, and volumetric mass transfer coefficient is studied in a 2-dimensional slurry bubble column. From high speed video image analysis, the average large bubble diameter, the frequency of occurrence of large bubbles, the gas-liquid interfacial area, and the large bubble hold-up are obtained. The liquid side mass transfer coefficient is calculated from the volumetric mass transfer coefficient and the gas-liquid interfacial area. The lyophilic silica particles are rendered lyophobic by a methylation process to study the influence of particle wettability. The influence of organic electrolyte (sodium gluconate) and the combination of electrolyte and particles is also studied. It is found that lyophilic silica, lyophobic silica, and lyophobic carbon particles at concentrations larger than 25 g/l (0.4 vol%) decrease the gas hold-up and shift the regime transition point (where the first large bubbles appear) to a lower gas velocity. The volumetric mass transfer coefficient increases with gas velocity, increases with electrolyte concentration, decreases with slurry concentration, and is higher for lyophobic particles. The liquid side mass transfer coefficient increases with gas velocity, bubble diameter, and is higher for lyophobic particles. A correlation for the mass transfer coefficient based on dimensionless numbers is proposed for the heterogeneous regime.
+
+
+Ganapati D. Yadav and Neesha M. Desai (2006) "Three Phase Catalytic Reactions: Role of Omega Aqueous Phase in Solid-Liquid Phase Transfer Catalyzed Etherification of 2? Hydroxy Acetophenone," International Journal of Chemical Reactor Engineering, Vol. 4: A14.
+http://syl.6131j2w.com/ijcre/vol4/A14
+
+ABSTRACT:
+Phase Transfer Catalyst (PTC) is used in more than 600 commercial processes, with wide ranging applications in the pharmaceuticals, agrochemicals, polymer industries. Despite thousands of publications on the PTC, several intricacies of PTC in reactions are not understood or properly modeled. Liquid-liquid (L-L) PTC is inferior to solid-liquid (S-L) phase transfer catalyzed reactions, which in turn can be converted into Solid (reactant)-Liquid-(aqueous omega)- Liquid (organic) using trace quantities of water to realize 100% selectivity to the product. There is great enhancement in rates of reactions in comparison with corresponding S-L or L-L PTC. Weds, the O-alkylation of sodium salt of 2'-hydroxy acetophenone was achieved using 1-bromopentane using tetrabutylammonium bromide as the catalyst at 90 0C. 
+2'-Pentyloxy acetophenone is used as a starting material for synthesis of fungicides. The current study deals with the efficacy of so-called omega phase with special emphasis on kinetic and modeling aspects.
+
+
+aria J. San Jose, Sonia Alvarez, Alvaro Ortiz de Salazar, Alberto Morales, and Javier Bilbao (2006) "Treatment of Cork Wastes in a Conical Spouted Bed Reactor," International Journal of Chemical Reactor Engineering, Vol. 4: A15.
+http://syl.6131j2w.com/ijcre/vol4/A15
+
+ABSTRACT:
+The applicability of conical spouted bed reactors for the treatment of cork caps has been studied by means of a hydrodynamic study with homogeneous beds of cork of different size in different experimental conditions. The validity of the ranges of the geometric factors of the contactor and of the contactor-particle system for stable spouting established in previous papers and of the equation for the calculation of the minimum spouting velocity proposed for granular materials and glass spheres has been proven for beds consisting of cork. The suitable design of the conical spouted bed reactor for the combustion of cork wastes requires the previous knowledge of the ranges of the geometric factors of the contactor and of the contactor-particle system for stable spouting.
+
+
+Ravindra Pogaku and Sripathi Kulkarni (2006) "Biosorption of Combined Industrial Effluents using Phanerochaete Chrysosporium," International Journal of Chemical Reactor Engineering, Vol. 4: A16.
+http://syl.6131j2w.com/ijcre/vol4/A16
+
+ABSTRACT:
+The biosorption of eight different metals from aqueous solutions of combined industrial effluent by live or dead cells of Phanerochaete chrysosporium was investigated. Growth rate studies of P. chrysosporium were carried out in a selected medium as well as in the effluent. The specific growth rate of the fungus was in the range of 0.089-0.102 h-1 in the medium. The biosorption of metal ions increased as the initial concentration of metal ions increased in the medium. Biosorption equilibrium was established in about 25 h and the concentration of adsorbed metal ions did not change further with time. The equilibrium was well described by Langmuir, Freundlich and Reidlich - Peterson isotherms. The dead fungal biomass was more effective than living fungus for biosorption of metals. The optimum pH for the fungal growth was at 4.5 but enhanced Biosorption was at pH 25 for maximum reduction of hexavalent chromium to trivalent.
+
+
+D. Rajeshwer, G. Sreenivasa Rao, K.R. Krishnamurthy, G. Padmavathi, N. Subrahmanyam, and Jagdish D. Rachh (2006) "Kinetics of Liquid - Phase Hydrogenation of Straight Chain C10 to C13 Di-Olefins Over Ni/Al2O3 Catalyst," International Journal of Chemical Reactor Engineering, Vol. 4: A17.
+http://syl.6131j2w.com/ijcre/vol4/A17
+
+ABSTRACT:
+Straight chain C10 to C13 di-olefins were selectively hydrogenated to increase the mono-olefins content in the feed to alkylation reactor in the process of production of Linear Alkyl Benzene (LAB). The reaction was carried out in a liquid phase up-flow fixed bed reactor at temperature of 448-503 °K and pressure of 1.08-1.96 MPa, which keeps hydrogen dissolved in the hydrocarbon feed. Under the above process conditions the reactor will be virtually two phase (solid-liquid) instead of three phase (solid-liquid-vapour). Kinetics of hydrogenation of straight chain C10 to C13 di-olefins on nickel - alumina (Ni/Al2O3) catalyst was studied in the temperature range of 458-488 °K. The reaction scheme considered includes two consecutive hydrogenation reactions. Various rate models based on the modified Power Law, Horiuti-Polanyi mechanism & proposed by Somers. A.; were derived for the two consecutive hydrogenation reactions and subjected to model discrimination. Parameter estimation was done utilizing the Levenberg-Marquardt Algorithm for global convergence using MATLAB software. Out of the various models tested, rate model based on power law with modification fitted the data well. The estimated rate constants of the best model are thermodynamically sound and statistically consistent.
+
+
+Luis F. Razon (2006) "Stabilization of a CSTR in an Oscillatory State by Varying the Thermal Characteristics of the Reactor Vessel," International Journal of Chemical Reactor Engineering, Vol. 4: S1.
+http://syl.6131j2w.com/ijcre/vol4/S1
+
+ABSTRACT:
+One of the most thoroughly studied systems in chemical engineering is the classic problem of a first-order exothermic reaction in a diabatic CSTR. In this paper, an extension of the classic problem, in which the reactor vessel temperature varies independently of its contents, is considered. A bifurcation analysis showed that a CSTR in an oscillatory state may be stabilized by the use of a reactor with the appropriate combination of thermal characteristics. Stabilization of an oscillatory state was demonstrated for a variety of scenarios that had been previously shown by Uppal, Ray and Poore to be representative cases of phase diagrams that exhibit limit-cycle behavior.
+
+
+
+
+
+
+If you wish to be removed from this mailing list, please go to the website below.
+
+http://syl.6131j2w.com/cgi/944k3tr76b3.li3?sending=9566&rr=455004&email=cexyxiao%z5tlpx.edu.cn
+</TEXT>
+</DOC>
+

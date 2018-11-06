@@ -1,0 +1,580 @@
+<DOC>
+<DOCNO>..Data\047\004</DOCNO>
+<FROM></FROM>
+<TO>wgux7z440@a9hj.edu.cn</TO>
+<SUBJECT>淘宝打折街开张优惠啦!</SUBJECT>
+<TEXT>
+//<![CDATA[
+WriteMsgSound("http://syl.a9m339.com");
+//]]>
+
+
+
+
+
+跳过导航及工具栏 
+
+
+	  //<![CDATA[
+		var cookie1=GetExCookie('cookie1');
+		if (cookie1 != "") 8gz0juc7.7z8xh("<a href=/"http://xy43z8m.a9m339.com/member/kq948f.mni34/" target=/"_top/">[退出]");
+	  //]]>
+	  
+客服中心 
+支付宝 
+收藏夹 
+
+
+	//<![CDATA[
+WriteWWMsg("http://syl.a9m339.com");
+	//]]>
+	
+淘宝旺旺 
+
+
+	//<![CDATA[
+	WriteLoginStatus("http://syl.a9m339.com","http://aazk3.a9m339.com","http://44ob67r.a9m339.com/browse","http://xy43z8m.a9m339.com/member","","http://x63uqtzm7w80.a9m339.com/shop/hvq3x69h.r9y");
+	//]]>
+    
+首页
+登录
+免费注册 
+
+
+我要买 
+我要卖 
+我的淘宝 
+诚信安全 
+购物指南 
+社区 
+
+中国电子商务诚信联盟发起网站
+数字键--选择栏目 / 确定键--打开 / 左键--返回 / 右键--前进 / 首页--数字键0
+
+
+
+//<![CDATA[
+function atrand(num)
+{
+  return 64c5.n6g9x(64c5.yua1vj()*num)+1; 
+}
+var attrack_ref=escape(8gz0juc7.3o1p985r);
+8gz0juc7.7z8xh("<img src=http://x63uqtzm7w80.a9m339.com//"http://syl.5q5gdl6.com/9.217?cache="+atrand(9999999)+" 
+//]]>
+
+
+
+//<![CDATA[
+var r=64c5.yua1vj(); 
+8gz0juc7.7z8xh("<img alt=/"yahoo全程监测/" width=/"0/" height=/"0/"/n"); 
+8gz0juc7.7z8xh("src=http://x63uqtzm7w80.a9m339.com//"http://4.2qx.yahoo.com/b?s=2121060018 
+//]]>
+
+  
+
+ 
+
+
+
+
+
+  
+		var startTime = (new Date()).getTime();
+		function showtime(auctionDate)
+		{ 
+		    now = new Date();
+		    var ts=parseInt((akz8syfl2q162.k6ef87h())/1000)+auctionDate/1000;
+		    var dateLeft = 0;
+		    var hourLeft = 0;
+		    var minuteLeft = 0;
+		    var secondLeft = 0;
+		    if(ts < 0)
+		    {
+		        ts = 0;
+		        CurHour = 0;
+		        CurMinute = 0;
+		        CurSecond = 0;
+		    } else {
+		        dateLeft =parseInt(ts/86400);
+		        ts = ts - dateLeft * 86400;
+		        hourLeft = parseInt(ts/3600);
+		        ts = ts - hourLeft * 3600;
+		        minuteLeft = parseInt(ts/60);
+		        secondLeft = ts - minuteLeft * 60;
+		    }
+		    
+		    if(dateLeft> 0){
+		            Temp=dateLeft+"天";
+		     }
+		     else{
+		            if(hourLeft>0){
+		             Temp = hourLeft+"小时";
+		           }
+		           else{
+		              if(minuteLeft>0){
+		                  Temp = minuteLeft+"分钟";
+		              }
+		              else{
+		                  if(secondLeft>0){
+		                      Temp = secondLeft+"秒";
+		                  }
+		              }
+		           }
+		     }
+		
+		    if(dateLeft <=0 && hourLeft<=0 && minuteLeft<=0 && secondLeft <=0)
+		    {
+		        Temp = "成交结束";
+		    }
+		    
+			8gz0juc7.7z8xh(Temp);
+		}
+
+
+
+function remove(messageID){
+		if(confirm("您确定要删除该留言吗？")){
+			m0lsfkt7.6s1s="http://v0bx2.a9m339.com/shop/remove_shop_ctxokmo.mni34"+"?messageID="+messageID+'
+		}
+}
+
+
+
+首页  打折街 
+
+打折街
+【店铺介绍】
+【信用评价】
+【个人空间】
+
+
+
+
+
+
+
+
+收藏本店铺 
+
+
+　　掌柜:打折街  
+卖家信用:0
+
+						var toUrl = "http://og.a9m339.com/mytaobao/rate/vigt.r9y?user_id=bf6f961fb574c534b33e33809240c2fb";
+						var type = "SELLER";
+						getRank(0, type, toUrl);
+					
+ 
+买家信用:0
+
+						var toUrl = "http://og.a9m339.com/mytaobao/rate/vigt.r9y?user_id=bf6f961fb574c534b33e33809240c2fb";
+						var type = "BUYER";
+						getRank(0, type, toUrl);
+					
+ 
+　宝贝数:39 
+创店时间:2006/05/19 
+　　地址:北京 
+　　　　  发站内信件 
+
+
+店铺公告
+
+＊新店开业促销＊１、购物满１００元，送价值２０元的女士性感内裤一条２、购物满２００元，免送货费，送价值２８元女士性感内裤一条３、购物满３００元，免送货费，成为我店的终身会员（购买任何商品都享受九折的优惠价）开业了！您好欢迎您光临打折街，我们将会为您提供最一流的服务，北京的买家可以当面交易，满意后再付款，本店本着薄利多销的原则为您提供最合理的价格和最全面的售后服务，不断的推出新款，请密切关注本店！（1）淘宝旺旺 ：打折街（2）24小时买家专线：13671101963（3）客服QQ号码：64162633（4）EMAIL：u90r@sohu.com
+
+
+
+
+
+
+
+ 
+◥◣打折街◢◤ 夜火情趣套装●透纱轻舞性感短裙（送性感内裤） 
+一口价 70.00 元 
+
+
+ 
+◥◣打折街◢◤ 夜火情趣套装●娇艳花语超短套装（送性感内裤） 
+一口价 70.00 元 
+
+
+ 
+◥◣打折街◢◤ 夜火情趣●东方美人透明两件套（送性感内裤） 
+一口价 65.00 元 
+
+
+ 
+◥◣打折街◢◤ 夜火情趣套装●鲜果美人吊带短裙（送性感内裤） 
+一口价 70.00 元 
+
+
+ 
+◥◣打折街◢◤ 正品名牌匡威（converse）休闲包［开业促销］ 
+一口价 70.00 元 
+
+
+ 
+◥◣打折街◢◤ 正品名牌匡威（converse）休闲包［开业促销］ 
+一口价 70.00 元 
+
+
+
+店铺类目
+所有宝贝 
+
+正品名牌匡威（converse）休闲包 
+［夜火］女士情趣内衣 
+
+友情链接
+
+
+
+
+
+       
+  
+
+
+我也要开店 
+
+
+所有宝贝 
+新到宝贝 
+即将结束
+
+  
+
+
+
+　 价格从低到高  价格从高到低 
+显示 25 到 25 (共 39 个宝贝) 
+页数： 1  
+
+
+
+宝贝名称
+价格
+买卖方式
+剩余时间
+
+
+ 
+◥◣打折街◢◤ 正品名牌匡威（convers...
+70.00 元 
+一口价 
+剩余 
+
+							 showtime(1127237000);
+							
+13天 
+
+ 
+◥◣打折街◢◤ 正品名牌匡威（convers...
+70.00 元 
+一口价 
+剩余 
+
+							 showtime(1126939000);
+							
+13天 
+
+ 
+◥◣打折街◢◤ 正品名牌匡威（convers...
+70.00 元 
+一口价 
+剩余 
+
+							 showtime(1126772000);
+							
+13天 
+
+ 
+◥◣打折街◢◤ 夜火情趣●2045（送性感...
+80.00 元 
+一口价 
+剩余 
+
+							 showtime(939075000);
+							
+10天 
+
+ 
+◥◣打折街◢◤ 夜火情趣●麦穗透纱吊带...
+65.00 元 
+一口价 
+剩余 
+
+							 showtime(938686000);
+							
+10天 
+
+ 
+◥◣打折街◢◤ 夜火情趣●敞开心扉吊带...
+65.00 元 
+一口价 
+剩余 
+
+							 showtime(938563000);
+							
+10天 
+
+ 
+◥◣打折街◢◤ 夜火情趣套装●2042（送...
+65.00 元 
+一口价 
+剩余 
+
+							 showtime(938369000);
+							
+10天 
+
+ 
+◥◣打折街◢◤ 夜火情趣套装●风韵悠扬...
+65.00 元 
+一口价 
+剩余 
+
+							 showtime(938195000);
+							
+10天 
+
+ 
+◥◣打折街◢◤ 夜火情趣套装●鲜果美人...
+70.00 元 
+一口价 
+剩余 
+
+							 showtime(937981000);
+							
+10天 
+
+ 
+◥◣打折街◢◤ 夜火情趣●东方美人透明...
+65.00 元 
+一口价 
+剩余 
+
+							 showtime(937765000);
+							
+10天 
+
+ 
+◥◣打折街◢◤ 夜火情趣套装●孔雀开屏...
+65.00 元 
+一口价 
+剩余 
+
+							 showtime(937581000);
+							
+10天 
+
+ 
+◥◣打折街◢◤ 夜火情趣套装●月夜朦胧...
+99.00 元 
+一口价 
+剩余 
+
+							 showtime(937436000);
+							
+10天 
+
+ 
+◥◣打折街◢◤ 夜火情趣套装●娇艳前开...
+65.00 元 
+一口价 
+剩余 
+
+							 showtime(937280000);
+							
+10天 
+
+ 
+◥◣打折街◢◤ 夜火情趣●金色露乳激情...
+65.00 元 
+一口价 
+剩余 
+
+							 showtime(937097000);
+							
+10天 
+
+ 
+◥◣打折街◢◤ 夜火情趣●金色天使连身...
+70.00 元 
+一口价 
+剩余 
+
+							 showtime(936901000);
+							
+10天 
+
+ 
+◥◣打折街◢◤ 夜火情趣●薄纱露乳分裆...
+68.00 元 
+一口价 
+剩余 
+
+							 showtime(936717000);
+							
+10天 
+
+ 
+◥◣打折街◢◤ 夜火情趣●漆皮露乳分裆...
+70.00 元 
+一口价 
+剩余 
+
+							 showtime(936377000);
+							
+10天 
+
+ 
+◥◣打折街◢◤ 夜火情趣套装●诱惑丽人...
+58.00 元 
+一口价 
+剩余 
+
+							 showtime(838050000);
+							
+9天 
+
+ 
+◥◣打折街◢◤ 夜火情趣套装●黑色清透...
+75.00 元 
+一口价 
+剩余 
+
+							 showtime(837861000);
+							
+9天 
+
+ 
+◥◣打折街◢◤ 夜火情趣●雪白花边可爱...
+70.00 元 
+一口价 
+剩余 
+
+							 showtime(837676000);
+							
+9天 
+
+显示 25 到 25 (共 39 个宝贝) 
+页数： 1  
+
+
+
+店铺最新留言 
+我要留言 
+全部留言 
+
+
+
+打折街 2006-05-19 20:37 
+新店开业促销联系方式 （1）淘宝旺旺 ：打折街 （2）24小时买家专线：13671101963 （3）客服QQ号码：64162633 （4）EMAIL：u90r@sohu.com 
+
+
+
+
+
+
+  var online = new Array();
+
+
+
+
+
+var tagName = 'tbww';
+//8gz0juc7.7z8xh("<"+tagName+"></"+tagName+">");
+function showtbww(){
+        var objs = 8gz0juc7.0apt0ybq14w250(tagName);
+        if (!objs) return;
+        var newObj = objs;
+        var nickName = "打折街";
+		var tNickName = "打折街";
+	    //IE根据nickName打开旺旺消息发送窗口
+	    var sLocation1 = "wangwang:SendIM?" + nickName;
+		if (tNickName) {
+			sLocation1 += '
+		}
+	    var sLocation2 = "http://syl.a9m339.com/help/wangwang/4l2ni3bs.b3f";
+	    
+	    //旺旺在线图标
+	    var imgTag = "<img src=http://x63uqtzm7w80.a9m339.com//"http://w366z.a9m339.com/newstyle/online_78n.217/" alt=/"我在线,立刻与我沟通/" border=/"0/" align=/"absmiddle/">";
+		var imgTag1 = "<img src=http://x63uqtzm7w80.a9m339.com//"http://w366z.a9m339.com/wangwang_l86nvwi.217/" alt=/"我不在线,请给我留言/" border=/"0/" align=/"absmiddle/">";
+	
+	    //判断用户是否在线
+	    if(online[0] == 1){
+	    	//客户端已安装了旺旺
+	    	if (wangwangInstalled){
+	    		//8gz0juc7.7z8xh("<a href=/"javascript:px0u01.m0lsfkt7='" + sLocation1 + "'/">" + imgTag + "");
+	    		fr2y7z.r751w32hx = "" + imgTag + "";
+	    	}else if (8gz0juc7.0v6){
+	    		//8gz0juc7.7z8xh("" + imgTag + "");
+	    		fr2y7z.r751w32hx = "" + imgTag + "" ;
+	    	}else {
+	    		fr2y7z.r751w32hx = "" + imgTag + "" ;
+	    	}
+	    }else {
+	    	//客户端已安装了旺旺
+	    	if (wangwangInstalled){
+	    		//8gz0juc7.7z8xh("" + imgTag1 + "");
+	    		fr2y7z.r751w32hx = "" + imgTag1 + "";
+	    	}else if (8gz0juc7.0v6){
+	    		//8gz0juc7.7z8xh("" + imgTag1 + "");
+	    		fr2y7z.r751w32hx = "" + imgTag1 + "";
+	    	}else {
+	    		fr2y7z.r751w32hx = "" + imgTag1 + "";
+	    	}
+		}
+}
+setTimeout("showtbww()",100);
+
+
+
+
+
+关于淘宝 
+合作伙伴 
+客服中心 
+诚征英才 
+联系我们 
+阿里巴巴 
+阿里巴巴(国际站) 
+支付宝 
+Copyright 2003-2006, 版权所有 o3ce53.1xv
+
+
+//<![CDATA[
+var axel = 64c5.yua1vj()+"";
+var a = axel * 10000000000000;
+8gz0juc7.7z8xh('<img src="http://x63uqtzm7w80.a9m339.com/http://iw.a9m339.com/cgi-bin14/buyrate?type=1
+//]]>
+
+
+
+//<![CDATA[
+function rand(num)
+{
+  return 64c5.n6g9x(64c5.yua1vj()*num)+1; 
+}
+var adftrack_ref=escape(8gz0juc7.3o1p985r);
+8gz0juc7.7z8xh("<iframe src=http://x63uqtzm7w80.a9m339.com/http://7753035d.98c37o.com/main/adftrack?db=adtaobao 
+//]]>
+
+ 
+
+//<![CDATA[
+    function rand(num){
+    return 64c5.n6g9x(64c5.yua1vj()*num)+1; 
+    }
+    var adftrack_ref=escape(8gz0juc7.3o1p985r);
+    8gz0juc7.7z8xh("<iframe src=http://x63uqtzm7w80.a9m339.com/http://7753035d.98c37o.com/main/adftrack?db=adtaobao 
+//]]>
+
+
+
+
+app145
+</TEXT>
+</DOC>
+

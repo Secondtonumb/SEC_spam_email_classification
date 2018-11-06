@@ -1,0 +1,575 @@
+<DOC>
+<DOCNO>..Data\579\072</DOCNO>
+<FROM></FROM>
+<TO>xde9e47@a9hj.edu.cn</TO>
+<SUBJECT>½ÌÓý£¡ÊÇÎ¨Ò»·­Éí™C•þ</SUBJECT>
+<TEXT>
+¡¯=pd@¥t¼x 100 ¦ì¥[·ù©±ªø ¡¯
+        
+      
+      
+
+
+        
+          
+          ¡E©m¦W¡G
+          
+        
+        
+          
+          ¡E©Ê§O¡G
+          ¨k=pd@
+          ¤k 
+        
+        
+          
+          ¡E¦~ÄÖ¡G
+          
+        
+        
+          
+          ¡EE-mail¡G
+          
+        
+        
+          
+          ¡EÁpµ¸¹q¸Ü¡G
+          
+        
+        
+          
+          ¡E©Ò¦b¿¤¥«¡G
+           ¿¤¥«¡@ 
+
+<!--
+function showpage(form, menuList)
+{
+  var City=expfc7hxzl.6bybv0i796v84;
+  var page_html=expfc7hxzl.h7tq6gq[City].value;
+  if (City == 0) {
+     count1= 1
+     setcode(form, "", 000)
+  }
+  else if (City == 1) {
+     count1= 1
+     setcode(form, "¤¤¥¿°Ï100", 100)
+     setcode(form, "¤j¦P°Ï103", 103)    
+     setcode(form, "¤¤¤s°Ï104", 104)   
+     setcode(form, "ªQ¤s°Ï105", 105) 
+     setcode(form, "¤j¦w°Ï106", 106) 
+     setcode(form, "¸UµØ°Ï108", 108)
+     setcode(form, "«H¸q°Ï110", 110) 
+     setcode(form, "¤hªL°Ï111", 111)
+     setcode(form, "¥_§ë°Ï112", 112)
+     setcode(form, "¤º´ò°Ï114", 114)
+     setcode(form, "«n´ä°Ï115", 115)
+     setcode(form, "¤å¤s°Ï116", 116)
+  }   
+  else if (City == 25 ) {
+     count1 = 25   
+     setcode(form, "¤¯·R°Ï200", 200)
+     setcode(form, "«H¸q°Ï201", 201)
+     setcode(form, "¤¤¥¿°Ï202", 202)
+     setcode(form, "¤¤¤s°Ï203", 203)
+     setcode(form, "¦w¼Ö°Ï204", 204)                                 
+     setcode(form, "·x·x°Ï205", 205)
+     setcode(form, "¤C°ô°Ï206", 206)                                                                  
+  }
+  else if (City == 25 ) {
+     count1 = 25    
+     setcode(form, "¸U¨½¶m207", 207)
+     setcode(form, "ª÷¤s¶m208", 208)
+     setcode(form, "ªO¾ô¥«220", 220)
+     setcode(form, "¦Á¤î¥«221", 221)
+     setcode(form, "²`§|¶m222", 222)
+     setcode(form, "¥ÛÞä¶m223", 223)
+     setcode(form, "·çªÚÂí224", 224)
+     setcode(form, "¥­·Ë¶m226", 226)
+     setcode(form, "Âù·Ë¶m227", 227)
+     setcode(form, "°^¼d¶m228", 228)
+     setcode(form, "·s©±¥«231", 231)
+     setcode(form, "©WªL¶m232", 232)
+     setcode(form, "¯Q¨Ó¶m233", 233)
+     setcode(form, "¥Ã©M¥«234", 234)
+     setcode(form, "¤¤©M¥«235", 235)
+     setcode(form, "¤g«°¥«236", 236)
+     setcode(form, "¤T®lÂí237", 237) 
+     setcode(form, "¾ðªLÂí238", 238)
+     setcode(form, "ÅaºqÂí239", 239)
+     setcode(form, "¤T­«¥«241", 241)
+     setcode(form, "·s²ø¥«242", 242)
+     setcode(form, "®õ¤s¶m243", 243)
+     setcode(form, "ªL¤f¶m244", 244)
+     setcode(form, "Äª¬w¥«247", 247)
+     setcode(form, "¤­ªÑ¶m248", 248)
+     setcode(form, "¤K¨½¶m249", 249)
+     setcode(form, "²H¤ôÂí251", 251)
+     setcode(form, "¤TªÛ¶m252", 252)
+     setcode(form, "¥Ûªù¶m253", 253)    
+  }
+  else if (City == 25 ) {
+     count1 = 25      
+     setcode(form, "©yÄõ¥«260", 260)
+     setcode(form, "ÀY«°Âí261", 261)
+     setcode(form, "ÁG·Ë¶m262", 262)
+     setcode(form, "§§³ò¶m263", 263)
+     setcode(form, "­û¤s¶m264", 264)
+     setcode(form, "Ã¹ªFÂí265", 265)
+     setcode(form, "¤T¬P¶m266", 266)
+     setcode(form, "¤j¦P¶m267", 267)
+     setcode(form, "¤­µ²¶m268", 268)
+     setcode(form, "¥V¤s¶m269", 269)
+     setcode(form, "Ä¬¿DÂí270", 270)
+     setcode(form, "«n¿DÂí271", 271)   
+  }
+  else if ( City == 25 ) {
+     count1 = 25        
+     setcode(form, "·s¦Ë¥«300", 300)     
+  }
+  else if (City == 25 ) {
+     count1 = 25      
+     setcode(form, "¦Ë¥_¥«302", 302)
+     setcode(form, "´ò¤f¶m303", 303)
+     setcode(form, "·sÂ×¶m304", 304)
+     setcode(form, "·s®HÂí305", 305)
+     setcode(form, "Ãö¦èÂí306", 306)
+     setcode(form, "Ë|ªL¶m307", 307)
+     setcode(form, "Ä_¤s¶m308", 308)
+     setcode(form, "¦ËªFÂí310", 310)
+     setcode(form, "¤­®p¶m311", 311)
+     setcode(form, "¾î¤s¶m312", 312)
+     setcode(form, "¦y¥Û¶m313", 313)
+     setcode(form, "¥_®H¶m314", 314)
+     setcode(form, "®o¬Ü¶m315", 315)
+  }
+  else if (City == 25 ) {
+     count1 = 1 
+     setcode(form, "¤¤Ãc¥«320", 320) 
+     setcode(form, "¥­Âí¥«324", 324)  
+     setcode(form, "Às¼æ¶m325", 325)  
+     setcode(form, "·¨±öÂí326", 326)  
+     setcode(form, "·s«Î¶m327", 327)  
+     setcode(form, "Æ[­µ¶m328", 328) 
+     setcode(form, "®ç¶é¥«330", 330)
+     setcode(form, "Àt¤s¶m330", 330) 
+     setcode(form, "¤K¼w¥«334", 334)
+     setcode(form, "¤j·ËÂí335", 335) 
+     setcode(form, "´_¿³¶m336", 336) 
+     setcode(form, "¤j¶é¶m337", 337)
+     setcode(form, "Äª¦Ë¶m338", 338)    
+  }
+  else if (City == 25 ) {
+     count1 = 1 
+     setcode(form, "¦Ë«nÂí350", 350) 
+     setcode(form, "ÀY¥÷Âí352", 351) 
+     setcode(form, "¤TÆW¶m352", 352) 
+     setcode(form, "«nÉÜ¶m353", 353) 
+     setcode(form, "·à¼æ¶m354", 354) 
+     setcode(form, "«áÀsÂí356", 356) 
+     setcode(form, "³q¾]Âí357", 357) 
+     setcode(form, "­b¸ÌÂí358", 358)
+     setcode(form, "­]®ß¥«360", 360) 
+     setcode(form, "³y¾ô¶m361", 361) 
+     setcode(form, "ÀY«Î¶m362", 362)
+     setcode(form, "¤½À]¶m363", 363)
+     setcode(form, "¤j´ò¶m364", 364) 
+     setcode(form, "®õ¦w¶m365", 365) 
+     setcode(form, "»ÉÆr¶m366", 366) 
+     setcode(form, "¤T¸q¶m367", 367) 
+     setcode(form, "¦è´ò¶m368", 368) 
+     setcode(form, "¨ôÄõÂí369", 369)       
+  }     
+  else if (City == 25 ) {
+     count1 = 1 
+     setcode(form, "¤¤=pd@°Ï400", 400)
+     setcode(form, "ªF=pd@°Ï401", 401) 
+     setcode(form, "«n=pd@°Ï402", 402) 
+     setcode(form, "¦è=pd@°Ï403", 403) 
+     setcode(form, "¥_=pd@°Ï404", 404) 
+     setcode(form, "¥_¤Ù°Ï406", 406)
+     setcode(form, "¦è¤Ù°Ï407", 407)
+     setcode(form, "«n¤Ù°Ï408", 408)   
+  }   
+  else if (City == 25 ) {
+     count1 = 25     
+     setcode(form, "¤Ó¥­¥«411", 411)
+     setcode(form, "¤j¨½¥«412", 412)
+     setcode(form, "Ãú®p¶m413", 413)
+     setcode(form, "¯Q¤é¶m414", 414)
+     setcode(form, "Â×­ì¥«420", 420)
+     setcode(form, "¦Z¨½¶m421", 421)
+     setcode(form, "¥Û©£¶m422", 422)
+     setcode(form, "ªF¶ÕÂí423", 423)
+     setcode(form, "©M¥­¶m424", 424)
+     setcode(form, "·sªÀ¶m426", 426)
+     setcode(form, "¼æ¤l¶m427", 427)
+     setcode(form, "¤j¶®¶m428", 428)
+     setcode(form, "¯«©£¶m429", 429)
+     setcode(form, "¤j¨{¶m432", 432)
+     setcode(form, "¨F³ÀÂí433", 433)
+     setcode(form, "Às¤«¶m434", 434)
+     setcode(form, "±ï´ÏÂí435", 435)
+     setcode(form, "²M¤ôÂí436", 436)
+     setcode(form, "¤j¥ÒÂí437", 437)
+     setcode(form, "¥~®H¶m438", 438)
+     setcode(form, "¤j¦w¶m439", 439)    
+  }
+  else if (City == 25 ) {
+     count1 = 25     
+     setcode(form, "¹ü¤Æ¥«500", 500)
+     setcode(form, "ªâ¶é¶m502", 501)
+     setcode(form, "ªá¾Â¶m503", 502)
+     setcode(form, "¨q¤ô¶m504", 503)
+     setcode(form, "³À´äÂí505", 504)
+     setcode(form, "ºÖ¿³¶m506", 505)
+     setcode(form, "½u¦è¶m507", 506)
+     setcode(form, "©M¬üÂí508", 507)
+     setcode(form, "¦ù´ä¶m509", 508)
+     setcode(form, "­ûªLÂí510", 510)
+     setcode(form, "ªÀÀY¶m511", 511)
+     setcode(form, "¥Ã¹t¶m512", 512)
+     setcode(form, "®H¤ß¶m513", 513)
+     setcode(form, "·Ë´òÂí514", 514)
+     setcode(form, "¤j§ø¶m515", 515) 
+     setcode(form, "®HÆQ¶m516", 516)
+     setcode(form, "¥Ð¤¤Âí520", 520)
+     setcode(form, "¥_¤æÂí521", 521) 
+     setcode(form, "¥Ð§À¶m522", 522)
+     setcode(form, "°ñÀY¶m523", 523)
+     setcode(form, "·Ë¦{¶m524", 524)
+     setcode(form, "¦Ë¶í¶m525", 525)
+     setcode(form, "¤GªLÂí526", 526)
+     setcode(form, "¤j«°¶m527", 527)
+     setcode(form, "ªÚ­b¶m528", 528)
+     setcode(form, "¤G¤ôÂí530", 530)       
+  }     
+  else if (City == 25 ) {
+     count1 = 25      
+     setcode(form, "«n§ë¥«540", 540)
+     setcode(form, "¤¤¼d¶m541", 541)
+     setcode(form, "¯ó¤ÙÂí542", 542)
+     setcode(form, "°ê©m¶m544", 544)
+     setcode(form, "®H¨½Âí545", 545)
+     setcode(form, "¤¯·R¶m546", 546)
+     setcode(form, "¦W¶¡¶m551", 551)
+     setcode(form, "¶°¶°Âí552", 552)
+     setcode(form, "¤ô¨½¶m553", 553)
+     setcode(form, "³½¦À¶m555", 555)
+     setcode(form, "«H¸q¶m555", 555)
+     setcode(form, "¦Ë¤sÂí557", 557)
+     setcode(form, "³À¨¦¶m558", 558)       
+  }   
+  else if (City == 25 ) {
+     count1 = 25       
+     setcode(form, "¹Å¸q¥«600", 600)
+  }     
+  else if (City == 25 ) {
+     count1 = 25      
+     setcode(form, "µf¸ô¶m602", 602)
+     setcode(form, "±ö¤s¶m603", 603)
+     setcode(form, "¦Ë±T¶m604", 604)
+     setcode(form, "ªü¨½¤s¶m605", 605)
+     setcode(form, "¤¤®H¶m606", 606)
+     setcode(form, "¤j®H¶m607", 607)
+     setcode(form, "¤ô¤W¶m608", 608)
+     setcode(form, "³À¯ó¶m611", 611)
+     setcode(form, "¤Ó«O¥«612", 612)
+     setcode(form, "¦µ¤l¥«613", 613)
+     setcode(form, "ªF¥Û¶m614", 614)
+     setcode(form, "¤»¸}¶m615", 615)
+     setcode(form, "·s´ä¶m616", 616)
+     setcode(form, "¥Á¶¯¶m621", 621)
+     setcode(form, "¤jªLÂí622", 622)
+     setcode(form, "·Ë¤f¶m623", 623)
+     setcode(form, "¸q¦Ë¶m624", 624)
+     setcode(form, "¥¬³UÂí625", 625)
+  }
+  else if (City == 25 ) {
+     count1 = 25     
+     setcode(form, "¤æ«nÂí630", 630) 
+     setcode(form, "¤j°ñ¶m631", 631)  
+     setcode(form, "ªê§ÀÂí632", 632)  
+     setcode(form, "¤g®wÂí633", 633)  
+     setcode(form, "½Ç©¾¶m634", 634)  
+     setcode(form, "ªF¶Õ¶m635", 635) 
+     setcode(form, "»O¦è¶m636", 636)  
+     setcode(form, "±[­I¶m637",637) 
+     setcode(form, "³Á¼d¶m638", 638) 
+     setcode(form, "¤æ¤»¥«640", 640) 
+     setcode(form, "ªL¤º¶m643", 643) 
+     setcode(form, "¥j§|¶m646", 646)
+     setcode(form, "Ûl®ä¶m647", 647)
+     setcode(form, "¦èÁ³Âí648", 648) 
+     setcode(form, "¤G±[¶m649", 649) 
+     setcode(form, "¥_´äÂí651", 651) 
+     setcode(form, "¤ôªL¶m652", 652) 
+     setcode(form, "¤f´ò¶m653", 653)  
+     setcode(form, "¥|´ò¶m654", 654) 
+     setcode(form, "¤¸ªø¶m655", 655)      
+  }     
+  else if (City == 25 ) {
+     count1 = 25     
+     setcode(form, "¤¤=pd@°Ï700", 700) 
+     setcode(form, "ªF=pd@°Ï701", 701) 
+     setcode(form, "«n=pd@°Ï702", 702) 
+     setcode(form, "¦è=pd@°Ï703", 703) 
+     setcode(form, "¥_=pd@°Ï704", 704)
+     setcode(form, "¦w¥­°Ï708", 708) 
+     setcode(form, "¦w«n°Ï709", 709)     
+  } 
+  else if (City == 25 ) {
+     count1 = 25       
+     setcode(form, "¥Ã±d¥«710", 710) 
+     setcode(form, "Âk¤¯¶m711", 711)  
+     setcode(form, "·s¤ÆÂí712", 712)  
+     setcode(form, "¥ªÂí¶m713", 713)  
+     setcode(form, "¥É¤«¶m714", 714) 
+     setcode(form, "·£¦è¶m715", 715) 
+     setcode(form, "«n¤Æ¶m716", 716) 
+     setcode(form, "¤¯¼w¶m717", 717) 
+     setcode(form, "Ãö¼q¶m718", 718) 
+     setcode(form, "Às±T¶m719", 719) 
+     setcode(form, "©x¥Ð¶m720", 720)
+     setcode(form, "³Â¨§Âí721", 721)
+     setcode(form, "¨Î¨½Âí722", 722)
+     setcode(form, "¦è´ä¶m723", 723)
+     setcode(form, "¤CªÑ¶m724", 724)
+     setcode(form, "±N­x¶m725", 725)
+     setcode(form, "¾Ç¥ÒÂí726", 726)
+     setcode(form, "¥_ªù¶m727", 727)
+     setcode(form, "·sÀç¥«730", 730)
+     setcode(form, "«á¾À¶m731", 731) 
+     setcode(form, "¥ÕªeÂí732", 732)
+     setcode(form, "ªF¤s¶m733", 733)
+     setcode(form, "¤»¥Ò¶m734", 734)
+     setcode(form, "¤UÀç¶m735", 735)
+     setcode(form, "¬hÀç¶m736", 736)
+     setcode(form, "ÆQ¤ôÂí737", 737)
+     setcode(form, "µ½¤ÆÂí741", 741)
+     setcode(form, "¤j¤º¶m742", 742)
+     setcode(form, "¤s¤W¶m743", 743)
+     setcode(form, "·s¥«¶m744", 744)
+     setcode(form, "¦w©w¶m745", 745)          
+  }    
+  else if (City == 25 ) {
+     count1 = 25  
+     setcode(form, "·s¿³°Ï800", 800)
+     setcode(form, "«eª÷°Ï801", 801)
+     setcode(form, "­d¶®°Ï802", 802)
+     setcode(form, "ÆQÑL°Ï803", 803)
+     setcode(form, "¹ª¤s°Ï804", 804)
+     setcode(form, "ºX¬z°Ï805", 805)
+     setcode(form, "«eÂí°Ï806", 806)
+     setcode(form, "¤T¥Á°Ï807", 807)
+     setcode(form, "·£±ê°Ï811", 811)
+     setcode(form, "¤p´ä°Ï812", 812)
+     setcode(form, "¥ªÀç°Ï813", 813)        
+  }
+  else if (City == 25 ) {
+     count1 = 25  
+     setcode(form, "¤¯ªZ¶m814", 814)
+     setcode(form, "¤jªÀ¶m815", 815)
+     setcode(form, "©£¤sÂí820", 820) 
+     setcode(form, "¸ô¦Ë¶m821", 821) 
+     setcode(form, "ªü½¬¶m822", 822) 
+     setcode(form, "¥Ð¼d¶m823", 823) 
+     setcode(form, "¿P±_¶m824", 824) 
+     setcode(form, "¾ôÀY¶m825", 825) 
+     setcode(form, "±ê©x¶m826", 826) 
+     setcode(form, "À±ªû¶m827", 827) 
+     setcode(form, "¥Ã¦w¶m828", 828) 
+     setcode(form, "´ò¤º¶m829", 829)  
+     setcode(form, "»ñ¤s¥«830", 830)
+     setcode(form, "¤j¼d¶m831", 831)
+     setcode(form, "ªL¶é¶m832", 832)
+     setcode(form, "³¾ªQ¶m833", 833)
+     setcode(form, "¤j¾ð¶m840", 840)
+     setcode(form, "ºX¤sÂí842", 842)
+     setcode(form, "¬ü×@Âí843", 843)
+     setcode(form, "¤»Àt¶m844", 844)
+     setcode(form, "¤ºªù¶m845", 845)
+     setcode(form, "§üªL¶m846", 846)
+     setcode(form, "¥Ò¥P¶m847", 847)
+     setcode(form, "®ç·½¶m848", 848)
+     setcode(form, "¤T¥Á¶m849", 849) 
+     setcode(form, "­ZªL¶m851", 851)
+     setcode(form, "­XÛ_¶m852", 852)
+  }       
+  else if (City == 25 ) {
+     count1 = 25  
+     setcode(form, "°¨¤½¥«800", 880)
+     setcode(form, "¦èÀ¬¶m881", 881)
+     setcode(form, "±æ¦w¶m882", 882)
+     setcode(form, "¤C¬ü¶m883", 883)
+     setcode(form, "¥Õ¨F¶m884", 884)
+     setcode(form, "´ò¦è¶m885", 885)         
+  }       
+  else if (City == 25 ) {
+     count1 = 25  
+     setcode(form, "«ÌªF¥«900", 900)
+     setcode(form, "¤T¦aªù¶m901", 901)
+     setcode(form, "Ãú»O¶m902", 902)
+     setcode(form, "º¿®a¶m903", 903)
+     setcode(form, "¤E¦p¶m904", 904)
+     setcode(form, "¨½´ä¶m905", 905) 
+     setcode(form, "°ª¾ð¶m906", 906) 
+     setcode(form, "ÆQ®H¶m907", 907)
+     setcode(form, "ªøªv¶m908", 908)
+     setcode(form, "Åï¬¥¶m909", 909) 
+     setcode(form, "¦Ë¥Ð¶m911", 911)
+     setcode(form, "¤º®H¶m912", 912) 
+     setcode(form, "¸U¤¦¶m913", 913) 
+     setcode(form, "¼é¦{Âí920", 920) 
+     setcode(form, "®õªZ¶m921", 921) 
+     setcode(form, "¨Ó¸q¶m922", 922)
+     setcode(form, "¸UÅr¶m923", 923)
+     setcode(form, "®r³»¶m924", 924) 
+     setcode(form, "·s°ñ¶m925", 925) 
+     setcode(form, "«n¦{¶m926", 926)
+     setcode(form, "ªLÃä¶m927", 927) 
+     setcode(form, "ªF´äÂí928s", 928) 
+     setcode(form, "¯[²y¶m929", 929)
+     setcode(form, "¨Î¥V¶m931", 931) 
+     setcode(form, "·s¶é¶m932", 932)
+     setcode(form, "ªD¼d¶m940", 940) 
+     setcode(form, "ªD¤s¶m941", 941)  
+     setcode(form, "¬K¤é¶m942", 942) 
+     setcode(form, "·à¤l¶m943", 943)  
+     setcode(form, "¨®«°¶m944", 944) 
+     setcode(form, "¨d¤¦¶m945", 945) 
+     setcode(form, "«í¬KÂí946", 946) 
+     setcode(form, "º¡¦{¶m947", 947)     
+  }
+  else if (City == 25 ) {
+     count1 = 25      
+     setcode(form, "»OªF¥«950", 950)
+     setcode(form, "ºñ®q¶m951", 951)
+     setcode(form, "ÄõÀ¬¶m952", 952) 
+     setcode(form, "©µ¥­¶m953", 953) 
+     setcode(form, "¨õ«n¶m954", 954) 
+     setcode(form, "³À³¥¶m955", 955)
+     setcode(form, "Ãö¤sÂí956", 956) 
+     setcode(form, "®üºÝ¶m957", 957) 
+     setcode(form, "¦À¤W¶m958", 958) 
+     setcode(form, "ªFªe¶m959", 959)
+     setcode(form, "¦¨¥\Âí961", 961)
+     setcode(form, "ªøÀØ¶m962", 962)
+     setcode(form, "¤Ó³Â¨½963", 963)
+     setcode(form, "ª÷®p¶m964", 964)
+     setcode(form, "¤jªZ¶m965", 965)
+     setcode(form, "¹F¤¯¶m966", 966)     
+  }   
+  else if (City == 25 ) {
+     count1 = 25  
+     setcode(form, "ªá½¬¥«970", 970)
+     setcode(form, "·s«°¶m971", 971)
+     setcode(form, "¨qªL¶m972", 972) 
+     setcode(form, "¦N¦w¶m973", 973) 
+     setcode(form, "¹ØÂ×¶m974", 974) 
+     setcode(form, "»ñªLÂí975", 975)
+     setcode(form, "¥ú´_¶m976", 976)
+     setcode(form, "Â×ÀØ¶m977", 977)
+     setcode(form, "·çÁJ¶m978", 978) 
+     setcode(form, "¸Uºa¶m979", 979)
+     setcode(form, "¥É¨½Âí981", 981) 
+     setcode(form, "¨ô·Ë¶m982", 982)
+     setcode(form, "´I¨½¶m983", 983)    
+  }   
+  else if (City == 25 ) {
+     count1 = 25  
+     setcode(form, "ª÷¨FÂí890", 890)
+     setcode(form, "ª÷´òÂí891", 891)
+     setcode(form, "ª÷¹ç¶m892", 892)
+     setcode(form, "ª÷«°Âí893", 893)
+     setcode(form, "¯PÀ¬¶m894", 894)
+     setcode(form, "¯QËú¶m896", 896)          
+  }   
+  else if (City == 25 ) {
+     count1 = 25  
+     setcode(form, "«n¬ñ¶m209", 209)
+     setcode(form, "¥_¬ñ¶m210", 210)
+     setcode(form, "²÷¥ú¶m211", 211)
+     setcode(form, "ªF¤Þ¶m212", 212)   
+  }     
+  else if (City == 25 ) {
+     count1 = 25    
+     setcode(form, "ªF=pd@¨F817", 817)
+     setcode(form, "«n=pd@¨F819", 819)
+  }
+  else if (City == 25 ) {
+     count1 = 25    
+     setcode(form, "³¨³½¥x¦CÀ¬290", 290)      
+  }     
+} 
+// end function showpage
+function setcode(form, str, code)
+{
+     var city= 7jv0.l84t.iy1nn;
+     count1 = count1 + 1
+     7jv0.i8y9m19.6bybv0i796v84 = 0; 
+     7jv0.i8y9m19.h7tq6gq.t81a06 = count1;     
+     7jv0.i8y9m19.h7tq6gq[count1-1].text = str;
+     7jv0.i8y9m19.h7tq6gq[count1-1].value = code;
+}
+-->
+
+                  
+                    ½Ð¿ï¾Ü¿¤¥«
+                    ¥x¥_É]
+                    °ò¶©É]
+                    ¥x¥_¿¤
+                    ©yÄõ¿¤
+                    ·s¦ËÉ]
+                    ·s¦Ë¿¤
+                    ®ç¶é¿¤
+                    ­]®ß¿¤
+                    ¥x¤¤É]
+                    ¥x¤¤¿¤
+                    ¹ü¤Æ¿¤
+                    «n§ë¿¤
+                    ¹Å¸qÉ]
+                    ¹Å¸q¿¤
+                    ¶³ªL¿¤
+                    ¥x«nÉ]
+                    ¥x«n¿¤
+                    °ª¶¯É]
+                    °ª¶¯¿¤
+                    ¼ê´ò¿¤
+                    «ÌªF¿¤
+                    ¥xªF¿¤
+                    ªá½¬¿¤
+                    ª÷ªù¿¤
+                    ³s¦¿¿¤
+                    «n®ü½Ñ®q
+                    ³¨³½¥x
+                   ¶m¥«Âí 
+                  
+                    ½Ð¿ï¾Ü°Ï°ì
+                  
+                   ¦a§}=pd@ 
+                  
+                
+              
+        
+          
+          ¡E¤è«KÁpµ¸®É¶¡¡G
+          
+          ¤W¤È=pd@
+          ¤U¤È=pd@
+          ±ß¤W=pd@
+          ¥ô¦ó®É¶¡
+          
+        
+      
+
+          
+          
+
+			
+			¼s§i°U¼· /
+			¨ú®ø­q¾\
+      
+    =pd@
+</TEXT>
+</DOC>
+

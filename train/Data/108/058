@@ -1,0 +1,1077 @@
+<DOC>
+<DOCNO>..Data\108\058</DOCNO>
+<FROM>192qr7@3oy91y.com.cn</FROM>
+<TO>0ljqn@a9hj.edu.cn</TO>
+<SUBJECT>为您提供包装制品</SUBJECT>
+<TEXT>
+<!--
+    var r=Math.random();
+    document.write("<img alt=\"\" width=\"1\" height=\"1\" style=\"display:none\" ");
+    document.write("src=\"http://dmtracking.alibaba.com/b.jpg?cD0yJnU9ey8xMjcuMC4wLjEvYXRoZW5hL3NpdGVIb21lLmh0bT91aWQ9eHpwYWNrfSZtPXtHRVR9JnM9ezIwMH0mcj17aHR0cDovL2NoaW5hLmFsaWJhYmEuY29tL21lbWJlci9teWFsaWJhYmEuaHRtfSZhPXtjX3FwdD01NDE0ODg5N3xjX3NwdD01NDk0NTIyNnxjX210PTN8Y19taWQ9eHpwYWNrfGNfbGlkPXh6cGFja3xjX3NwZj01NDk0NTIyNnxjX21zPTJ9JmI9ey19JmM9ey19
+-->
+
+ 
+
+function doSearch() {
+
+  var keywords = trim(document.searchForm.keywords.value);
+  document.searchForm.keywords.value = keywords;
+  var cnalibaba = document.searchForm.cnalibaba.value;
+  if((keywords == "")) {
+    alert("请输入关键字！");
+    document.searchForm.keywords.focus();
+    return false;
+  }
+  var url = "";
+  var tmpForm = document.searchForm;
+  if(cnalibaba == "allsearch") {
+  	url = "http://search.china.alibaba.com/search/go_search.htm";
+  }
+  if(cnalibaba == "salesearch") {
+  	url = "http://search.china.alibaba.com/search/offer_search.htm";
+  	tmpForm.tracelog.value='PO_search_sale';   
+  }
+  if (cnalibaba == "buysearch") {
+  	url = "http://search.china.alibaba.com/search/search.htm";
+  	tmpForm.tracelog.value='PO_search_buy';
+  }
+  if (cnalibaba == "auctionsearch") {
+  	url = "http://auction.china.alibaba.com/search/auction_list.htm";
+  	tmpForm.tracelog.value='PO_search_auction';
+  }
+  if (cnalibaba == "product") {
+  	url = "http://search.china.alibaba.com/search/sample_search.htm";
+  	tmpForm.tracelog.value='PO_search_sample';   	
+  }
+  if (cnalibaba == "comsearch") {
+  	url = "http://search.china.alibaba.com/search/company_search.htm";
+  	tmpForm.tracelog.value='PO_search_company'; 
+  }
+  if (cnalibaba == "clubsearch") {
+  	tmpForm.tracelog.value='PO_search_club'; 
+  	url = "http://club.china.alibaba.com/club/post/search?
+  	tmpForm.method="post";
+
+  }
+  if (cnalibaba == "infosearch") {
+  	tmpForm.tracelog.value='PO_search_info'; 
+  	url = "http://info.china.alibaba.com/news/search?do=1
+  	tmpForm.method="post";
+  }
+  if (cnalibaba == "blogsearch") {
+  	tmpForm.tracelog.value='PO_search_blog';   	
+  	url = "http://blog.china.alibaba.com/blog/search/search.html?action=search%2FSearch
+  	tmpForm.method="post";
+  }
+  
+  if (url == "") {
+      return false;
+  }
+  
+  document.searchForm.action = url;
+  document.searchForm.submit();
+}
+
+function trim(inputString) {
+
+if (typeof inputString != "string") { return inputString; }
+var retValue = inputString;
+var ch = retValue.substring(0, 1);
+while (ch == " ") {
+  //检查字符串开始部分的空格
+  retValue = retValue.substring(1, retValue.length);
+  ch = retValue.substring(0, 1);
+}
+ch = retValue.substring(retValue.length-1, retValue.length);
+while (ch == " ") {
+ //检查字符串结束部分的空格
+ retValue = retValue.substring(0, retValue.length-1);
+ ch = retValue.substring(retValue.length-1, retValue.length);
+}
+while (retValue.indexOf("  ") != -1) {
+ //将文字中间多个相连的空格变为一个空格
+ retValue = retValue.substring(0, retValue.indexOf("  ")) + retValue.substring(retValue.indexOf("  ")+1, retValue.length);
+}
+return retValue;
+}
+
+
+
+  
+  
+    
+      首页 | 供应信息 | 求购信息 | 商业资讯 | 商人论坛 | 我的阿里助手 
+      | 诚信通服务 | 
+      
+
+
+  
+  
+    
+
+  
+  
+    
+    
+    
+       
+        供应信息 求购信息 拍卖信息 
+        产品目录 公司库 
+        商业资讯 论坛文章 博客文章  
+  
+    
+
+  function changeImg(obj,width,height) {
+    if ( obj.width > width || obj.height > height ) {
+      var scale;
+      var scale1 = obj.width / width;
+      var scale2 = obj.height / height;
+
+      if(scale1 > scale2){
+        scale = scale1;
+      }else{
+        scale = scale2;
+      }
+
+      obj.width = obj.width / scale;
+    }
+  }
+
+
+
+  
+  
+    
+      
+        
+        
+          
+          雄县雄姿塑料厂 
+          
+
+  
+  
+    
+    
+      
+        
+        
+          第 1 年
+    
+      
+        
+        
+          诚信通指数：15
+    
+    | 收藏此公司  
+
+  
+  
+    
+      
+        
+        
+          商铺首页 
+      
+      
+        
+        
+          最新供应 
+          
+      
+      
+        
+        
+          产品展厅 
+          
+      
+      
+        
+        
+          采购清单 
+          
+      
+      
+        
+        
+          公司介绍 
+          
+      
+      
+        
+        
+          诚信通档案
+      
+      
+        
+        
+          证书荣誉
+      
+      
+        
+        
+          客户评价
+      
+      
+        
+        
+          资信参考人
+      
+      
+        
+        
+          公司动态
+      
+      
+        
+        
+          招聘中心
+      
+      
+        
+        
+          在线问答
+      
+      
+        
+        
+          联系方式
+      
+function funcSearch() {
+    var keywords = document.search_keywords.keywords_text.value;
+    if (keywords == null || Trim(keywords) == "" || keywords == "输入产品关键字") {
+        alert("请输入产品关键字");
+        return false;
+    }
+    location.href="http://xzpack.cn.alibaba.com/athena/offerlist/xzpack-sale-false.html?keywords=" + keywords;
+    //alert("http://xzpack.cn.alibaba.com/athena/offerlist/xzpack-sale-false.html?keywords=" + keywords)
+}
+function funcEnter() {
+    if(event.keyCode == 13) {
+	    funcSearch();
+	}
+}
+function funcFocus(text) {
+    if (text.value=="输入产品关键字" || Trim(text.value)=="") {
+        text.value="";
+    }
+}
+function Trim(str){
+    if(str.charAt(0) == " "){
+        str = str.slice(1);
+        str = Trim(str); 
+    }
+    return str;
+}
+
+
+      
+      
+        
+        
+          
+          商铺内搜索
+          
+      
+        
+        
+            
+          
+    
+      
+        
+        
+          您现在的位置： 雄县雄姿塑料厂 
+            商铺首页 
+      
+        
+        
+          
+          精品橱窗 
+          
+      
+      
+      
+        
+        
+          
+            
+              
+              
+                 
+              
+                供应PP磨砂袋 
+                
+              
+                发布时间：2006年05月23日 13:07 
+                
+          
+            
+              
+              
+                 
+              
+                供应PP磨砂袋 
+                
+              
+                发布时间：2006年05月22日 14:44 
+                
+          
+            
+              
+              
+                 
+              
+                供应PP盒 
+                
+              
+                发布时间：2006年05月22日 14:44 
+                
+          
+            
+              
+              
+                 
+              
+                PP广告礼品袋 
+                  商品包装高档 购物手提袋 
+              
+                发布时间：2006年05月22日 14:44 
+                
+        
+          
+        
+          
+            
+              
+              
+                 
+              
+                供应PP磨砂袋 
+                
+              
+                发布时间：2006年05月23日 10:42 
+                
+          
+            
+              
+              
+                 
+              
+                供应PP购物袋 
+                
+              
+                发布时间：2006年05月22日 14:44 
+                
+          
+            
+              
+              
+                 
+              
+                供应PP手提袋 
+                
+              
+                发布时间：2006年05月19日 18:38 
+                
+          
+            
+              
+              
+                 
+              
+                供应纸袋 
+                
+              
+                发布时间：2006年05月23日 10:42 
+                
+        
+          
+        
+          
+            
+              
+              
+                 
+              
+                供应PP磨砂盒 
+                
+              
+                发布时间：2006年05月19日 18:38 
+                
+          
+            
+              
+              
+                 
+              
+                供应PE袋 
+                
+              
+                发布时间：2006年05月23日 13:09 
+                
+          
+            
+              
+              
+                 
+              
+                PP广告礼品袋 
+                  商品包装高档 购物手提袋(图) 
+              
+                发布时间：2006年05月23日 13:07 
+                
+          
+            
+              
+              
+                 
+              
+                PP广告礼品袋 
+                  商品包装高档 购物手提袋 
+              
+                发布时间：2006年05月23日 13:08 
+                
+        
+          
+        
+          
+            
+              
+              
+                 
+              
+                供应纸袋 
+                
+              
+                发布时间：2006年05月23日 13:08 
+                
+          
+            
+              
+              
+                 
+              
+                供应纸盒 
+                
+              
+                发布时间：2006年05月23日 13:09 
+                
+          
+            
+              
+              
+                 
+              
+                供应塑料盒、文具盒、文件夹、文件盒、包装盒(图) 
+                
+              
+                发布时间：2006年05月19日 13:03 
+                
+          
+            
+              
+              
+                 
+              
+                供应塑料盒，文具盒、资料夹、档案袋、资料袋(图) 
+                
+              
+                发布时间：2006年05月19日 13:01 
+                
+      
+        
+        
+          
+      
+      
+   var speed=30
+   demo2.innerHTML=demo1.innerHTML
+   function Marquee(){
+   if(demo2.offsetTop-demo.scrollTop<=0)
+   demo.scrollTop-=demo1.offsetHeight
+   else{
+   demo.scrollTop++
+   }
+   }
+   var MyMar=setInterval(Marquee,speed)
+   demo.onmouseover=function() {clearInterval(MyMar)}
+   demo.onmouseout=function() {MyMar=setInterval(Marquee,speed)}
+   
+      
+      
+        
+        
+          
+          公司介绍
+          
+      
+        
+        
+          
+            
+              
+              
+                
+                  
+                  
+<!--
+var bannerAD=new Array();
+var bannerADlink=new Array();
+var bannerDE=new Array();
+var adNum=0;
+
+
+
+bannerADlink[0]="http://img.china.alibaba.com/img/company/67/67/93/5/6767935_1.jpg";
+bannerAD[0]="http://img.china.alibaba.com/img/company/67/67/93/5/6767935_1.summ.jpg";
+bannerDE[0]="厂区大门"
+
+
+
+var preloadedimages=new Array();
+for (i=1;i<6;i++){
+preloadedimages[i]=new Image();
+  preloadedimages[i].src=bannerAD[i];
+}
+
+function setTransition(){
+if (document.all){
+  bannerADrotator.filters.revealTrans.Transition=Math.floor(Math.random()*23);
+  bannerADrotator.filters.revealTrans.apply();
+}
+}
+
+function playTransition(){
+if (document.all)
+  bannerADrotator.filters.revealTrans.play()
+}
+
+function nextAd(){
+if(adNum<bannerAD.length-1)adNum++ ;
+  else adNum=0;
+setTransition();
+document.images.bannerADrotator.src=bannerAD[adNum];
+des.innerHTML=bannerDE[adNum];
+playTransition();
+theTimer=setTimeout("nextAd()", 6000);
+}
+
+function jump2url(){
+
+jumpUrl=bannerADlink[adNum];
+jumpTarget='_blank';
+if (jumpUrl != ''){
+  if (jumpTarget != '')window.open(jumpUrl,jumpTarget);
+  else location.href=jumpUrl;
+}
+}
+function displayStatusMsg() { 
+status=bannerADlink[adNum];
+document.returnValue = true;
+}
+//-->
+
+                   
+              
+                
+                  
+            
+             
+            雄县雄姿塑料厂成立于一九九三年，位于冀中平原中部,地处北京、天津及保定市三角腹地交通便利、通迅发达。是一家以设计、制作、印刷、后道加工于一体的纸塑制品包装企业。生产经营的包装产品涵盖服装、食品、化妆品、制药、日用品等十几个领域。1、PP磨砂袋、磨砂盒，采用绿色环保的PP材料制成，以其先天的优越性能和后期的精美制作赢得了广大客户的一致好评；2、纸制品包装在服装行业表现出色；复合包装、PVC、PP、PE等包装袋在食品、制药、等领域有出众表现。以优良的生产资源和全体员工的努力，保证产品的最佳品质。 
+            　　 
+            雄姿的经营理念是“诚信为本、以质取胜”雄姿人愿以更好的服务，更高的品质，更合理的价格为您的产品提供有力地支援及切实的帮助，非常感谢您好对我厂的信任和支持，愿我们合作愉快。 
+            
+            查看详细介绍
+      
+        
+        
+          
+          最新供应
+          
+          产品展厅
+          
+          
+      
+        
+        
+          
+            
+              
+              
+                 
+              
+                供应服装袋 
+                
+              
+                发布时间：2006年05月23日 13:09 
+                
+          
+            
+              
+              
+                 
+              
+                供应PP袋 
+                
+              
+                发布时间：2006年05月23日 13:09 
+                
+          
+            
+              
+              
+                 
+              
+                供应PP磨砂袋 
+                
+              
+                发布时间：2006年05月23日 13:09 
+                
+          
+            
+              
+              
+                 
+              
+                供应礼品袋 
+                
+              
+                发布时间：2006年05月23日 13:09 
+                
+        
+          
+        
+          
+            
+              
+              
+                 
+              
+                供应纸盒 
+                
+              
+                发布时间：2006年05月23日 13:09 
+                
+          
+            
+              
+              
+                 
+              
+                供应手提袋 
+                
+              
+                发布时间：2006年05月23日 13:09 
+                
+          
+            
+              
+              
+                 
+              
+                供应PVC包 
+                
+              
+                发布时间：2006年05月23日 13:09 
+                
+          
+            
+              
+              
+                 
+              
+                供应复合袋 
+                
+              
+                发布时间：2006年05月23日 13:09 
+                
+        
+          
+        
+          
+            
+              
+              
+                 
+              
+                供应PE袋 
+                
+              
+                发布时间：2006年05月23日 13:09 
+                
+          
+            
+              
+              
+                 
+              
+                供应无纺布袋 
+                
+              
+                发布时间：2006年05月23日 13:08 
+                
+          
+            
+              
+              
+                 
+              
+                PP广告礼品袋 
+                  商品包装高档 购物手提袋 
+              
+                发布时间：2006年05月23日 13:08 
+                
+          
+            
+              
+              
+                 
+              
+                供应PE袋 
+                
+              
+                发布时间：2006年05月23日 13:08 
+                
+        
+          
+        
+          
+            
+              
+              
+                 
+              
+                定做PP磨沙袋 
+                
+              
+                发布时间：2006年05月23日 13:08 
+                
+          
+            
+              
+              
+                 
+              
+                供应PE袋 
+                
+              
+                发布时间：2006年05月23日 13:08 
+                
+          
+            
+              
+              
+                 
+              
+                供应纸袋 
+                
+              
+                发布时间：2006年05月23日 13:08 
+                
+          
+            
+              
+              
+                 
+              
+                供应无纺布包 
+                
+              
+                发布时间：2006年05月23日 13:08 
+                
+        
+          
+        
+          
+            
+              
+              
+                 
+              
+                PP广告礼品袋 
+                  商品包装高档 购物手提袋(图) 
+              
+                发布时间：2006年05月23日 13:07 
+                
+          
+            
+              
+              
+                 
+              
+                供应复合袋 
+                
+              
+                发布时间：2006年05月23日 13:07 
+                
+          
+            
+              
+              
+                 
+              
+                供应PP磨砂袋 
+                
+              
+                发布时间：2006年05月23日 13:07 
+                
+          
+            
+              
+              
+                 
+              
+                供应纸袋 
+                
+              
+                发布时间：2006年05月23日 10:42 
+                
+      
+    function inputPageNum () {
+	    var page = document.getElementById("pageNum").value;
+	    if(event.keyCode == 13 && page != null && page != "") {
+		    gotoPage();
+		}
+	}
+	function gotoPage(){
+			    	    var page = document.getElementById("pageNum").value;
+		if (page == null || page == "") {
+		    page = 1;
+		}
+		if (page > 3) {
+		    page = 3;
+		}
+		if (!(page >= 1)) {
+		    page = 1;
+		}
+		var url = "http://xzpack.cn.alibaba.com/athena/offerlist/xzpack-sale-" + page + "-false.html";
+		window.location.href = url;
+	}
+
+
+      
+        
+        
+          
+            上一页  
+            1  2 
+             3 
+             下一页 
+            共 48 条信息，当前显示第 1 - 20 条，共 3 页 
+            
+      
+        
+        
+          
+          诚信通指数
+          
+      
+        
+        
+          
+            企业身份认证
+          10分
+          2006年01月09日通过华夏认证 
+        
+          
+            经验值
+          0分 
+          使用诚信通服务 1 年 
+        
+          
+            证书及荣誉
+          5分
+          国际权威证书 0 
+            张， 基础证书 5 
+            张， 其他证书 0 
+            张
+        
+          
+            会员评价
+          暂无
+          
+            
+              
+              
+                好评 0 
+                  条，中评 0 条，批评 0 条 
+          
+
+  
+  
+    
+    
+      
+        
+        
+          
+            
+              
+              
+                产品导航
+            
+              
+              
+                纸袋纸盒系列 
+                
+                无纺布包 
+                
+                PVC包装 
+                
+                复合包装 
+                
+                PE、OPP袋 
+                
+              
+                PP磨砂系列 
+                
+
+  
+  
+    诚信通档案编号12060212927
+    
+      
+        
+        
+          返回商铺首页 | 
+            最新供应 | 
+            产品展厅 | 
+            采购清单 | 
+            公司介绍 | 
+            诚信通档案 | 
+            公司动态 | 
+            招聘中心 | 
+            在线问答 
+      
+        
+        
+          
+          免责声明：以上所展示的信息由企业自行提供，内容的真实性、准确性和合法性由发布企业负责。阿里巴巴对此不承担任何保证责任。友情提醒：为保障您的利益，建议优先选择诚信通会员，推荐使用  支付宝 货、款都安全！如何降低交易风险？  查看该企业信用记录 
+      
+      
+        
+        
+          
+
+  
+  
+    
+      阿里巴巴版权所有 1999-2006 | 著作权与商标声明 | 法律声明 | 服务条款 | 隐私声明 | 联系我们 
+
+  
+  
+    全球阿里巴巴：中国站 | 国际站 | 
+      日文站 | 淘宝站 
+    
+  
+    enterprise7 
+
+
+    var OnLine = 0;  //表示是否在线
+
+
+
+
+
+function newCheckAlitalkInstalled(){
+  var obj;
+  try{
+    obj = new ActiveXObject("AlitalkSetup.Install");
+  }
+  catch(e){
+  }
+  if (null!=obj){
+    delete obj;
+    return true;
+  } else {
+    return false;
+  }
+}
+function NewCheckAlitalkInstalled(){
+  return newCheckAlitalkInstalled();
+}
+
+  var alitalkImg_product_detail = document.getElementById("alitalkImg_proDetail");
+  var alitalk_product_detail = document.getElementById("alitalk_proDetail");
+  if ( OnLine == 1 ) {
+    alitalkImg.innerHTML = '<img src="http://img.china.alibaba.com/images/buyer/list/list_mytlogo_online.gif" align="absmiddle" border=0 width="26" height="26">'
+    alitalk.innerHTML = '<span class="lh15">点此跟我洽谈';
+
+    if (alitalkImg_product_detail != null && alitalk_product_detail != null) {
+        alitalkImg_product_detail.innerHTML = ''
+        alitalk_product_detail.innerHTML = '点此跟我洽谈';
+    }
+
+      } else if ( OnLine == 2 ) {
+    alitalkImg.innerHTML = ''
+    alitalk.innerHTML ='未安装';
+
+    if (alitalkImg_product_detail != null && alitalk_product_detail != null) {
+        alitalkImg_product_detail.innerHTML = ''
+        alitalk_product_detail.innerHTML ='未安装';
+    }
+
+      } else {
+    alitalkImg.innerHTML = ''
+    alitalk.innerHTML = '发送留言';
+
+    if (alitalkImg_product_detail != null && alitalk_product_detail != null) {
+        alitalkImg_product_detail.innerHTML = ''
+        alitalk_product_detail.innerHTML = '发送留言';
+    }
+
+      }
+
+  function check1(infoType) {
+    //判断浏览者是否安装了贸易通
+    if(clientCaps.isComponentInstalled("{8601658B-9360-00C1-AE00-00C03EA25D91}", "componentID") || NewCheckAlitalkInstalled()) {
+        var d = new Date();
+        if (document.images) {
+          (new Image()).src = "http://china.alibaba.com/others/offeralitalkclick.htm?online="+OnLine+"
+    	}
+
+        if(infoType=="product"||infoType=="company"){
+            window.location = "Alitalk:SendIM?xzpack
+        }else{
+            window.location = "Alitalk:SendIM?xzpack
+        }
+    } else {
+        //提示安装贸易通
+        window.target = "_blank";
+      	window.open("http://china.alibaba.com/community/turbine/template/community%2CATCPromotionDown");
+    }
+  }
+
+  function checkAdd(){
+    //判断浏览者是否安装了贸易通
+    if(clientCaps.isComponentInstalled("{8601658B-9360-00C1-AE00-00C03EA25D91}", "componentID") || NewCheckAlitalkInstalled()) {
+      window.location="Alitalk:AddContact?uid=xzpack";
+    }else{
+      var obj;
+      try{
+          obj = new ActiveXObject("AlitalkSetup.Install");
+      }catch(e){
+      }
+      if (null!=obj){
+        window.location="Alitalk:AddContact?uid=xzpack";
+      } else {
+        // 提示安装贸易通
+        window.target = "_blank";
+        window.open("http://china.alibaba.com/community/turbine/template/community,ATCPromotionDown");
+      }
+    }
+  }
+
+
+
+<!--
+    var r=Math.random();
+
+    document.write("<img alt=\"\" width=\"1\" height=\"1\"\n");
+
+    document.write("src=\"http://b.cnb.yahoo.com/b?s=2121040023
+-->
+</TEXT>
+</DOC>
+

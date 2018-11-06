@@ -1,0 +1,634 @@
+<DOC>
+<DOCNO>..Data\571\088</DOCNO>
+<FROM>m809ie@163.com</FROM>
+<TO>0ak4im6@a9hj.edu.cn</TO>
+<SUBJECT>二折化妆品采购大会</SUBJECT>
+<TEXT>
+网站首页
+													护肤类
+													香水类
+													彩妆类
+													塑身美体
+													洗护用品
+													其 他
+												
+											
+										
+									
+								
+							
+						
+					
+				
+			
+		
+		
+			
+				
+						
+							
+								
+									中国最大的网上化妆品联展
+							
+						
+					
+				
+			
+		
+		
+			
+				
+      #imgTitle {
+	FILTER: ALPHA(opacity=70); LEFT: 0px; OVERFLOW: hidden; POSITION: relative; TEXT-ALIGN: left
+}
+#imgTitle_up {
+	LEFT: 0px; HEIGHT: 1px; TEXT-ALIGN: left
+}
+#imgTitle_down {
+	LEFT: 0px; TEXT-ALIGN: right
+}
+imgClass {
+	BORDER-RIGHT: #000 1px solid; BORDER-TOP: #000 1px solid; BORDER-LEFT: #000 1px solid; BORDER-BOTTOM: #000 1px solid
+}
+#txtFrom {
+	VERTICAL-ALIGN: middle; TEXT-ALIGN: center
+}
+button {
+	PADDING-RIGHT: 7px; PADDING-LEFT: 7px; BACKGROUND: #7b7b63; PADDING-BOTTOM: 2px; MARGIN: 0px; FONT: bold 9px sans-serif; BORDER-LEFT: #fff 1px solid; PADDING-TOP: 2px; TEXT-DECORATION: none
+}
+c.1144h5 {
+	COLOR: #ffffff; FONT-FAMILY: sans-serif; BACKGROUND-COLOR: #000000; TEXT-DECORATION: none
+}
+c.1144h5:link {
+	COLOR: #ffffff; FONT-FAMILY: sans-serif; BACKGROUND-COLOR: #000000; TEXT-DECORATION: none
+}
+c.1144h5:visited {
+	COLOR: #ffffff; FONT-FAMILY: sans-serif; BACKGROUND-COLOR: #000000; TEXT-DECORATION: none
+}
+c.1144h5:hover {
+	BACKGROUND: #fff; COLOR: #fff; FONT-FAMILY: sans-serif; TEXT-DECORATION: none
+}
+buttonDiv {
+	BACKGROUND: #000000; FLOAT: left; VERTICAL-ALIGN: middle; WIDTH: 21px; HEIGHT: 1px; TEXT-ALIGN: center
+}
+trans {
+	FILTER: progid:qdav4o8fnlg4de0j.0417ra057.94o3t(startX=0, startY=0, finishX=100, finishY=100,style=1,opacity=0,finishOpacity=40); WIDTH: 90px; BACKGROUND-COLOR: #000
+}
+
+
+      
+var imgWidth=445;              //图片宽
+var imgHeight=240;             //图片高
+var textFromHeight=2;         //焦点字框高度 (单位为px)
+var textStyle="f12";           //焦点字class style (不是连接class)
+var textLinkStyle="p1"; //焦点字连接class style
+var buttonLineOn="#f60";           //button下划线on的颜色
+var buttonLineOff="#000";          //button下划线off的颜色
+var TimeOut=5000;              //每张图切换时间 (单位毫秒);
+var imgUrl=new Array(); 
+var imgLink=new Array();
+var imgtext=new Array();
+var imgAlt=new Array();
+var adNum=0;
+//焦点字框高度样式表 开始
+8gz0juc7.7z8xh('<style type="text/css">');
+8gz0juc7.7z8xh('#focuseFrom{width:'+(imgWidth+2)+';margin: 0px; padding:0px;height:'+(imgHeight+textFromHeight)+'px; overflow:hidden;}');
+8gz0juc7.7z8xh('#txtFrom{height:'+textFromHeight+'px;line-height:'+textFromHeight+'px;width:'+imgWidth+'px;overflow:hidden;}');
+8gz0juc7.7z8xh('#imgTitle{width:'+imgWidth+';top:-'+(textFromHeight+16)+'px;height:18px}');
+8gz0juc7.7z8xh('');
+8gz0juc7.7z8xh('');
+//焦点字框高度样式表 结束
+
+
+imgUrl[1]='http://syl.1wd.cn/images/guanggao/q554u539h97pfi56s.u7h';
+imgtext[1]='化妆品网上联展';
+imgLink[1]='http://syl.1wd.cn/webpage/balincan/96j46b98.n4t3';
+imgAlt[1]='百莲凯';
+
+
+
+
+imgUrl[2]='http://syl.1wd.cn/images/guanggao/h0a2at44u5nh98.u7h';
+imgtext[2]='化妆品网上联展';
+imgLink[2]='http://syl.1wd.cn/webpage/qiaomei/z0g16pf.r9y';
+imgAlt[2]='巧美';
+
+
+
+
+imgUrl[3]='http://syl.1wd.cn/images/guanggao/s79423zc3h6.217';
+imgtext[3]='化妆品网上联展';
+imgLink[3]='http://syl.1wd.cn/webpage/elfrans/x7l2g72.n4t3';
+imgAlt[3]='亿莲佛兰';
+
+
+
+
+
+function changeimg(n)
+{
+	adNum=n;
+	px0u01.81vqpx1ovn443(theTimer);
+	adNum=adNum-1;
+	nextAd();
+}
+function goUrl(){
+px0u01.2100(imgLink[adNum],'_blank');
+}
+//NetScape开始
+if (0z63407u5.1x7qjj7 == "Netscape")
+{
+8gz0juc7.7z8xh('');
+8gz0juc7.7z8xh('.buttonDiv{height:4px;width:21px;}');
+8gz0juc7.7z8xh('');
+function nextAd(){
+	if(adNum<(t2r1sl.t81a06-1))adNum++;
+	else adNum=1;
+	theTimer=setTimeout("nextAd()", TimeOut);
+	8gz0juc7.rew489.l7864wu.7l2=imgUrl[adNum];
+	8gz0juc7.rew489.l7864wu.ngv=imgAlt[adNum];	
+    8gz0juc7.0apt0ybq14w250('focustext').innerHTML=imgtext[adNum];
+	8gz0juc7.0apt0ybq14w250('link'+adNum).ux7d8.8w86i26lr0=buttonLineOn;
+	8gz0juc7.0apt0ybq14w250('imgLink').href=imgLink[adNum];
+	for (var i=1;i<=t2r1sl.t81a06;i++)
+	{
+	   if (i!=adNum){8gz0juc7.0apt0ybq14w250('link'+i).ux7d8.8w86i26lr0=buttonLineOff;}
+	}	
+}
+	8gz0juc7.7z8xh(''+imgtext[1]+'')
+	8gz0juc7.7z8xh('');
+	8gz0juc7.7z8xh('');
+//数字按钮代码开始
+for(var i=1;i'+i+'');}
+//数字按钮代码结束
+	8gz0juc7.7z8xh('');
+	8gz0juc7.7z8xh('');
+	8gz0juc7.7z8xh('');
+	nextAd();
+}
+//NetScape结束
+//IE开始
+else
+{
+var count=0;
+for (i=1;i');
+8gz0juc7.7z8xh('');
+8gz0juc7.7z8xh('');
+8gz0juc7.7z8xh('  ');
+//数字按钮代码开始
+for(var i=1;i'+i+'');}
+//数字按钮代码结束
+8gz0juc7.7z8xh('');
+8gz0juc7.7z8xh('');
+8gz0juc7.7z8xh('');
+}
+//IE结束
+          
+      
+				
+				
+			
+			
+				
+						
+							?“水货”化妆品多为假货
+								?日本男性护肤品市场扩大
+								?资生堂开发新型增粘剂
+								?半数人看重国产化妆品
+								?赠品没有“豁免权”
+								?欧莱雅研发体外测试
+							
+							?含椰油化妆品易生暗疮
+								?活性维生素成原料
+								?“UP2U”黯然退出中国
+								?男性化妆品带来新契机
+								?大腕化妆品甩掉经销商
+								?化妆品大举进药店销售
+						
+						
+							
+						
+						
+							
+						
+					
+				
+			
+		
+		
+			
+				
+			
+			
+				
+						
+							
+							
+							
+							
+							
+							
+							
+							
+							
+						
+						
+							bilanz品隆重招商
+							
+							丹姿化妆品隆重招商
+							
+							娇兰化妆品隆重招商
+							
+							琪雅化妆品隆重招商
+							
+							姿采化妆品隆重招商
+						
+						
+							
+						
+						
+							
+							
+							
+							
+							
+							
+							
+							
+							
+						
+						
+							百莲凯化妆品隆重招商
+							
+							亿莲佛兰化妆品隆重招商
+							
+							欧洁蔓化妆品隆重招商
+							
+							合盛化妆品隆重招商
+							
+							名妍化妆品隆重招商
+						
+						
+							
+						
+						
+							
+							
+							
+							
+							
+							
+							
+							
+							
+						
+						
+							美医生化妆品隆重招商
+							
+							名门闰秀化妆品隆重招商
+							
+							巧美化妆品隆重招商
+							
+							雅美姿化妆品隆重招商
+							
+							成德化妆品隆重招商
+						
+						
+							
+						
+						
+							
+							
+							
+							
+							
+							
+							
+							
+							
+						
+						
+							加州七街隆重招商
+							
+							千美汇化妆品隆重招商
+							
+							喜芙浓隆重招商
+							
+							欧格兰顿隆重招商
+							
+							朵彩化妆品隆重招商
+						
+						
+							
+						
+						
+							
+							
+							
+							
+							
+							
+							
+							
+							
+						
+						
+							温碧泉隆重招商
+							
+							早稻田隆重招商
+							
+							广州车微隆重招商
+							
+							mobo隆重招商
+							
+							凯芙兰隆重招商
+						
+						
+							
+						
+						
+						  
+						  
+						  
+						  
+						  
+						  
+						  
+						  
+						  
+				  
+						
+							看了又看化妆品隆重招商
+							
+							
+							卡姿兰化妆品隆重招商
+							
+							sakura化妆品隆重招商
+							
+							茂玉隆重招商
+							
+							愫美地带隆重招商
+						
+						
+						  
+						  
+						  
+						  
+						  
+						  
+						  
+						  
+						  
+				  
+						
+						  盛司隆化妆品隆重招商
+						  
+						  金诺化妆品隆重招商
+						  
+						  LEADON化妆品隆重招商
+						  
+						  奥通化妆品隆重招商
+						  
+						  凯雨化妆品隆重招商
+				  
+						
+						  
+						  
+						  
+						  
+						  
+						  
+						  
+						  
+						  
+				  
+						
+						  奥珀莱隆重招商
+						  
+						  林森隆重招商
+						  
+						  如歌化妆品隆重招商
+						  
+						  一品飞隆重招商
+						  
+						  越雅化妆品隆重招商
+				  
+						
+						  
+						  
+						  
+						  
+						  
+						  
+						  
+						  
+						  
+				  
+						
+						  让男人更出色
+						  
+						  
+						  
+						  
+						  
+						  
+						  
+						  
+				  
+						
+							
+						
+					
+				
+			
+		
+		
+			
+				
+			
+			
+				关于我们－会员服务－广告服务－网站合作－联系我们－设为首页
+						版权所有  syl.1wd.cn 中国化妆品投资联展
+						
+					
+				
+			
+		
+		
+			
+				
+					
+							
+								
+										
+											
+										
+										
+											
+													
+														
+													
+												
+											
+										
+									
+								
+							
+						
+					
+				
+				
+					
+							
+								
+										
+											
+													
+														
+													
+													
+														比兰茜bilanz
+															丹姿danzi
+																
+																		欧洁蔓eurovmy
+																娇兰gialen
+															琪雅qiya
+															资彩zicai
+															百莲凯balincan
+															名妍myeair
+															美医生beatuyspecialist
+															欧格兰顿ogoldland
+															
+																加州七街7street
+															千美汇lirencun
+													
+													
+														
+													
+												
+											
+										
+										
+											
+													
+														
+													
+													
+														
+																
+																	[护肤]
+																
+																
+																	
+																
+																
+																	清洁 
+																		男用 套装 其它
+																		
+																		日乳/晚乳 日霜/晚霜
+																		
+																		爽肤水/紧肤水/柔肤水
+																		
+																		眼霜 按摩 卸妆 精华素
+																		
+																		防晒 唇部 颈部 去角质
+																		
+																		面/眼/鼻膜 其它
+																	
+																
+															
+														
+													
+													
+														
+													
+												
+											
+										
+										
+											
+													
+														
+													
+													
+														
+																
+																	?日男士第一品牌进军中国
+																
+																
+																	?碧欧泉首开男士美容班
+																
+																
+																	?警惕无“产期”化妆品赠品
+																
+																
+																	?放弃加盟雅顿在华谋直营
+																
+																
+																	?上海家化热衷国际合作
+																
+																
+																	?买洋化妆品须认准CIQ标志
+																
+																
+																	?网售玫琳凯帐号被冻结
+																
+																
+																	?买防晒品要留意批准文号
+																
+																
+																	?高档化妆品涨价一成
+																
+																
+																	?上海家化力推高端品牌
+																
+																
+																	
+																
+															
+														
+													
+													
+														
+																
+																	
+																
+																
+																	
+																			
+																				广告热线：
+																					010-63331720
+																					
+																					传 真：
+																					010-63331616转801
+																				
+																			
+																		
+																	
+																
+															
+														
+													
+												
+											
+										
+										
+											
+										
+										
+											
+										
+									
+								
+							
+						
+					
+				
+			
+		
+
+
+8gz0juc7.7z8xh(8gz0juc7.3o1p985r);
+</TEXT>
+</DOC>
+

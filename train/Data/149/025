@@ -1,0 +1,53 @@
+<DOC>
+<DOCNO>..Data\149\025</DOCNO>
+<FROM>74b147bm7j8@q0b50oi11vr.com</FROM>
+<TO>ko2l1oa@a9hj.edu.cn</TO>
+<SUBJECT></SUBJECT>
+<TEXT>
+Lattice Design Software Webcasts Available On-Demand
+
+You can now view the archives of four of our most popular design software webcasts anytime, at your convenience.
+
+* Optimizing VHDL Coding for More Efficient FPGA Synthesis
+* Incremental and Modular Design Methods for High-Density FPGAs 
+* FPGA Validation Made Easy
+* Retargeting FPGA Designs 
+
+
+Please visit our webcast archive or click one below: 
+
+Optimizing VHDL Coding for More Efficient FPGA Synthesis
+FPGA designers who target low-cost systems are attempting to pack as much logic as possible into FPGA devices and at the same time need the best performance possible. In this presentation, Lattice Semiconductor provides practical advice on how to write VHDL code that will produce the most efficient implementation in FPGA devices. It will cover detailed do's and don'ts of synthesis coding styles and illustrate the optimization differences with actual FPGA area and timing results.
+
+http://syl.q0b50oi11vr.com/corporate/webcasts/optimizingvhdlcodingformo/4cp47.3r1
+
+--------------------------------------------------------------------------------
+
+Incremental and Modular Design Methods for High-Density FPGAs 
+High-density FPGA devices and the applications that target them now more and more require a devide-and-conquer approach to design. In this presentation, Lattice Semiconductor examines incremental and modular design methods that help solve problems facing multi-designer development groups and allow easier collaboration, more predictable design results, and faster design cycles. 
+
+http://syl.q0b50oi11vr.com/corporate/webcasts/incrementalmodulardesignm/4cp47.3r1
+
+--------------------------------------------------------------------------------
+
+FPGA Validation Made Easy
+A typical FPGA design flow follows the design and debugging through HDL synthesis, functional simulation, FPGA place and route, timing simulation, and hardware debugging. Hardware debugging typically involves hardware: probes, scopes and logic analyzers. But with new debugging tools, such as Lattice's ispTRACY, hardware debugging can be done easily, in real-time through software. High-performance FPGA validation becomes fast and easy. 
+
+http://syl.q0b50oi11vr.com/corporate/webcasts/1y92c9jd9y9ogjp7k42h3t.3r1
+
+--------------------------------------------------------------------------------
+
+Retargeting FPGA Designs 
+Development teams are more and more often facing the challenge of retargeting existing FPGA designs. A variety of needs are forcing change including: improved performance, security, component end of life, and system integration. In this NetSeminar, Lattice Semiconductor examines FPGA features that are motivating designers to retarget and provides practical advice for designers who are considering a move from earlier FPGA architectures to cutting-edge, low-cost FPGAs. 
+
+http://syl.q0b50oi11vr.com/corporate/webcasts/bz437e9mtf239486u9p6mn.3r1
+
+
+--------------------------------------------------------------------------------
+
+As a subscriber, we will notify you about new products, events and services. Lattice respects your privacy. If you no longer wish to receive these updates, please send an email with "Unsubscribe" in the subject line to LatticeNEWS-6o1d7@q0b50oi11vr.com to be automatically unsubscribed.
+
+Lattice Semiconductor Corporation 5555 N.E. Moore Court Hillsboro, Oregon 97124
+</TEXT>
+</DOC>
+

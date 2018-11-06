@@ -1,0 +1,74 @@
+<DOC>
+<DOCNO>..Data\505\040</DOCNO>
+<FROM></FROM>
+<TO>ak84tdt@a9hj.edu.cn</TO>
+<SUBJECT></SUBJECT>
+<TEXT>
+MIME-Version: 1.0
+Content-Type: Multipart/Mixed;
+  boundary="------------Boundary-00=_9Z2MUUF1VA4000000000"
+X-NAI-Header: Modified by McAfee Webshield appliance
+Subject: Delivery Status
+
+
+--------------Boundary-00=_9Z2MUUF1VA4000000000
+Content-Type: text/plain; name="6i530ny3lbbzqd85.991"
+
+    --- The following addresses had delivery problems ---
+
+<y8x0g@1ga.com.hk>   (Mailbox unavailable.)
+
+--------------Boundary-00=_9Z2MUUF1VA4000000000
+Content-Type: message/delivery-status; name="e6d615y5225qrh.991"
+
+Original-Recipient: <y8x0g@1ga.com.hk>
+Action: failed
+Diagnostic-Code: smtp; 550 Mailbox unavailable.
+Remote-MTA: 210.184.50.12
+
+
+--------------Boundary-00=_9Z2MUUF1VA4000000000
+Content-Type: message/rfc822
+Content-Disposition: attachment
+
+Received: from (unknown [219.136.207.118]) by 4ffmq.1ga.com.hk with smtp
+	 id 4910_85b70b04_0743_11db_820a_00114337ca1d;
+	Wed, 25 Oct 2006 15:47:32 +0800
+From: "ak84tdt" <ak84tdt@utsc.edu.cn>
+To: <y8x0g@1ga.com.hk>
+Subject: Mail Transaction Failed
+Date: Wed, 25 Oct 2006 15:33:29 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0006_D0B15227.C61824F8"
+X-Priority: 3
+X-MSMail-Priority: Normal
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0006_D0B15227.C61824F8
+Content-Type: text/plain;
+	charset="Windows-1252"
+Content-Transfer-Encoding: 7bit
+
+The message cannot be represented in 7-bit ASCII encoding and has been sent as a binary attachment.
+
+
+------=_NextPart_000_0006_D0B15227.C61824F8
+Content-Type: application/octet-stream;
+	name="1173.o93"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+	filename="1173.o93"
+X-NAIMIME-Modified: 1
+
+
+
+------=_NextPart_000_0006_D0B15227.C61824F8--
+
+
+
+--------------Boundary-00=_9Z2MUUF1VA4000000000--
+</TEXT>
+</DOC>
+

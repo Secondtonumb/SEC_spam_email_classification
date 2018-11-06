@@ -1,0 +1,55 @@
+<DOC>
+<DOCNO>..Data\230\028</DOCNO>
+<FROM>p9z945@4279h.com</FROM>
+<TO>ak84tdt@a9hj.edu.cn</TO>
+<SUBJECT></SUBJECT>
+<TEXT>
+This is the etangmail program at host mx6.etang.com.
+
+I'm sorry to have to inform you that the message returned
+below could not be delivered to one or more destinations.
+
+For further assistance, please contact <postmaster@etang.com>
+
+If you do so, please include this problem report. You can
+delete your own text from the message returned below.
+
+			The etangmail program
+
+---------------------------------------------------------------
+您好！
+
+    亿唐电子邮局很抱歉地通知您，您的邮件在发送过程中出现了错误而被退回。
+    详细错误信息附在邮件的最后，请您注意查看。
+
+    互联网是一个复杂的环境，因此导致错误的原因很多，简单来说，一般有以下几种: 
+    
+    1、错误信息如下
+       <someone@etang.com>: User someone@etang.com is not found ---或者
+       <someone@etang.com>: invalid address ---或者 
+       <someone@etang.com>: User unknown
+    这种退信的原因是对方邮局认为您想发送到的邮件地址是不存在的，请您确定地址是否正确
+      
+    2、错误信息如下
+        <someone@etang.com>: Quota exceed the hard limit for user
+    这种退信的原因是对方邮箱空间已满，您不妨通过其他联系方式试试
+    
+    3、错误信息如下
+       <someone@etang.com>: Recpient ***** is unsolved unknown Error
+    这种退信的原因是该用户邮箱帐号已经暂时被冻结了
+      
+    如果您无法判断您邮件被退回的原因，又希望能得到帮助的话，请联系postmaster@etang.com，
+    并附上此封退信的原件，否则我们将无法回复您的问题。
+
+    希望您的网上生活愉快！
+
+------------------------------------------------------------------
+以下为详细错误信息
+------------------------------------------------------------------
+
+<flyhelp@etang.com>: Quota exceed the hard limit for user flyhelp@etang.com
+
+
+</TEXT>
+</DOC>
+

@@ -1,0 +1,660 @@
+<DOC>
+<DOCNO>..Data\567\048</DOCNO>
+<FROM>4zc476@163.com</FROM>
+<TO>0ak4im6@a9hj.edu.cn</TO>
+<SUBJECT>注册社区会员，免费送精美礼品！</SUBJECT>
+<TEXT>
+购物车  
+	收藏箱
+	用户中心
+	网站帮助
+	在线留言
+	退出登陆
+	
+	
+	
+  
+  
+	
+
+热烈庆祝，腾达科技网上商城2006年隆重改版！欢乐购物 ， 尽在腾达！
+  
+  
+	
+
+
+	
+	
+	
+
+
+
+
+
+
+
+
+function checkform(){
+	if (document.loginbox.userid.value.length ==0){
+		alert("出错了，您没有填写用户名。");
+		document.loginbox.userid.focus();
+		return false;
+	}
+	if (document.loginbox.password.value.length==0){
+		alert("出错了，您没有填写密码。");
+		document.loginbox.password.focus();
+		return false;
+	}
+if (document.loginbox.yzm.value.length==0){
+		alert("出错了，您没有填写验证码。");
+		document.loginbox.yzm.focus();
+		return false;
+	}
+if (document.loginbox.yzm.value!=9087){
+		alert("出错了，您填写的验证码不正确。");
+		document.loginbox.yzm.focus();
+		return false;
+	}
+	return true;
+}	
+
+
+  
+
+
+
+
+
+
+ 
+  用户名: 
+ 
+  密码:  
+  
+ 
+
+  验证码:  
+
+ 
+
+  有效期: 
+  不保存
+  保存一天
+  保存一月
+  保存一年
+
+
+ 
+  
+ 
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+高级搜索 帮助
+
+
+
+
+
+function showmenu(buyok,img)
+{
+if(buyok.style.display=="none"){
+buyok.style.display="";
+img.src="http://www.it0539.cn/images/small/bclass2.gif";
+} else {
+buyok.style.display="none"; 
+img.src="http://www.it0539.cn/images/small/bclass1.gif";
+}
+}
+
+
+
+  
+
+
+全新行货数码相机 【三星数码相机】【柯达数码相机】【佳能数码相机】【索尼数码相机】【理光数码相机】【尼康数码相机】【松下数码相机】【富士数码相机】【卡西欧数码相机】【奥林巴斯数码相机】【存储卡附件套装】
+
+
+
+
+楚王品牌ckt10（256m）mp4电
+
+
+
+
+
+主站：www.it0539.cn备用：www.ibbsxp.com=======================我们的工作时间：周一至周日9:00-17:00QQ：236374212QQ群：23634924电话：0539-3892304手机：13581058803E-mail：tengpc@126.com地址：山东省沂南县文化路中段，圣亚数码通讯城2楼（百姓超市对过）。
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+您通过什么途径知道本站？百度google.com其它网站上的链接朋友介绍媒体介绍
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+#divScroller1 {WIDTH: 270px;HEIGHT: 150px; OVERFLOW: hidden; POSITION: absolute; visbility: visible}
+.dynPage {POSITION: absolute; TOP: 0px; VISIBILITY: hidden;}
+
+
+function lib_bwcheck(){
+	this.ver=navigator.appVersion
+	this.agent=navigator.userAgent
+	this.dom=document.getElementById?1:0
+	this.opera5=this.agent.indexOf("Opera 5")>-1
+	this.ie5=(this.ver.indexOf("MSIE 5")>-1  
+	this.ie6=(this.ver.indexOf("MSIE 6")>-1 
+	this.ie4=(document.all 
+	this.ie=this.ie4||this.ie5||this.ie6
+	this.mac=this.agent.indexOf("Mac")>-1
+	this.ns6=(this.dom  
+	this.ns4=(document.layers 
+	this.bw=(this.ie6 || this.ie5 || this.ie4 || this.ns4 || this.ns6 || this.opera5)
+	return this
+}
+var bw=new lib_bwcheck()
+var numScrollPages = 4      
+var transitionOut = 1;      
+var transitionIn = 1;       
+var slideAcceleration = 0.5;
+
+if(document.layers){ //NS4 resize fix...
+	scrX= innerWidth; scrY= innerHeight;
+	onresize= function(){if(scrX!= innerWidth || scrY!= innerHeight){history.go(0)} }
+}
+function scrollerobj(obj,nest){
+	nest = (!nest)?"":'document.'+nest+'.'
+	this.elm = bw.ie4?document.all[obj]:bw.ns4?eval(nest+'document.'+obj):document.getElementById(obj)
+	this.css = bw.ns4?this.elm:this.elm.style
+	this.doc = bw.ns4?this.elm.document:document
+	this.obj = obj+'scrollerobj'; eval(this.obj+'=this')
+	this.x = (bw.ns4||bw.opera5)?this.css.left:this.elm.offsetLeft
+	this.y = (bw.ns4||bw.opera5)?this.css.top:this.elm.offsetTop
+	this.w = (bw.ie4||bw.ie5||bw.ie6||bw.ns6)?this.elm.offsetWidth:bw.ns4?this.elm.clip.width:bw.opera5?this.css.pixelWidth:0
+	this.h = (bw.ie4||bw.ie5||bw.ie6||bw.ns6)?this.elm.offsetHeight:bw.ns4?this.elm.clip.height:bw.opera5?this.css.pixelHeight:0
+}
+//object methods...
+scrollerobj.prototype.moveTo = function(x,y){
+	if(x!=null){this.x=x; this.css.left=x}
+	if(y!=null){this.y=y; this.css.top=y}
+}
+scrollerobj.prototype.moveBy = function(x,y){this.moveTo(this.x+x,this.y+y)}
+scrollerobj.prototype.hideIt = function(){this.css.visibility='hidden'}
+scrollerobj.prototype.showIt = function(){this.css.visibility='visible'}
+
+
+var onlineormyefile = 1;
+var activePage = null;
+var busy = 0;
+function activate(num){
+	if (activePage!=pages[num] && !busy){
+		busy = 1;
+		if (transitionOut==0 || !bw.opacity){ activePage.hideIt(); activateContinue(num); }
+		else if (transitionOut==1) activePage.reveal('hidden', 'activateContinue('+num+')');
+	}
+}
+function activateContinue(num){
+	busy = 1;
+	activePage = pages[num];
+	activePage.moveTo(0,0);
+	if (transitionIn==0 || !bw.opacity){ activePage.showIt(); busy=0; }
+	else if (transitionIn==1) { 
+		activePage.reveal('visible', 'busy=0'); 
+	}
+	else if (transitionIn==3) { activePage.slide(0, slideAcceleration, 40, 'busy=0'); }
+	startshow(num)
+}
+
+function startshow(num){
+	if (num == 1)  
+		{ num = 2; }
+	else 
+		if (num == 2) 
+			{ num = 3; }
+		else
+			if (num == 3) 
+				{ num = 4; }
+			else
+				if (num == 4) 
+					{ num = 1; }
+	setTimeout('activate('+num+')',5000);
+}
+
+scrollerobj.prototype.reveal= function(vis, fn){
+	if (bw.ie5||bw.ie6 && !bw.mac) {
+		if (vis=='visible') this.css.filter= 'revealTrans(duration=1,transition=23)';
+		else this.css.filter= 'blendTrans(duration=1)';
+		this.elm.onfilterchange = function(){ eval(fn); };
+		if (vis=='visible') this.elm.filters.revealTrans.apply();
+		else this.elm.filters.blendTrans.apply();
+		this.css.visibility= vis;
+		if (vis=='visible') this.elm.filters.revealTrans.play();
+		else this.elm.filters.blendTrans.play();
+	}
+	else if (bw.ns6 || bw.ie&&!bw.mac){
+		this.css.visibility= 'visible';
+		vis=='visible' ? this.fadeTo(100, 7, 40, fn) : this.fadeTo(0, 9, 40, fn);
+	}
+	else {
+		this.css.visibility= vis;
+		eval(fn);
+	}
+};
+
+
+var pageslidefadeLoaded = 0;
+function initPageSlideFade(){
+	scroller1 = new scrollerobj('divScroller1');
+	
+	pages = new Array();
+	pages[0] = null;
+	for (var i=1; i<=numScrollPages; i++){
+		pages[i] = new scrollerobj('dynPage'+i, 'divScroller1');
+		pages[i].moveTo(0,0);
+	}
+	bw.opacity = ( bw.ie && !bw.ie4 && navigator.userAgent.indexOf('Windows')>-1 ) || bw.ns6
+	if (bw.ie5||bw.ie6  // Loads the windows 9.x filters module.
+	activateContinue(1);
+
+	//if (bw.ie) for(var i=0;i<document.links.length;i++) document.links[i].onfocus=document.links[i].blur;
+	pageslidefadeLoaded = 1;
+}
+if(bw.bw 
+
+ 
+   
+   
+   
+   
+
+
+
+
+
+?热烈庆祝腾达科技网上商城实体店铺开业大吉！
+
+more...
+
+
+
+
+
+.pic1{MARGIN-TOP: -116px;MARGIN-left:0px}
+.pic2{padding-top:6px}
+
+
+
+
+
+
+
+
+三星(samsung) a40 
+热卖价:1499.00批发价:注册更优惠
+
+
+
+
+
+
+全新正品 三星s800 
+热卖价:2150.00批发价:注册更优惠
+
+
+
+
+
+
+全新正品 三星i5 数
+热卖价:2380.00批发价:注册更优惠
+
+
+
+
+
+
+全新行货 三星i50 数
+热卖价:2450.00批发价:注册更优惠
+
+	
+	
+	
+
+
+
+
+
+
+
+m516-512m
+热卖价:299.00批发价:注册更优惠
+
+
+
+
+
+m516-256m
+热卖价:269.00批发价:注册更优惠
+
+
+
+
+
+影音王m520 512m
+热卖价:299.00批发价:注册更优惠
+
+
+
+
+
+影音王m520 256m
+热卖价:269.00批发价:注册更优惠
+
+
+
+
+
+影音王 m570 1g
+热卖价:499.00批发价:注册更优惠
+
+
+
+
+
+影音王 m570 512m 
+热卖价:299.00批发价:注册更优惠
+
+
+
+
+
+影音王 m570 256m
+热卖价:269.00批发价:注册更优惠
+
+
+
+
+
+影音王 m560 1g
+热卖价:499.00批发价:注册更优惠
+
+
+
+
+
+影音王 m560 512m
+热卖价:299.00批发价:注册更优惠
+
+
+
+
+
+影音王 m560-256m
+热卖价:269.00批发价:注册更优惠
+
+
+
+
+
+纽曼之音ｂ05 256m 
+热卖价:249.00批发价:注册更优惠
+
+
+
+
+
+纽曼之音ｂ05 128m
+热卖价:199.00批发价:注册更优惠
+
+
+
+
+.up{MARGIN-TOP: -139px;MARGIN-left:0px}
+
+关于我们购物指南服务保证客户服务其它说明 
+
+ 
+
+
+ 
+copyright
+《中华人民共和国电信与信息服务业务经营许可证》编号：鲁icp备05006343号
+
+服务热线：0539-3892304
+
+
+
+
+
+var online= new Array();
+if (!document.layers)
+document.write('<div id="divStayTopLeft" style="position:absolute">')
+
+
+
+
+
+
+
+
+
+if (online[0]==0)
+document.write("<tr><td align=right><a class='c' target=blank href=http://www.it0539.cn/'http://wpa.qq.com/msgrd?v=1
+else
+document.write("腾达客服");
+
+
+
+
+
+
+
+
+var verticalpos="frombottom"
+if (!document.layers)
+document.write('')
+function JSFX_FloatTopDiv()
+{
+	var startX =screen.width-140,
+	startY = 220;
+	var ns = (navigator.appName.indexOf("Netscape") != -1);
+	var d = document;
+	function ml(id)
+	{
+		var el=d.getElementById?d.getElementById(id):d.all?d.all[id]:d.layers[id];
+		if(d.layers)el.style=el;
+		el.sP=function(x,y){this.style.left=x;this.style.top=y;};
+		el.x = startX;
+		if (verticalpos=="fromtop")
+		el.y = startY;
+		else{
+		el.y = ns ? pageYOffset + innerHeight : document.body.scrollTop + document.body.clientHeight;
+		el.y -= startY;
+		}
+		return el;
+	}
+	window.stayTopLeft=function()
+	{
+		if (verticalpos=="fromtop"){
+		var pY = ns ? pageYOffset : document.body.scrollTop;
+		ftlObj.y += (pY + startY - ftlObj.y)/8;
+		}
+		else{
+		var pY = ns ? pageYOffset + innerHeight : document.body.scrollTop + document.body.clientHeight;
+		ftlObj.y += (pY - startY - ftlObj.y)/8;
+		}
+		ftlObj.sP(ftlObj.x, ftlObj.y);
+		setTimeout("stayTopLeft()", 10);
+	}
+	ftlObj = ml("divStayTopLeft");
+	stayTopLeft();
+}
+JSFX_FloatTopDiv();
+
+
+
+ 
+
+<!--
+.skin0 {
+position:absolute;
+text-align:left;
+width:180px;
+border:1px solid black;
+background-color:menu;
+font-family:Verdana;
+line-height:20px;
+cursor:default;
+visibility:hidden;
+}
+.skin1 {
+cursor:default;
+font:menutext;
+position:absolute;
+text-align:left;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 10pt;
+width:180px;
+background-color:menu;
+border:1 solid buttonface;
+visibility:hidden;
+border:1 outset buttonhighlight;
+}
+.buyokmenu {
+padding-top:5px;
+padding-left:15px;
+padding-right:10px;
+}
+.buyokmenu2{
+padding-top:5px;
+padding-left:15px;
+padding-right:10px;
+}
+-->
+
+
+<!-- The JavaScript Source!! http://javascript.internet.com -->
+<!-- Begin
+var menuskin = "skin1"; // skin0, or skin1
+var display_url = 0; // Show URLs in status bar?
+function showmenuie5() {
+var rightedge = document.body.clientWidth-event.clientX;
+var bottomedge = document.body.clientHeight-event.clientY;
+if (rightedge < ie5menu.offsetWidth)
+ie5menu.style.left = document.body.scrollLeft + event.clientX - ie5menu.offsetWidth;
+else
+ie5menu.style.left = document.body.scrollLeft + event.clientX;
+if (bottomedge < ie5menu.offsetHeight)
+ie5menu.style.top = document.body.scrollTop + event.clientY - ie5menu.offsetHeight;
+else
+ie5menu.style.top = document.body.scrollTop + event.clientY;
+ie5menu.style.visibility = "visible";
+return false;
+}
+function hidemenuie5() {
+ie5menu.style.visibility = "hidden";
+}
+function highlightie5() {
+if (event.srcElement.className == "buyokmenu") {
+event.srcElement.style.backgroundColor = "highlight";
+event.srcElement.style.color = "white";
+if (display_url)
+window.status = event.srcElement.url;
+   }
+}
+function lowlightie5() {
+if (event.srcElement.className == "buyokmenu") {
+event.srcElement.style.backgroundColor = "";
+event.srcElement.style.color = "black";
+window.status = "";
+   }
+}
+function jumptoie5() {
+if (event.srcElement.className == "buyokmenu") {
+if (event.srcElement.getAttribute("target") != null)
+window.open(event.srcElement.url, event.srcElement.getAttribute("target"));
+else
+window.location = event.srcElement.url;
+   }
+}
+//  End -->
+
+
+
+
+
+  
+    
+      网店系统菜单
+      
+会员注册
+		
+		 回到上一页
+		回到顶部
+		回到首页
+		
+		付款方式
+		网站帮助
+		高级搜索
+		订单查询
+		我要留言
+		发送站内消息
+	
+  
+
+
+
+if (document.all && window.print) {
+ie5menu.className = menuskin;
+document.oncontextmenu = showmenuie5;
+document.body.onclick = hidemenuie5;
+}
+</TEXT>
+</DOC>
+

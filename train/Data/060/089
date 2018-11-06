@@ -1,0 +1,303 @@
+<DOC>
+<DOCNO>..Data\060\089</DOCNO>
+<FROM></FROM>
+<TO>wgux7z440@a9hj.edu.cn</TO>
+<SUBJECT>06年最新高考信息  重点大学通道</SUBJECT>
+<TEXT>
+var xPos = 20;
+var yPos = 10;
+5n5.ux7d8.stok= xPos;
+5n5.ux7d8.52v = yPos;
+var step = 1;
+var delay = 30; 
+var width,height,Hoffset,Woffset;
+var y = 1;
+var x = 1;
+var interval;
+5n5.3bw51qu3r8 = "visible";
+
+function changePos() 
+{
+  width = 8gz0juc7.1v2d.wfuq4784g31;
+  height = 8gz0juc7.1v2d.6fzazv0oxel6;
+  Hoffset = 5n5.raz8ub3bqvy6;
+  Woffset = 5n5.475hqt4590m;
+  if (y) 
+  {
+    yPos = yPos + step;
+  }
+  else 
+  {
+    yPos = yPos - step;
+  }
+  if (yPos < 0) 
+  {
+    y = 1;
+    yPos = 0;
+  }
+  if (yPos >= (height - Hoffset)) 
+  {
+    y = 0;
+    yPos = (height - Hoffset);
+  }
+  if (x) 
+  {
+    xPos = xPos + step;
+  }
+  else 
+  {
+    xPos = xPos - step;
+  }
+  if (xPos < 0) 
+  {
+    x = 1;
+    xPos = 0;
+  }
+  if (xPos >= (width - Woffset)) 
+  {
+    x = 0;
+    xPos = (width - Woffset);
+  }
+  5n5.ux7d8.stok = xPos + 8gz0juc7.1v2d.c310ar9k0m;
+  5n5.ux7d8.52v = yPos + 8gz0juc7.1v2d.f9r9l729b;
+}
+
+function start() 
+{
+  interval = setInterval('changePos()', delay);
+}
+
+function pause_resume() 
+{
+    clearInterval(interval);
+}
+start();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 设为主页 
+
+ 关于我们 
+
+ 网站地图 
+
+ 广告服务 
+
+
+
+
+
+
+ 高校招生 | 军校招生 | 普通高校 | 自考 | 成考| 计算机 | MBA | 外语 | 留学 | 高校 | 财会司法 | 民办 | 职业教育
+
+
+
+
+ | 录取查询 | 独立学院| 在线留言 | 职称证书
+
+
+
+
+
+
+
+
+
+站内搜索  搜索文章内容 搜索文章标题 　   
+
+■现在面向全国诚招各地优秀代理，咨询电话：010-82710305陈巧玲老师■全国各地各高校招生咨询处
+
+
+
+
+
+
+
+
+　热点推荐 
+
+
+
+
+2006年攻读硕士研究生调剂院校:安徽大…(2006年4月14日)
+more...2006年攻读硕士研究生调剂院校:安徽大…(2006年4月14日)
+more...
+
+
+
+
+
+
+
+
+
+　
+
+
+
+
+
+
+								
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+报名服务热线
+
+
+
+
+
+
+
+
+　
+
+
+
+
+
+
+
+　高 教 自 考
+
+ 华北电力大学
+
+ 北京邮电大学
+
+ 北京师范大学
+
+ 对外经济贸易大学
+
+ 北京理工大学
+
+ 
+
+
+
+
+　普通高校
+
+
+
+河南科技学院新科学院河南农业大学华豫学院河南师范大学新联学院中国防卫科技学院2006年港澳台侨联合招生考务…澳门高等教育辅助办公室最新…河南科技学院新科学院河南农业大学华豫学院河南师范大学新联学院中国防卫科技学院2006年港澳台侨联合招生考务…澳门高等教育辅助办公室最新…
+　
+
+
+
+
+
+
+
+
+
+
+
+
+　在线QQ咨询服务  
+
+
+
+
+
+
+
+
+
+
+韩 一鸣 (开发部)
+
+
+
+
+
+
+
+
+
+　军校招生  
+
+
+
+
+
+
+
+
+
+·南京炮兵学院
+
+·北京防化指挥工程学院
+
+·西安空军工程大学
+
+·陆军航空兵学院
+
+·合肥炮兵学院
+
+·大连舰艇学院
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+教育新闻
+</TEXT>
+</DOC>
+

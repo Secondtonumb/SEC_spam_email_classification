@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO>..Data\578\061</DOCNO>
+<FROM></FROM>
+<TO>gvi1g6@a9hj.edu.cn</TO>
+<SUBJECT></SUBJECT>
+<TEXT>
+This is a delivery status notification from smtp.cn.608.com
+
+The original message was received on Wed, 25 Oct 2006 21:52:55 +0800
+from 7mvdta1.608.com ([::ffff:172.24.140.173])
+
+---------------------------------------------------------------------------
+
+                           UNDELIVERABLE MAIL
+
+Your message to the following recipients cannot be delivered:
+
+<36yrd3j7ux@5n.608.com>:
+<<< maildrop: maildir over quota.
+
+---------------------------------------------------------------------------
+
+If your message was also sent to additional recipients, their delivery
+status is not included in this report.  You may or may not receive
+other delivery status notifications for additional recipients.
+
+The original message follows as a separate attachment.
+</TEXT>
+</DOC>
+

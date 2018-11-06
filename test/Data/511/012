@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO>..Data\511\012</DOCNO>
+<FROM>i8xlvp2t2v@gmail.com</FROM>
+<TO>xx4r9@a9hj.edu.cn</TO>
+<SUBJECT>关于MCX314的scale</SUBJECT>
+<TEXT>
+设其中的一个轴Scale为S。
+S的单位是 Pluse/Unit
+PositionDrive（0，X） 输出的脉冲为  X*S  Pluse
+SetV（0，V） 输出的最高速度为  V*S  脉冲/秒
+SetA（0，A） 输出的加速度为  A*S  脉冲/秒^2
+SetK(0，K） 加加速度为  K*S  脉冲/秒^3
+
+
+如果根据每脉冲精度计算
+如 脉冲精度为 E=0.01mm/pluse
+则设Scale值为 1/E=100 Pluse/mm
+即 SetScale（0，100）
+此后
+PositionDrive、SetV、SetA、SetK 都以mm为单位
+</TEXT>
+</DOC>
+

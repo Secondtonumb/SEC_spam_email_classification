@@ -1,0 +1,215 @@
+<DOC>
+<DOCNO>..Data\274\096</DOCNO>
+<FROM></FROM>
+<TO>gvi1g6@a9hj.edu.cn</TO>
+<SUBJECT>Intel Xscale PXA270解决方案</SUBJECT>
+<TEXT>
+北京汉泰科技有限公司
+ 
+
+HT-270 开发板 是用于设计进一步产品的原型板；为用户灵活使用高端 ARM INTEL XSCALE PXA270 提供一个设计样板；同时可以作为开发以 PXA270 为核心的项目提供前期开发平台和实际工作平台，开发板可以和 LCD 接口板、 GPS 接口板、 GPRS 接口板、 AD/DA 采集板、 CAN 接口板、 CMOS 摄像机接口板等辅助扩展功能板配套使用组成不同的应用系统 。
+
+
+
+
+产品硬件特性： 
+1 CPU ： PXA270 ，标称工作频率 520MHz ，最高工作频率 624MHz 
+2 SDRAM ： 2 片 HY5W5A6D (64Mbyte SDRAM 可扩充到 128M) 
+3 FLASH ： 2 片 E28F128J3 Intel Strata Flash(32Mbyte ，可扩充到 64M) 
+4 LCD 和触摸屏接口：可以接各类 TFT 、 ADTFT 、 HRTFT STN 
+5 CRT 接口：可以直接接入 CRT 显示器 
+6 三个串行接口： 1 个 9 线制、一个 5 线制、一个三线制 
+7 USB 接口：一个 Host ，一个 Device 接口 
+8 以太网口：外扩 LAN91C111NE 100M 以太网控制器实现 10M/100M 自适应以太网接口 
+9 CF 卡插座：可配置 CF 无线局域网卡、存储卡、以太网卡、 GSM/GPRS 卡等 
+10 IDE （ ATA ）接口：可以接入硬盘 
+11 语音接口：采用 AC97 芯片，支持语音的输入、输出和 MIC 接口 
+12 系统扩展接口包含：数据、地址、控制、中断、 IO 等多种信号和电源 
+13 Camera 接口：可以外接 CMOS 摄像机 
+14 四路 ADC 通道接口 ， I2C 接口， JTAG （ CPU 、 CPLD ）接口
+
+
+Linux软件包
+BootLoader blob 支持Tftp、Flash、Set Partation、kernel param等
+kernel Linux 2.4.21 
+Display Driver显示驱动程序
+AC97 Audio Driver AC97 音频驱动程序
+自动LAN91C111 Drive目标识别与照准（ATR）100M以太网（SMSC LAN91C111）驱动程序
+USB Host Driver USB主设备驱动程序
+Serial Driver 串口的驱动程序
+PCMCIA/CF DriverPCMCIA 接口驱动程序(支持CF存储卡、CF无线网卡等)
+RTC Driver实时时钟驱动程序
+图形界面 :QT/EMBEDED 支持浏览器,Medialplay播放器,文件管理器等等 
+系统工具 Ash,sh,tinyLogin ,busyboxs
+Wince.net 5.0软件包 
+BootLoader Eboot WinCE.NET5.0下的 Ethernet BootLoader，用于 Ehternet 在线调试和Ehternet下载烧录
+Display Driver 显示驱动程序 
+AC97 Audio Driver AC97 音频驱动程序 
+LAN91C111 Ethernet Drive100M以太网（SMSC LAN91C111）驱动程序 (DLL 形式
+AC97 Touch Driver AC97 触摸屏驱动程序 
+USB Device Driver USB 从设备驱动程序 
+USB Host Driver USB主设备驱动程序 
+Serial Driver 串口的驱动程序 
+RTC Driver 实时时钟驱动程序
+PCMCIA/CF Driver PCMCIA 接口驱动程序 (支持CF存储卡、CF无线网卡等)
+SD/MMC Driver SD/MMC 驱动程序
+随包配件
+1) HT-2701 PXA270开发板 一块 
+2)DB9串口线一条 
+3) 交叉网线一条
+4) 5V稳压电源一个 
+5) 开发资料光盘一套
+开发系统文档清单 
+1)HT-2701 PXA270开发板使用手册（PDF格式） 
+2) HT-2701 PXA270开发板硬件原理图（PDF格式）
+3) 开发板元器件手册（PDF格式）
+4) 如何在HT-2701 PXA270开发板上运行ARM Linux（PDF格式）
+5) 如何在HT-2701 PXA270开发板上运行WinCE(PDF格式)
+
+
+ 
+
+北京汉泰科技有限公司 
+
+电　话：（010） 62139371、13391787498
+
+传　真：（010） 62139372
+
+Email：han_tai@126.com
+
+网址：www.han-tai.com
+
+地　址： 北京市海淀区中关村南大街24号开源商务中心202室 邮 编: 100081北京汉泰科技有限公司
+
+
+
+
+HT-270 开发板 是用于设计进一步产品的原型板开发板可以和 LCD 接口板、 GPS 接口板、 GPRS 接口板、 AD/DA 采集板、 CAN 接口板、 CMOS 摄像机接口板等辅助扩展功能板配套使用组成不同的应用系统 。
+
+
+
+
+
+
+
+产品硬件特性接口
+
+
+
+
+
+Linux软件包
+
+BootLoader blob 
+支持Tftp、Flash、Set Partation、kernel param等
+
+kernel 
+Linux 2.4.21 
+
+Display Driver
+显示驱动程序
+
+AC97 Audio Driver 
+AC97 音频驱动程序
+
+自动LAN91C111 Drive目标识别与照准
+100M以太网驱动程序
+
+USB Host Driver 
+USB主设备驱动程序
+
+Serial Driver 
+串口的驱动程序
+
+PCMCIA/CF Driver
+PCMCIA 接口驱动程序(支持CF存储卡、CF无线网卡等)
+
+RTC Driver
+实时时钟驱动程序
+
+图形界面 :QT/EMBEDED 
+支持浏览器,Medialplay播放器,文件管理器等等 
+
+系统工具 
+Ash,sh,tinyLogin ,busyboxs
+
+Wince.net 5.0软件包 
+
+BootLoader Eboot 
+WinCE.NET5.0下的 Ethernet BootLoader用于 Ehternet 在线调试和Ehternet下载烧录
+
+Display Driver 
+显示驱动程序 
+
+AC97 Audio Driver 
+AC97 音频驱动程序 
+
+LAN91C111 Ethernet Drive
+100M以太网驱动程序 (DLL 形式
+
+AC97 Touch Driver 
+AC97 触摸屏驱动程序 
+
+USB Device Driver 
+USB 从设备驱动程序 
+
+USB Host Driver 
+USB主设备驱动程序 
+
+Serial Driver 
+串口的驱动程序 
+
+RTC Driver 
+实时时钟驱动程序
+
+PCMCIA/CF Driver 
+PCMCIA 接口驱动程序 (支持CF存储卡、CF无线网卡等)
+
+SD/MMC Driver 
+SD/MMC 驱动程序
+
+随包配件
+
+
+
+
+
+1) HT-2701 PXA270开发板 一块 
+
+
+2)DB9串口线一条 
+
+
+3) 交叉网线一条
+
+
+4) 5V稳压电源一个 
+
+
+5) 开发资料光盘一套
+
+
+开发系统文档清单 
+
+1)HT-2701 PXA270开发板使用手册 
+
+
+2) HT-2701 PXA270开发板硬件原理图
+
+
+3) 开发板元器件手册
+
+
+4) 如何在HT-2701 PXA270开发板上运行ARM Linux
+
+
+5) 如何在HT-2701 PXA270开发板上运行WinCE(PDF格式)
+
+
+
+
+
+北京汉泰科技有限公司 电　话 北京市海淀区中关村南大街24号开源商务中心202室 邮 编: 100081
+</TEXT>
+</DOC>
+

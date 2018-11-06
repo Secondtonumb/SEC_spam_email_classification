@@ -1,0 +1,77 @@
+<DOC>
+<DOCNO>..Data\128\091</DOCNO>
+<FROM>6sfg.t0q5g0lq9@8hc0qf6mx53.49</FROM>
+<TO>6sfg.t0q5g0lq9@8hc0qf6mx53.49</TO>
+<SUBJECT></SUBJECT>
+<TEXT>
+Dear expert,
+
+Please find below a Technology Partnership project.
+If you are interested in the project, and indeed if you have knowledge as requested, - we look forward to hear from you, with your indication of interest.
+
+If you need further information on the project, do not hesitate to contact us.
+
+Deadline for your response is: as soon as possible, preferably within 9. May 2006
+
+If it is not possible for you to co-operate yourself, I would be very pleased to be informed about potential co-operators.
+
+Best regards
+Hans Viggo Martinsen
+Senior Consultant
+Danish Technological Institute
+Technology Partnership
+Kongsvang All¨¦ 29
+DK-8000 Aarhus C
+Direct tel: +45 72 25 25 53 Mobile: +45 25 70 57 43
+Fax: +45 72 25 25 50
+E-mail : r1y8.8t0vso6sx@8hc0qf6mx53.49
+
+
+Ultrasonic welded "housing" for electronic unit - failure analysis and product/process adaptation - Project no. 965991
+
+Project description
+A manufacturer of electronic equipment wants to enter into co-operation with a knowledge center/-person with expert knowledge of plastic joining technology (primarily ultrasonic welding) and plastic technology with focus on materials, design, and production technology. The co-operator shall be able to analyse failures related to the specific production of a given "housing" made of plastic and with welding-on of lid and electronic unit using ultrasonic welding. Furthermore, the co-operator shall be able to suggest solutions with regard to design or method which will enable elimination or a considerable reduction of the currently far too high failure rate.
+
+The electronic unit in question consists of a plastic box where at one side there is a hollowing in which an "interface unit" is placed, which is welded-on the box using ultrasonic welding. Finally a plastic lid is ultrasonic welded onto the open end face of the box. The tightness of the unit shall comply with the demands of tightness class IP 67.
+
+Plastic box, lid and "interface unit" are made of polycarbonate.
+
+The "interface unit" consists of
+-	an injection moulded unit consisting of a plate with holes for potentiometer axels to pass through; the holes are separated by a partition wall. Furthermore, the plate is moulded with four braces in the corners.
+-	a printed board fastened to the polycarbonate plate at the end of the four braces. The fastening is done by ultrasonic riveting (40 kHz) of the brace ends.
+
+Except by a few millimetres, "the interface unit" is of the same size as the plastic box in which it is placed. 
+
+The moulding injection of the unit is done through an inlet at one end of the plate, so that the plastic flow occurs on both sides of the holes, by which a confluent dividing line is formed at the other side of the holes in the middle of the previously mentioned partition walls.
+
+The "interface unit" is ultrasonic welded-on at 25 kHz. The joint design is "step joint" with a 60 degrees energy director, height 0.25 mm. 
+
+Failure:
+When supplying the necessary energy for the welding, the following failures occur with a considerable failure frequency:
+-	fracture in the braces by the rivet head (considerable)
+-	fracture in the confluent dividing line in the partition walls (considerable)
+-	fracture in braces on the underside of the printed board
+-	fracture in braces by the polycarbonate plate
+
+Except by a few millimetres, the plastic lid is the same size as the end face of the plastic box, in which it is placed.
+
+The plastic lid is welded on by ultrasonic welding at 25 kHz. The joint design is "step joint" with a 60 degrees energy director, height 0.25 mm. 
+
+Failures:
+When supplying during the welding the energy necessary to create the acceptable welding with regard to quality at the "interface side", hotspots occur at the other sides resulting in overflow of the material ("flash").
+
+Generally:
+Quality demands on the joints:
+-	Should appear visually clear without "flash"
+-	Shall be IP 67
+-	Shall have a mechanically acceptable strength
+
+In order to create an acceptable solution with regard to quality, it is possible to work with a wide range of product parameters such as:
+-	design modifications
+-	another type of plastic could be used for the "housing"
+-	another type of plastic could be used for the "interface unit", the plastic type shall however, be transparent
+-	injection moulding methods
+-	joining technology (the enterprise prefers to maintain ultrasonic welding)
+</TEXT>
+</DOC>
+
