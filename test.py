@@ -13,19 +13,24 @@ def f(file):
     paths = []
     for line in file.readlines():
         a = line.split(" ")[0]
-        b = line.split(" ")[1]
+        b = line.split(" ")[1].strip('\n')
         types.append(a)
         paths.append(b)
     return types, paths
 
+def get_text(email_file):
+    doc = str(email_file.read())
+    s_doc = BeautifulSoup(doc, 'lxml')
+    return (s_doc.find("text").string)
+
 if __name__ == "__main__":
     # f = open("train/Data/001/002", 'r', encoding='gbk')
-    # doc = str(f.read())
-    # s_doc = BeautifulSoup(doc, "lxml")
-    # # print(s_doc.prettify())
-    # print((s_doc.find("text").string))  # get text
-    # # print(s_doc.find("subject").string) # get subject
+
     index_file = open(args.config, 'r')
     train_label, train_path = f(index_file)
-
     print(len(train_label), len(train_path))
+    print(train_label)
+
+    for i in range(10):
+        with open(train_path[i], 'r', encoding='gbk') as email_file:
+            print(get_text(email_file))
