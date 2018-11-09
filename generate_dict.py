@@ -8,7 +8,7 @@ from collections import Counter
 import tqdm
 
 parser = argparse.ArgumentParser(description='Process some integers.')
-parser.add_argument('--config', default="final_train_index.txt")
+parser.add_argument('--config', default="s_index.txt")
 parser.add_argument('--spam_config', default="index/spam.txt")
 parser.add_argument('--ham_config', default="index/ham.txt")
 
@@ -31,7 +31,7 @@ def info(file):
 
 def delete_punc(origin):
     trimed = re.sub(
-        "[\s+\.\!\/_,$%^*():+\"\'-=?]+|[+——！，。？、~@#￥%……&*（）“”【】：]+", " ", origin)
+        "[<>\.\!\/_,$%^*():+\"\'-=?{}]+|[+——！，。？、~@#￥%……&*（）“”【】：]+", "", origin)
     return trimed
 
 
@@ -43,26 +43,39 @@ def get_text(email_file):
     text_body = str(text_body).strip('<text>').strip('</text>')
     return (delete_punc(text_body))
 
-
+            
 if __name__ == "__main__":
 
-    spam_file = open(args.spam_config, 'r')
-    ham_file = open(args.ham_config, 'r')
-    spam_types, spam_paths = info(spam_file)
-    ham_types, ham_paths = info(ham_file)
-    # print(len(spam_types), len(spam_paths))
-    print(len(ham_types), len(ham_paths))
+    f = open(args.config, 'r')
+    f_v = open('valid_path.txt', 'r')
+    
+    types, paths = info(f)
+    mat = np.array([types, paths], dtype=[('type', 'S20'),('path','S20')])
+    print(mat)
+
+    all_num = len(types)
+    ham_num = len([_ for _ in types if _ == 'ham'])
+    spam_num = all_num - ham_num
+    print(ham_num, spam_num)
+
+    a = np.sort(mat, order='type')
+    
+    ham_types = types[0: ham_num-1]
+    ham_paths = paths[0: ham_num-1]
+    spam_types = types[ham_num: all_num]
+    spam_paths = paths[ham_num: all_num]
 
     spams = []
     hams = []
 
     for i in tqdm.trange(len(spam_paths)):
         with open(spam_paths[i], 'r', encoding='utf-8', errors='ignore') as email:
-            # print(spam_paths[i])
             t = jieba.lcut(get_text(email))
             # t = set(text_segmentation_result)
             t = [x for x in t if x != ' ']
+            t = [x for x in t if x != '\n']
             spams += t
+            
     spams_counter = Counter(spams)
 
     with open(args.spam_dict, 'wb') as sf:
@@ -73,10 +86,10 @@ if __name__ == "__main__":
             # print(ham_paths[i])
             t = jieba.lcut(get_text(email))
             t = [x for x in t if x != ' ']
+            t = [x for x in t if x != '\n']
             hams += t
 
     hams_counter = Counter(hams)
 
     with open(args.ham_dict, 'wb') as hf:
         pickle.dump(hams_counter, hf)
-
